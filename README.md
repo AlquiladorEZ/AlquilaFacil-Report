@@ -222,6 +222,430 @@ Se ha definido una cierta cantidad de preguntas para cada uno de nuestros segmen
 
 ### 2.2.2. Registro de entrevistas
 
+<div align="justify">
+
+Para el registro de entrevistas se realizará 3 entrevista por segmento, dando un total de 6 entrevistas. Además, el formato de las entrevistas es mp4, cada entrevista es independiente debido a las diferentes preguntas y respuestas dadas por los entrevistados de cada segmento.
+
+**Segmento 1: Arrendadores de espacios para eventos**
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+**Segmento 2: Inversores trabajando en el Buy-side de empresas que busquen agilizar sus procesos de** ***Due Diligence***
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 00:00 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+</div>
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
