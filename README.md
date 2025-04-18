@@ -2,7 +2,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <br><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png"></img><br>
     <br>
-    <strong>Ingeniería de Software - 2025-10</strong><br>
+    <strong>Ingeniería de Software - 2025-01</strong><br>
     <br>
     <strong>1ASI0732 - Diseño de Experimentos de Ingeniería de Software - 4453</strong><br>  
     <br>
@@ -47,33 +47,6 @@
 <p align="center">
     <strong>ABRIL 2025 </strong>
 </p>
-# alquilafacil-document-report
-
-**Universidad Peruana de Ciencias Aplicadas**
-**Ingeniería de Software**
-**Ciclo 2025-10**
-
-# Course Project
-
-### Profesor: Julio Manuel Noriega Melendez
-### Curso: Diseño de Experimentos de Ingeniería de Software
-
-# FINAL REPORT
-
-## Startup: AlquilaEZ
-## Propuesta: AlquilaFacil
-
-**Team Members**
-
-- Ames Oviedo Mariano Jose
-- Criollo de la Cruz Diego Anderson 
-- Lecca Choccare Christopher Bryan
-- Sosa Colca Angello Rodolfo
-- Valle Zuta Abel Andrés
-
-**Abril 2025**
-
----
 
 ## Registro de Versiones 
 
