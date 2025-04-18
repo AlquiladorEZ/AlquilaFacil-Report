@@ -1,3 +1,52 @@
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <br><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png"></img><br>
+    <br>
+    <strong>Ingeniería de Software - 2025-10</strong><br>
+    <br>
+    <strong>1ASI0732 - Diseño de Experimentos de Ingeniería de Software - 4453</strong><br>  
+    <br>
+    <strong>Profesor: Julio Manuel Noriega Melendez</strong><br>
+    <br> <strong>INFORME DE TB1</strong> 
+</p>
+<p align="center">
+    <strong>Startup: AlquilaEZ</strong><br>
+    <strong>Producto:  AlquilaFacil</strong>
+</p>
+
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Miembro</th>
+            <th style="text-align:center;">Código</th>
+        </tr>
+        <tr>
+            <td>Ames Oviedo, Mariano Jose</td>
+            <td>U202211371</td>
+        </tr>
+        <tr>
+            <td>Criollo de la Cruz, Diego Anderson </td>
+            <td>U202219639</td>
+        </tr>
+        <tr>
+            <td>Lecca Choccare, Christopher Bryan</td>
+            <td>U202211399</td>
+        </tr>
+        <tr>
+            <td>Sosa Colca, Angello Rodolfo</td>
+            <td>U202212077</td>
+        </tr>
+        <tr>
+            <td>Valle Zuta, Abel Andrés</td>
+            <td>U202210297</td>
+        </tr>
+    </table>
+</div>
+<br>
+<p align="center">
+    <strong>ABRIL 2025 </strong>
+</p>
 # alquilafacil-document-report
 
 **Universidad Peruana de Ciencias Aplicadas**
