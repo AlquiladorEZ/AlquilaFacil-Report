@@ -39,6 +39,7 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
   ![Imagen extraída de Booking([URL]())](Resources/Competitors/Booking.png)
 
 <br>
+
 ### 2.1.1. Análisis competitivo
 
 <table>
@@ -141,7 +142,7 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
     </tbody>
 </table>
 
-### 2.1.1. Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
 
