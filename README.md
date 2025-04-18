@@ -2,6 +2,43 @@
 
 ## 2.1. Competidores
 
+<div align="justify">
+
+En el contexto de un mercado peruano en constante cambio y evolución, donde la gestión eficiente en los procesos de *Due Diligence*  se convierten en una necesidad primordial en el rubro de las inversiones. **DiligenceTech** se enfrenta a una urgente tarea: comprender y abordar a sus competidores para lograr una posición sólida y garantizar la satisfacción de sus usuarios.
+
+</div>
+
+**Competidores:**
+
+<div align="justify">
+
+* ***Datasite Diligence:***
+  El *virtual data room* más utilizado en el mercado. Proporcionada por la empresa Datasite, esta solución mediante aplicación web brinda un espacio de almacenamiento y edición de archivos, los cuales se esperan que sean documentos financieros para posteriormente ser enviados por correo electrónico a quien sea desee el usuario. Entre las mecánicas más resaltantes en este competidor está la posibilidad de censura mediante IA elementos de los documentos y la modalidad Q&A. Su precio es a base de páginas que contengan los archivos, costando 7 mil dólares por cada 10 mil páginas.
+
+</div>
+
+  ![Imagen extraída de Datasite([URL](https://www.datasite.com/es/es/products/diligence))](Resources/cap2/datasite.png)
+
+<div align="justify">
+
+* ***iDeals:***
+  *Virtual data room online* para servicios financieros, Biotech, IT y otras especializaciones del sistema que utilizan organizaciones de muchos usuarios dentro de la aplicación, la simplificación del ingreso y uso de archivos, y la seguridad del sistema en cuidarlos. Cuenta actualmente con más de 1 millón de usuarios y destaca en el mercado por su atención al cliente rápida y constante.
+
+</div>
+
+  ![Imagen extraída de iDeals([URL](https://es.idealsvdr.com/))](Resources/cap2/ideals.png)
+
+<div align="justify">
+
+* ***Firmex:***
+  *Virtual data room* para contadores financieros que permite insertar y guardar archivos al sistema con funcionalidades como Q&A y censura. Reconocido en el mercado por la seguridad que mantiene en los archivos.
+
+</div>
+
+  ![Imagen extraída de Firmex([URL](https://www.firmex.com/))](Resources/cap2/firmex.png)
+
+
+
 ### 2.1.1. Análisis competitivo
 
 <table>
@@ -103,3 +140,28 @@
         </tr>
     </tbody>
 </table>
+
+### 2.1.1. Estrategias y tácticas frente a competidores
+
+## 2.2. Entrevistas
+
+### 2.2.1. Estrategias y tácticas frente a competidores
+
+### 2.2.2. Estrategias y tácticas frente a competidores
+
+### 2.2.3. Estrategias y tácticas frente a competidores
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+### 2.3.5. As-is Scenario Mapping
+
+## 2.3. Ubiquitous Language
+
