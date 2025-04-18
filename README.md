@@ -179,11 +179,50 @@ El marketing de AlquilaFácil estará enfocado en construir una comunidad activa
 
 ## 2.2. Entrevistas
 
-### 2.2.1. Estrategias y tácticas frente a competidores
+### 2.2.1. Diseño de entrevistas
 
-### 2.2.2. Estrategias y tácticas frente a competidores
+<div align="justify">
 
-### 2.2.3. Estrategias y tácticas frente a competidores
+Se ha definido una cierta cantidad de preguntas para cada uno de nuestros segmentos objetivo, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas generales:**
+
+1. ¿Cuál es tu nombre?  
+2. ¿Qué edad tienes?  
+3. ¿Dónde vives actualmente?  
+4. ¿A qué te dedicas?  
+
+**Preguntas segmento de arrendadores de espacios para eventos:**
+
+1. ¿Qué desafíos enfrenta actualmente al promocionar y gestionar reservas para su espacio?  
+2. ¿Qué tipo de propiedades suele alquilar o publicitar? (apartamentos, casas, locales comerciales, terrenos, etc.)  
+3. De tener experiencia en alquilar su propiedad, ¿cómo ha realizado los pagos de los centros en alquiler?  
+4. ¿Cómo promociona su espacio para atraer a potenciales clientes? ¿Qué estrategias de marketing ha encontrado más efectivas?  
+5. ¿Qué te parece más importante al alquilar una propiedad: la facilidad de uso de la plataforma, la seguridad de las transacciones, la diversidad de opciones disponibles u otros aspectos?  
+6. ¿Cuáles son las principales características que busca en una plataforma de alquiler de espacios para eventos?  
+7. ¿Qué incentivos o beneficios podrían motivar a utilizar una plataforma de alquiler de espacios de manera más frecuente?  
+8. ¿Ha tenido alguna experiencia previa con plataformas similares de alquiler de espacios para eventos? ¿Qué aspectos le gustaron?  
+9. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a publicitar o alquilar tu propiedad de manera más eficiente?  
+10. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?  
+
+**Preguntas segmento de arrendatarios sociales / usuarios frecuentes de espacios para eventos:**
+
+1. ¿Qué tipo de propiedades alquila regularmente para sus reuniones?  
+2. ¿Alguna vez has necesitado un lugar de encuentro o festivo de emergencia?  
+3. ¿Qué tipo de información te gustaría que viniera en las características del local/propiedad? (ej. licencias de eventos, capacidad máxima de gente, etc.)  
+4. Organizando eventos, ¿alguna vez tuvo un problema grave con las políticas de cancelación?  
+5. ¿Eres promotor de algún tipo de evento recurrente?  
+6. ¿Cada cuánto recurres a alquilar lugares o a usarlos?  
+7. ¿Ves necesario una plataforma como AlquilaFácil?  
+8. ¿De qué maneras ves útil AlquilaFácil y cada cuánto lo utilizarías?  
+9. ¿Hay alguna otra consideración o solicitud especial que crea que deba adicionarse para hacer un mejor servicio?  
+10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
+
+</div>
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
 
