@@ -41,7 +41,7 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
 <br>
 
 ### 2.1.1. Análisis competitivo
-
+<br>
 <table>
     <thead>
         <tr>
