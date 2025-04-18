@@ -19,7 +19,7 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
 
   ![Imagen extraída de Airbnb([URL]())](Resources/Competitors/Airbnb.png)
 
-<br><br>
+<br>
 <div align="justify">
 
 * ***Vrbo:***
