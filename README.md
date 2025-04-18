@@ -50,11 +50,18 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
             <th colspan="6">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</th>
         </tr>
         <tr>
-            <th colspan="2"></th>
+            <th colspan="2">Nombre</th>
             <th>AlquilaFacil</th>
             <th>Airbnb</th>
             <th>Vrbo</th>
             <th>Booking.com</th>
+        </tr>
+        <tr>
+            <th colspan="2">Logo</th>
+            <th>AlquilaFacil</th>
+            <th><img src="Resources/Competitors%20Table/Airbnb.png" alt="Logo Vrbo"></th>
+            <th><img src="Resources/Competitors%20Table/Vrbo.png" alt="Logo Vrbo"></th>
+            <th><img src="Resources/Competitors%20Table/Booking.png" alt="Logo Vrbo"></th>
         </tr>
     </thead>
     <tbody>
