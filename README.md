@@ -26,7 +26,7 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
 
 </div>
 
-  ![Imagen extraída de Vrbo([URL]())](Resources/Competitors/Airbnb.png)
+  ![Imagen extraída de Vrbo([URL]())](Resources/Competitors/Vrbo.png)
 
 <div align="justify">
 
@@ -35,7 +35,7 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
 
 </div>
 
-  ![Imagen extraída de Booking([URL]())](Resources/Competitors/Vrbo.png)
+  ![Imagen extraída de Booking([URL]())](Resources/Competitors/Booking.png)
 
 
 
