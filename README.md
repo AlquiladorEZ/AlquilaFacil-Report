@@ -12,30 +12,30 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
 
 <div align="justify">
 
-* ***Datasite Diligence:***
+* ***Airbnb:***
   El *virtual data room* más utilizado en el mercado. Proporcionada por la empresa Datasite, esta solución mediante aplicación web brinda un espacio de almacenamiento y edición de archivos, los cuales se esperan que sean documentos financieros para posteriormente ser enviados por correo electrónico a quien sea desee el usuario. Entre las mecánicas más resaltantes en este competidor está la posibilidad de censura mediante IA elementos de los documentos y la modalidad Q&A. Su precio es a base de páginas que contengan los archivos, costando 7 mil dólares por cada 10 mil páginas.
 
 </div>
 
-  ![Imagen extraída de Datasite([URL](https://www.datasite.com/es/es/products/diligence))](Resources/cap2/datasite.png)
+  ![Imagen extraída de Airbnb([URL]())](Resources/Competitors/Airbnb.png)
 
 <div align="justify">
 
-* ***iDeals:***
+* ***Vrbo:***
   *Virtual data room online* para servicios financieros, Biotech, IT y otras especializaciones del sistema que utilizan organizaciones de muchos usuarios dentro de la aplicación, la simplificación del ingreso y uso de archivos, y la seguridad del sistema en cuidarlos. Cuenta actualmente con más de 1 millón de usuarios y destaca en el mercado por su atención al cliente rápida y constante.
 
 </div>
 
-  ![Imagen extraída de iDeals([URL](https://es.idealsvdr.com/))](Resources/cap2/ideals.png)
+  ![Imagen extraída de Vrbo([URL]())](Resources/Competitors/Vrbo.png)
 
 <div align="justify">
 
-* ***Firmex:***
+* ***Booking:***
   *Virtual data room* para contadores financieros que permite insertar y guardar archivos al sistema con funcionalidades como Q&A y censura. Reconocido en el mercado por la seguridad que mantiene en los archivos.
 
 </div>
 
-  ![Imagen extraída de Firmex([URL](https://www.firmex.com/))](Resources/cap2/firmex.png)
+  ![Imagen extraída de Booking([URL]())](Resources/Competitors/Booking.png)
 
 
 
