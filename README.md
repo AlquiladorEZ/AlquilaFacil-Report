@@ -442,7 +442,7 @@ Sabremos que estamos en lo correcto cuando observemos un aumento del 35% en la c
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Lean Ux Canvas](Resources/Lean%20Ux%20Canvas/Lean-Ux-Canvas.jpg)
+![Lean Ux Canvas](Resources/Lean%20Ux%20Canvas/Lean-Ux-Canvas.png)
 
 ## 1.3. Segmentos objetivo
 
