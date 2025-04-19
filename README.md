@@ -697,96 +697,49 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 <br>
 
-**User Persona Principal**
+<p align="justify">
+<strong>User Persona Principal</strong><br><br>
 
-**Nombre:** Sergio Aguirre  
-**Rol:** Arrendatario
+<strong>Nombre:</strong> Sergio Aguirre  
+<br>
+<strong>Rol:</strong> Arrendatario  
+</p>
 
-<table align="center" style="width: 600px;">
-  <thead>
-    <tr>
-      <th>Task</th>
-      <th>Frequency</th>
-      <th>Importance</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Buscar y reservar espacios para eventos</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Comunicarse con los arrendadores de los espacios</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Buscar variedad en los tipos de espacios disponibles</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Reservar espacios para diferentes tipos de eventos</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Estar dispuesto a pagar por una mejor experiencia</td>
-      <td>Medium</td>
-      <td>Medium</td>
-    </tr>
-    <tr>
-      <td>Utilizar una plataforma fácil de usar e intuitiva</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+
+| Task                                                   | Frequency | Importance |
+|--------------------------------------------------------|-----------|------------|
+| Buscar y reservar espacios para eventos                | High      | High       |
+| Comunicarse con los arrendadores de los espacios       | High      | High       |
+| Buscar variedad en los tipos de espacios disponibles   | High      | High       |
+| Reservar espacios para diferentes tipos de eventos     | High      | High       |
+| Estar dispuesto a pagar por una mejor experiencia      | Medium    | Medium     |
+| Utilizar una plataforma fácil de usar e intuitiva      | High      | High       |
+
+</p>
 
 <br>
 
-**User Persona Secundaria**
+<p align="justify">
+<strong>User Persona Secundaria</strong><br><br>
 
-**Nombre:** Claudia Cañamero  
-**Rol:** Arrendadora
+<strong>Nombre:</strong> Claudia Cañamero  
+<br>
+<strong>Rol:</strong> Arrendadora  
+</p>
 
-<table align="center" style="width: 600px;">
-  <thead>
-    <tr>
-      <th>Task</th>
-      <th>Frequency</th>
-      <th>Importance</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Gestionar reservas y coordinar eventos</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Promocionar el local en redes sociales y otros canales de marketing</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Mantener el local en óptimas condiciones de limpieza y mantenimiento</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Establecer comunicación efectiva con clientes y proveedores</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Explorar nuevas oportunidades de negocio y crecimiento</td>
-      <td>Medium</td>
-      <td>Medium</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+
+| Task                                                                      | Frequency | Importance |
+|---------------------------------------------------------------------------|-----------|------------|
+| Gestionar reservas y coordinar eventos                                    | High      | High       |
+| Promocionar el local en redes sociales y otros canales de marketing       | High      | High       |
+| Mantener el local en óptimas condiciones de limpieza y mantenimiento      | High      | High       |
+| Establecer comunicación efectiva con clientes y proveedores               | High      | High       |
+| Explorar nuevas oportunidades de negocio y crecimiento                    | Medium    | Medium     |
+
+</p>
+
 
 
 <br>
