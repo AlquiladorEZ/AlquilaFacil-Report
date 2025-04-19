@@ -744,7 +744,7 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
   </tbody>
 </table>
 
----
+<br>
 
 **User Persona Secundaria**
 
@@ -792,7 +792,24 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 ### 2.3.3. User Journey Mapping
 
+**Persona Principal: Arrendatarios de eventos sociales / Usuarios frecuentes de espacios para eventos**
+
+![Artefacto creado en UXPressia](Resources/Needfinding/JourneyMapping-1.jpg)
+
+**Persona Secundaria: Arrendadores de espacios para eventos**
+
+![Artefacto creado en UXPressia](Resources/Needfinding/JourneyMapping-2.jpg)
+
 ### 2.3.4. Empathy Mapping
+
+**Persona Principal: Arrendatarios de eventos sociales / Usuarios frecuentes de espacios para eventos**
+
+![Artefacto creado en UXPressia](Resources/Needfinding/EmpathyMapping-1.jpg)
+
+**Persona Secundaria: Arrendadores de espacios para eventos**
+
+![Artefacto creado en UXPressia](Resources/Needfinding/EmpathyMapping-2.jpg)
+
 
 ### 2.3.5. As-is Scenario Mapping
 
