@@ -702,7 +702,7 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 **Nombre:** Sergio Aguirre  
 **Rol:** Arrendatario
 
-<table align="center">
+<table align="center" style="width: 600px;">
   <thead>
     <tr>
       <th>Task</th>
@@ -751,7 +751,7 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 **Nombre:** Claudia Cañamero  
 **Rol:** Arrendadora
 
-<table align="center">
+<table align="center" style="width: 600px;">
   <thead>
     <tr>
       <th>Task</th>
@@ -788,6 +788,7 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
   </tbody>
 </table>
 
+
 <br>
 
 ### 2.3.3. User Journey Mapping
@@ -812,6 +813,14 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 
 ### 2.3.5. As-is Scenario Mapping
+
+**Persona Principal: Arrendatarios**
+
+![Artefacto creado en UXPressia](Resources/Needfinding/AsIs-1.jpg)
+
+**Persona Secundaria: Arrendadores**
+
+![Artefacto creado en UXPressia](Resources/Needfinding/AsIs-2.jpg)
 
 ## 2.4. Ubiquitous Language
 
