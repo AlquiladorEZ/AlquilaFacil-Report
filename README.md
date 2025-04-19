@@ -650,11 +650,132 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
 
 ### 2.2.3. Análisis de entrevistas
 
+<div align="justify">
+
+Las entrevistas realizadas proporcionan una visión detallada y matizada sobre las expectativas y requisitos de los distintos actores involucrados en el ámbito de las plataformas de alquiler de espacios para eventos. En general, tanto los arrendadores como los arrendatarios y los usuarios finales destacan la necesidad imperiosa de contar con sistemas que aseguren la integridad de las transacciones financieras, la claridad en los acuerdos contractuales y una comunicación fluida y eficaz. 
+
+**Arrendadores de espacios para eventos**
+
+Para los arrendadores, la seguridad en las transacciones financieras y la integridad de los contratos son aspectos fundamentales. También valoran una promoción efectiva de sus propiedades, buscando una plataforma que les permita llegar a un público amplio y relevante. Además, aprecian una comunicación clara y eficiente con los arrendatarios para evitar malentendidos y conflictos. Algunos arrendadores están dispuestos a invertir en servicios premium que les brinden ventajas adicionales, como una mayor visibilidad de sus espacios en la plataforma. En resumen, los arrendadores buscan una plataforma que les ofrezca seguridad, visibilidad, comunicación eficiente y opciones para maximizar el rendimiento de sus espacios. 
+
+**Arrendatarios para eventos**
+
+Por otro lado, los arrendatarios tienen necesidades específicas al utilizar plataformas de alquiler de locales. Para ellos, la facilidad de encontrar y reservar espacios adecuados es crucial, especialmente en situaciones de emergencia o cambios de último momento. Valoran la transparencia en los contratos y una comunicación eficiente con los arrendadores para evitar malentendidos y asegurar una experiencia sin contratiempos. Además, buscan plataformas que ofrezcan una amplia variedad de opciones de espacios que se ajusten a sus necesidades específicas y horarios. La posibilidad de utilizar herramientas de búsqueda avanzada y filtrado también es importante para encontrar el lugar perfecto. En resumen, los arrendatarios de eventos buscan plataformas que les brinden facilidad de uso, transparencia en los procesos, comunicación eficiente y una amplia gama de opciones de espacios para eventos. 
+
+**Determinación de Personas**
+
+Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
+
+**Persona Principal: Arrendatarios**  
+**Razón:** Los arrendatarios son los usuarios finales que interactúan directamente con la plataforma para encontrar y reservar espacios. Sus necesidades de facilidad de uso, transparencia, comunicación eficiente y una amplia gama de opciones son cruciales para el éxito del producto. Además, la facilidad de encontrar y reservar espacios adecuados es fundamental para ellos, lo que hace que sus requerimientos sean el enfoque principal del desarrollo.  
+
+**Persona Secundaria: Arrendadores**  
+**Razón:** Aunque los arrendadores también son esenciales para el funcionamiento de la plataforma, su papel es secundario en comparación con los arrendatarios. Los arrendadores buscan seguridad, visibilidad y herramientas para la promoción y gestión de sus espacios. Estos aspectos son importantes, pero el enfoque primario debe estar en las necesidades y experiencias de los arrendatarios, que son quienes utilizan la plataforma de manera más activa y recurrente.
+
+</div>
+
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
 ### 2.3.2. User Task Matrix
+
+<div align="justify">
+
+### User Persona Principal
+
+**Nombre:** Sergio Aguirre  
+**Rol:** Arrendatario
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Task</th>
+      <th align="left">Frequency</th>
+      <th align="left">Importance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Buscar y reservar espacios para eventos</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Comunicarse con los arrendadores de los espacios</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Buscar variedad en los tipos de espacios disponibles</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Reservar espacios para diferentes tipos de eventos</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Estar dispuesto a pagar por una mejor experiencia</td>
+      <td>Medium</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Utilizar una plataforma fácil de usar e intuitiva</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+### User Persona Secundaria
+
+**Nombre:** Claudia Cañamero  
+**Rol:** Arrendadora
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Task</th>
+      <th align="left">Frequency</th>
+      <th align="left">Importance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gestionar reservas y coordinar eventos</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Promocionar el local en redes sociales y otros canales de marketing</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Mantener el local en óptimas condiciones de limpieza y mantenimiento</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Establecer comunicación efectiva con clientes y proveedores</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Explorar nuevas oportunidades de negocio y crecimiento</td>
+      <td>Medium</td>
+      <td>Medium</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 ### 2.3.3. User Journey Mapping
 
@@ -662,5 +783,5 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
 
 ### 2.3.5. As-is Scenario Mapping
 
-## 2.3. Ubiquitous Language
+## 2.4. Ubiquitous Language
 
