@@ -227,7 +227,7 @@ Se ha definido una cierta cantidad de preguntas para cada uno de nuestros segmen
 Para el registro de entrevistas se realizará 3 entrevista por segmento, dando un total de 6 entrevistas. Además, el formato de las entrevistas es mp4, cada entrevista es independiente debido a las diferentes preguntas y respuestas dadas por los entrevistados de cada segmento.
 
 **Segmento 1: Arrendadores de espacios para eventos**
-
+<br>
 <table>
 <colgroup>
 </colgroup>
@@ -279,7 +279,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -348,7 +348,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -418,7 +418,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -435,9 +435,9 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
 </tbody>
 </table>
-
+<br>
 **Segmento 2: Inversores trabajando en el Buy-side de empresas que busquen agilizar sus procesos de** ***Due Diligence***
-
+<br>
 <table>
 <colgroup>
 </colgroup>
@@ -489,7 +489,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -558,7 +558,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -627,7 +627,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
