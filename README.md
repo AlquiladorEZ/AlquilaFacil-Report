@@ -681,19 +681,19 @@ Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
 
 ### 2.3.2. User Task Matrix
 
-<div align="center">
-
 **User Persona Principal**
 
 **Nombre:** Sergio Aguirre  
 **Rol:** Arrendatario
 
-<table>
+Los arrendatarios buscan principalmente una plataforma que sea fácil de usar y que les permita encontrar y reservar espacios para sus eventos de manera rápida y eficiente. Además, valoran la comunicación clara con los arrendadores y la posibilidad de personalizar su experiencia en función de sus necesidades. La disposición de pagar por una experiencia mejorada y la disponibilidad de opciones variadas son aspectos importantes para ellos.
+
+<table align="center">
   <thead>
     <tr>
-      <th align="left">Task</th>
-      <th align="left">Frequency</th>
-      <th align="left">Importance</th>
+      <th>Task</th>
+      <th>Frequency</th>
+      <th>Importance</th>
     </tr>
   </thead>
   <tbody>
@@ -730,19 +730,21 @@ Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
   </tbody>
 </table>
 
-<br>
+---
 
 **User Persona Secundaria**
 
 **Nombre:** Claudia Cañamero  
 **Rol:** Arrendadora
 
-<table>
+Los arrendadores buscan una plataforma que les permita gestionar eficazmente las reservas, promover sus espacios y mantener una comunicación constante y clara con los arrendatarios. La posibilidad de promocionar su local en redes sociales y otros canales de marketing también es una prioridad para ellos. Además, desean que sus propiedades se mantengan en condiciones óptimas para brindar una buena experiencia a los usuarios.
+
+<table align="center">
   <thead>
     <tr>
-      <th align="left">Task</th>
-      <th align="left">Frequency</th>
-      <th align="left">Importance</th>
+      <th>Task</th>
+      <th>Frequency</th>
+      <th>Importance</th>
     </tr>
   </thead>
   <tbody>
@@ -773,8 +775,6 @@ Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
     </tr>
   </tbody>
 </table>
-
-</div>
 
 
 
