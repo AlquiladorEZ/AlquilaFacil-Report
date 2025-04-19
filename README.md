@@ -279,7 +279,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -436,7 +436,9 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
 </tbody>
 </table>
 <br>
-**Segmento 2: Inversores trabajando en el Buy-side de empresas que busquen agilizar sus procesos de** ***Due Diligence***
+
+**Segmento 2: Arrendatarios sociales frecuentes de espacios para eventos**
+
 <br>
 <table>
 <colgroup>
@@ -489,7 +491,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendatario-1.png" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
