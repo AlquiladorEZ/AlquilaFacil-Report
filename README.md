@@ -686,8 +686,6 @@ Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
 **Nombre:** Sergio Aguirre  
 **Rol:** Arrendatario
 
-Los arrendatarios buscan principalmente una plataforma que sea fácil de usar y que les permita encontrar y reservar espacios para sus eventos de manera rápida y eficiente. Además, valoran la comunicación clara con los arrendadores y la posibilidad de personalizar su experiencia en función de sus necesidades. La disposición de pagar por una experiencia mejorada y la disponibilidad de opciones variadas son aspectos importantes para ellos.
-
 <table align="center">
   <thead>
     <tr>
@@ -737,8 +735,6 @@ Los arrendatarios buscan principalmente una plataforma que sea fácil de usar y 
 **Nombre:** Claudia Cañamero  
 **Rol:** Arrendadora
 
-Los arrendadores buscan una plataforma que les permita gestionar eficazmente las reservas, promover sus espacios y mantener una comunicación constante y clara con los arrendatarios. La posibilidad de promocionar su local en redes sociales y otros canales de marketing también es una prioridad para ellos. Además, desean que sus propiedades se mantengan en condiciones óptimas para brindar una buena experiencia a los usuarios.
-
 <table align="center">
   <thead>
     <tr>
@@ -776,7 +772,7 @@ Los arrendadores buscan una plataforma que les permita gestionar eficazmente las
   </tbody>
 </table>
 
-
+<br>
 
 ### 2.3.3. User Journey Mapping
 
