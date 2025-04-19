@@ -679,6 +679,16 @@ Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
 
 ### 2.3.1. User Personas
 
+Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios ideales de cada segmento. A continuación, los presentamos:
+
+**Segmento 1: Arrendatario**
+
+![Artefacto creado en UXPressia](Resources/Needfinding/UserPersona-1.jpg)
+
+**Segmento 2: Arrendador**
+
+![Artefacto creado en UXPressia](Resources/Needfinding/UserPersona-2.jpg)
+
 ### 2.3.2. User Task Matrix
 
 <br>
