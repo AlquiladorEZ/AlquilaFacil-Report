@@ -679,11 +679,15 @@ Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
 
 ### 2.3.1. User Personas
 
+<p align="justify">
 Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios ideales de cada segmento. A continuación, los presentamos:
+</p>
 
 **Segmento 1: Arrendatario**
 
 ![Artefacto creado en UXPressia](Resources/Needfinding/UserPersona-1.jpg)
+
+<br>
 
 **Segmento 2: Arrendador**
 
