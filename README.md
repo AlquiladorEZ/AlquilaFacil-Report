@@ -681,6 +681,8 @@ Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
 
 ### 2.3.2. User Task Matrix
 
+<br>
+
 **User Persona Principal**
 
 **Nombre:** Sergio Aguirre  
