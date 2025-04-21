@@ -10,7 +10,8 @@
 ### 4.1.1. General Style Guidelines
 
 <div align="justify">
-    **Overview:** Deseamos capturar la atención del usuario desde el inicio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata y reconocible.
+**Overview:**
+    Deseamos capturar la atención del usuario desde el inicio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata y reconocible.
 </div>
 
 <div align="justify">
