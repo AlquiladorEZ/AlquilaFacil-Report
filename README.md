@@ -14,6 +14,8 @@
 
 **Epics:**
 
+<br>
+
 | **Epic / Story ID** | **Título**                             | **Descripción**                                                                                                                                                                    | **Historias de usuario relacionadas**     |
 |---------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | **EP01**            | Gestión de usuarios y autenticación    | <div align="justify">Como usuario de AlquilaFácil, quiero poder registrarme fácilmente en la aplicación y acceder a mi cuenta, para poder utilizar las funcionalidades principales de la aplicación, sin complicaciones.</div> | <div align="justify">US01, US02, US14, US18</div> |
