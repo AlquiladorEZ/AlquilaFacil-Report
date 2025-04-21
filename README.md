@@ -14,7 +14,6 @@
 
 **Epics:**
 
-<br>
 
 | **Epic / Story ID** | **Título**                             | **Descripción**                                                                                                                                                                    | **Historias de usuario relacionadas**     |
 |---------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
@@ -30,7 +29,6 @@
 
 **User Stories:**
 
-<br>
 
 | **Epic / Story ID** | **Título**                      | **Descripción**                                                                                                                                                                                                                                                                       | **Criterios de aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                          | **Relacionado con (Epic ID)** |
 |---------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
@@ -60,7 +58,6 @@
 
 **Sprints:**
 
-<br>
 
 | Sprint # | Título                                                      | Descripción                                                                                                                             |
 |----------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -68,6 +65,33 @@
 | 2        | Desarrollo de primeras funcionalidades del aplicativo móvil   | <div align="justify">En este sprint comenzaremos con el desarrollo de nuestra aplicación móvil, por lo que a lo largo de este realizaremos pruebas en dispositivos móviles y también comunicaremos al equipo los avances en el proceso de desarrollo.</div> |
 | 3        | Aplicación de mejora continua en las funcionalidades         | <div align="justify">En este sprint realizaremos mejoras en las funcionalidades desarrolladas en el sprint previo, también cumpliremos con los technical user stories establecidos.</div> |
 | 4        | Validación del producto por parte del team developer y stakeholders | <div align="justify">En este sprint realizaremos la validación completa de nuestro producto aplicando las mejoras identificadas en los sprints previos.</div> |
+
+<br>
+
+**Product Backlog:**
+
+| User Stories ID | Título                                         | Story Points (1/2/3/5/8) | Sprint |
+|-----------------|------------------------------------------------|--------------------------|--------|
+| US03            | <div align="justify">Registrar espacios</div>   | 8                        | 1      |
+| US04            | <div align="justify">Buscar espacios disponibles</div> | 5                        | 1      |
+| US01            | <div align="justify">Registrar usuario</div>    | 3                        | 1      |
+| US02            | <div align="justify">Iniciar sesión</div>       | 3                        | 1      |
+| US05            | <div align="justify">Filtrar espacios disponibles</div> | 5                        | 2      |
+| US06            | <div align="justify">Visualizar información del espacio</div> | 5                        | 2      |
+| US07            | <div align="justify">Reservar espacios</div>    | 8                        | 2      |
+| US08            | <div align="justify">Gestionar calendario de reservas</div> | 5                        | 3      |
+| US09            | <div align="justify">Calificar y comentar sobre espacios</div> | 3                        | 3      |
+| US10            | <div align="justify">Notificar sobre actividades de arrendatarios</div> | 3                        | 3      |
+| US11            | <div align="justify">Controlar espacios favoritos</div> | 3                        | 3      |
+| US12            | <div align="justify">Visualizar espacios propios publicados</div> | 3                        | 3      |
+| US13            | <div align="justify">Modificar espacios publicados</div> | 3                        | 3      |
+| US14            | <div align="justify">Actualizar perfil y sesión de usuario</div> | 2                        | 3      |
+| US15            | <div align="justify">Adquirir membresía mensual premium</div> | 5                        | 4      |
+| US16            | <div align="justify">Reportar espacios inseguros</div> | 3                        | 4      |
+| US17            | <div align="justify">Visualizar espacios reportados</div> | 3                        | 4      |
+| US18            | <div align="justify">Permitir iniciar sesión con servicios externos</div> | 2                        | 4      |
+| US19            | <div align="justify">Acceder a información de ayuda</div> | 2                        | 4      |
+
 
 
 ## 3.1. Impact Mapping
