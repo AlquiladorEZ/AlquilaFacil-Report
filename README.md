@@ -2,7 +2,25 @@
 
 ## 4.1. Style Guidelines
 
+<div align="justify">
+    Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros trabajos creativos. A continuación, se detallan las especificaciones de los parámetros implementados en la estructura del proyecto.
+</div>
+
+
 ### 4.1.1. General Style Guidelines
+
+<div align="justify">
+    **Overview:** Deseamos capturar la atención del usuario desde el inicio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata y reconocible.
+</div>
+
+<div align="justify">
+    **Brand Overview:** AlquilaFácil es un startup tecnológico fundada en el 2024 por un grupo de estudiantes compuesta por un grupo de estudiantes de la carrera de Ingeniería de Software. Nuestro startup está dedicada a simplificar el proceso de alquiler de espacios para eventos, brindando una plataforma innovadora y accesible para propietarios y organizadores por igual.
+</div>
+
+<div align="justify">
+    **Brand Name:** Como el startup se trata de alquilar centros para eventos y también para publicitar centros que podrían ser alquilados, se vio conveniente llamarlo “AlquilaFácil”.
+</div>
+
 
 ### 4.1.2. Web Style Guidelines
 
