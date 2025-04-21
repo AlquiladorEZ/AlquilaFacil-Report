@@ -13,11 +13,13 @@
 <div align="justify">
     Deseamos capturar la atención del usuario desde el inicio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata y reconocible.
 </div>
+<br>
 
 **Brand Overview:**
 <div align="justify">
      AlquilaFácil es un startup tecnológico fundada en el 2024 por un grupo de estudiantes compuesta por un grupo de estudiantes de la carrera de Ingeniería de Software. Nuestro startup está dedicada a simplificar el proceso de alquiler de espacios para eventos, brindando una plataforma innovadora y accesible para propietarios y organizadores por igual.
 </div>
+<br>
 
 **Brand Name:**
 <div align="justify">
