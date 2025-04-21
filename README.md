@@ -58,7 +58,7 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
         </tr>
         <tr>
             <th colspan="2">Logo</th>
-            <th>AlquilaFacil</th>
+            <th><img src="Resources/Competitors%20Table/AlquilaFacil.png" alt="Logo Alquila Facil"></th>
             <th><img src="Resources/Competitors%20Table/Airbnb.png" alt="Logo Vrbo"></th>
             <th><img src="Resources/Competitors%20Table/Vrbo.png" alt="Logo Vrbo"></th>
             <th><img src="Resources/Competitors%20Table/Booking.png" alt="Logo Vrbo"></th>
