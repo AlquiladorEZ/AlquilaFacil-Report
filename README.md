@@ -70,27 +70,134 @@
 
 **Product Backlog:**
 
-| User Stories ID | Título                                         | Story Points (1/2/3/5/8) | Sprint |
-|-----------------|------------------------------------------------|--------------------------|--------|
-| US03            | <div align="justify">Registrar espacios</div>   | 8                        | 1      |
-| US04            | <div align="justify">Buscar espacios disponibles</div> | 5                        | 1      |
-| US01            | <div align="justify">Registrar usuario</div>    | 3                        | 1      |
-| US02            | <div align="justify">Iniciar sesión</div>       | 3                        | 1      |
-| US05            | <div align="justify">Filtrar espacios disponibles</div> | 5                        | 2      |
-| US06            | <div align="justify">Visualizar información del espacio</div> | 5                        | 2      |
-| US07            | <div align="justify">Reservar espacios</div>    | 8                        | 2      |
-| US08            | <div align="justify">Gestionar calendario de reservas</div> | 5                        | 3      |
-| US09            | <div align="justify">Calificar y comentar sobre espacios</div> | 3                        | 3      |
-| US10            | <div align="justify">Notificar sobre actividades de arrendatarios</div> | 3                        | 3      |
-| US11            | <div align="justify">Controlar espacios favoritos</div> | 3                        | 3      |
-| US12            | <div align="justify">Visualizar espacios propios publicados</div> | 3                        | 3      |
-| US13            | <div align="justify">Modificar espacios publicados</div> | 3                        | 3      |
-| US14            | <div align="justify">Actualizar perfil y sesión de usuario</div> | 2                        | 3      |
-| US15            | <div align="justify">Adquirir membresía mensual premium</div> | 5                        | 4      |
-| US16            | <div align="justify">Reportar espacios inseguros</div> | 3                        | 4      |
-| US17            | <div align="justify">Visualizar espacios reportados</div> | 3                        | 4      |
-| US18            | <div align="justify">Permitir iniciar sesión con servicios externos</div> | 2                        | 4      |
-| US19            | <div align="justify">Acceder a información de ayuda</div> | 2                        | 4      |
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>User Stories ID</th>
+                <th>Título</th>
+                <th>Story Points (1/2/3/5/8)</th>
+                <th>Sprint</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>US03</td>
+                <td align="justify">Registrar espacios</td>
+                <td>8</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>US04</td>
+                <td align="justify">Buscar espacios disponibles</td>
+                <td>5</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>US01</td>
+                <td align="justify">Registrar usuario</td>
+                <td>3</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>US02</td>
+                <td align="justify">Iniciar sesión</td>
+                <td>3</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>US05</td>
+                <td align="justify">Filtrar espacios disponibles</td>
+                <td>5</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>US06</td>
+                <td align="justify">Visualizar información del espacio</td>
+                <td>5</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>US07</td>
+                <td align="justify">Reservar espacios</td>
+                <td>8</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>US08</td>
+                <td align="justify">Gestionar calendario de reservas</td>
+                <td>5</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US09</td>
+                <td align="justify">Calificar y comentar sobre espacios</td>
+                <td>3</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US10</td>
+                <td align="justify">Notificar sobre actividades de arrendatarios</td>
+                <td>3</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US11</td>
+                <td align="justify">Controlar espacios favoritos</td>
+                <td>3</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US12</td>
+                <td align="justify">Visualizar espacios propios publicados</td>
+                <td>3</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US13</td>
+                <td align="justify">Modificar espacios publicados</td>
+                <td>3</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US14</td>
+                <td align="justify">Actualizar perfil y sesión de usuario</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US15</td>
+                <td align="justify">Adquirir membresía mensual premium</td>
+                <td>5</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>US16</td>
+                <td align="justify">Reportar espacios inseguros</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>US17</td>
+                <td align="justify">Visualizar espacios reportados</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>US18</td>
+                <td align="justify">Permitir iniciar sesión con servicios externos</td>
+                <td>2</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>US19</td>
+                <td align="justify">Acceder a información de ayuda</td>
+                <td>2</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 
 
