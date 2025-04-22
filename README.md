@@ -278,6 +278,8 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 </div>
 
+<br>
+
 ### 4.4.4. Mobile Applications User Flow Diagrams
 
 ## 4.5. Mobile Applications Prototyping
@@ -291,6 +293,8 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 **Enlace:** https://www.figma.com/proto/ZgcH4GPA3oBLZf4SvVs52Z/Mobile-App?node-id=1-210&node-type=frame&t=2wssaIdHMNDPcFkT-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A206&starting-point-node-id=323%3A5448
 
 </div>
+
+<br>
 
 ### 4.5.2. iOS Mobile Applications Prototyping
 
