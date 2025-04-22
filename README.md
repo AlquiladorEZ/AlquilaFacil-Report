@@ -73,13 +73,13 @@
 
 <div align="justify">
 
-**Búsqueda y filtros personalizados**
+**Búsqueda y filtros personalizados: **
 La aplicación incorpora un motor de búsqueda avanzado acompañado de filtros que permiten a los usuarios refinar los resultados según criterios como ubicación, precio y características específicas del espacio.  
 Esto asegura que el usuario solo vea opciones relevantes, facilitando la toma de decisiones.
 
 <br>
 
-**Tarjetas de visualización de espacios**
+**Tarjetas de visualización de espacios: **
 Los espacios disponibles se muestran en formato de tarjetas visuales, donde se presenta la información más importante de manera clara y concisa.  
 Cada tarjeta incluye:
 
@@ -91,7 +91,7 @@ Cada tarjeta incluye:
 <br>
 
 
-**Barra de navegación inferio**
+**Barra de navegación inferio: **
 En la parte inferior de la pantalla se encuentra una barra de navegación que agrupa las principales funciones de la aplicación, como:
 
 - Búsqueda  
@@ -103,7 +103,16 @@ En la parte inferior de la pantalla se encuentra una barra de navegación que ag
 
 ### 4.2.2. Labeling Systems
 
+<div align="justify">
+    El sistema de etiquetado o Labelling System de AlquilaFácil está diseñado para proporcionar claridad y coherencia en la presentación de información, facilitando la comprensión rápida y eficiente de los contenidos por parte del usuario. Este sistema emplea etiquetas visuales y textuales en diferentes áreas clave de la aplicación: 
+</div>
+
 ### 4.2.3. SEO Tags and Meta Tags
+    
+<div align="justify">
+        Las meta-etiquetas nos permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las leen. Estas etiquetas facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido. Además, influyen en el posicionamiento de nuestra página en los motores de búsqueda. 
+</div>
+
 
 ### 4.2.4. Searching Systems
 
