@@ -26,6 +26,24 @@
      Como el startup se trata de alquilar centros para eventos y también para publicitar centros que podrían ser alquilados, se vio conveniente llamarlo “AlquilaFácil”.
 </div>
 
+![Artefacto creado en Canva](Resources/Style%20Guidelines/Background-AlquilaFacil.png) 
+
+**Typography:**
+<div align="justify">
+     El tamaño elegido para la tipografía por el equipo fue: 
+</div>
+
+![Artefacto creado en Canva](Resources/Style%20Guidelines/Typography.png) 
+
+<br>
+
+**Colors:**
+<div align="justify">
+     La gama de colores elegidos son:
+</div>
+
+![Artefacto creado en Canva](Resources/Style%20Guidelines/Colors.png) 
+
 
 ### 4.1.2. Web Style Guidelines
 
@@ -37,7 +55,46 @@
 
 ## 4.2. Information Architecture
 
+<div align="justify">
+    En esta sección, se va a presentar la estructura del software según cada segmento objetivo. Además, los elementos que emplearan para la navegación de esta. 
+</div>
+
 ### 4.2.1. Organization Systems
+
+<div align="justify">
+    El sistema de organización de AlquilaFácil ha sido diseñado con el objetivo de optimizar la experiencia del usuario, permitiendo una gestión eficiente de la búsqueda y selección de espacios en alquiler. Este sistema se basa en los siguientes componentes clave: 
+</div>
+
+<div align="justify">
+    ## Funcionalidades de la Interfaz de Usuario
+
+### Búsqueda y filtros personalizados
+La aplicación incorpora un motor de búsqueda avanzado acompañado de filtros que permiten a los usuarios refinar los resultados según criterios como ubicación, precio y características específicas del espacio.  
+Esto asegura que el usuario solo vea opciones relevantes, facilitando la toma de decisiones.
+
+
+### Tarjetas de visualización de espacios
+Los espacios disponibles se muestran en formato de tarjetas visuales, donde se presenta la información más importante de manera clara y concisa.  
+Cada tarjeta incluye:
+
+- Imagen del espacio  
+- Ubicación  
+- Precio  
+- Opción de añadir a favoritos  
+
+
+### Barra de navegación inferior
+En la parte inferior de la pantalla se encuentra una barra de navegación que agrupa las principales funciones de la aplicación, como:
+
+- Búsqueda  
+- Notificaciones  
+- Acceso al calendario o eventos  
+- Gestión de reservas  
+### Jerarquización de la información
+La información en la interfaz está organizada de manera que los elementos más relevantes, como el precio y la ubicación del espacio, sean inmediatamente visibles.  
+Esto facilita al usuario la evaluación rápida de cada opción, sin necesidad de ingresar a los detalles individuales de cada anuncio.
+
+</div>
 
 ### 4.2.2. Labeling Systems
 
