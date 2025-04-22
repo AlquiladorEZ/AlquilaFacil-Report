@@ -308,47 +308,47 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Omar Andrew</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Morales Montalvo</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>29 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>San Juan del Lurigancho</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Facebook Marketplace</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Explorar nuevas oportunidades de negocio y expandir su presencia en el mercado de eventos sociales</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Dificultad para promocionar eficazmente su local y atraer clientes nuevos y recurrentes</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>iOS, Android y Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Brave</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Christopher Lecca</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-2.png" alt="Entrevista a Omar Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -361,6 +361,9 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	 El entrevistado se menciona como Omar Morales, que recientemente se ha adentrado en el mercado de alquileres de espacios. Explica que uno de los principales desafíos que enfrenta al promocionar su espacio es alcanzar a las personas adecuadas para alquilarlo, y que ha tenido dificultades para llegar a más personas. Ha utilizado canales como el Marketplace de Facebook para promocionar su local, así como contactos propios para llegar a más de su segmento objetivo.
+Considera útil la aplicación AlquilaFácil debido a su presentación y características, y está dispuesto a invertir dinero en una plataforma que brinde una buena experiencia de usuario, así como seguridad en los contratos de alquiler.
+En cuanto a las características que le gustaría ver en la plataforma, menciona la importancia de una agenda que permita el control de las reservas de un espacios, agregando que esto facilitaría la llegada de más público. Además, sugiere la implementación de un sistema de reseñas para los espacios, lo que proporcionaría una mayor transparencia y confianza en el proceso de alquiler.
     </td>
   </tr>
 </tbody>
@@ -451,47 +454,47 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Manuel Jesús</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Chávez Cuba</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>21 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>San Martín de Porres</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Facebook, Instagram</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Ofrecer experiencias únicas y memorables para sus clientes</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Dificultades para encontrar espacios que cuenten con características específicas</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>iOS, Android, Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Google Chrome, Opera GX</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Christopher Lecca</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendatario-1.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendatario-1.png" alt="Entrevista a Manuel Chavez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -504,6 +507,9 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	El entrevistado se presenta como Manuel Chavez, un estudiante de Ingeniería de 21 años. Manuel nos comentó que se encuentra viendo la manera de generar ingresos, por lo que se lo ocurrió adentrarse al mercado de alquiler de espacios para organizar eventos.
+Durante la entrevista, resaltó la necesidad de una aplicación que facilite la experiencia del usuario, es decir, la facilidad de uso para poder alquilar de manera rápida un espacio.
+Para finalizar, nos comentó su experiencia previa con otras herramientas similares y cómo es que estas fallaban al momento de brindarle seguridad al momento de alquilar un local, por lo que manifestó que sería de gran utilidad que incluyera herramientas de valoración, denuncias y una agenda para no olvidarse de sus reservas pendientes.
     </td>
   </tr>
 </tbody>
@@ -658,9 +664,27 @@ Las entrevistas realizadas proporcionan una visión detallada y matizada sobre l
 
 Para los arrendadores, la seguridad en las transacciones financieras y la integridad de los contratos son aspectos fundamentales. También valoran una promoción efectiva de sus propiedades, buscando una plataforma que les permita llegar a un público amplio y relevante. Además, aprecian una comunicación clara y eficiente con los arrendatarios para evitar malentendidos y conflictos. Algunos arrendadores están dispuestos a invertir en servicios premium que les brinden ventajas adicionales, como una mayor visibilidad de sus espacios en la plataforma. En resumen, los arrendadores buscan una plataforma que les ofrezca seguridad, visibilidad, comunicación eficiente y opciones para maximizar el rendimiento de sus espacios. 
 
+
+| **Característica objetiva**    | **Frecuencia** | **Porcentaje** | **Sustento desde entrevistas** |
+|--------------------------------|----------------|----------------|--------------------------------|
+| **Utiliza redes sociales para captar clientes** | 3 de 3. | 100% | Menciona Instagram y Facebook como fuentes principales de clientes |
+| **Gestiona reservas manualmente** | 3 de 3. | 100% | Gestiona la disponibilidad con agenda física y Excel |
+| **Recibe consultas por WhatsApp**  | 3 de 3. | 100% | Coordina todo el proceso por WhatsApp |
+| **Necesita un sistema de agenda para evitar dobles reservas** | 3 de 3. | 100% | Tuvo una doble reserva por falta de sistema automatizado |
+
+
 **Arrendatarios para eventos**
 
 Por otro lado, los arrendatarios tienen necesidades específicas al utilizar plataformas de alquiler de locales. Para ellos, la facilidad de encontrar y reservar espacios adecuados es crucial, especialmente en situaciones de emergencia o cambios de último momento. Valoran la transparencia en los contratos y una comunicación eficiente con los arrendadores para evitar malentendidos y asegurar una experiencia sin contratiempos. Además, buscan plataformas que ofrezcan una amplia variedad de opciones de espacios que se ajusten a sus necesidades específicas y horarios. La posibilidad de utilizar herramientas de búsqueda avanzada y filtrado también es importante para encontrar el lugar perfecto. En resumen, los arrendatarios de eventos buscan plataformas que les brinden facilidad de uso, transparencia en los procesos, comunicación eficiente y una amplia gama de opciones de espacios para eventos. 
+
+
+| **Característica objetiva**    | **Frecuencia** | **Porcentaje** | **Sustento desde entrevistas** |
+|--------------------------------|----------------|----------------|--------------------------------|
+| **Uso de redes sociales o sitios web para buscar espacios** | 3 de 3. | 100% | Todos los entrevistados mencionan usar redes o sitios web |
+| **Realiza reservas con regularidad** | 3 de 3. | 100% | Todos mencionan alquilar espacios de forma habitual |
+| **Busca espacios para eventos familiares o recreativos**  | 3 de 3. | 100% | Todos organizan o buscan espacios para actividades recreativas o familiares |
+| **Valora herramientas que faciliten la organización del tiempo (agenda)** | 3 de 3. | 100% | Mencionan la utilidad de una agenda o calendario para organizarse mejor |
+
 
 **Determinación de Personas**
 
@@ -680,7 +704,7 @@ Basado en el análisis de las entrevistas, se ha determinado lo siguiente:
 ### 2.3.1. User Personas
 
 <p align="justify">
-Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios ideales de cada segmento. A continuación, los presentamos:
+Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios ideales de cada segmento: Sergio Aguirre (Arrendatario), Claudia Camareño (Arrendador).
 </p>
 
 **Segmento 1: Arrendatario**
@@ -822,3 +846,14 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 ## 2.4. Ubiquitous Language
 
+| **Término**      | **Definición**                                           |
+|----------------------------|---------------------------------------------------------------------|
+| **Tenant**                | Arrendatario, quien realiza la reserva de un espacio.         |
+| **Landlord**            | Arrendador, quien publica sus espacios para ser reservados. |
+| **Local**              | Espacio para eventos que contiene diferentes características de acuerdo con el arrendador.               |
+| **Booking**            | Reserva de un espacio, con identificación de arrendatario, fecha y hora de inicio y fin. |
+| **Comment**            | Comentario acerca de un local anexado a su reseña con calificación. |
+| **Calendar**     | Agenda de reservas presentadas tanto para arrendador como arrendatario. |
+| **Report**      | Denuncia hacia algún espacio publicadada por un arrendatario de este mismo. |
+| **District**        | Distrito de locación del espacio publicado. |
+| **Features**               | Características adicionales del espacio publicado.                |
