@@ -115,10 +115,10 @@ La información en la interfaz está organizada de manera que los elementos más
 
 <div align="justify">
 
-***Etiquetas de búsqueda y filtro:***
+* ***Etiquetas de búsqueda y filtro:***
 En la parte superior de la interfaz, los campos de búsqueda y filtro están claramente etiquetados con íconos universales, como una lupa para la búsqueda y un embudo para los filtros. Estos íconos, junto con textos descriptivos, permiten que los usuarios identifiquen rápidamente las funciones y realicen acciones sin confusión. 
 
-***Etiquetas en tarjetas de espacios:***
+* ***Etiquetas en tarjetas de espacios:***
 Cada tarjeta de espacio cuenta con etiquetas descriptivas que destacan la ubicación y el precio, las cuales están claramente diferenciadas en la interfaz. Estas etiquetas ayudan a los usuarios a identificar los detalles más relevantes de un espacio sin necesidad de interactuar más allá del listado inicial. 
 
 
