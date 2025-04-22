@@ -526,47 +526,49 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Hernan</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Morales Calderón</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Zoom, Chrome</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Hernán busca alquilar espacios de forma rápida y segura para sus eventos frecuentes, valorando la transparencia, disponibilidad inmediata y flexibilidad horaria.
+</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Se frustra con la falta de información clara, políticas de cancelación injustas y la poca flexibilidad de horarios en los locales. También le incomoda no tener herramientas que generen confianza al alquilar.
+</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Laptop, Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Diego Criollo</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendatario-2.png" alt="Entrevista a Hernan Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -574,11 +576,12 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>04:36 min - 10:20 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    El entrevistado se presenta como Hernán, un joven de 25 años que frecuentemente organiza reuniones y eventos sociales. Nos comentó que, por su estilo de vida y círculos sociales, suele alquilar locales entre una y dos veces al mes, especialmente azoteas, salones de eventos o casas con jardín, dependiendo del tipo de actividad. Durante la entrevista, Hernán resaltó la importancia de contar con una plataforma que le permita alquilar espacios de manera rápida, segura y con toda la información clara desde el inicio. Mencionó que ha tenido experiencias en las que necesitó un lugar de emergencia, por lo que considera esencial poder ver disponibilidad en tiempo real y reservar sin complicaciones. También compartió su experiencia con cancelaciones imprevistas, en las que no recibió reembolso ni solución, por lo que cree que una aplicación como AlquilaFácil debería ofrecer políticas claras y flexibles, así como herramientas que refuercen la confianza, como valoraciones, filtros detallados (capacidad, licencias, horarios, servicios adicionales) y comunicación directa con el arrendador. Finalmente, hizo hincapié en la necesidad de flexibilidad horaria, ya que muchas veces sus eventos se extienden, y valoraría mucho la posibilidad de pagar por horas extra desde la misma plataforma.
     </td>
   </tr>
 </tbody>
