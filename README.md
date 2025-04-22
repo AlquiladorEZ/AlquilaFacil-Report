@@ -111,6 +111,8 @@ La información en la interfaz está organizada de manera que los elementos más
     El sistema de etiquetado o Labelling System de AlquilaFácil está diseñado para proporcionar claridad y coherencia en la presentación de información, facilitando la comprensión rápida y eficiente de los contenidos por parte del usuario. Este sistema emplea etiquetas visuales y textuales en diferentes áreas clave de la aplicación: 
 </div>
 
+<br>
+
 <div align="justify">
 
 ***Etiquetas de búsqueda y filtro:***
