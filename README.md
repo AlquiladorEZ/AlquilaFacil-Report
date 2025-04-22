@@ -153,18 +153,90 @@ Las meta etiquetas nos permiten codificar y especificar metadatos en una página
 * ***Codificación de caracteres:***
 Se decidió usar el utf-8 por la eficiencia de memoria. Es más eficiente en términos de memoria para caracteres del BMP (Plano Multilingüe Básico, que incluye la mayoría de los caracteres comunes).
 
+:::
+```
+<meta charset="utf-8">
+```
+:::
 
-* ***Iconos como Etiquetas Visuales:***
-La aplicación utiliza iconos ampliamente reconocidos, como la estrella para "puntuaciones" y el botón de "más" para añadir nuevos espacios, que actúan como etiquetas visuales. Estos iconos, en combinación con sus posiciones estratégicas, ofrecen una experiencia intuitiva, reduciendo la necesidad de explicaciones textuales adicionales. 
+* ***Descripción:***
+Esta etiqueta meta nos permite ofrecer un resumen del contenido de la página web. En ella, proporcionamos una breve descripción de lo que los usuarios pueden esperar visualizar en la página.
 
-* ***Categorías de espacios:***
-Los espacios se pueden clasificar por diferentes tipos o características, lo que permite el uso de etiquetas de categoría. Estas etiquetas aparecen en los resultados de búsqueda para que los usuarios identifiquen rápidamente el tipo de espacio que están viendo (por ejemplo, oficinas, espacios de coworking, etc.). 
+:::
+```
+<meta name="description" content="AlquilaFacil is a web application focused on plublish and rent centers for events"/>
+```
+:::
+
+* ***Palabras clave:***
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+:::
+```
+<meta name="keywords" content="publish, rent, management, application, announcements, centers"/> 
+```
+:::
+
+* ***Autor y derechos de autor:***
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+:::
+```
+<meta name="author" content="AlquilaFacil"/> 
+
+<meta name="copyright" content="Copyright AlquilaFacil team" />
+```
+:::
+
 </div>
 
+<br>
 
 ### 4.2.4. Searching Systems
 
+<div align="justify">
+    El motor de búsqueda es fundamental para que los usuarios encuentren rápidamente detalles específicos 
+</div>
+
+<br>
+
+<div align="justify">
+Características claves: 
+
+* ***Búsqueda por ubicación:***
+Los usuarios podrán buscar centros para eventos cercanos a su ubicación actual o especificar una ubicación deseada.
+
+* ***Búsqueda por características:***
+Los usuarios podrán buscar características específicas, como piscina, parrilla, pet friendly, vigilancia.
+
+* ***Filtros avanzados:***
+Se proporcionarán filtros para refinar la búsqueda, como calificaciones, precios y disponibilidad.
+
+* ***Resultados relevantes:***
+ El sistema de búsqueda mostrará resultados relevantes y ordenados de acuerdo con la ubicación y otros criterios.
+
+</div>
+
+<br>
+
+
 ### 4.2.5. Navigation Systems
+
+<div align="justify">
+El Navigation System de AlquilaFácil está diseñado para proporcionar una experiencia de usuario fluida, intuitiva y eficiente, permitiendo a los usuarios moverse por la aplicación de manera rápida y sin complicaciones. Este sistema incluye varios elementos clave que optimizan el acceso a las distintas funciones y secciones de la aplicación: 
+</div>
+
+<br>
+
+<div align="justify">
+    
+* ***Barra de Navegación Inferior:***
+La aplicación cuenta con una barra de navegación fija en la parte inferior de la pantalla que agrupa las principales funcionalidades. Los iconos incluidos, como la lupa (búsqueda), la campana (notificaciones), el botón de "+" (añadir nuevo espacio), el calendario (gestión de eventos o reservas) y el perfil (opciones del usuario), permiten un acceso directo a cada sección, facilitando la navegación entre las funciones esenciales sin necesidad de menús desplegables o múltiples clics. 
+
+* ***Navegación Jerárquica:***
+AlquilaFácil implementa un sistema de navegación jerárquica en el que los usuarios pueden profundizar en los detalles de un espacio o acción, pero siempre tienen la opción de volver a la pantalla anterior de manera sencilla. Este enfoque evita que los usuarios se pierdan en la aplicación, manteniendo siempre claro en qué nivel de la jerarquía se encuentran. 
+    
+</div>
+
+<br>
 
 ## 4.3. Landing Page UI Design
 
@@ -201,6 +273,12 @@ Los espacios se pueden clasificar por diferentes tipos o características, lo qu
 ## 4.7. Web Applications Prototyping
 
 ## 4.8. Domain-Driven Software Architecture
+
+<div align="justify">
+A continuación, se visualizarán los diagramas C4. 
+</div>
+
+<br>
 
 ### 4.8.1. Software Architecture Context Diagram
 
