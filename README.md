@@ -83,10 +83,10 @@ Esto asegura que el usuario solo vea opciones relevantes, facilitando la toma de
 Los espacios disponibles se muestran en formato de tarjetas visuales, donde se presenta la información más importante de manera clara y concisa.  
 Cada tarjeta incluye:
 
-- Imagen del espacio  
-- Ubicación  
-- Precio  
-- Opción de añadir a favoritos
+    - Imagen del espacio  
+    - Ubicación  
+    - Precio  
+    - Opción de añadir a favoritos
 
 <br>
 
@@ -94,10 +94,10 @@ Cada tarjeta incluye:
 * ***Barra de navegación inferio:***
 En la parte inferior de la pantalla se encuentra una barra de navegación que agrupa las principales funciones de la aplicación, como:
 
-- Búsqueda  
-- Notificaciones  
-- Acceso al calendario o eventos  
-- Gestión de reservas
+    - Búsqueda  
+    - Notificaciones  
+    - Acceso al calendario o eventos  
+    - Gestión de reservas
 
 <br>
 
