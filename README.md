@@ -362,9 +362,8 @@ A continuación, se visualizarán los diagramas C4.
 
 ### 4.9.2. Class Dictionary
 
-<div align="center">
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>Clase</th>
@@ -396,8 +395,6 @@ A continuación, se visualizarán los diagramas C4.
     <tr><td>LocalCategory</td><td>Entidad que representa la categoría de un local.</td></tr>
   </tbody>
 </table>
-
-</div>
 
 <br>
 
