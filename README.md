@@ -69,22 +69,26 @@
     El sistema de organización de AlquilaFácil ha sido diseñado con el objetivo de optimizar la experiencia del usuario, permitiendo una gestión eficiente de la búsqueda y selección de espacios en alquiler. Este sistema se basa en los siguientes componentes clave: 
 </div>
 
+<br>
+
 <div align="justify">
-Funcionalidades de la Interfaz de Usuario
 
 **Búsqueda y filtros personalizados**
 La aplicación incorpora un motor de búsqueda avanzado acompañado de filtros que permiten a los usuarios refinar los resultados según criterios como ubicación, precio y características específicas del espacio.  
 Esto asegura que el usuario solo vea opciones relevantes, facilitando la toma de decisiones.
 
+<br>
 
-### Tarjetas de visualización de espacios
+**Tarjetas de visualización de espacios**
 Los espacios disponibles se muestran en formato de tarjetas visuales, donde se presenta la información más importante de manera clara y concisa.  
 Cada tarjeta incluye:
 
 - Imagen del espacio  
 - Ubicación  
 - Precio  
-- Opción de añadir a favoritos  
+- Opción de añadir a favoritos
+
+<br>
 
 
 **Barra de navegación inferio**
