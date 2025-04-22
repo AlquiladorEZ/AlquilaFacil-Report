@@ -297,6 +297,8 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
 </tbody>
 </table>
 
+<br>
+
 <table>
 <colgroup>
 </colgroup>
