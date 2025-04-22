@@ -362,6 +362,33 @@ A continuación, se visualizarán los diagramas C4.
 
 ### 4.9.2. Class Dictionary
 
+| Clase              | Descripción                                                                 |
+|--------------------|------------------------------------------------------------------------------|
+| Profile            | Raíz del agregado que representa un perfil de usuario con varios atributos. |
+| PersonName         | Objeto de valor para almacenar el nombre, nombre del padre y madre.         |
+| DocumentNumber     | Objeto de valor para representar el número de documento.                    |
+| Phone              | Objeto de valor para almacenar el número de teléfono.                       |
+| DateOfBirth        | Objeto de valor para almacenar la fecha de nacimiento.                      |
+| Contact            | Raíz del agregado que representa la información de contacto.                |
+| NameUsername       | Objeto de valor para almacenar el nombre y apellido.                        |
+| Message            | Objeto de valor para almacenar un mensaje de contacto.                      |
+| Email              | Objeto de valor para almacenar la dirección de correo electrónico.          |
+| ContactAudit       | Entidad que representa la información de auditoría de los contactos.        |
+| Plan               | Raíz del agregado que representa un plan de servicio.                       |
+| Invoice            | Raíz del agregado que representa una factura.                               |
+| Subscription       | Raíz del agregado que representa una suscripción.                           |
+| SubscriptionAudit  | Entidad que representa la información de auditoría de las suscripciones.    |
+| SubscriptionStatus | Entidad que representa el estado de una suscripción.                        |
+| Local              | Raíz del agregado que representa un local.                                  |
+| CityPlace          | Objeto de valor para ciudad y país.                                         |
+| LocalType          | Objeto de valor para el tipo de local.                                      |
+| NightPrice         | Objeto de valor para el precio por noche.                                   |
+| PhotoUrl           | Objeto de valor para la URL de una foto.                                    |
+| StreetAddress      | Objeto de valor para la dirección de una calle.                             |
+| LocalCategory      | Entidad que representa la categoría de un local.                            |
+
+<br>
+
 ## 4.10. Database Design
 
 <div align="justify">
