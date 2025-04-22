@@ -248,6 +248,20 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ### 4.4.1. Mobile Applications Wireframes
 
+![Artefacto creado en Canva](Resources/Mobile%20Application%20UXUI/Wireframe-1.png) 
+
+![Artefacto creado en Canva](Resources/Mobile%20Application%20UXUI/Wireframe-2.png) 
+
+![Artefacto creado en Canva](Resources/Mobile%20Application%20UXUI/Wireframe-3.png) 
+
+<div align="justify">
+
+**Enlace:** https://www.figma.com/design/ZgcH4GPA3oBLZf4SvVs52Z/Mobile-App?node-id=1-207&p=f&t=CgMdhjsdUrnIRfBA-0
+
+</div>
+
+<br>
+
 ### 4.4.2. Mobile Applications Wireflow Diagrams
 
 ### 4.4.3. Mobile Applications Mock-ups
