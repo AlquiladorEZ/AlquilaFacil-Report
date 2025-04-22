@@ -328,8 +328,47 @@ A continuación, se visualizarán los diagramas C4.
 
 ### 4.9.1. Class Diagrams
 
+<div align="justify">
+
+**Profile Context:**
+
+</div>
+
+![Artefacto creado en Miro](Resources/Object-Oriented%20Design/ClassDiagram-1.png) 
+
+<div align="justify">
+
+**Contact Context:**
+
+</div>
+
+![Artefacto creado en Miro](Resources/Object-Oriented%20Design/ClassDiagram-2.png) 
+
+<div align="justify">
+
+**Spaces Context:**
+
+</div>
+
+![Artefacto creado en Miro](Resources/Object-Oriented%20Design/ClassDiagram-3.png) 
+
+**Subscription Context:**
+
+</div>
+
+![Artefacto creado en Miro](Resources/Object-Oriented%20Design/ClassDiagram-4.png) 
+
+<br>
+
 ### 4.9.2. Class Dictionary
 
 ## 4.10. Database Design
 
+<div align="justify">
+
+Para AlquilaFácil, se ha decidido utilizar una base de datos relacional, ya que proporciona una estructura clara y organizada que facilita la gestión de datos interrelacionados. Esto permite asegurar la integridad y consistencia de la información, aprovechando las capacidades de SQL para realizar consultas complejas y optimizar el rendimiento. Además, la naturaleza relacional de la base de datos permite manejar mejor los requerimientos de la aplicación, asegurando que las relaciones entre los datos estén bien definidas y fácilmente accesibles. 
+</div>
+
 ### 4.10.1. Relational/Non-Relational Database Diagram
+
+![Artefacto creado en Miro](Resources/Object-Oriented%20Design/DatabaseDiagram.png) 
