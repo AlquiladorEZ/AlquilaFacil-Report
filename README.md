@@ -97,8 +97,12 @@ En la parte inferior de la pantalla se encuentra una barra de navegación que ag
 - Búsqueda  
 - Notificaciones  
 - Acceso al calendario o eventos  
-- Gestión de reservas  
+- Gestión de reservas
 
+<br>
+
+***Jerarquización de la información:***
+La información en la interfaz está organizada de manera que los elementos más relevantes, como el precio y la ubicación del espacio, sean inmediatamente visibles. Esto facilita al usuario la evaluación de cada opción sin necesidad de ingresar a detalles adicionales de cada anuncio. 
 </div>
 
 ### 4.2.2. Labeling Systems
