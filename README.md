@@ -371,6 +371,8 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
 </tbody>
 </table>
 
+<br>
+
 
 <table>
 <colgroup>
@@ -517,6 +519,9 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
 </tbody>
 </table>
 
+<br>
+
+
 <table>
 <colgroup>
 </colgroup>
@@ -588,6 +593,9 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   </tr>
 </tbody>
 </table>
+
+<br>
+
 
 <table>
 <colgroup>
