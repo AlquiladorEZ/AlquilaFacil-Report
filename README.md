@@ -98,7 +98,7 @@ En la parte inferior de la pantalla se encuentra una barra de navegación que ag
     - Gestión de reservas
 
 
-***Jerarquización de la información:***
+* ***Jerarquización de la información:***
 La información en la interfaz está organizada de manera que los elementos más relevantes, como el precio y la ubicación del espacio, sean inmediatamente visibles. Esto facilita al usuario la evaluación de cada opción sin necesidad de ingresar a detalles adicionales de cada anuncio. 
 </div>
 
@@ -131,8 +131,6 @@ Los espacios se pueden clasificar por diferentes tipos o características, lo qu
 
 
 ### 4.2.3. SEO Tags and Meta Tags
-
-<br>
 
 <div align="justify">
         Las meta-etiquetas nos permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las leen. Estas etiquetas facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido. Además, influyen en el posicionamiento de nuestra página en los motores de búsqueda. 
