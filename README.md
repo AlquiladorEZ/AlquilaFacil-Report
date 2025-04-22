@@ -906,15 +906,3 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
   </tbody>
 </table>
 
-
-| **Término**      | **Definición**                                           |
-|----------------------------|---------------------------------------------------------------------|
-| **Tenant**                | Arrendatario, quien realiza la reserva de un espacio.         |
-| **Landlord**            | Arrendador, quien publica sus espacios para ser reservados. |
-| **Local**              | Espacio para eventos que contiene diferentes características de acuerdo con el arrendador.               |
-| **Booking**            | Reserva de un espacio, con identificación de arrendatario, fecha y hora de inicio y fin. |
-| **Comment**            | Comentario acerca de un local anexado a su reseña con calificación. |
-| **Calendar**     | Agenda de reservas presentadas tanto para arrendador como arrendatario. |
-| **Report**      | Denuncia hacia algún espacio publicadada por un arrendatario de este mismo. |
-| **District**        | Distrito de locación del espacio publicado. |
-| **Features**               | Características adicionales del espacio publicado.                |
