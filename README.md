@@ -25,6 +25,7 @@
 <div align="justify">
      Como el startup se trata de alquilar centros para eventos y también para publicitar centros que podrían ser alquilados, se vio conveniente llamarlo “AlquilaFácil”.
 </div>
+<br>
 
 ![Artefacto creado en Canva](Resources/Style%20Guidelines/Background-AlquilaFacil.png) 
 
@@ -32,6 +33,7 @@
 <div align="justify">
      El tamaño elegido para la tipografía por el equipo fue: 
 </div>
+<br>
 
 ![Artefacto creado en Canva](Resources/Style%20Guidelines/Typography.png) 
 
@@ -41,6 +43,8 @@
 <div align="justify">
      La gama de colores elegidos son:
 </div>
+
+<br>
 
 ![Artefacto creado en Canva](Resources/Style%20Guidelines/Colors.png) 
 
