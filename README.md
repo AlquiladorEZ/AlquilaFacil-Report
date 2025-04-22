@@ -73,13 +73,13 @@
 
 <div align="justify">
 
-***Búsqueda y filtros personalizados:***
+* ***Búsqueda y filtros personalizados:***
 La aplicación incorpora un motor de búsqueda avanzado acompañado de filtros que permiten a los usuarios refinar los resultados según criterios como ubicación, precio y características específicas del espacio.  
 Esto asegura que el usuario solo vea opciones relevantes, facilitando la toma de decisiones.
 
 <br>
 
-***Tarjetas de visualización de espacios:***
+* ***Tarjetas de visualización de espacios:***
 Los espacios disponibles se muestran en formato de tarjetas visuales, donde se presenta la información más importante de manera clara y concisa.  
 Cada tarjeta incluye:
 
@@ -91,7 +91,7 @@ Cada tarjeta incluye:
 <br>
 
 
-***Barra de navegación inferio:***
+* ***Barra de navegación inferio:***
 En la parte inferior de la pantalla se encuentra una barra de navegación que agrupa las principales funciones de la aplicación, como:
 
 - Búsqueda  
@@ -122,10 +122,10 @@ En la parte superior de la interfaz, los campos de búsqueda y filtro están cla
 Cada tarjeta de espacio cuenta con etiquetas descriptivas que destacan la ubicación y el precio, las cuales están claramente diferenciadas en la interfaz. Estas etiquetas ayudan a los usuarios a identificar los detalles más relevantes de un espacio sin necesidad de interactuar más allá del listado inicial. 
 
 
-***Iconos como Etiquetas Visuales:***
+* ***Iconos como Etiquetas Visuales:***
 La aplicación utiliza iconos ampliamente reconocidos, como la estrella para "puntuaciones" y el botón de "más" para añadir nuevos espacios, que actúan como etiquetas visuales. Estos iconos, en combinación con sus posiciones estratégicas, ofrecen una experiencia intuitiva, reduciendo la necesidad de explicaciones textuales adicionales. 
 
-***Categorías de espacios:***
+* ***Categorías de espacios:***
 Los espacios se pueden clasificar por diferentes tipos o características, lo que permite el uso de etiquetas de categoría. Estas etiquetas aparecen en los resultados de búsqueda para que los usuarios identifiquen rápidamente el tipo de espacio que están viendo (por ejemplo, oficinas, espacios de coworking, etc.). 
 </div>
 
