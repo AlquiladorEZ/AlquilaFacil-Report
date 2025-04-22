@@ -859,7 +859,7 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 ## 2.4. Ubiquitous Language
 
-<table style="align: center;">
+<table align="center">
   <thead>
     <tr>
       <th><strong>Término</strong></th>
