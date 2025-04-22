@@ -70,9 +70,9 @@
 </div>
 
 <div align="justify">
-    ## Funcionalidades de la Interfaz de Usuario
+Funcionalidades de la Interfaz de Usuario
 
-### Búsqueda y filtros personalizados
+**Búsqueda y filtros personalizados**
 La aplicación incorpora un motor de búsqueda avanzado acompañado de filtros que permiten a los usuarios refinar los resultados según criterios como ubicación, precio y características específicas del espacio.  
 Esto asegura que el usuario solo vea opciones relevantes, facilitando la toma de decisiones.
 
@@ -87,7 +87,7 @@ Cada tarjeta incluye:
 - Opción de añadir a favoritos  
 
 
-### Barra de navegación inferior
+**Barra de navegación inferio**
 En la parte inferior de la pantalla se encuentra una barra de navegación que agrupa las principales funciones de la aplicación, como:
 
 - Búsqueda  
