@@ -73,13 +73,13 @@
 
 <div align="justify">
 
-**Búsqueda y filtros personalizados:**
+***Búsqueda y filtros personalizados:***
 La aplicación incorpora un motor de búsqueda avanzado acompañado de filtros que permiten a los usuarios refinar los resultados según criterios como ubicación, precio y características específicas del espacio.  
 Esto asegura que el usuario solo vea opciones relevantes, facilitando la toma de decisiones.
 
 <br>
 
-**Tarjetas de visualización de espacios:**
+***Tarjetas de visualización de espacios:***
 Los espacios disponibles se muestran en formato de tarjetas visuales, donde se presenta la información más importante de manera clara y concisa.  
 Cada tarjeta incluye:
 
@@ -91,7 +91,7 @@ Cada tarjeta incluye:
 <br>
 
 
-**Barra de navegación inferio:**
+***Barra de navegación inferio:***
 En la parte inferior de la pantalla se encuentra una barra de navegación que agrupa las principales funciones de la aplicación, como:
 
 - Búsqueda  
