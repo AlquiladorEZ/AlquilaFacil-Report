@@ -98,9 +98,6 @@ En la parte inferior de la pantalla se encuentra una barra de navegación que ag
 - Notificaciones  
 - Acceso al calendario o eventos  
 - Gestión de reservas  
-### Jerarquización de la información
-La información en la interfaz está organizada de manera que los elementos más relevantes, como el precio y la ubicación del espacio, sean inmediatamente visibles.  
-Esto facilita al usuario la evaluación rápida de cada opción, sin necesidad de ingresar a los detalles individuales de cada anuncio.
 
 </div>
 
