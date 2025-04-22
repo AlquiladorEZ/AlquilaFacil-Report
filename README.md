@@ -859,6 +859,54 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 ## 2.4. Ubiquitous Language
 
+<table style="align: center;">
+  <thead>
+    <tr>
+      <th><strong>Término</strong></th>
+      <th><strong>Definición</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tenant</td>
+      <td>Arrendatario, quien realiza la reserva de un espacio.</td>
+    </tr>
+    <tr>
+      <td>Landlord</td>
+      <td>Arrendador, quien publica sus espacios para ser reservados.</td>
+    </tr>
+    <tr>
+      <td>Local</td>
+      <td>Espacio para eventos que contiene diferentes características de acuerdo con el arrendador.</td>
+    </tr>
+    <tr>
+      <td>Booking</td>
+      <td>Reserva de un espacio, con identificación de arrendatario, fecha y hora de inicio y fin.</td>
+    </tr>
+    <tr>
+      <td>Comment</td>
+      <td>Comentario acerca de un local anexado a su reseña con calificación.</td>
+    </tr>
+    <tr>
+      <td>Calendar</td>
+      <td>Agenda de reservas presentadas tanto para arrendador como arrendatario.</td>
+    </tr>
+    <tr>
+      <td>Report</td>
+      <td>Denuncia hacia algún espacio publicada por un arrendatario de este mismo.</td>
+    </tr>
+    <tr>
+      <td>District</td>
+      <td>Distrito de locación del espacio publicado.</td>
+    </tr>
+    <tr>
+      <td>Features</td>
+      <td>Características adicionales del espacio publicado.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 | **Término**      | **Definición**                                           |
 |----------------------------|---------------------------------------------------------------------|
 | **Tenant**                | Arrendatario, quien realiza la reserva de un espacio.         |
