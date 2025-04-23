@@ -53,6 +53,7 @@ Es una plataforma que permite modelado de diagramas de arquitectura de software 
 
 ### 5.1.2. Source Code Management
 
+<!--
 <div align="justify">
 
 Para el desarrollo y gestión del proyecto, fue creada una organización mediante GitHub, donde se registró todas las modificaciones realizadas a lo largo de su ciclo de vida. Fue estructurado de la siguiente manera:
@@ -82,12 +83,14 @@ Se utilizó el formato **"Semantic Versioning 2.0.0"** para la nomenclatura de l
 - **hotfix:** Son las ramas que se utilizan para corregir errores críticos ocurridos en producción y que necesitan ser resueltos con urgencia. Se originan de la rama main y se fusionan tanto en esta como en la rama develop.
 
 </div>
+-->
 
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration
 
+<!--
 <div align="justify">
 
 Esta sección describe el proceso de configuración y despliegue del software, utilizando las herramientas principales que hemos integrado en nuestro flujo de trabajo: GitHub para el control de versiones y Postman para la verificación de las API antes y después del despliegue.
@@ -116,6 +119,9 @@ Las pruebas automatizadas se ejecutan localmente antes de realizar el despliegue
 
 </div>
 
+-->
+
+
 
 ## 5.2. Product Implementation & Deployment
 
@@ -134,3 +140,9 @@ Las pruebas automatizadas se ejecutan localmente antes de realizar el despliegue
 ### 5.2.7. Team Collaboration Insights
 
 ## 5.3. Video About-the-Product
+
+![Artefacto creado en Youtube](Resources/About%20Product/AboutProductEvidence.png)
+
+**Enlace del video:** https://youtu.be/R445b6178Rs
+
+
