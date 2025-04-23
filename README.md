@@ -15,10 +15,16 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 
 **Project Management**
 
+<br>
+
 * Microsoft 365: https://www.office.com/
+
+<br>
 Microsoft 365 es una plataforma web que facilita la creación de documentos para compartir y editar de forma conjunta. Se utilizó para designar, organizar y hacer un seguimiento de las actividades de trabajo, así como para establecer plazos de entrega.
 
 * Google Meet: https://meet.google.com/
+
+<br>
 Google Meet es una plataforma de videoconferencias que permite realizar videollamadas con múltiples participantes y programar sesiones de trabajo. Se usó como herramienta para llevar a cabo las reuniones del equipo.
 
 <br>
