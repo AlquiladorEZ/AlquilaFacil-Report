@@ -11,7 +11,7 @@ En la siguiente sección, detallaremos las herramientas, convenciones, referenci
 <div align="justify">
 En este apartado, se mencionarán los distintos productos de software empleados por el equipo de desarrollo.
 
-<br>
+<br><br>
 
 **Project Management**
 
