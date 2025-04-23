@@ -114,6 +114,37 @@ Es una plataforma que permite modelado de diagramas de arquitectura de software 
 
 ### 5.1.2. Source Code Management
 
+<div align="justify">
+
+Para el desarrollo y gestión del proyecto, fue creada una organización mediante GitHub, donde se registró todas las modificaciones realizadas a lo largo de su ciclo de vida. Fue estructurado de la siguiente manera:
+
+**Organization:** [https://github.com/Applications-for-Mobile-Devices-WX63](https://github.com/Applications-for-Mobile-Devices-WX63)  
+**Backend Repository:** [https://github.com/Applications-for-Mobile-Devices-WX63/AlquilaFacil-Backend](https://github.com/Applications-for-Mobile-Devices-WX63/AlquilaFacil-Backend)
+
+Por otra parte, para controlar de manera efectiva los cambios en el código de la aplicación y gestionar las ramas por cada repositorio, se ha implementado **GitFlow** para definir y estructurar nuestro flujo de trabajo. Esto involucra la creación de dos ramas principales:
+
+- **main:** También denominada "master", es la rama donde se encuentra la versión más estable del proyecto que va a pasar a producción.
+- **develop:** Es la rama donde se integra el contenido de las features. Va paralela al main.
+
+**Ramas auxiliares:**
+
+- **feature:** Son las ramas donde se desarrollan las funcionalidades del proyecto. Luego de completarlas, se fusionan con la rama develop.  
+  El formato de nomenclatura usado para las ramas ha sido el siguiente: `feature/feature-name`. Aquí, "feature" indica la rama y "feature-name" el nombre de la funcionalidad que se está desarrollando.
+
+- **release:** Son las ramas donde se prepara la próxima versión del programa. En esta, se realizan las pruebas finales y se corrigen pequeños errores antes del lanzamiento definitivo. Finalizado este proceso, los cambios se fusionan con la rama develop, y luego a la rama main.
+
+Se utilizó el formato **"Semantic Versioning 2.0.0"** para la nomenclatura de las versiones del proyecto, por ejemplo: `release/x.y.z`, en donde:
+
+- **X, Y y Z** son números enteros positivos, donde cada uno se incrementa de manera numérica.
+  - **X:** Es la versión mayor. Cada incremento elimina la compatibilidad con versiones anteriores. Esto implica reiniciar a 0 las versiones menores y parche.
+  - **Y:** Es la versión menor. Cada incremento implica que se han introducido funcionalidades que sí son compatibles con versiones anteriores. Cada vez que se incremente, la versión parche se reiniciará a 0.
+  - **Z:** Es la versión parche. Solo se incrementa cuando se realizan correcciones que son compatibles con versiones anteriores.
+
+- **hotfix:** Son las ramas que se utilizan para corregir errores críticos ocurridos en producción y que necesitan ser resueltos con urgencia. Se originan de la rama main y se fusionan tanto en esta como en la rama develop.
+
+</div>
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration
