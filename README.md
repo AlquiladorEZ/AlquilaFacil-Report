@@ -88,6 +88,35 @@ Se utilizó el formato **"Semantic Versioning 2.0.0"** para la nomenclatura de l
 
 ### 5.1.4. Software Deployment Configuration
 
+<div align="justify">
+
+Esta sección describe el proceso de configuración y despliegue del software, utilizando las herramientas principales que hemos integrado en nuestro flujo de trabajo: GitHub para el control de versiones y Postman para la verificación de las API antes y después del despliegue.
+
+**GitHub - Control de Versiones y Flujo de Trabajo**
+
+GitHub es la herramienta central para el control de versiones y la gestión del código en el proyecto. Utilizamos el enfoque de branching basado en GitFlow para garantizar un ciclo de desarrollo ordenado y controlado.
+
+**Postman - Pruebas y Verificación de API**
+
+Utilizamos Postman para verificar y validar las API en el backend antes de realizar el despliegue en producción. La configuración de las colecciones y entornos de Postman nos permite automatizar y estructurar estas pruebas:
+
+**Colecciones de Pruebas**
+
+Se crean colecciones específicas en Postman que contienen todas las solicitudes de las API utilizadas en el proyecto (ej. reservas, usuarios, gestión de vehículos).  
+Cada colección contiene solicitudes GET, POST, PUT y DELETE correspondientes a cada recurso del sistema.
+
+**Variables de Entorno**
+
+Entorno de desarrollo y entorno de producción están configurados como variables en Postman. Esto permite realizar pruebas en múltiples entornos cambiando fácilmente entre ellos.
+
+**Pruebas Automatizadas**
+
+Las colecciones de Postman están configuradas con scripts de pruebas automatizadas que verifican la correcta respuesta de las APIs (códigos de estado HTTP, formatos de respuesta JSON, validación de parámetros, etc.).  
+Las pruebas automatizadas se ejecutan localmente antes de realizar el despliegue en GitHub para asegurar la estabilidad del backend.
+
+</div>
+
+
 ## 5.2. Product Implementation & Deployment
 
 ### 5.2.1. Sprint Backlogs
