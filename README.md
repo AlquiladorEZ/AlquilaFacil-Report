@@ -13,39 +13,39 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 
 **Project Management**
 
-**Microsoft 365:** [https://www.office.com/](https://www.office.com/)  
+* **Microsoft 365:** [https://www.office.com/](https://www.office.com/)  
 Microsoft 365 es una plataforma web que facilita la creación de documentos para compartir y editar de forma conjunta. Se utilizó para designar, organizar y hacer un seguimiento de las actividades de trabajo, así como para establecer plazos de entrega.
 
-**Google Meet:** [https://meet.google.com/](https://meet.google.com/)  
+* **Google Meet:** [https://meet.google.com/](https://meet.google.com/)  
 Google Meet es una plataforma de videoconferencias que permite realizar videollamadas con múltiples participantes y programar sesiones de trabajo. Se usó como herramienta para llevar a cabo las reuniones del equipo.
 
 **Requirements Management**
 
-**Trello:** [https://trello.com/](https://trello.com/)  
+* **Trello:** [https://trello.com/](https://trello.com/)  
 Es un software de gestión de proyectos, que facilita la asignación y organización de las tareas a realizar. Fue utilizado para el Product Backlog.
 
 **Product UX/UI Design**
 
-**UXPressia:** [https://uxpressia.com/](https://uxpressia.com/)  
+* **UXPressia:** [https://uxpressia.com/](https://uxpressia.com/)  
 Es una herramienta en línea que permite a los equipos de trabajo identificar y comprender los problemas, necesidades y comportamiento del usuario en relación con la solución de software que se está desarrollando mediante el uso de plantillas. Se usó para la elaboración de los User Personas, Empathy Maps, Journey Maps e Impact Maps.
 
-**Figma:** [https://www.figma.com/](https://www.figma.com/)  
+* **Figma:** [https://www.figma.com/](https://www.figma.com/)  
 Figma es una herramienta de edición gráfica, en donde se puede diseñar y prototipar páginas web y aplicaciones de manera colaborativa. Se utilizó para crear los wireframes, mock-ups y los desktop and mobile application prototype del proyecto.
 
 **Software Development**
 
-**Web Services**  
+* **Web Services**  
 Para los servicios web, se empleó .NET junto al framework ASP.NET Core. La arquitectura implementada fue basada en RESTful API, permitiendo una comunicación eficiente y segura entre la aplicación móvil y el backend.
 
 **Software Documentation**
 
-**Vertabelo:** [https://vertabelo.com/](https://vertabelo.com/)  
+* **Vertabelo:** [https://vertabelo.com/](https://vertabelo.com/)  
 Es una herramienta online que facilita el diseño, creación y gestión de bases de datos de manera colaborativa. Se usó para diseñar la base de datos del proyecto.
 
-**LucidChart:** [https://lucid.app/](https://lucid.app/)  
+* **LucidChart:** [https://lucid.app/](https://lucid.app/)  
 LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML, así como los Wireflows y User Flows.
 
-**Structurizr:** [https://www.structurizr.com/](https://www.structurizr.com/)  
+* **Structurizr:** [https://www.structurizr.com/](https://www.structurizr.com/)  
 Es una plataforma que permite modelado de diagramas de arquitectura de software por medio de código. Structurizr fue utilizado para crear el modelo C4 del proyecto.
 </div>
 
