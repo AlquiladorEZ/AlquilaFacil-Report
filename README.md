@@ -57,8 +57,8 @@ Es una plataforma que permite modelado de diagramas de arquitectura de software 
 
 Para el desarrollo y gestión del proyecto, fue creada una organización mediante GitHub, donde se registró todas las modificaciones realizadas a lo largo de su ciclo de vida. Fue estructurado de la siguiente manera:
 
-**Organization:** [https://github.com/Applications-for-Mobile-Devices-WX63](https://github.com/Applications-for-Mobile-Devices-WX63)  
-**Backend Repository:** [https://github.com/Applications-for-Mobile-Devices-WX63/AlquilaFacil-Backend](https://github.com/Applications-for-Mobile-Devices-WX63/AlquilaFacil-Backend)
+* **Organization:** [https://github.com/Applications-for-Mobile-Devices-WX63](https://github.com/AlquiladorEZ)  
+* **Backend Repository:** [https://github.com/Applications-for-Mobile-Devices-WX63/AlquilaFacil-Backend](https://github.com/AlquiladorEZ/AlquilaFacil-BackEnd)
 
 Por otra parte, para controlar de manera efectiva los cambios en el código de la aplicación y gestionar las ramas por cada repositorio, se ha implementado **GitFlow** para definir y estructurar nuestro flujo de trabajo. Esto involucra la creación de dos ramas principales:
 
