@@ -242,7 +242,25 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ### 4.3.1. Landing Page Wireframe
 
+![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingWirefram-1.png) 
+
+![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingWirefram-2.png) 
+
+![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingWirefram-3.png) 
+
+**Enlace:** https://www.figma.com/design/Sk1zmVhp0zEdPv97Vlxvwm/Landing-Page?node-id=4-202&p=f&t=B4E2iU0zpHfw3UMs-0
+
 ### 4.3.2. Landing Page Mock-up
+
+![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingMockup-1.png) 
+
+![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingMockup-2.png) 
+
+![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingMockup-3.png) 
+
+![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingMockup-4.png) 
+
+**Enlace:** https://www.figma.com/design/Sk1zmVhp0zEdPv97Vlxvwm/Landing-Page?node-id=4-422&p=f&t=B4E2iU0zpHfw3UMs-0
 
 ## 4.4. Mobile Applications UX/UI Design
 
