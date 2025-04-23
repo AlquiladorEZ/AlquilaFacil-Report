@@ -283,7 +283,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -354,7 +354,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -429,7 +429,7 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -502,7 +502,7 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -579,7 +579,7 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -652,7 +652,7 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
