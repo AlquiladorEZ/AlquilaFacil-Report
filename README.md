@@ -256,9 +256,10 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingMockup-2.png) 
 
-![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingMockup-3.png) 
-
-![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingMockup-4.png) 
+<p align="center">
+  <img src="Resources/Landing Page UXUI/LandingMockup-3.png" alt="Artefacto creado en Figma" />
+  <img src="Resources/Landing Page UXUI/LandingMockup-4.png" alt="Artefacto creado en Figma" />
+</p>
 
 **Enlace:** https://www.figma.com/design/Sk1zmVhp0zEdPv97Vlxvwm/Landing-Page?node-id=4-422&p=f&t=B4E2iU0zpHfw3UMs-0
 
