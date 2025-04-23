@@ -22,6 +22,8 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 <br>
 Microsoft 365 es una plataforma web que facilita la creación de documentos para compartir y editar de forma conjunta. Se utilizó para designar, organizar y hacer un seguimiento de las actividades de trabajo, así como para establecer plazos de entrega.
 
+<br>
+
 * Google Meet: https://meet.google.com/
 
 <br>
