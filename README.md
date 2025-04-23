@@ -254,11 +254,7 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ![Artefacto creado en Figma](Resources/Mobile%20Application%20UXUI/Wireframe-3.png) 
 
-<div align="justify">
-
 **Enlace:** https://www.figma.com/design/ZgcH4GPA3oBLZf4SvVs52Z/Mobile-App?node-id=1-207&p=f&t=CgMdhjsdUrnIRfBA-0
-
-</div>
 
 <br>
 
@@ -285,11 +281,8 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ![Artefacto creado en Figma](Resources/Mobile%20Application%20UXUI/Prototype-1.png) 
 
-<div align="justify">
-
 **Enlace:** https://www.figma.com/proto/ZgcH4GPA3oBLZf4SvVs52Z/Mobile-App?node-id=1-210&node-type=frame&t=2wssaIdHMNDPcFkT-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A206&starting-point-node-id=323%3A5448
 
-</div>
 
 <br>
 
