@@ -55,6 +55,8 @@
     Teniendo en cuenta que tanto para la Web App se han utilizado los mismo estilos base ya predeterminados, como lo son: La tipografía, los colores y el brand del producto AlquilaFacil, hay ciertos aspectos que se diferencian dentro de la versión Mobile y Web. Por ejemplo:
 </div>
 
+<br>
+
 **Toolbar:**
 <div align="justify">
      Una de las principales notoriedades es la Toolbar, al tratarse de una plataforma Web a diferencia de la contraparte Mobile, se tiene la posibilidad de ser mucho más amplia y tener el contenido más disperso.
@@ -82,7 +84,40 @@
 
 ### 4.1.3. Mobile Style Guidelines
 
+<div align="justify">
+Entre las plataformas de AlquilaFacil Mobile, existe una característica que comparten ambas plataformas del App Moblile, el cuál es la NavBar del aplicativo.
+</div>
+
+<br>
+
+**Navbar:**
+<div align="justify">
+    En comparación con la versión de escritorio, la barra de nevagación es mucho más reducida y sintetizada a íconos alusivos a las funcionalidades principales de AlquilaFacil
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Mobile%20Styles/MobileBar.png) 
+
 #### 4.1.3.1. iOS Mobile Style Guidelines
+
+**Buttons:**
+<div align="justify">
+    Ambas versiones tanto como para Android e iOS comparten similitudes en todos los aspectos, sin embargo hay ciertos botonos por ejemplo que en la versión de iOS son enfocados más en colores Blancos o Negros, como por ejemplo:
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Mobile%20Styles/IPhoneBackButton.png) 
+
+<br>
+
+**Espaciado:**
+<div align="justify">
+    La versión de AlquilaFacil de iOS cuenta con un mayor espaciado en los lados, en comparación con su versión de Android.
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Mobile%20Styles/IPhoneSpacing.png) 
+
 
 #### 4.1.3.2. Android Mobile Style Guidelines
 
