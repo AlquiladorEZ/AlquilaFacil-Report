@@ -385,47 +385,47 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Walter Sebastian</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Vallejos Almanza</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>26 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>La Molina</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Facebook e Instagram</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Atraer más clientes, gestionar reservas eficientemente y contar con pagos seguros y herramientas avanzadas para promoción.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Dependencia de redes sociales y falta de plataformas adaptadas a las necesidades específicas del alquiler de espacios para eventos.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Google Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Abel Valle</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-3.PNG" alt="Entrevista a Sebastian Vallejos"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -438,6 +438,7 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+    Sebastián Vallejos, arrendador de espacios para eventos, destaca que enfrenta desafíos para promocionar sus propiedades, como salones, terrazas y jardines, y gestionar reservas sin errores. Actualmente, realiza pagos mediante transferencias bancarias y efectivo, aunque busca opciones más seguras y rápidas. Promociona sus espacios principalmente en redes sociales como Facebook e Instagram, pero reconoce una fuerte dependencia de estas plataformas. Considera que una plataforma ideal debe ser fácil de usar, segura en las transacciones y eficiente en la gestión de reservas, además de incluir herramientas de promoción y sincronización con calendarios. Está dispuesto a pagar una tarifa razonable si el servicio incrementa sus clientes y facilita la operación. Con experiencia previa en plataformas como Airbnb, señala que estas no están diseñadas para espacios de eventos y sugiere añadir funciones como chat directo con clientes, análisis de promociones y sincronización de calendarios para cubrir necesidades específicas.
     </td>
   </tr>
 </tbody>
