@@ -158,20 +158,19 @@
 # Student Outcome
 
 **ABET – EAC – Student Outcome 5**
-Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+
+<div align="justify">
+    Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
 juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
 establecen objetivos, planifican tareas y cumplen objetivos
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
+</div>    
+
 
 <div align="justify">
-
-| Criterio Específico | Acciones Realizadas | Conclusiones |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **TB1:**<br><br>Ames Oviedo, Mariano Jose<br><br>XXX<br><br>Criollo de la Cruz, Diego Anderson	<br><br>XXXX<br><br>Lecca Choccare, Christopher Bryan	<br><br>XXXX<br><br>Sosa Colca, Angello Rodolfo	<br><br>XXX <br><br>Valle Zuta, Abel Andrés<br><br>XXX <br><br>  | **TB1:** <br><br>XXXX <br><br> |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.	 | **TB1:**<br><br>Ames Oviedo, Mariano Jose<br><br>XXX<br><br>Criollo de la Cruz, Diego Anderson	<br><br>XXXX<br><br>Lecca Choccare, Christopher Bryan	<br><br>XXXX<br><br>Sosa Colca, Angello Rodolfo	<br><br>XXX <br><br>Valle Zuta, Abel Andrés<br><br>XXX <br><br> | **TB1:** <br><br>XXXX <br><br>  |
 
 <table>
   <tr>
@@ -184,9 +183,13 @@ del ABET – EAC - Student Outcome 5.
     <td>
       <strong>TB1:</strong><br><br>
       Ames Oviedo, Mariano Jose<br>
-      XXX<br><br>
+      XXX
+      <br><br>
       Criollo de la Cruz, Diego Anderson<br>
-      XXXX<br><br>
+      En el desarrollo del TB1, asumí un rol activo dentro del equipo encargándome principalmente de la elaboración de la documentación técnica y la corrección de errores en el desarrollo general del proyecto. Estas tareas me permitieron no solo aportar a la     
+      organización y claridad del trabajo en grupo, sino también apoyar a mis compañeros identificando y solucionando problemas técnicos de manera colaborativa. Considero que, a través de estas acciones, contribuí al liderazgo conjunto del equipo, asegurando que 
+      avanzáramos de forma coordinada hacia los objetivos planteados.
+      <br><br>
       Lecca Choccare, Christopher Bryan<br>
       XXXX<br><br>
       Sosa Colca, Angello Rodolfo<br>
@@ -204,13 +207,19 @@ del ABET – EAC - Student Outcome 5.
     <td>
       <strong>TB1:</strong><br><br>
       Ames Oviedo, Mariano Jose<br>
-      XXX<br><br>
+      XXX
+      <br><br>
       Criollo de la Cruz, Diego Anderson<br>
-      XXXX<br><br>
+      Durante el desarrollo del TB1, me encargué de redactar la documentación del proyecto, asegurándome de que la información técnica estuviera presentada de forma clara, ordenada y objetiva. Me enfoqué en que los resultados y decisiones del equipo pudieran ser 
+      comprendidos tanto por personas con formación técnica como por aquellas de otras áreas. Esta experiencia me permitió mejorar mi capacidad de comunicar ideas por escrito de manera efectiva, adaptando el lenguaje según el público y manteniendo siempre un enfoque 
+      profesional y comprensible para todos los niveles jerárquicos involucrados.
+      <br><br>
       Lecca Choccare, Christopher Bryan<br>
-      XXXX<br><br>
+      XXXX
+      <br><br>
       Sosa Colca, Angello Rodolfo<br>
-      XXX<br><br>
+      XXX
+      <br><br>
       Valle Zuta, Abel Andrés<br>
       XXX
     </td>
