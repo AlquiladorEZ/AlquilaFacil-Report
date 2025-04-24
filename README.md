@@ -287,7 +287,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>00:05 min - 05:20 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -358,7 +358,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>05:21 min - 10:15 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -433,7 +433,7 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>10:16 min - 13:54 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -507,7 +507,7 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>13:56 min - 18:30 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -584,7 +584,7 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>04:36 min - 10:20 min </td>
+    <td>18:31 min - 24:14 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -657,7 +657,7 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 00:00 min </td>
+    <td>24:15 min - 29:54 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
