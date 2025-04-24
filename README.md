@@ -248,7 +248,7 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ![Artefacto creado en Figma](Resources/Landing%20Page%20UXUI/LandingWirefram-3.png) 
 
-**Enlace:** https://www.figma.com/design/Sk1zmVhp0zEdPv97Vlxvwm/Landing-Page?node-id=4-202&p=f&t=B4E2iU0zpHfw3UMs-0
+**Enlace:** https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=0-1&p=f&t=KCXgjx4xgr76zKvo-0
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -261,7 +261,7 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
   <img src="Resources/Landing Page UXUI/LandingMockup-4.png" alt="Artefacto creado en Figma" />
 </p>
 
-**Enlace:** https://www.figma.com/design/Sk1zmVhp0zEdPv97Vlxvwm/Landing-Page?node-id=4-422&p=f&t=B4E2iU0zpHfw3UMs-0
+**Enlace:** https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=2-259&p=f&t=KCXgjx4xgr76zKvo-0
 
 ## 4.4. Mobile Applications UX/UI Design
 
@@ -273,7 +273,7 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ![Artefacto creado en Figma](Resources/Mobile%20Application%20UXUI/Wireframe-3.png) 
 
-**Enlace:** https://www.figma.com/design/ZgcH4GPA3oBLZf4SvVs52Z/Mobile-App?node-id=1-207&p=f&t=CgMdhjsdUrnIRfBA-0
+**Enlace:** https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=76-3768&p=f&t=KCXgjx4xgr76zKvo-0
 
 <br>
 
@@ -287,7 +287,7 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ![Artefacto creado en Figma](Resources/Mobile%20Application%20UXUI/Mockup-3.png) 
 
-**Enlace:** https://www.figma.com/design/ZgcH4GPA3oBLZf4SvVs52Z/Mobile-App?node-id=1-206&p=f&t=CgMdhjsdUrnIRfBA-0
+**Enlace:** https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=76-517&p=f&t=KCXgjx4xgr76zKvo-0
 
 
 <br>
@@ -302,7 +302,6 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 **Enlace:** https://www.figma.com/proto/ZgcH4GPA3oBLZf4SvVs52Z/Mobile-App?node-id=323-5448&p=f&t=m5g3QGHQaj8HwQ0a-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A206&starting-point-node-id=323%3A5448
 
-
 <br>
 
 ### 4.5.2. iOS Mobile Applications Prototyping
@@ -311,9 +310,27 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ### 4.6.1. Web Applications Wireframes
 
+![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebWireframe-1.png) 
+
+![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebWireframe-2.png) 
+
+![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebWireframe-3.png) 
+
+![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebWireframe-4.png) 
+
+**Enlace:** https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=76-3769&p=f&t=KCXgjx4xgr76zKvo-0
+
 ### 4.6.2. Web Applications Wireflow Diagrams
 
 ### 4.6.3. Web Applications Mock-ups
+
+![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebMockup-1.png) 
+
+![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebMockup-2.png) 
+
+![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebMockup-3.png) 
+
+**Enlace:** https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=76-3767&p=f&t=KCXgjx4xgr76zKvo-0
 
 ### 4.6.4. Web Applications User Flow Diagrams
 
