@@ -169,9 +169,10 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 del ABET – EAC - Student Outcome 5.
 </div>    
 
+<div align="justify">
+</div>    
 
 <div align="justify">
-
 <table>
   <tr>
     <th>Criterio Específico</th>
@@ -241,11 +242,14 @@ del ABET – EAC - Student Outcome 5.
 
 ### 1.1.1 Descripción de la Startup
 
-AlquilaFacil es un startup fundado en el 2025, por un grupo de estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra empresa emergente se enfoca en la simplificación del proceso de búsqueda de alquiler de espacios para eventos, así como la administración de los mismos.
+<div align="justify">
+    AlquilaFacil es un startup fundado en el 2025, por un grupo de estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra empresa emergente se enfoca en la simplificación del proceso de búsqueda de alquiler de espacios para eventos, así como la administración de los mismos.
 
 **Misión:** Revolucionar el alquiler de espacios para eventos con una plataforma intuitiva que une a arrendadores y arrendatarios de manera rápida y sencilla. 
 
 **Visión:** Consolidarnos como la referencia global en alquiler de espacios para eventos, redefiniendo el sector con soluciones inteligentes y una experiencia excepcional.
+</div>    
+
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -265,7 +269,11 @@ AlquilaFacil es un startup fundado en el 2025, por un grupo de estudiantes de la
 
 ## 1.2. Solution Profile
 
-En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus características distintivas y propuestas de valor. 
+
+
+
+<div align="justify">
+    En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus características distintivas y propuestas de valor. 
 
 **Product Name:** AlquilaFacil
 
@@ -281,6 +289,7 @@ También es importante mencionar la creciente demanda por la elaboración de eve
 
 Ante ello, podemos demostrar que en el Perú el número de personas con acceso a internet a incrementado considerablemente en los últimos dos años, por otro lado, también justificamos la necesidad de una plataforma para facilitar la búsqueda en alquiler de espacios ante la creciente demanda de estas por parte de las empresas.
 
+</div>    
 
 
 **Problemáticas - Técnica de las 5 'W's y 2 'H's**
@@ -358,9 +367,8 @@ Hemos identificado que, en el mercado de alquiler de espacios, los usuarios enfr
 
 #### 1.2.2.2. Lean UX Assumptions
 
-
-
-**Business Outcomes:** 
+<div align="justify">
+    **Business Outcomes:** 
 
 - Asegurar que la plataforma procese al menos 1,000 reservas de eventos en el primer año, optimizando la gestión y la comunicación entre arrendadores y arrendatarios. 
 
@@ -432,11 +440,15 @@ Hemos identificado que, en el mercado de alquiler de espacios, los usuarios enfr
  
 
   - Los arrendatarios de eventos experimentarán una mejora del 30% en la satisfacción con la calidad y adecuación de los espacios reservados, medida a través de reseñas y calificaciones en la plataforma durante el primer año. 
+</div>  
+
+
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-
-Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [We believe that], [This will achieve] y [We will have demostrated this when] 
+  
+<div align="justify">
+    Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [We believe that], [This will achieve] y [We will have demostrated this when] 
 
 **Hipótesis 1**
 
@@ -475,6 +487,9 @@ Sabremos que estamos en lo correcto cuando observemos un aumento del 20% en la c
 Creemos que, al implementar un programa de referidos que recompense a los usuarios por traer nuevos arrendadores o arrendatarios a nuestra plataforma, aumentaremos la adquisición de usuarios y fomentaremos el crecimiento orgánico de nuestra base de clientes. 
 
 Sabremos que estamos en lo correcto cuando observemos un aumento del 35% en la cantidad de nuevos registros y un incremento en el número de referidos realizados por los usuarios existentes, dentro de los primeros tres meses de implementación del programa.
+</div>    
+
+
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -482,7 +497,10 @@ Sabremos que estamos en lo correcto cuando observemos un aumento del 35% en la c
 
 ## 1.3. Segmentos objetivo
 
-En esta sección, identificamos los segmentos de clientes específicos a los que se dirige AlquilaFacil, basándonos en características demográficas, comportamientos y necesidades compartidas. 
+
+
+<div align="justify">
+    En esta sección, identificamos los segmentos de clientes específicos a los que se dirige AlquilaFacil, basándonos en características demográficas, comportamientos y necesidades compartidas. 
 
 **Arrendatarios:** 
 
@@ -499,5 +517,8 @@ En esta sección, identificamos los segmentos de clientes específicos a los que
 - Características: Ofrecen una variedad de espacios con diferentes capacidades y servicios. 
 
 - Necesidades: Promoción efectiva de sus espacios, gestión eficiente de reservas, acceso a herramientas para administrar sus listados, capacidad de poder gestionar y recibir reportes de sus inmuebles y proyectos de eventos. 
+
+</div>    
+
 
 
