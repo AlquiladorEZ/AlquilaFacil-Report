@@ -51,6 +51,35 @@
 
 ### 4.1.2. Web Style Guidelines
 
+<div align="justify">
+    Teniendo en cuenta que tanto para la Web App se han utilizado los mismo estilos base ya predeterminados, como lo son: La tipografía, los colores y el brand del producto AlquilaFacil, hay ciertos aspectos que se diferencian dentro de la versión Mobile y Web. Por ejemplo:
+</div>
+
+**Toolbar:**
+<div align="justify">
+     Una de las principales notoriedades es la Toolbar, al tratarse de una plataforma Web a diferencia de la contraparte Mobile, se tiene la posibilidad de ser mucho más amplia y tener el contenido más disperso.
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Web%20Styles/WebNavbar.png) 
+
+**Inputs/Buttons:**
+<div align="justify">
+     Al tener mucho más espacio en la pantalla, los inputs y botones de la Web App son mucho más grandes y con mayor espaciado.
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Web%20Styles/WebInputs.png) 
+
+**Espaciado**
+<div align="justify">
+     Siguiendo lo mencionado antes, teniendo en cuenta que el tamaño de la pantalla de una Web App es mucho más amplio, se puede tener un espacio mejor entre los componentes y elementos para una visibilidad más intuitiva.
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Web%20Styles/WebSpacing.png) 
+
+
 ### 4.1.3. Mobile Style Guidelines
 
 #### 4.1.3.1. iOS Mobile Style Guidelines
