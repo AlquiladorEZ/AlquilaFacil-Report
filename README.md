@@ -424,8 +424,6 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 A continuación, se visualizarán los diagramas C4. 
 </div>
 
-<br>
-
 ### 4.8.1. Software Architecture Context Diagram
 
 ### 4.8.2. Software Architecture Container Diagrams
