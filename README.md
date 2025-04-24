@@ -173,31 +173,58 @@ del ABET – EAC - Student Outcome 5.
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **TB1:**<br><br>Ames Oviedo, Mariano Jose<br><br>XXX<br><br>Criollo de la Cruz, Diego Anderson	<br><br>XXXX<br><br>Lecca Choccare, Christopher Bryan	<br><br>XXXX<br><br>Sosa Colca, Angello Rodolfo	<br><br>XXX <br><br>Valle Zuta, Abel Andrés<br><br>XXX <br><br>  | **TB1:** <br><br>XXXX <br><br> |
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.	 | **TB1:**<br><br>Ames Oviedo, Mariano Jose<br><br>XXX<br><br>Criollo de la Cruz, Diego Anderson	<br><br>XXXX<br><br>Lecca Choccare, Christopher Bryan	<br><br>XXXX<br><br>Sosa Colca, Angello Rodolfo	<br><br>XXX <br><br>Valle Zuta, Abel Andrés<br><br>XXX <br><br> | **TB1:** <br><br>XXXX <br><br>  |
 
+<table>
+  <tr>
+    <th>Criterio Específico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      Ames Oviedo, Mariano Jose<br>
+      XXX<br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+      XXXX<br><br>
+      Lecca Choccare, Christopher Bryan<br>
+      XXXX<br><br>
+      Sosa Colca, Angello Rodolfo<br>
+      XXX<br><br>
+      Valle Zuta, Abel Andrés<br>
+      XXX
+    </td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      XXXX
+    </td>
+  </tr>
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      Ames Oviedo, Mariano Jose<br>
+      XXX<br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+      XXXX<br><br>
+      Lecca Choccare, Christopher Bryan<br>
+      XXXX<br><br>
+      Sosa Colca, Angello Rodolfo<br>
+      XXX<br><br>
+      Valle Zuta, Abel Andrés<br>
+      XXX
+    </td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      XXXX
+    </td>
+  </tr>
+</table>
+
+
 </div>
 
 <div style="page-break-after: always;"></div>
-
-<table>
-  <thead>
-    <tr>
-      <th>Criterio específico</th>
-      <th>Acciones realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-      <td>TB1: <br>
-      <td></td>
-      </tr>
-      <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
-      <td>TB1: <br>
-      <td></td>
-      </td>
-
-      
-  </table>
 
 # Capítulo I: Introducción
 
