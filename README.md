@@ -239,43 +239,43 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Mauricio</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Rojas Ugarte</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Pueblo Libre</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Excel</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Es un arrendador de espacios para eventos, el cual afronta diversos desafíos con serenidad y piensa en como superarlos.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Las herramientas que posee no resultan ser del todo prácticas a la hora de gestionar sus espacios</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>	iOS, Android y Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Google Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Angello Sosa </td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -292,7 +292,10 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
-    </td>
+    El entrevistado Mauricio Ugarte tiene 25 años y reside en Pueblo Libre, él es un arrendador con 3 años en el negocio. Durante la entrevisto nos revelo diversos datos sobre cómo lleva a cabo el proceso de gestionar sus locales, dentro de esta información se encuentra que maneja el sistema de disponibilidad de sus locales de forma manual, mediante el uso de aplicativos como Excel.
+    Asimismo, indicó que la comunicación hacia sus clientes se realiza mediante aplicaciones de mensajería instantánea no formales como WhatsApp para los clientes y contacta con nuevos clientes mediante redes sociales como Facebook.
+    También indicó que desearía que todos estos servicios se encuentran unificados en una aplicación, ya que esto haría que ahorre mucho tiempo y así mismo para tener un mejor orden ya que no desea estar colocando todos los datos de manera real.
+</td>
   </tr>
 </tbody>
 </table>
