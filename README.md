@@ -612,47 +612,47 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Ariana</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Torpoco Baltazar</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td></td>
+    <td>25 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Airbnb</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Encontrar una aplicación que le permita encontrar la mejor opción para alquilar lugares para eventos.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>No encuentra una aplicación que muestre de forma amigable todas las mejores opciones para reservar de acuerdo al evento planificado.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Mac, Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Google Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td></td>
+    <td>Abel Valle</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="//" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendatario-3.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -665,6 +665,7 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+    Ariana Torpoco, administrativa de 25 años en Centrum PUCP, organiza reuniones corporativas y eventos académicos al menos una vez al mes, por lo que necesita una plataforma que le permita alquilar espacios de forma rápida, segura y con información detallada sobre servicios como capacidad, equipamiento audiovisual y catering. Ha tenido experiencias negativas con plataformas que no ofrecen opciones claras de modificación o cancelación, lo que complica su planificación. Para Ariana, es fundamental contar con filtros avanzados, comunicación directa con arrendadores, gestión de reservas recurrentes y recordatorios automáticos. Además, considera clave la inclusión de políticas claras de cancelación y opciones de pago flexibles para generar confianza.
     </td>
   </tr>
 </tbody>
