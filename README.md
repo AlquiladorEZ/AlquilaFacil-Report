@@ -121,6 +121,24 @@ Entre las plataformas de AlquilaFacil Mobile, existe una característica que com
 
 #### 4.1.3.2. Android Mobile Style Guidelines
 
+**Buttons:**
+<div align="justify">
+    Ambas versiones tanto como para Android e iOS comparten similitudes en todos los aspectos, sin embargo en la versión para Android, los botones cuentan con un estilo mucho más colorido.
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Mobile%20Styles/AndroidBackButton.png) 
+
+<br>
+
+**Espaciado:**
+<div align="justify">
+    La versión de AlquilaFacil de Android cuenta con un espacio mucho más reducido en los lados, abarcando un contenido más grande dentro de los contenedores principales del App Mobile.
+</div>
+<br>
+
+![Artefacto creado en Canva](Resources/Mobile%20Styles/AndroidSpacing.png) 
+
 ## 4.2. Information Architecture
 
 <div align="justify">
