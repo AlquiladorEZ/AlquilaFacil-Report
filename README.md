@@ -526,8 +526,6 @@ Una API RESTful se basa en los siguientes principios fundamentales:
   * **500 Internal Server Error:** Error inesperado en el servidor.
 
 * **Formato de respuesta:** Todas las respuestas se estructuran en formato JSON, incluyendo:
-
-:::
 ```
 {
   "success": true,
@@ -535,7 +533,6 @@ Una API RESTful se basa en los siguientes principios fundamentales:
   "data": { ... }
 }
 ```
-:::
 Esto facilita la interpretación por parte del cliente y mantiene la uniformidad en la comunicación.
 
 
