@@ -224,6 +224,8 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 **Evidencia en Trello:**
 
+![Artefacto creado en Trello](Resources/Sprint%20Backlog/Sprint%20Evidence-1.png)
+
 **Sprint Backlog 01:**
 
 <table align="center">
@@ -417,11 +419,42 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 ### 5.2.2. Implemented Landing Page Evidence
 
+**Evidencias del avance de la implementación de la Landing Page:**
+
+![Captura de Pantalla](Resources/Evidences/Landing%20Evidence-1.png)
+
+![Captura de Pantalla](Resources/Evidences/Landing%20Evidence-2.png)
+
+![Captura de Pantalla](Resources/Evidences/Landing%20Evidence-3.png)
+
+![Captura de Pantalla](Resources/Evidences/Landing%20Evidence-4.jpeg)
+
 ### 5.2.3. Implemented Frontend-Web Application Evidence
+
+**Evidencias del avance de la implementación de la Web App:**
+
+![Captura de Pantalla](Evidences/App%20Web%20Evidence-1.jpeg)
+
+![Captura de Pantalla](Evidences/App%20Web%20Evidence-2.jpeg)
+
+![Captura de Pantalla](Evidences/App%20Web%20Evidence-3.jpeg)
 
 ### 5.2.4. Implemented Native-Mobile Application Evidence
 
+**Evidencias del avance de la implementación de la Mobile App:**
+
 ### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+
+**Evidencias del avance de la implementación del Back-end/Web Services:**
+
+![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-1.jpeg)
+
+![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-2.jpeg)
+
+![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-3.jpeg)
+
+![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-4.png)
+
 
 ### 5.2.6. RESTful API documentation
 
