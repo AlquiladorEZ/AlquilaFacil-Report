@@ -212,6 +212,8 @@ Las pruebas automatizadas se ejecutan localmente antes de realizar el despliegue
 En esta sección se muestran los tasks que se realizaron en cada sprint respectivo y se adjunta una captura en Trello del avance hasta dicho sprint y el link del tablero.
 </div>
 
+<br>
+
 **Enlace del Trello:** https://trello.com/b/MGs17EpK/product-backlog-dise%C3%B1o-de-experimentos-de-ingenier%C3%ADa-de-software
 
 <br>
@@ -411,9 +413,6 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 </table>
   
 </div>
-
-
-
 
 
 ### 5.2.2. Implemented Landing Page Evidence
