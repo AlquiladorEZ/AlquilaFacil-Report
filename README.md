@@ -361,6 +361,10 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ### 4.4.2. Mobile Applications Wireflow Diagrams
 
+![Artefacto creado en Overflow](Resources/Wireflow%20Diagrams/MobileWireflow1.png)
+
+![Artefacto creado en Overflow](Resources/Wireflow%20Diagrams/MobileWireflow2.png)
+
 ### 4.4.3. Mobile Applications Mock-ups
 
 ![Artefacto creado en Figma](Resources/Mobile%20Application%20UXUI/Mockup-1.png) 
@@ -375,6 +379,12 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 <br>
 
 ### 4.4.4. Mobile Applications User Flow Diagrams
+
+![Artefacto creado en Overflow](Resources/Userflow%20Diagrams/MobileUserflow1.png)
+
+![Artefacto creado en Overflow](Resources/Userflow%20Diagrams/MobileUserflow2.png)
+
+![Artefacto creado en Overflow](Resources/Userflow%20Diagrams/MobileUserflow3.png)
 
 ## 4.5. Mobile Applications Prototyping
 
@@ -404,6 +414,10 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ### 4.6.2. Web Applications Wireflow Diagrams
 
+![Artefacto creado en Overflow](Resources/Wireflow%20Diagrams/WebWireflow1.png)
+
+![Artefacto creado en Overflow](Resources/Wireflow%20Diagrams/WebWireflow2.png)
+
 ### 4.6.3. Web Applications Mock-ups
 
 ![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebMockup-1.png) 
@@ -415,6 +429,10 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 **Enlace:** https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=76-3767&p=f&t=KCXgjx4xgr76zKvo-0
 
 ### 4.6.4. Web Applications User Flow Diagrams
+
+![Artefacto creado en Overflow](Resources/Userflow%20Diagrams/WebUserflow1.png)
+
+![Artefacto creado en Overflow](Resources/Userflow%20Diagrams/WebUserflow2.png)
 
 ## 4.7. Web Applications Prototyping
 
