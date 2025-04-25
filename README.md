@@ -470,6 +470,7 @@ A continuación, se presenta una descripción detallada de la documentación de 
 
 Una API RESTful se basa en los siguientes principios fundamentales:
 
+
 * **Recursos como entidades centrales:** Cada recurso (por ejemplo, usuarios, espacios, reservas) se representa mediante una URI única.
 
 * **Operaciones a través de verbos HTTP:** Las operaciones sobre los recursos se realizan mediante los verbos HTTP estándar:
@@ -480,7 +481,7 @@ Una API RESTful se basa en los siguientes principios fundamentales:
 
   * **PUT:** Actualizar un recurso existente.
 
-  * **DELETE: Eliminar un recurso.
+  * **DELETE:** Eliminar un recurso.
 
 * **Sin estado (stateless):** Cada solicitud debe contener toda la información necesaria para ser procesada. El servidor no almacena estado entre peticiones.
 
