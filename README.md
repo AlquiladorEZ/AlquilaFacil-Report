@@ -443,17 +443,21 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 **Evidencias del avance de la implementación de la Mobile App:**
 
+<p align="center">
+  <img src="Resources/Evidences/Backend%20Evidence-1.jpeg" alt="Captura de Pantalla"/>
+</p>
+
 ### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 
 **Evidencias del avance de la implementación del Back-end/Web Services:**
 
 <p align="center">
-  <img src="Resources/Evidences/Backend%20Evidence-1.jpeg" alt="Captura de Pantalla"/>
-  <img src="Resources/Evidences/Backend%20Evidence-2.jpeg" alt="Captura de Pantalla"/>
-  <img src="Resources/Evidences/Backend%20Evidence-3.jpeg" alt="Captura de Pantalla"/>
+  <img src="Resources/Evidences/App%20Mobile%20Evidence-1.jpeg" alt="Captura de Pantalla"/>
+  <img src="Resources/Evidences/App%20Mobile%20Evidence-2.jpeg" alt="Captura de Pantalla"/>
+  <img src="Resources/Evidences/App%20Mobile%20Evidence-3.jpeg" alt="Captura de Pantalla"/>
 </p>
 
-![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-4.png)
+![Captura de Pantalla](Resources/Evidences/App%20Mobile%20Evidence-4.png)
 
 
 ### 5.2.6. RESTful API documentation
