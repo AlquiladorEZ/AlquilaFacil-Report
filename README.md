@@ -227,6 +227,10 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 <table align="center">
   <thead>
     <tr>
+    <td colspan="2" align="center"><strong>Sprint # Sprint 1</strong></td>
+    <td colspan="4" align="center"><strong>User Story / Work-Item Task</strong></td>
+    </tr>
+    <tr>
       <th><center>Id</center></th>
       <th><center>Title</center></th>
       <th><center>Id</center></th>
