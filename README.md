@@ -495,11 +495,9 @@ Una API RESTful se basa en los siguientes principios fundamentales:
 
 * **Formato del encabezado requerido:**
 
-:::
 ```
 <title>Register your processes with AlquilaFacil</title>
 ```
-:::
 
 * Los tokens JWT permiten autenticar y autorizar a los usuarios sin necesidad de mantener sesiones en el servidor, lo cual es coherente con el principio stateless.
 
