@@ -358,7 +358,7 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
       <td><center>Reservar espacios</center></td>
       <td><center>W13</center></td>
       <td><center>Reservar espacios - App Web</center></td>
-      <td><center>5</center></td>
+      <td><center>4</center></td>
       <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
@@ -367,7 +367,7 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
       <td><center>Reservar espacios</center></td>
       <td><center>W14</center></td>
       <td><center>Reservar espacios - App Mobile</center></td>
-      <td><center>5</center></td>
+      <td><center>4</center></td>
       <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
@@ -376,7 +376,7 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
       <td><center>Gestionar calendario de reservas</center></td>
       <td><center>W15</center></td>
       <td><center>Gestionar calendario de reservas - App Web</center></td>
-      <td><center>4</center></td>
+      <td><center>3</center></td>
       <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
@@ -385,16 +385,16 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
       <td><center>Gestionar calendario de reservas</center></td>
       <td><center>W16</center></td>
       <td><center>Gestionar calendario de reservas - App Mobile</center></td>
-      <td><center>4</center></td>
+      <td><center>3</center></td>
       <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
     <tr>
-      <td><center>US08</center></td>
-      <td><center>Gestionar calendario de reservas</center></td>
+      <td><center>US12</center></td>
+      <td><center>Visualizar espacios propios publicados</center></td>
       <td><center>W17</center></td>
-      <td><center>Gestionar calendario de reservas - Web Services</center></td>
-      <td><center>4</center></td>
+      <td><center>Visualizar espacios propios publicados - App Web</center></td>
+      <td><center>3</center></td>
       <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
@@ -402,26 +402,8 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
       <td><center>US12</center></td>
       <td><center>Visualizar espacios propios publicados</center></td>
       <td><center>W18</center></td>
-      <td><center>Visualizar espacios propios publicados - App Web</center></td>
-      <td><center>4</center></td>
-      <td><center>XXXX</center></td>
-      <td><center>Done</center></td>
-    </tr>
-    <tr>
-      <td><center>US12</center></td>
-      <td><center>Visualizar espacios propios publicados</center></td>
-      <td><center>W19</center></td>
       <td><center>Visualizar espacios propios publicados - App Mobile</center></td>
-      <td><center>4</center></td>
-      <td><center>XXXX</center></td>
-      <td><center>Done</center></td>
-    </tr>
-    <tr>
-      <td><center>US12</center></td>
-      <td><center>Visualizar espacios propios publicados</center></td>
-      <td><center>W20</center></td>
-      <td><center>Visualizar espacios propios publicados - Web Services</center></td>
-      <td><center>4</center></td>
+      <td><center>3</center></td>
       <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
