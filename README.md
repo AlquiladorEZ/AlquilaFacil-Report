@@ -461,26 +461,68 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 ### 5.2.6. RESTful API documentation
 
 <div align="justify">
-A continuación, se explicará detalladamente la documentación implementada de RESTful API desarrollada para este sistema. Esta API permite la interacción entre clientes (web o móvil) y el backend, siguiendo los principios REST: recursos claramente definidos, uso adecuado de verbos HTTP y respuestas en formato JSON.
+A continuación, se presenta una descripción detallada de la documentación de la RESTful API desarrollada para este sistema. Esta interfaz de programación de aplicaciones permite la comunicación entre clientes (tanto web como móviles) y el servidor backend, utilizando el paradigma REST (Representational State Transfer), ampliamente adoptado por su simplicidad, escalabilidad y separación de responsabilidades.
 
-***Autenticación:***
-
-- **Tipo:** JWT (JSON Web Token)  
-- **Encabezado requerido:**
-  `Authorization: Bearer <token>`
 
 <br>
 
-***Convenciones RESTful Usadas***
+***Principios RESTful***
 
-- **Verbos HTTP:** GET, POST, PUT, DELETE según el tipo de operación.
+Una API RESTful se basa en los siguientes principios fundamentales:
 
-- **Nombres de recursos en plural:** (/users, /spaces, /reservations).
+* **Recursos como entidades centrales:** Cada recurso (por ejemplo, usuarios, espacios, reservas) se representa mediante una URI única.
 
-- **Uso de códigos de estado HTTP apropiados:** (200, 201, 400, 401, 404, 500).
+* **Operaciones a través de verbos HTTP:** Las operaciones sobre los recursos se realizan mediante los verbos HTTP estándar:
 
-- Respuestas estructuradas en JSON con mensajes claros.
+  * **GET:** Recuperar información.
 
+  * **POST:** Crear un nuevo recurso.
+
+  * **PUT:** Actualizar un recurso existente.
+
+  * **DELETE: Eliminar un recurso.
+
+* **Sin estado (stateless):** Cada solicitud debe contener toda la información necesaria para ser procesada. El servidor no almacena estado entre peticiones.
+
+* **Uso de hipermedios (opcional - HATEOAS):** Aunque no se implementa siempre, REST permite que las respuestas incluyan enlaces para navegar entre recursos relacionados.
+
+<br>
+
+***Autenticación***
+
+* **Método utilizado:** JWT (JSON Web Token), una forma segura y compacta de transmitir información entre partes.
+
+* **Formato del encabezado requerido:**
+
+* Los tokens JWT permiten autenticar y autorizar a los usuarios sin necesidad de mantener sesiones en el servidor, lo cual es coherente con el principio stateless.
+
+<br>
+
+***Convenciones y Buenas Prácticas***
+
+* **Nombres de recursos en plural:** Para mantener la coherencia y claridad, los endpoints usan sustantivos en plural (e.g., /users, /spaces, /reservations).
+
+* **Versionamiento de la API:** Aunque no siempre es necesario, es recomendable incluir una versión en la URI (e.g., /api/v1/users) para facilitar futuras actualizaciones sin romper la compatibilidad.
+
+* **Códigos de estado HTTP:** La API utiliza códigos de estado HTTP estándar para indicar el resultado de cada operación:
+
+  * **200 OK:** Solicitud exitosa.
+
+  * **201 Created:** Recurso creado correctamente.
+
+  * **400 Bad Request:** Error en los datos enviados.
+
+  * **401 Unauthorized:** Falta de autenticación o token inválido.
+
+  * **404 Not Found:** Recurso no encontrado.
+
+  * **500 Internal Server Error:** Error inesperado en el servidor.
+
+<br>
+
+***Documentación Interactiva***
+
+Se recomienda el uso de herramientas como Swagger (OpenAPI) o Postman para documentar y probar la API de manera interactiva. Esto mejora la experiencia de los desarrolladores y facilita la integración con otras aplicaciones.
 
 </div>
 
