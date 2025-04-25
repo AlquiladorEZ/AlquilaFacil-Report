@@ -443,6 +443,12 @@ A continuación, se visualizarán los diagramas C4.
 
 ### 4.8.3. Software Architecture Components Diagrams
 
+</div>
+
+![Artefacto creado en Structurizr](Resources/Domain-Driven%20Software%20Architecture/Software%20Architecture%20Components%20Diagrams.png) 
+
+<div align="justify">
+
 ## 4.9. Software Object-Oriented Design
 
 ### 4.9.1. Class Diagrams
