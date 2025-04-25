@@ -210,7 +210,7 @@ del ABET – EAC - Student Outcome 5.
     <td>
       <strong>TB1:</strong><br><br>
       Ames Oviedo, Mariano Jose<br>
-      XXX
+      Durante este primer avance, elaboré un informe técnico que resumía los avances y resultados del proyecto. Este documento estaba estructurado para ser comprensible tanto para los miembros técnicos del equipo como para la dirección general. Me enfoqué en utilizar un lenguaje preciso y acompañar la explicación con gráficos y tablas que facilitaran la comprensión, asegurando que el mensaje fuera claro para todos los destinatarios.
       <br><br>
       Criollo de la Cruz, Diego Anderson<br>
       Durante el desarrollo del TB1, me encargué de redactar la documentación del proyecto, asegurándome de que la información técnica estuviera presentada de forma clara, ordenada y objetiva. Me enfoqué en que los resultados y decisiones del equipo pudieran ser 
@@ -218,17 +218,17 @@ del ABET – EAC - Student Outcome 5.
       profesional y comprensible para todos los niveles jerárquicos involucrados.
       <br><br>
       Lecca Choccare, Christopher Bryan<br>
-      XXXX
+      Como parte de esta primera entrega, preparé una presentación escrita para los stakeholders del proyecto, detallando las metodologías empleadas, los resultados obtenidos y las recomendaciones futuras. Adapté el contenido según las necesidades del público, utilizando un lenguaje accesible para personas sin conocimientos técnicos y terminología especializada para quienes requerían un mayor nivel de detalle técnico.
       <br><br>
       Sosa Colca, Angello Rodolfo<br>
-      XXX
+      En este proyecto, realicé tanto la parte técnica y el documento del software. Este documento incluía instrucciones claras y ejemplos prácticos de cómo funcionará nuestra propuesta de solución, diseñados para usuarios finales con diferentes niveles de familiaridad tecnológica. Esta experiencia me ayudó a consolidar mi habilidad para comunicar información técnica de manera sencilla y eficaz.
       <br><br>
       Valle Zuta, Abel Andrés<br>
-      XXX
+      Durante la primera entrega del presente proyecto, lideré la elaboración del reporte del proyecto que contiene los puntos clave del proyecto, la arquitectura que este tendrá y el alcance que planeamos para el software. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto aspectos técnicos como estratégicos fueran entendidos por audiencias con diferentes especialidades y roles jerárquicos.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
-      XXXX
+      En este primer avance del proyecto, logramos tener una buena comunicación escrita, elaborando diversos documentos técnicos y presentaciones adaptadas a diferentes audiencias. Nos aseguramos de que la información estuviera estructurada de manera clara, utilizando gráficos, tablas y esquemas para facilitar la comprensión de los aspectos técnicos y estratégicos. Esta experiencia no solo fortaleció nuestra capacidad para redactar contenidos accesibles tanto para especialistas como para personas de otras áreas, sino que también consolidó la habilidad para transmitir ideas complejas de manera profesional y efectiva, asegurando que todos los niveles jerárquicos involucrados comprendieran el alcance, las metodologías y los resultados del proyecto.
     </td>
   </tr>
 </table>
