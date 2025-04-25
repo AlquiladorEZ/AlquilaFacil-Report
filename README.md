@@ -455,6 +455,7 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
   <img src="Resources/Evidences/App%20Mobile%20Evidence-1.jpeg" alt="Captura de Pantalla"/>
   <br>
   <img src="Resources/Evidences/App%20Mobile%20Evidence-2.jpeg" alt="Captura de Pantalla"/>
+  <br>
   <img src="Resources/Evidences/App%20Mobile%20Evidence-3.jpeg" alt="Captura de Pantalla"/>
 </p>
 
