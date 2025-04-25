@@ -433,11 +433,11 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 **Evidencias del avance de la implementación de la Web App:**
 
-![Captura de Pantalla](Evidences/App%20Web%20Evidence-1.jpeg)
+![Captura de Pantalla](Resources/Evidences/App%20Web%20Evidence-1.jpeg)
 
-![Captura de Pantalla](Evidences/App%20Web%20Evidence-2.jpeg)
+![Captura de Pantalla](Resources/Evidences/App%20Web%20Evidence-2.jpeg)
 
-![Captura de Pantalla](Evidences/App%20Web%20Evidence-3.jpeg)
+![Captura de Pantalla](Resources/Evidences/App%20Web%20Evidence-3.jpeg)
 
 ### 5.2.4. Implemented Native-Mobile Application Evidence
 
@@ -447,11 +447,11 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 **Evidencias del avance de la implementación del Back-end/Web Services:**
 
-![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-1.jpeg)
-
-![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-2.jpeg)
-
-![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-3.jpeg)
+<p align="center">
+  <img src="Resources/Evidences/Backend%20Evidence-1.jpeg" alt="Captura de Pantalla"/>
+  <img src="Resources/Evidences/Backend%20Evidence-2.jpeg" alt="Captura de Pantalla"/>
+  <img src="Resources/Evidences/Backend%20Evidence-3.jpeg" alt="Captura de Pantalla"/>
+</p>
 
 ![Captura de Pantalla](Resources/Evidences/Backend%20Evidence-4.png)
 
