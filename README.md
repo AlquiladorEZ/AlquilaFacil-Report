@@ -184,7 +184,7 @@ del ABET – EAC - Student Outcome 5.
     <td>
       <strong>TB1:</strong><br><br>
       Ames Oviedo, Mariano Jose<br>
-      XXX
+      Durante la implementación del software como propuesta de solución para la problemática encontrada, asumí la responsabilidad de coordinar las sesiones de trabajo y distribuir tareas equitativamente. Esto incluyó planificar reuniones, moderar discusiones y asegurar que cada integrante tuviera claridad sobre sus objetivos. Esta experiencia no solo fortaleció el liderazgo compartido, sino que también promovió un ambiente de trabajo inclusivo y eficiente.
       <br><br>
       Criollo de la Cruz, Diego Anderson<br>
       En el desarrollo del TB1, asumí un rol activo dentro del equipo encargándome principalmente de la elaboración de la documentación técnica y la corrección de errores en el desarrollo general del proyecto. Estas tareas me permitieron no solo aportar a la     
@@ -192,15 +192,17 @@ del ABET – EAC - Student Outcome 5.
       avanzáramos de forma coordinada hacia los objetivos planteados.
       <br><br>
       Lecca Choccare, Christopher Bryan<br>
-      XXXX<br><br>
+      En el desarrollo de esta primera entrega, trabajé junto con mi equipo liderando la integración de ideas y organizando presentaciones. Mi papel incluyó facilitar la comunicación entre los miembros y motivar a todos a participar activamente. Gracias a este enfoque, logramos crear un proyecto cohesivo que reflejó las fortalezas de cada integrante.
+      <br><br>
       Sosa Colca, Angello Rodolfo<br>
-      XXX<br><br>
+      Durante este TB1, desempeñé un rol de liderazgo rotativo, donde alterné responsabilidades con mis compañeros para garantizar una toma de decisiones equitativa. Mi enfoque se centró en la gestión del tiempo y la priorización de tareas críticas, lo que permitió al equipo completar con éxito el primer alcance del proyecto dentro del plazo establecido, fomentando la confianza mutua y la colaboración.
+      <br><br>
       Valle Zuta, Abel Andrés<br>
-      XXX
+      En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
-      XXXX
+      La experiencia acumulada durante el desarrollo del TB1 refleja un compromiso sólido con el liderazgo compartido y el trabajo en equipo. A través de roles diversos como la documentación técnica, la coordinación de tareas, la moderación de discusiones, y la gestión del tiempo, se promovió un ambiente de colaboración inclusivo y eficiente. Estas acciones no solo garantizaron el cumplimiento de los objetivos del proyecto dentro de los plazos establecidos, sino que también fortalecieron la comunicación, la confianza mutua y el aprovechamiento de las fortalezas individuales de los integrantes. En conjunto, estas contribuciones destacaron la importancia de un liderazgo rotativo y equitativo para alcanzar resultados exitosos.
     </td>
   </tr>
   <tr>
