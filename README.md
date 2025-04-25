@@ -57,13 +57,14 @@
 
 **Sprints:**
 
+Link trello: https://trello.com/invite/b/680019837959f6609959ce6e/ATTI946724210c7338f82a2e8bd7f289e223CC65121F/product-backlog-diseno-de-experimentos-de-ingenieria-de-software
 
 | Sprint # | Título                                                      | Descripción                                                                                                                             |
 |----------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 1        | Interfaz de usuario                                          | <div align="justify">En este sprint, nos centraremos en desarrollar la interfaz de usuario para facilitar la creación de funcionalidades en el siguiente sprint.</div> |
-| 2        | Desarrollo de primeras funcionalidades del aplicativo móvil   | <div align="justify">En este sprint comenzaremos con el desarrollo de nuestra aplicación móvil, por lo que a lo largo de este realizaremos pruebas en dispositivos móviles y también comunicaremos al equipo los avances en el proceso de desarrollo.</div> |
-| 3        | Aplicación de mejora continua en las funcionalidades         | <div align="justify">En este sprint realizaremos mejoras en las funcionalidades desarrolladas en el sprint previo, también cumpliremos con los technical user stories establecidos.</div> |
-| 4        | Validación del producto por parte del team developer y stakeholders | <div align="justify">En este sprint realizaremos la validación completa de nuestro producto aplicando las mejoras identificadas en los sprints previos.</div> |
+| 1        | Desarrollo de funcionalidades Core                                          | <div align="justify">En este sprint, nos centramos en desarrollar nuestras funcionalidades mas importantes para el aplicativo, con esto facilitamos el vance para siguientes sprints</div> |
+| 2        |  | <div align="justify"> </div> |
+| 3        |          | <div align="justify"> </div> |
+| 4        |  | <div align="justify"> </div> |
 
 <br>
 
