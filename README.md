@@ -464,7 +464,7 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 A continuación, se presenta una descripción detallada de la documentación de la RESTful API desarrollada para este sistema. Esta interfaz de programación de aplicaciones permite la comunicación entre clientes (tanto web como móviles) y el servidor backend, utilizando el paradigma REST (Representational State Transfer), ampliamente adoptado por su simplicidad, escalabilidad y separación de responsabilidades.
 
 
-<br>
+<br><br>
 
 ***Principios RESTful***
 
@@ -495,6 +495,12 @@ Una API RESTful se basa en los siguientes principios fundamentales:
 
 * **Formato del encabezado requerido:**
 
+:::
+```
+<title>Register your processes with AlquilaFacil</title>
+```
+:::
+
 * Los tokens JWT permiten autenticar y autorizar a los usuarios sin necesidad de mantener sesiones en el servidor, lo cual es coherente con el principio stateless.
 
 <br>
@@ -518,6 +524,21 @@ Una API RESTful se basa en los siguientes principios fundamentales:
   * **404 Not Found:** Recurso no encontrado.
 
   * **500 Internal Server Error:** Error inesperado en el servidor.
+
+* **Formato de respuesta:** Todas las respuestas se estructuran en formato JSON, incluyendo:
+
+:::
+```
+{
+  "success": true,
+  "message": "Operación realizada con éxito",
+  "data": { ... }
+}
+```
+:::
+Esto facilita la interpretación por parte del cliente y mantiene la uniformidad en la comunicación.
+
+
 
 <br>
 
