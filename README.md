@@ -78,9 +78,96 @@ Por otra parte, para controlar de manera efectiva los cambios en el código de l
 
 </div>
 
-
-
 ### 5.1.3. Source Code Style Guide & Conventions
+
+1. **General Naming & Language Convention**
+- **Language**: English
+- **Case Styles**:
+  - `camelCase`: for variables, functions, methods (JavaScript, Dart).
+  - `PascalCase`: for classes, interfaces, components (C#, Vue, Dart).
+  - `kebab-case`: for file names, HTML/CSS class names.
+  - `UPPER_SNAKE_CASE`: for constants.
+- **Avoid**: abbreviations, underscores in identifiers, non-descriptive names.
+
+
+2. **Landing Page (HTML, CSS, JavaScript)**
+
+**HTML:**
+- **Guide**: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- Use semantic HTML5 tags (`<header>`, `<section>`, `<article>`, `<footer>`, `<body>`).
+- Use `alt`, `title`, `aria-*` attributes for accessibility.
+- Use double quotes (`"`) for attribute values.
+- Indent using 1 tab.
+
+**CSS:**
+- **Guide**: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- Use BEM methodology for class naming: `block__element--modifier`.
+- Avoid `!important`.
+- Use CSS variables and consistent units (`rem`, `em`, `%`).
+- Separate layout (`grid`, `flex`) and theme-related styles.
+
+**JavaScript:**
+- **Guides**: 
+  - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+  - [MDN JavaScript Guidelines](https://developer.mozilla.org/en-US/docs/MDN/Guidelines)
+- Use `const` and `let`.
+- Prefer arrow functions.
+- Functions/methods should be `camelCase`.
+- One statement per line.
+- Always use `===` and avoid implicit coercion.
+
+
+3. **Backend (C# with ASP.NET Core)**
+
+**C#:**
+- **Guide**: [Microsoft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- Classes, methods, and properties in `PascalCase`.
+- Local variables and parameters in `camelCase`.
+- Use dependency injection, no magic strings.
+- Organize using Clean Architecture or Layered Architecture.
+- Group using statements and avoid unnecessary namespaces.
+
+**ASP.NET Core:**
+- **Guide**: [ASP.NET Core Coding Guidelines](https://github.com/aspnet/AspNetCore.Docs/blob/main/aspnetcore/fundamentals/code-analysis/code-style.md)
+- Use `I` prefix for interfaces (`IUserService`).
+- Use `async`/`await` for all asynchronous operations.
+- Controllers: `PascalCase`, suffix with `Controller`.
+- Endpoints: RESTful naming (`GET /api/users/{id}`).
+- DTOs in `PascalCase`.
+
+
+4. **Mobile App (Flutter with Dart)**
+
+**Dart & Flutter:**
+- **Guide**: [Effective Dart](https://dart.dev/guides/language/effective-dart/style)
+- Class names: `PascalCase`.
+- Variables, functions: `camelCase`.
+- Use `const` where possible.
+- Widget tree must be readable and split into components.
+- File names: `snake_case.dart`.
+
+
+5. **Web App (Vue.js)**
+
+**Vue.js:**
+- **Guide**: [Vue 3 Style Guide](https://vuejs.org/style-guide/)
+- Components in `PascalCase`.
+- Props and events: `camelCase` in script, `kebab-case` in templates.
+- Files in `kebab-case.vue`.
+- Use `<script setup>` if working with Composition API.
+- Store logic in `services/` or `composables/`.
+- Use Vue Router with modular structure.
+
+
+6. **Gherkin (.feature files)**
+
+**Feature Files:**
+- **Guide**: [Gherkin Conventions](https://cucumber.io/docs/gherkin/reference/)
+- File names in `snake_case.feature`.
+- Use keywords: `Feature`, `Scenario`, `Given`, `When`, `Then`, `And`, `But`.
+- Avoid implementation details; focus on behavior.
+- Use meaningful names for scenarios.
+
 
 ### 5.1.4. Software Deployment Configuration
 
