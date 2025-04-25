@@ -246,66 +246,183 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
   </thead>
   <tbody>
     <tr>
-      <td><center>TS01</center></td>
-      <td><center>Crear usuario</center></td>
+      <td><center>US01</center></td>
+      <td><center>Registrar usuario</center></td>
       <td><center>W01</center></td>
-      <td><center>Crear usuario</center></td>
-      <td><center>4</center></td>
-      <td><center>Mathias Jave</center></td>
+      <td><center>Registro de Usuario - App Web</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
     <tr>
-      <td><center>TS02</center></td>
-      <td><center>Autenticar usuario</center></td>
+      <td><center>US01</center></td>
+      <td><center>Registrar usuario</center></td>
       <td><center>W02</center></td>
-      <td><center>Autenticar usuario</center></td>
-      <td><center>5</center></td>
-      <td><center>Italo Luna</center></td>
+      <td><center>Registro de Usuario - App Mobile</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
     <tr>
-      <td><center>TS03</center></td>
-      <td><center>Crear espacio</center></td>
+      <td><center>US01</center></td>
+      <td><center>Registrar usuario</center></td>
       <td><center>W03</center></td>
-      <td><center>Crear espacio</center></td>
-      <td><center>4</center></td>
-      <td><center>Mathias Jave</center></td>
+      <td><center>Registro de Usuario - Web Services IAM</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
     <tr>
-      <td><center>TS04</center></td>
-      <td><center>Actualizar espacio</center></td>
+      <td><center>US02</center></td>
+      <td><center>Inicio de sesión</center></td>
       <td><center>W04</center></td>
-      <td><center>Actualizar espacio</center></td>
-      <td><center>4</center></td>
-      <td><center>Mathias Jave</center></td>
+      <td><center>Inicio de sesión - App Web</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
     <tr>
-      <td><center>TS05</center></td>
-      <td><center>Buscar espacios</center></td>
+      <td><center>US02</center></td>
+      <td><center>Inicio de sesión</center></td>
       <td><center>W05</center></td>
-      <td><center>Buscar espacios</center></td>
-      <td><center>5</center></td>
-      <td><center>Italo Luna</center></td>
+      <td><center>Inicio de sesión - App Mobile</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
     <tr>
-      <td><center>TS06</center></td>
-      <td><center>Crear persistencia de la entidad Profile</center></td>
+      <td><center>US02</center></td>
+      <td><center>Inicio de sesión</center></td>
       <td><center>W06</center></td>
-      <td><center>Crear persistencia de la entidad Profile</center></td>
-      <td><center>5</center></td>
-      <td><center>Italo Luna</center></td>
+      <td><center>Inicio de sesión - Web Services IAM</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
     <tr>
-      <td><center>TS07</center></td>
-      <td><center>Acceder a endpoints</center></td>
+      <td><center>US03</center></td>
+      <td><center>Registrar espacios</center></td>
       <td><center>W07</center></td>
-      <td><center>Acceder a endpoints</center></td>
-      <td><center>6</center></td>
-      <td><center>Italo Luna</center></td>
+      <td><center>Registrar espacios - App Web</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US03</center></td>
+      <td><center>Registrar espacios</center></td>
+      <td><center>W08</center></td>
+      <td><center>Registrar espacios - App Mobile</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US04</center></td>
+      <td><center>Buscar espacios disponibles</center></td>
+      <td><center>W09</center></td>
+      <td><center>Buscar espacios disponibles - App Web</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US04</center></td>
+      <td><center>Buscar espacios disponibles</center></td>
+      <td><center>W10</center></td>
+      <td><center>Buscar espacios disponibles - App Mobile</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US06</center></td>
+      <td><center>Visualizar información del espacio</center></td>
+      <td><center>W11</center></td>
+      <td><center>Visualizar información del espacio - App Web</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US06</center></td>
+      <td><center>Visualizar información del espacio</center></td>
+      <td><center>W12</center></td>
+      <td><center>Visualizar información del espacio - App Mobile</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US07</center></td>
+      <td><center>Reservar espacios</center></td>
+      <td><center>W13</center></td>
+      <td><center>Reservar espacios - App Web</center></td>
+      <td><center>5</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US07</center></td>
+      <td><center>Reservar espacios</center></td>
+      <td><center>W14</center></td>
+      <td><center>Reservar espacios - App Mobile</center></td>
+      <td><center>5</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US08</center></td>
+      <td><center>Gestionar calendario de reservas</center></td>
+      <td><center>W15</center></td>
+      <td><center>Gestionar calendario de reservas - App Web</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US08</center></td>
+      <td><center>Gestionar calendario de reservas</center></td>
+      <td><center>W16</center></td>
+      <td><center>Gestionar calendario de reservas - App Mobile</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US08</center></td>
+      <td><center>Gestionar calendario de reservas</center></td>
+      <td><center>W17</center></td>
+      <td><center>Gestionar calendario de reservas - Web Services</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US12</center></td>
+      <td><center>Visualizar espacios propios publicados</center></td>
+      <td><center>W18</center></td>
+      <td><center>Visualizar espacios propios publicados - App Web</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US12</center></td>
+      <td><center>Visualizar espacios propios publicados</center></td>
+      <td><center>W19</center></td>
+      <td><center>Visualizar espacios propios publicados - App Mobile</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US12</center></td>
+      <td><center>Visualizar espacios propios publicados</center></td>
+      <td><center>W20</center></td>
+      <td><center>Visualizar espacios propios publicados - Web Services</center></td>
+      <td><center>4</center></td>
+      <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
   </tbody>
