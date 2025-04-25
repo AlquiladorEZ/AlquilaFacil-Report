@@ -128,7 +128,7 @@ Por otra parte, para controlar de manera efectiva los cambios en el código de l
 - Group using statements and avoid unnecessary namespaces.
 
 **ASP.NET Core:**
-- **Guide**: [ASP.NET Core Coding Guidelines](https://github.com/aspnet/AspNetCore.Docs/blob/main/aspnetcore/fundamentals/code-analysis/code-style.md)
+- **Guide**: [ASP.NET Core Best Practices](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/best-practices?view=aspnetcore-9.0)
 - Use `I` prefix for interfaces (`IUserService`).
 - Use `async`/`await` for all asynchronous operations.
 - Controllers: `PascalCase`, suffix with `Controller`.
