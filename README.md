@@ -1,3 +1,527 @@
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <br><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png"></img><br>
+    <br>
+    <strong>Ingeniería de Software - 2025-01</strong><br>
+    <br>
+    <strong>1ASI0732 - Diseño de Experimentos de Ingeniería de Software - 4453</strong><br>  
+    <br>
+    <strong>Profesor: Julio Manuel Noriega Melendez</strong><br>
+    <br> <strong>INFORME DE TB1</strong> 
+</p>
+<p align="center">
+    <strong>Startup: AlquilaEZ</strong><br>
+    <strong>Producto:  AlquilaFacil</strong>
+</p>
+
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Miembro</th>
+            <th style="text-align:center;">Código</th>
+        </tr>
+        <tr>
+            <td>Ames Oviedo, Mariano Jose</td>
+            <td>U202211371</td>
+        </tr>
+        <tr>
+            <td>Criollo de la Cruz, Diego Anderson </td>
+            <td>U202219639</td>
+        </tr>
+        <tr>
+            <td>Lecca Choccare, Christopher Bryan</td>
+            <td>U202211399</td>
+        </tr>
+        <tr>
+            <td>Sosa Colca, Angello Rodolfo</td>
+            <td>U202212077</td>
+        </tr>
+        <tr>
+            <td>Valle Zuta, Abel Andrés</td>
+            <td>U202210297</td>
+        </tr>
+    </table>
+</div>
+<br>
+<p align="center">
+    <strong>ABRIL 2025 </strong>
+</p>
+
+## Registro de Versiones 
+
+<div align="center">
+
+| Versión |   Fecha    | Autor | Descripción de modificación | 
+|:-------:|:----------:|:-----:|:----------------------------| 
+|TB1| 13/04/2025 |Ames Oviedo, Mariano Jose| |
+|TB1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| |
+|TB1| 13/04/2025 |Lecca Choccare, Christopher Bryan| |
+|TB1| 13/04/2025 |Sosa Colca, Angello Rodolfo| |
+|TB1| 13/04/2025 |Valle Zuta, Abel Andrés| |
+
+</div>
+
+## Contenido
+
+**Tabla de contenidos**
+
+| Tabla de contenidos                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------- |
+| [Capítulo I: Introducción](#capítulo-i-introducción)                                                                |
+| [1.1. Startup Profile](#11-startup-profile)                                                                         |
+| [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)                                                  |
+| [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)                                |
+| [1.2. Solution Profile](#12-solution-profile)                                                                       |
+| [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)                                               |
+| [1.2.2. Lean UX Process](#122-lean-ux-process)                                                                      |
+| [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)                                             |
+| [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)                                                           |
+| [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)                                       |
+| [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)                                                                     |
+| [1.3. Segmentos objetivo](#13-segmentos-objetivo)                                                                   |
+| [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)                 |
+| [2.1. Competidores](#21-competidores)                                                                               |
+| [2.1.1. Análisis competitivo](#211-análisis-competitivo)                                                            |
+| [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)            |
+| [2.2. Entrevistas](#22-entrevistas)                                                                                 |
+| [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)                                                          |
+| [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)                                                      |
+| [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)          |
+| [2.3. Needfinding](#23-needfinding)         |
+| [2.3.1. User Personas](#231-user-personas)                                                                          |
+| [2.3.2. User Task Matrix](#232-user-task-matrix)                                                                    |
+| [2.3.3. User Journey Mapping](#233-user-journey-mapping)                                                            |
+| [2.3.4. Empathy Mapping](#234-empathy-mapping)                                                                      |
+| [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)                                                        |
+| [2.4. Ubiquitous Language](#24-ubiquitous-language) | 
+| [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification) |
+| [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)                                                           |
+| [3.2. User Stories](#32-user-stories)                               |
+| [3.3. Product Backlog](#33-product-backlog)                                                  |
+| [3.4. Impact Mapping](#34-impact-mapping) | 
+| [Capítulo IV: Product Design](#capítulo-iv-product-design)                          |
+| [4.1. Style Guidelines](#41-style-guidelines) |
+| [4.1.1. General Style Guidelines](#411-general-style-guidelines) |
+| [4.1.2. Web Style Guidelines](#412-web-style-guidelines) |
+| [4.1.3. Mobile Style Guidelines](#413-mobile-style-guidelines) |
+| [4.1.3.1. iOS Mobile Style Guidelines](#4131-ios-mobile-style-guidelines) |
+| [4.1.3.2. Android Mobile Style Guidelines](#4132-android-mobile-style-guidelines) |
+| [4.2. Information Architecture](#42-information-architecture) |
+| [4.2.1. Organization Systems](#421-organization-systems) |
+| [4.2.2. Labeling Systems](#422-labeling-systems) |
+| [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags) |
+| [4.2.4. Searching Systems](#424-searching-systems) |
+| [4.2.5. Navigation Systems](#425-navigation-systems) |
+| [4.3. Landing Page UI Design](#43-landing-page-ui-design) |
+| [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe) |
+| [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up) |
+| [4.4. Mobile Applications UX/UI Design](#44-mobile-applications-uxui-design) |
+| [4.4.1. Mobile Applications Wireframes](#441-mobile-applications-wireframes) |
+| [4.4.2. Mobile Applications Wireflow Diagrams](#442-mobile-applications-wireflow-diagrams) |
+| [4.4.3. Mobile Applications Mock-ups](#443-mobile-applications-mock-ups) |
+| [4.4.4. Mobile Applications User Flow Diagrams](#444-mobile-applications-user-flow-diagrams) |
+| [4.5. Mobile Applications Prototyping](#45-mobile-applications-prototyping) |
+| [4.5.1. Android Mobile Applications Prototyping](#451-android-mobile-applications-prototyping) |
+| [4.5.2. iOS Mobile Applications Prototyping](#452-ios-mobile-applications-prototyping) |
+| [4.6. Web Applications UX/UI Design](#46-web-applications-uxui-design) |
+| [4.6.1. Web Applications Wireframes](#461-web-applications-wireframes) |
+| [4.6.2. Web Applications Wireflow Diagrams](#462-web-applications-wireflow-diagrams) |
+| [4.6.3. Web Applications Mock-ups](#463-web-applications-mock-ups) |
+| [4.6.4. Web Applications User Flow Diagrams](#464-web-applications-user-flow-diagrams) |
+| [4.7. Web Applications Prototyping](#47-web-applications-prototyping) |
+| [4.8. Domain-Driven Software Architecture](#48-domain-driven-software-architecture) |
+| [4.8.1. Software Architecture Context Diagram](#481-software-architecture-context-diagram) |
+| [4.8.2. Software Architecture Container Diagrams](#482-software-architecture-container-diagrams) |
+| [4.8.3. Software Architecture Components Diagrams](#483-software-architecture-components-diagrams) |
+| [4.9. Software Object-Oriented Design](#49-software-object-oriented-design) |
+| [4.9.1. Class Diagrams](#491-class-diagrams) |
+| [4.9.2. Class Dictionary](#492-class-dictionary) |
+| [4.10. Database Design](#410-database-design) |
+| [4.10.1. Relational/Non-Relational Database Diagram](#4101-relationalnon-relational-database-diagram) |
+| [Capítulo V: Product Implementation](#capítulo-iv-product-implementation) |    
+| [5.1. Software Configuration Management](#51-software-configuration-management) |
+| [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration) |
+| [5.1.2. Source Code Management](#512-source-code-management) |
+| [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions) |
+| [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration) |
+| [5.2. Product Implementation & Deployment](#52-product-implementation--deployment) |
+| [5.2.1. Sprint Backlogs](#521-sprint-backlogs) |
+| [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence) |
+| [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence) |
+| [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence) |
+| [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence) |
+| [5.2.6. RESTful API documentation](#526-restful-api-documentation) |
+| [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights) |
+| [5.3. Video About-the-Product](#53-video-about-the-product) |
+
+# Student Outcome
+
+**ABET – EAC – Student Outcome 5**
+
+<div align="justify">
+    Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+</div>    
+
+<div align="justify">
+</div>    
+
+<div align="justify">
+<table>
+  <tr>
+    <th>Criterio Específico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      Ames Oviedo, Mariano Jose<br>
+      Durante la implementación del software como propuesta de solución para la problemática encontrada, asumí la responsabilidad de coordinar las sesiones de trabajo y distribuir tareas equitativamente. Esto incluyó planificar reuniones, moderar discusiones y asegurar que cada integrante tuviera claridad sobre sus objetivos. Esta experiencia no solo fortaleció el liderazgo compartido, sino que también promovió un ambiente de trabajo inclusivo y eficiente.
+      <br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+      En el desarrollo del TB1, asumí un rol activo dentro del equipo encargándome principalmente de la elaboración de la documentación técnica y la corrección de errores en el desarrollo general del proyecto. Estas tareas me permitieron no solo aportar a la     
+      organización y claridad del trabajo en grupo, sino también apoyar a mis compañeros identificando y solucionando problemas técnicos de manera colaborativa. Considero que, a través de estas acciones, contribuí al liderazgo conjunto del equipo, asegurando que 
+      avanzáramos de forma coordinada hacia los objetivos planteados.
+      <br><br>
+      Lecca Choccare, Christopher Bryan<br>
+      En el desarrollo de esta primera entrega, trabajé junto con mi equipo liderando la integración de ideas y organizando presentaciones. Mi papel incluyó facilitar la comunicación entre los miembros y motivar a todos a participar activamente. Gracias a este enfoque, logramos crear un proyecto cohesivo que reflejó las fortalezas de cada integrante.
+      <br><br>
+      Sosa Colca, Angello Rodolfo<br>
+      Durante este TB1, desempeñé un rol de liderazgo rotativo, donde alterné responsabilidades con mis compañeros para garantizar una toma de decisiones equitativa. Mi enfoque se centró en la gestión del tiempo y la priorización de tareas críticas, lo que permitió al equipo completar con éxito el primer alcance del proyecto dentro del plazo establecido, fomentando la confianza mutua y la colaboración.
+      <br><br>
+      Valle Zuta, Abel Andrés<br>
+      En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
+    </td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      La experiencia acumulada durante el desarrollo del TB1 refleja un compromiso sólido con el liderazgo compartido y el trabajo en equipo. A través de roles diversos como la documentación técnica, la coordinación de tareas, la moderación de discusiones, y la gestión del tiempo, se promovió un ambiente de colaboración inclusivo y eficiente. Estas acciones no solo garantizaron el cumplimiento de los objetivos del proyecto dentro de los plazos establecidos, sino que también fortalecieron la comunicación, la confianza mutua y el aprovechamiento de las fortalezas individuales de los integrantes. En conjunto, estas contribuciones destacaron la importancia de un liderazgo rotativo y equitativo para alcanzar resultados exitosos.
+    </td>
+  </tr>
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      Ames Oviedo, Mariano Jose<br>
+      Durante este primer avance, elaboré un informe técnico que resumía los avances y resultados del proyecto. Este documento estaba estructurado para ser comprensible tanto para los miembros técnicos del equipo como para la dirección general. Me enfoqué en utilizar un lenguaje preciso y acompañar la explicación con gráficos y tablas que facilitaran la comprensión, asegurando que el mensaje fuera claro para todos los destinatarios.
+      <br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+      Durante el desarrollo del TB1, me encargué de redactar la documentación del proyecto, asegurándome de que la información técnica estuviera presentada de forma clara, ordenada y objetiva. Me enfoqué en que los resultados y decisiones del equipo pudieran ser 
+      comprendidos tanto por personas con formación técnica como por aquellas de otras áreas. Esta experiencia me permitió mejorar mi capacidad de comunicar ideas por escrito de manera efectiva, adaptando el lenguaje según el público y manteniendo siempre un enfoque 
+      profesional y comprensible para todos los niveles jerárquicos involucrados.
+      <br><br>
+      Lecca Choccare, Christopher Bryan<br>
+      Como parte de esta primera entrega, preparé una presentación escrita para los stakeholders del proyecto, detallando las metodologías empleadas, los resultados obtenidos y las recomendaciones futuras. Adapté el contenido según las necesidades del público, utilizando un lenguaje accesible para personas sin conocimientos técnicos y terminología especializada para quienes requerían un mayor nivel de detalle técnico.
+      <br><br>
+      Sosa Colca, Angello Rodolfo<br>
+      En este proyecto, realicé tanto la parte técnica y el documento del software. Este documento incluía instrucciones claras y ejemplos prácticos de cómo funcionará nuestra propuesta de solución, diseñados para usuarios finales con diferentes niveles de familiaridad tecnológica. Esta experiencia me ayudó a consolidar mi habilidad para comunicar información técnica de manera sencilla y eficaz.
+      <br><br>
+      Valle Zuta, Abel Andrés<br>
+      Durante la primera entrega del presente proyecto, lideré la elaboración del reporte del proyecto que contiene los puntos clave del proyecto, la arquitectura que este tendrá y el alcance que planeamos para el software. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto aspectos técnicos como estratégicos fueran entendidos por audiencias con diferentes especialidades y roles jerárquicos.
+    </td>
+    <td>
+      <strong>TB1:</strong><br><br>
+      En este primer avance del proyecto, logramos tener una buena comunicación escrita, elaborando diversos documentos técnicos y presentaciones adaptadas a diferentes audiencias. Nos aseguramos de que la información estuviera estructurada de manera clara, utilizando gráficos, tablas y esquemas para facilitar la comprensión de los aspectos técnicos y estratégicos. Esta experiencia no solo fortaleció nuestra capacidad para redactar contenidos accesibles tanto para especialistas como para personas de otras áreas, sino que también consolidó la habilidad para transmitir ideas complejas de manera profesional y efectiva, asegurando que todos los niveles jerárquicos involucrados comprendieran el alcance, las metodologías y los resultados del proyecto.
+    </td>
+  </tr>
+</table>
+
+
+</div>
+
+<div style="page-break-after: always;"></div>
+
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+
+### 1.1.1 Descripción de la Startup
+
+<div align="justify">
+    AlquilaFacil es un startup fundado en el 2025, por un grupo de estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra empresa emergente se enfoca en la simplificación del proceso de búsqueda de alquiler de espacios para eventos, así como la administración de los mismos.
+
+**Misión:** Revolucionar el alquiler de espacios para eventos con una plataforma intuitiva que une a arrendadores y arrendatarios de manera rápida y sencilla. 
+
+**Visión:** Consolidarnos como la referencia global en alquiler de espacios para eventos, redefiniendo el sector con soluciones inteligentes y una experiencia excepcional.
+</div>    
+
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+<div align="justify">
+
+| Integrante                | Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Foto                                                |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| Ames Oviedo, Mariano José (U202211371) | Soy Mariano, tengo 19 años actualmente curso mi 7mo ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable y dispuesta a afrontar desafíos. Considero que estas cualidades beneficiaran a mi equipo para poder completar un trabajo de calidad. | ![Mariano Ames](Resources/Team%20Members/Ames-Mariano.jpeg)             |
+|  Criollo De La Cruz, Diego Anderson (U202219639) | Mi nombre es Diego Anderson Criollo de La Cruz, soy estudiante de 7mo ciclo de la carrera de Ingeniería de Software. Me gusta mucho emplear soluciones creativas y que busquen eficiencia para poder abordar de esta forma cualquier desafío de la mejor manera. Como miembro del grupo, pretendo aportar con todos mis conocimientos en el desarrollo web tanto como en el front-end y back-end, además de siempre colaborar con mis ideas y soluciones ante cualquier dificultad que se presente en el desarrollo. Espero poder aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del desarrollo del proyecto.   |  ![Diego Criollo](Resources/Team%20Members/Criollo-Diego.jpg)  |
+| Lecca Choccare, Christopher Bryan (U202211399)  | Mi nombre es Christopher, tengo 20 años y actualmente me encuentro cursando el 7mo ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que mi compromiso con el equipo de trabajo designado y mi capacidad de aprendizaje rápida aportarán de buena manera al desarrollo del producto final.    | ![Christopher Lecca](Resources/Team%20Members/Lecca-Christopher.png)               |
+| Sosa Colca, Angello Rodolfo (U202212077)  | Tengo 19 años y curso el 7mo ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona enfocada, perseverante y colaborativo. Estas cualidades me permiten ser una persona que ayudará de manera óptima el requisito que se me imponga. Además, soy una persona que apoya cuando los demás se encuentran en problemas.  | ![Angello Sosa](Resources/Team%20Members/Sosa-Angello.png)             |
+| Valle Zuta, Abel Andrés (U202210297) | Soy Abel Andrés Valle Zuta, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 20 años y actualmente estoy cursando el 7mo ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.                                                                     | ![Abel Valle](Resources/Team%20Members/Valle-Abel.jpg)               |
+
+</div>
+
+<div style="page-break-after: always;"></div>
+
+## 1.2. Solution Profile
+
+
+
+
+<div align="justify">
+    En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus características distintivas y propuestas de valor. 
+
+**Product Name:** AlquilaFacil
+
+**Producto Descriptivo:** AlquilaFacil es una plataforma diseñada para simplificar el proceso de búsqueda y reserva de espacios para eventos, conectando de manera eficiente a arrendadores y arrendatarios. Ofrece una experiencia fluida, permitiendo a los usuarios buscar, reservar y gestionar espacios para una amplia variedad de eventos. Además, la plataforma incluye herramientas de gestión y seguimiento en tiempo real, asegurando una experiencia optimizada tanto para arrendadores como para arrendatarios. 
+
+**Monetización:** AlquilaFacil generará ingresos a través de un modelo de suscripción para arrendadores que deseen destacar sus propiedades y acceder a herramientas avanzadas de gestión de reservas. Estos planes premium ofrecerán beneficios adicionales, como una mayor visibilidad en los resultados de búsqueda y acceso prioritario a herramientas analíticas avanzadas. Además, monetizaremos la plataforma mediante la implementación de sensores en los locales, permitiendo a los propietarios recibir reportes detallados sobre la actividad en sus espacios. En contraste, el acceso a la plataforma será completamente gratuito para los arrendatarios, incentivando su participación y aumentando la oferta de espacios disponibles.
+
+### 1.2.1. Antecedentes y Problematicas
+
+Actualmente, las personas tienen fácil acceso a herramientas tecnológicas para reservar y alquilar locales de eventos, en páginas web o mediante un aplicativo móvil. Esto genera una mayor demanda en nuestro país sobre el creciente mercado de las reservas online. Además, con el incremento de usuarios que tienen acceso a internet, uso de dispositivos para facilitar el proceso de reserva espacios para eventos. Según el INEI, en los primeros tres meses del año 2022, 73 de cada 100 personas de 6 y más años accedieron a Internet en el país, cifra que muestra un crecimiento de 5,1 y 17,7 puntos porcentuales comparado con igual trimestre de 2021 (67,4%) y 2019 (54,8%), respectivamente (Jasin, 2023). 
+
+También es importante mencionar la creciente demanda por la elaboración de eventos por parte de las marcas. Según Mañas (2024), las marcas apuestan cada vez más por los eventos para darse a conocer e interactuar directamente con su audiencia, pues muchas consideran que estas experiencias ayudan a mostrar sus valores y a construir relaciones sólidas con sus clientes. 
+
+Ante ello, podemos demostrar que en el Perú el número de personas con acceso a internet a incrementado considerablemente en los últimos dos años, por otro lado, también justificamos la necesidad de una plataforma para facilitar la búsqueda en alquiler de espacios ante la creciente demanda de estas por parte de las empresas.
+
+</div>    
+
+
+**Problemáticas - Técnica de las 5 'W's y 2 'H's**
+
+**What?**
+
+**¿Cuál es el problema?**
+
+El problema es la falta de una plataforma centralizada y enfocada en el alquiler de espacios para eventos. Actualmente, arrendadores y arrendatarios enfrentan dificultades al buscar y reservar espacios adecuados para sus necesidades. 
+
+**¿Cuál es la relación con la persona en cuestión?**
+
+La persona en cuestión es que, si es arrendador de un espacio para eventos, puede enfrentar dificultades al encontrar y atraer a potenciales clientes para alquilar su espacio, asi como el poder monitorear del mismo. Del mismo modo, si es arrendatario, puede enfrentar desafíos al buscar y reservar un espacio adecuado para sus eventos.	 
+
+**When?**
+
+**¿Cuánto sucede el problema?** 
+
+El problema ocurre cada vez que arrendadores desean alquilar y/o gestionar sus instalaciones para eventos o arrendatarios buscan espacios para celebrar sus actividades. Esta necesidad surge de manera recurrente y en diferentes momentos, ya sea para eventos planificados con anticipación o para aquellos que requieran una búsqueda rápida de un espacio disponible. 
+
+**¿Cuándo utiliza el cliente el producto?** 
+
+Cuando organizaciones o personas necesitan encontrar y reservar un espacio para un evento, ya sea con anticipación o de manera urgente. También, para aquellas personas que poseen instalaciones para realizar eventos y deseen promocionar su espacio, conectándose así con clientes potenciales. 
+
+**Where?** 
+**¿Dónde está el cliente cuando usa el producto?**
+
+El cliente utiliza AlquilaFacil a través de su aplicación móvil. 
+
+ 
+**¿A dónde se dirige?** 
+
+Se dirige a una plataforma en línea o a una aplicación móvil, donde puede buscar, comparar y reservar espacios para eventos de manera conveniente y eficiente. 
+
+**¿Dónde surge el problema?** 
+
+El problema surge en la dificultad para encontrar y reservar espacios adecuados para eventos, ya sea durante la planificación anticipada de un evento o en situaciones donde se requiere una búsqueda rápida. 
+
+**Why?**
+
+**¿Cuál es la causa del problema?**
+
+La falta de una plataforma centralizada y eficiente que conecte a arrendadores con personas que buscan alquilar un espacio para eventos. La ausencia de un sistema unificado dificulta la búsqueda y reserva de espacios adecuados, lo que puede generar frustración y pérdida de oportunidades tanto para arrendadores como para arrendatarios. 
+
+**How?** 
+
+**¿En qué condiciones los clientes usan nuestro producto?** 
+
+Los clientes utilizan AlquilaFacil para buscar y reservar espacios para una variedad de eventos, ya sea para eventos sociales o corporativos. 
+
+**¿Cómo prefieren los clientes acceder a nuestro producto?**
+
+Los clientes prefieren acceder a nuestro producto, a través de una plataforma web o móvil. 
+
+**¿Que llevó al cliente a llegar a esta situación?**
+
+La falta de una plataforma para el alquiler y gestión de espacios para eventos llevó tanto a los clientes que buscan espacios como a los arrendadores a esta situación. 
+
+ 
+**How much?** 
+
+Los costos de AlquilaFacil varían según el plan de suscripción seleccionada. Ofrecemos opciones gratuitas para los usuarios básicos, así como planes de suscripción mensual o anual con tarifas moderadas para aquellos que deseen optar por un plan premium y beneficios adicionales, tanto para arrendadores y arrendatarios. 
+
+### 1.2.2. Lean UX Process
+
+En esta parte, llevaremos a cabo el proceso de Lean UX, que abarca la visión del modelo de negocio que respaldará nuestro producto de software. Este enfoque metodológico nos permite concentrarnos en el diseño de nuestra solución y en la resolución de los problemas identificados a través del pensamiento de diseño. 
+
+#### 1.2.2.1. Lean UX Problem Statement
+
+Nuestro contexto se enmarca en el mercado de alquiler de espacios para eventos en Perú, un sector que ha experimentado un crecimiento sostenido en los últimos años. Con el aumento de la demanda por espacios flexibles y adaptables para diferentes tipos de eventos, también surgen desafíos en la manera en que los usuarios, tanto arrendadores como arrendatarios, interactúan dentro de este ecosistema. 
+
+Hemos identificado que, en el mercado de alquiler de espacios, los usuarios enfrentan dificultades por la falta de integración en el proceso. La fragmentación en la búsqueda, gestión de reservas y organización genera ineficiencias y una experiencia insatisfactoria. 
+
+¿Cómo podemos mejorar la conexión entre arrendadores y arrendatarios, optimizando el proceso de alquiler de espacios para eventos y ofreciendo una experiencia más fluida y eficiente?
+
+#### 1.2.2.2. Lean UX Assumptions
+
+<div align="justify">
+    **Business Outcomes:** 
+
+- Asegurar que la plataforma procese al menos 1,000 reservas de eventos en el primer año, optimizando la gestión y la comunicación entre arrendadores y arrendatarios. 
+
+- Lograr una tasa de satisfacción del usuario del 90% o más mediante la implementación de herramientas que permitan verificar clasificaciones e historial de espacios, ayudando a los arrendatarios a tomar decisiones informadas.  
+
+- Renovación de suscripciones del 80% al final del primer año, indicando la satisfacción y la retención de clientes. 
+
+ 
+
+**User Assumptions:**
+
+- ¿Quién es el usuario?
+
+  - Arrendatarios 
+
+  - Arrendadores 
+
+- ¿Dónde entra nuestro producto en su trabajo o su vida? 
+
+  - **Arrendatarios:** AlquilaFacil simplifica la búsqueda y reserva de espacios, optimizando la planificación de eventos y ahorrando tiempo y esfuerzo. 
+
+  - **Arrendadores:** AlquilaFacil facilita la promoción y gestión eficiente de sus espacios, aumentando su visibilidad y el número de reservas. 
+
+<br>
+
+- ¿Cuál es el problema que nuestro producto soluciona? 
+
+  - Comunicación ineficiente entre arrendatarios y arrendadores. 
+
+  - Dificultad para encontrar y reservar espacios adecuados. 
+
+  - Falta de transparencia y confianza en la calidad y disponibilidad de los espacios. 
+
+  - Necesidad de una herramienta centralizada para gestionar reservas, promover y monitorear espacios. 
+
+<br>
+
+- ¿Cómo y cuándo nuestro producto es usado? 
+
+  - **Arrendatarios:** Usan la plataforma para buscar, filtrar y reservar espacios para sus eventos, tanto durante la planificación como en la fase de ejecución. 
+
+  - **Arrendadores:** Usan la plataforma para promocionar sus espacios, gestionar reservas y recibir reportes de sus locales. 
+
+ <br>
+
+- ¿Qué características son importantes? 
+
+  - Interfaz intuitiva y fácil de usar para búsqueda y reserva de espacios. 
+
+  - Sistema de promoción y visibilidad para los espacios. 
+
+  - Herramientas para gestionar reservas y comunicarse eficientemente. 
+
+  - Acceso a clasificaciones y reseñas para tomar decisiones informadas.
+
+  - Sección de reportes intuitiva y sencilla para los arrendadores
+
+
+ <br>
+
+- **User Outcomes:** 
+
+  - Los arrendatarios de eventos lograrán una reducción del 20% en el tiempo promedio dedicado a la búsqueda y reserva de espacios para eventos dentro de los primeros seis meses de uso de la plataforma. 
+
+ 
+
+  - Los arrendadores de espacios aumentarán en un 25% el número de reservas y consultas recibidas en sus espacios durante el primer año de implementación de la plataforma. 
+
+ 
+
+  - Los arrendatarios de eventos experimentarán una mejora del 30% en la satisfacción con la calidad y adecuación de los espacios reservados, medida a través de reseñas y calificaciones en la plataforma durante el primer año. 
+</div>  
+
+
+
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+  
+<div align="justify">
+    Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [We believe that], [This will achieve] y [We will have demostrated this when] 
+
+**Hipótesis 1**
+
+Creemos que, al simplificar el proceso de búsqueda y comparación de espacios para eventos en nuestra plataforma, aumentaremos la cantidad de clientes recurrentes. 
+
+Sabremos que estamos en lo correcto cuando observemos un incremento en la cantidad de reservas realizadas por clientes recurrentes, proyectando un aumento del 25% dentro de los primeros seis meses de la implementación de esta mejora. 
+
+<br>
+ 
+**Hipótesis 2** 
+
+Creemos que, al mejorar la función de búsqueda avanzada en nuestra plataforma, permitiendo a los usuarios filtrar por características específicas de los espacios (como capacidad, ubicación y servicios incluidos), aumentaremos la satisfacción del usuario y mejoraremos la precisión en la selección de espacios. 
+
+Sabremos que estamos en lo correcto cuando observemos una disminución del 25% en las consultas de soporte relacionadas con la búsqueda de espacios y un aumento en el tiempo promedio que los usuarios pasan en la plataforma explorando opciones. 
+
+<br>
+
+**Hipótesis 3**
+
+Creemos que, al ofrecer descuentos exclusivos en tarifas de alquiler de espacios seleccionados para los usuarios con suscripción premium, lograremos aumentar la conversión de usuarios de planes básicos a planes premium. 
+
+Sabremos que estamos en lo correcto cuando observemos un aumento del 30% en la cantidad de usuarios que actualizan su suscripción a premium y un incremento en el volumen de reservas realizadas por estos usuarios, dentro de los primeros seis meses de la implementación de esta estrategia. 
+
+<br>
+
+**Hipótesis 4**
+
+Creemos que, al implementar un sistema de calificación y comentarios para los espacios disponibles en nuestra plataforma, aumentaremos la confianza de los usuarios y mejoraremos la percepción de calidad de los espacios, lo que impulsará un mayor número de reservas. 
+
+Sabremos que estamos en lo correcto cuando observemos un aumento del 20% en la cantidad de reservas completadas, junto con una mejora en las calificaciones y comentarios proporcionados por los usuarios, dentro de los primeros tres meses de la implementación.
+
+<br>
+
+**Hipótesis 5**
+
+Creemos que, al implementar un programa de referidos que recompense a los usuarios por traer nuevos arrendadores o arrendatarios a nuestra plataforma, aumentaremos la adquisición de usuarios y fomentaremos el crecimiento orgánico de nuestra base de clientes. 
+
+Sabremos que estamos en lo correcto cuando observemos un aumento del 35% en la cantidad de nuevos registros y un incremento en el número de referidos realizados por los usuarios existentes, dentro de los primeros tres meses de implementación del programa.
+</div>    
+
+
+
+#### 1.2.2.4. Lean UX Canvas
+
+![Lean Ux Canvas](Resources/Lean%20Ux%20Canvas/Lean-Ux-Canvas.png)
+
+## 1.3. Segmentos objetivo
+
+
+
+<div align="justify">
+    En esta sección, identificamos los segmentos de clientes específicos a los que se dirige AlquilaFacil, basándonos en características demográficas, comportamientos y necesidades compartidas. 
+
+**Arrendatarios:** 
+
+- Descripción: Individuos que planifican eventos sociales como bodas, fiestas de cumpleaños, reuniones familiares, entre otros, y aquellos que organizan eventos regularmente, ya sea social o corporativo. 
+
+- Características: Buscan espacios que se adapten a sus necesidades específicas, como capacidad, ubicación y servicios disponibles. Realizan múltiples reservas de espacios a lo largo del año. 
+
+- Necesidades: Facilidad de búsqueda y reserva de espacios, acceso a información detallada sobre las instalaciones y servicios ofrecidos, programas de fidelización y alertas de acontecimientos que puedan afectar el desarrollo de su evento. 
+
+**Arrendadores:**
+
+- Descripción: Individuos o empresas que poseen espacios aptos para eventos, como salones de banquetes, jardines, locales comerciales, etc. 
+
+- Características: Ofrecen una variedad de espacios con diferentes capacidades y servicios. 
+
+- Necesidades: Promoción efectiva de sus espacios, gestión eficiente de reservas, acceso a herramientas para administrar sus listados, capacidad de poder gestionar y recibir reportes de sus inmuebles y proyectos de eventos. 
+
+</div>    
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
@@ -910,4 +1434,6 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
     </tr>
   </tbody>
 </table>
+
+
 
