@@ -171,7 +171,6 @@ Por otra parte, para controlar de manera efectiva los cambios en el código de l
 
 ### 5.1.4. Software Deployment Configuration
 
-<!--
 <div align="justify">
 
 Esta sección describe el proceso de configuración y despliegue del software, utilizando las herramientas principales que hemos integrado en nuestro flujo de trabajo: GitHub para el control de versiones y Postman para la verificación de las API antes y después del despliegue.
@@ -199,9 +198,6 @@ Las colecciones de Postman están configuradas con scripts de pruebas automatiza
 Las pruebas automatizadas se ejecutan localmente antes de realizar el despliegue en GitHub para asegurar la estabilidad del backend.
 
 </div>
-
--->
-
 
 
 ## 5.2. Product Implementation & Deployment
