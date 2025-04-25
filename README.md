@@ -173,31 +173,39 @@ Por otra parte, para controlar de manera efectiva los cambios en el código de l
 
 <div align="justify">
 
-Esta sección describe el proceso de configuración y despliegue del software, utilizando las herramientas principales que hemos integrado en nuestro flujo de trabajo: GitHub para el control de versiones y Postman para la verificación de las API antes y después del despliegue.
+**Despliegue de la Landing Page**
+- **Plataforma**: GitHub Pages
+- **Propósito**: Hospedar la Landing Page (HTML, CSS, JavaScript).
+- **Acceso**: [Ver GitHub Pages](https://pages.github.com/)
+- **Proceso de Despliegue**:
+  1. Subir los archivos de la landing page (`index.html`, `style.css`, `script.js`) a un repositorio de GitHub.
+  2. Ir a la sección de "Settings" del repositorio.
+  3. Desplazarse a la sección "Pages".
+  4. En "Branch", seleccionar `main` y la carpeta `/root`.
+  5. GitHub desplegará automáticamente la página y generará una URL pública.
 
-**GitHub - Control de Versiones y Flujo de Trabajo**
+**Despliegue de la App Web**
+- **Plataforma**: Netlify
+- **Propósito**: Hospedar y desplegar automáticamente la aplicación web desarrollada en Vue.js.
+- **Acceso**: [Ver Netlify](https://netlify.com/)
+- **Proceso de Despliegue**:
+  1. Subir el proyecto de Vue.js a un repositorio en GitHub.
+  2. Crear una cuenta en Netlify y vincularla a GitHub.
+  3. Crear un nuevo sitio en Netlify desde Git seleccionando el repositorio.
+  4. Configurar el comando de construcción (`npm run build`) y definir la carpeta de publicación (`dist/`).
+  5. Netlify construirá y desplegará automáticamente la aplicación.
+  6. Cada vez que se haga push a `main`, Netlify redeplegará el sitio automáticamente.
 
-GitHub es la herramienta central para el control de versiones y la gestión del código en el proyecto. Utilizamos el enfoque de branching basado en GitFlow para garantizar un ciclo de desarrollo ordenado y controlado.
-
-**Postman - Pruebas y Verificación de API**
-
-Utilizamos Postman para verificar y validar las API en el backend antes de realizar el despliegue en producción. La configuración de las colecciones y entornos de Postman nos permite automatizar y estructurar estas pruebas:
-
-**Colecciones de Pruebas**
-
-Se crean colecciones específicas en Postman que contienen todas las solicitudes de las API utilizadas en el proyecto (ej. reservas, usuarios, gestión de vehículos).  
-Cada colección contiene solicitudes GET, POST, PUT y DELETE correspondientes a cada recurso del sistema.
-
-**Variables de Entorno**
-
-Entorno de desarrollo y entorno de producción están configurados como variables en Postman. Esto permite realizar pruebas en múltiples entornos cambiando fácilmente entre ellos.
-
-**Pruebas Automatizadas**
-
-Las colecciones de Postman están configuradas con scripts de pruebas automatizadas que verifican la correcta respuesta de las APIs (códigos de estado HTTP, formatos de respuesta JSON, validación de parámetros, etc.).  
-Las pruebas automatizadas se ejecutan localmente antes de realizar el despliegue en GitHub para asegurar la estabilidad del backend.
-
-</div>
+**Despliegue del Backend**
+- **Plataforma**: Microsoft Azure App Service
+- **Propósito**: Hospedar y gestionar la API del backend desarrollada con ASP.NET Core.
+- **Acceso**: [Ver Microsoft Azure](https://portal.azure.com/)
+- **Proceso de Despliegue**:
+  1. Publicar el proyecto ASP.NET Core desde Visual Studio o mediante Azure CLI.
+  2. En el portal de Azure, crear un nuevo App Service.
+  3. Conectar el App Service al repositorio de GitHub o cargar manualmente el build.
+  4. Configurar los App Settings como cadenas de conexión o variables de entorno en Azure.
+  5. Luego del despliegue, Azure proporcionará una URL pública para acceder a la API backend.
 
 
 ## 5.2. Product Implementation & Deployment
