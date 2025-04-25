@@ -460,6 +460,31 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 ### 5.2.6. RESTful API documentation
 
+<div align="justify">
+A continuación, se explicará detalladamente la documentación implementada de RESTful API desarrollada para este sistema. Esta API permite la interacción entre clientes (web o móvil) y el backend, siguiendo los principios REST: recursos claramente definidos, uso adecuado de verbos HTTP y respuestas en formato JSON.
+
+***Autenticación:***
+
+- **Tipo:** JWT (JSON Web Token)  
+- **Encabezado requerido:**
+  `Authorization: Bearer <token>`
+
+<br>
+
+***Convenciones RESTful Usadas***
+
+- **Verbos HTTP:** GET, POST, PUT, DELETE según el tipo de operación.
+
+- **Nombres de recursos en plural:** (/users, /spaces, /reservations).
+
+- **Uso de códigos de estado HTTP apropiados:** (200, 201, 400, 401, 404, 500).
+
+- Respuestas estructuradas en JSON con mensajes claros.
+
+
+</div>
+
+
 ### 5.2.7. Team Collaboration Insights
 
 ## 5.3. Video About-the-Product
