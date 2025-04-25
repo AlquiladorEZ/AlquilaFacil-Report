@@ -426,6 +426,12 @@ A continuación, se visualizarán los diagramas C4.
 
 ### 4.8.1. Software Architecture Context Diagram
 
+</div>
+
+![Artefacto creado en Structurizr](Resources/Domain-Driven%20Software%20Architecture/Software%20Architecture%20Context%20Diagram.jpeg) 
+
+<div align="justify">
+
 ### 4.8.2. Software Architecture Container Diagrams
 
 ### 4.8.3. Software Architecture Components Diagrams
