@@ -154,6 +154,9 @@
 | [5.2.6. RESTful API documentation](#526-restful-api-documentation) |
 | [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights) |
 | [5.3. Video About-the-Product](#53-video-about-the-product) |
+| [Conclusiones](#conclusiones) |
+| [Bibliografia](#bibliografia) |
+| [Anexos](#anexos) |
 
 # Student Outcome
 
