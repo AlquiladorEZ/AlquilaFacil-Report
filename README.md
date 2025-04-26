@@ -634,6 +634,7 @@ Se recomienda el uso de herramientas como Swagger (OpenAPI) o Postman para docum
 + Repositorio GitHub de la Aplicación Web: [Ver Repositorio](https://github.com/AlquiladorEZ/AlquilaFacil-FrontEnd)<br><br>
 + Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/AlquiladorEZ/AlquilaFacil-MobileApp)<br><br>
 + Repositorio GitHub de la Landing Page: [Ver Landing Page](https://github.com/AlquiladorEZ/AlquilaFacil-LandingPage)<br><br>
++ Entrevistas: [Ver Entrevistas](https://upcedupe-my.sharepoint.com/personal/u202212077_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202212077%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Dise%C3%B1o%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9d51545d%2Dea00%2D497d%2D9757%2D2b9f40b5d8be)<br><br>
 
 </div>
 
