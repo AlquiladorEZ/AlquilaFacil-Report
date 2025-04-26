@@ -398,6 +398,12 @@ AlquilaFácil implementa un sistema de navegación jerárquica en el que los usu
 
 ### 4.5.2. iOS Mobile Applications Prototyping
 
+![Artefacto creado en Figma](Resources/Mobile%20Application%20UXUI/iosPrototypeEvidence.png) 
+
+**Enlace:** https://www.figma.com/proto/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=102-2434&p=f&t=HmZsIwx9zf9fgjNw-1&scaling=scale-down&content-scaling=fixed&page-id=72%3A5&starting-point-node-id=102%3A2434
+
+<br>
+
 ## 4.6. Web Applications UX/UI Design
 
 ### 4.6.1. Web Applications Wireframes
