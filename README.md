@@ -54,11 +54,11 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 13/04/2025 |Ames Oviedo, Mariano Jose| |
-|TB1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| |
-|TB1| 13/04/2025 |Lecca Choccare, Christopher Bryan| |
-|TB1| 13/04/2025 |Sosa Colca, Angello Rodolfo| |
-|TB1| 13/04/2025 |Valle Zuta, Abel Andrés| |
+|TB1| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo I, II, III, IV, V |
+|TB1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| Capítulo I, II, III, IV, V  |
+|TB1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo I, II, III, IV, V  |
+|TB1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo I, II, III, IV, V  |
+|TB1| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo I, II, III, IV, V  |
 
 </div>
 
