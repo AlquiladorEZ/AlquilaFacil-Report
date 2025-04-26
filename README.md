@@ -1436,4 +1436,213 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 </table>
 
 
+# Capítulo III: Requirements Specification
 
+## 3.1. To-Be Scenario Mapping
+
+**Persona Principal: Arrendatarios**
+
+![Artefacto creado en UXPressia](Resources/To%20Be/ToBe-1.jpg)
+
+**Persona Secundaria: Arrendadores**
+
+![Artefacto creado en UXPressia](Resources/To%20Be/ToBe-2.jpg)
+
+## 3.2. User Stories
+
+**Epics:**
+
+
+| **Epic / Story ID** | **Título**                             | **Descripción**                                                                                                                                                                    | **Historias de usuario relacionadas**     |
+|---------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| **EP01**            | Gestión de usuarios y autenticación    | <div align="justify">Como usuario de AlquilaFácil, quiero poder registrarme fácilmente en la aplicación y acceder a mi cuenta, para poder utilizar las funcionalidades principales de la aplicación, sin complicaciones.</div> | <div align="justify">US01, US02, US14, US18</div> |
+| **EP02**            | Registro y gestión de espacios         | <div align="justify">Como arrendador de AlquilaFácil, quiero poder registrar, modificar y promocionar mis espacios en la plataforma para asegurarme de que los arrendatarios puedan ver y reservar mis propiedades de manera fácil y rápida.</div> | <div align="justify">US03, US12, US13</div> |
+| **EP03**            | Búsqueda y reserva de espacios         | <div align="justify">Como arrendatario de AlquilaFácil, quiero poder buscar y reservar espacios de acuerdo con mis necesidades (por capacidad, categoría, y ubicación), para encontrar el lugar perfecto para mi evento y asegurar su disponibilidad.</div> | <div align="justify">US04, US05, US06, US07, US11, US16, US17</div> |
+| **EP04**            | Gestión de agenda de usuario           | <div align="justify">Como usuario de AlquilaFácil, quiero poder gestionar mis reservas y recibir notificaciones sobre cambios y actividades relacionadas con mis espacios, para mantenerme organizado y al tanto de todo en tiempo real.</div> | <div align="justify">US08, US09, US10</div> |
+| **EP05**            | Funcionalidades de soporte y membresías| <div align="justify">Como usuario de AlquilaFácil, quiero poder acceder fácilmente a la sección de ayuda y adquirir una membresía premium, para recibir soporte cuando lo necesite y disfrutar de beneficios exclusivos que mejoren mi experiencia en la plataforma.</div> | <div align="justify">US15</div> |
+
+
+<br>
+
+
+**User Stories:**
+
+
+| **Epic / Story ID** | **Título**                      | **Descripción**                                                                                                                                                                                                                                                                       | **Criterios de aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                          | **Relacionado con (Epic ID)** |
+|---------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| US01                | Registrar usuario               | <div align="justify">Como usuario de la aplicación móvil de AlquilaFácil de un espacio para eventos, quiero poder registrarme fácilmente en AlquilaFácil para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</div>| <div align="justify">**Escenario 01: Registro exitoso**  <br> Dado que un usuario desea registrar su espacio en AlquilaFácil. Cuando el usuario completa el formulario de registro con la información requerida. Entonces el usuario recibe una confirmación de registro y puede acceder a su cuenta. <br><br> **Escenario 02: Validación de datos**  <br> Dado que un usuario completa el formulario de registro en AlquilaFácil. Cuando el usuario envía el formulario. Entonces los datos proporcionados se validan para garantizar la precisión y la autenticidad.</div> | EP01                          |
+| US02 | Iniciar sesión | <div align="justify">Como usuario registrado de la aplicación móvil de AlquilaFácil, quiero poder iniciar sesión fácilmente en mi cuenta, para gestionar mi espacio en alquiler y acceder a mis mensajes y notificaciones.</div> | <div align="justify">**Escenario 01: Inicio de sesión exitoso**  <br> Dado que un usuario registrado desea acceder a su cuenta en AlquilaFácil. Cuando el usuario ingresa su correo electrónico y contraseña correctos en el formulario de inicio de sesión. Entonces el usuario es autenticado exitosamente y se le otorga acceso a su cuenta. <br><br> **Escenario 02: Error en el inicio de sesión por credenciales incorrectas**  <br> Dado que un usuario registrado intenta acceder a su cuenta. Cuando el usuario ingresa una combinación incorrecta. Entonces se muestra un mensaje de error indicando que las credenciales son incorrectas.</div> | EP01 |
+| US03 | Registrar espacios | <div align="justify">Como arrendador de un espacio para eventos en AlquilaFácil, quiero poder registrar mi espacio para comenzar a recibir solicitudes de reserva lo antes posible.</div> | <div align="justify">**Escenario 01: Registro de datos básicos**  <br> Dado que un arrendador desea registrar su espacio en AlquilaFácil. Cuando completa distintos campos organizados en varios pasos detallados que incluyen información detallada sobre la propiedad. Entonces puede enviar el registro con éxito y recibir confirmación de su inclusión en la plataforma. <br><br> **Escenario 02: Validación de datos requeridos**  <br> Dado que un arrendador está completando el registro de su espacio. Cuando rellena todos los campos correspondientes a un paso específico. Entonces se activa el botón que le permite continuar al siguiente paso.</div> | EP02 |
+| US04 | Buscar espacios disponibles | <div align="justify">Como arrendatario, quiero poder buscar fácilmente espacios disponibles en AlquilaFácil para encontrar el lugar perfecto para mi evento.</div> | <div align="justify">**Escenario 01: Búsqueda principal por ubicación**  <br> Dado que un arrendatario busca un espacio para eventos en una ubicación específica. Cuando el arrendatario ingresa la ubicación deseada en el campo de búsqueda. Entonces se muestran los espacios disponibles en esa ubicación. <br><br> **Escenario 02: Búsqueda general de espacios**  <br> Dado que un arrendatario no ingresa algún texto en la barra de búsqueda. Cuando presiona sobre el ícono para buscar espacios. Entonces se muestran todos los espacios disponibles.</div> | EP03 |
+| US05 | Filtrar espacios disponibles | <div align="justify">Como arrendatario, quiero poder filtrar los espacios disponibles por capacidad y categoría, para encontrar uno que cumpla con mis criterios específicos.</div> | <div align="justify">**Escenario 01: Filtrado por capacidad**  <br> Dado que un arrendatario desea un espacio con capacidad para un número específico de personas. Cuando el arrendatario aplica un filtro de capacidad en la búsqueda. Entonces se muestran solo los espacios que cumplen con ese criterio. <br><br> **Escenario 02: Filtrado por categoría**  <br> Dado que un arrendatario desea un espacio de una categoría en específico. Cuando aplica un filtro de categoría. Entonces se muestran solo los espacios que cumplen con ese criterio.</div> | EP03 |
+| US06 | Visualizar información del espacio | <div align="justify">Como arrendatario, quiero poder visualizar información detallada del espacio, para evaluar si cumple con los requisitos de mi evento antes de hacer una reserva.</div> | <div align="justify">**Escenario 01: Visualización de información**  <br> Dado que el arrendatario selecciona un espacio en AlquilaFácil. Cuando accede a la página de detalles del espacio. Entonces puede visualizar información detallada como el aforo máximo, descripción del espacio y servicios disponibles. <br><br> **Escenario 02: Visualización de reseñas del espacio**  <br> Dado que el arrendatario está revisando un espacio. Cuando accede a la página de comentarios. Entonces puede visualizar las reseñas y calificaciones dejadas por otros usuarios.</div> | US03 |
+| US07 | Reservar espacios | <div align="justify">Como arrendatario, quiero poder reservar un espacio para mi evento en AlquilaFácil para garantizar su disponibilidad en la fecha deseada.</div> | <div align="justify">**Escenario 01: Proceso de reserva**  <br> Dado que un arrendatario ha encontrado el espacio ideal en AlquilaFácil. Cuando selecciona un espacio y una fecha. Entonces se muestra un formulario para completar los detalles de reserva. <br><br> **Escenario 02: Pago de la reserva con PayPal**  <br> Dado que el usuario está a punto de culminar el proceso de reserva. Cuando presiona el botón de realizar reserva. Entonces realiza el pago a través de PayPal. <br><br> **Escenario 03: Confirmación de reserva**  <br> Dado que se ha realizado el pago. Cuando el arrendatario es redirigido a la app. Entonces recibe confirmación y detalles actualizados.</div> | EP03 |
+| US08 | Gestionar calendario de reservas | <div align="justify">Como usuario de AlquilaFácil, quiero poder controlar una agenda de reservas para tener un horario organizado y evitar conflictos futuros.</div> | <div align="justify">**Escenario 01: Reserva de usuario normal**  <br> Dado que un arrendatario ha reservado uno de mis espacios. Cuando el propietario accede al calendario. Entonces ve el día resaltado en rojo. <br><br> **Escenario 02: Reserva de usuario premium**  <br> Dado que un usuario premium ha reservado un espacio. Cuando el propietario accede al calendario. Entonces ve el día resaltado en amarillo. <br><br> **Escenario 03: Reserva de espacio ajeno**  <br> Dado que un arrendatario ha reservado un espacio. Cuando accede al calendario. Entonces ve el día resaltado en azul.</div> | EP03 |
+| US09 | Calificar y comentar sobre espacios | <div align="justify">Como arrendatario, quiero poder publicar mi reseña sobre un espacio que he reservado para que otros usuarios puedan conocer mi experiencia.</div> | <div align="justify">**Escenario 01: Permiso para opinar**  <br> Dado que un arrendatario tiene una reserva culminada. Cuando accede a su información en el calendario. Entonces puede publicar una reseña. <br><br> **Escenario 02: Aporte de reseña**  <br> Dado que ha rellenado todos los campos de reseña. Cuando presiona realizar reseña. Entonces esta se publica para todos los usuarios.</div> | EP04 |
+| US10 | Notificar sobre actividades | <div align="justify">Como arrendador, quiero recibir notificaciones cuando un arrendatario ha realizado acciones sobre mi espacio para estar al tanto de su estado.</div> | <div align="justify">**Escenario 01: Notificación de reserva**  <br> Dado que el arrendador ha publicado un espacio. Cuando un arrendatario realiza una reserva. Entonces recibe una notificación con detalles. <br><br> **Escenario 02: Notificación de reseña**  <br> Dado que el arrendador ha publicado un espacio. Cuando un arrendatario realiza una reseña. Entonces recibe una notificación que le permite ver el comentario y calificación.</div> | EP04 |
+| US11 | Controlar espacios favoritos | <div align="justify">Como arrendatario, quiero poder agregar un espacio a mis favoritos para acceder rápidamente a lugares de interés para futuras reservas.</div> |<div align="justify">**Escenario 01: Agregar a favoritos**  <br> Dado que el arrendatario está visualizando la página de detalles. Cuando selecciona "Agregar a favoritos". Entonces el espacio se guarda localmente. <br><br> **Escenario 02: Eliminar de favoritos**  <br> Dado que ha guardado un espacio. Cuando selecciona "Eliminar de favoritos". Entonces se elimina de la lista y no se mostrará al filtrar.</div>| EP03 |
+| US12 | Visualizar espacios propios publicados | <div align="justify">Como arrendador, quiero poder visualizar todos los espacios que he publicado en la plataforma, para gestionar fácilmente la información de mis propiedades.</div> |<div align="justify">**Escenario 01: Listado de espacios publicados**  <br> Dado que el arrendador ha iniciado sesión. Cuando accede a la sección "Mis espacios". Entonces puede ver una lista de todos los espacios publicados con nombre y ubicación. <br><br> **Escenario 02: Acceso a detalles y edición**  <br> Dado que visualiza la lista de espacios. Cuando selecciona un espacio. Entonces puede acceder a los detalles y editar la información.</div>| EP02 |
+| US13 | Modificar espacios publicados | <div align="justify">Como arrendador, quiero poder modificar la información de los espacios publicados para asegurar que los datos sean precisos y estén actualizados.</div> | <div align="justify">**Escenario 01: Edición de detalles del espacio**  <br> Dado que desea actualizar la información. Cuando accede a edición y modifica descripción, aforo, servicios y tarifas. Entonces guarda los cambios y se reflejan públicamente. <br><br> **Escenario 02: Modificación de visibilidad temporal**  <br> Dado que está realizando cambios. Cuando activa "No disponible temporalmente". Entonces el espacio se muestra como no disponible para reservas.</div> | EP02 |
+| US14 | Actualizar perfil y sesión de usuario | <div align="justify">Como usuario de AlquilaFácil, quiero poder modificar mi perfil, incluyendo la opción de cambiar mi nombre de usuario y cerrar sesión, para mantener actualizada mi información personal y gestionar mi acceso a la aplicación de manera conveniente.</div> | <div align="justify">**Escenario 01: Modificación del nombre de usuario**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de configuración de perfil y edita el campo "Nombre de usuario". Entonces puede guardar los cambios, y el nuevo nombre de usuario se refleja en su perfil y en todas las interacciones futuras en la plataforma. <br><br> **Escenario 02: Cierre de sesión**  <br> Dado que el usuario desea salir de su cuenta en AlquilaFácil. Cuando selecciona la opción "Cerrar sesión" en la configuración de perfil. Entonces es desconectado de su cuenta y redirigido a la pantalla de inicio de sesión, asegurando que su sesión se haya cerrado de manera segura.</div> | EP01 |
+| US15 | Adquirir membresía mensual premium | <div align="justify">Como usuario de AlquilaFácil, quiero poder adquirir una membresía mensual premium para acceder a beneficios exclusivos, para maximizar mis oportunidades dentro del aplicativo.</div> | <div align="justify">**Escenario 01: Selección de la membresía premium**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Membresías" y selecciona la opción de "Membresía Mensual Premium". Entonces puede ver una descripción de los beneficios y el costo asociado a la membresía. <br><br> **Escenario 02: Proceso de Pago**  <br> Dado que el usuario desea adquirir la membresía mensual premium. Cuando completa el formulario de pago con su información de PayPal y confirma la transacción. Entonces recibe una notificación de que la membresía ha sido adquirida con éxito y se le proporciona acceso inmediato a los beneficios premium.</div> | EP05 |
+| US16 | Reportar espacios inseguros | <div align="justify">Como usuario de AlquilaFácil, quiero poder reportar espacios inseguros, para contribuir a la seguridad de la comunidad y alertar sobre situaciones que puedan poner en riesgo a otros usuarios.</div> | <div align="justify">**Escenario 01: Selección del espacio inseguro**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Reportar espacio" y selecciona el espacio desde la lista de reservas activas o buscando un espacio específico. Entonces puede ingresar un asunto y descripción del problema. <br><br> **Escenario 02: Confirmación del reporte**  <br> Dado que el usuario ha completado el formulario de reporte con todos los detalles requeridos. Cuando envía el reporte mediante el botón "Enviar". Entonces el reporte será registrado y revisado por el equipo de soporte de AlquilaFácil.</div> | EP03 |
+| US17 | Visualizar espacios reportados por el usuario | <div align="justify">Como usuario de AlquilaFácil, quiero poder visualizar los espacios que he reportado, para realizar un seguimiento de mis reportes y gestionarlos.</div> | <div align="justify">**Escenario 01: Navegar a la sección de "Ver Espacios Reportados"**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Ver Espacios Reportados" desde el panel de control. Entonces puede ver una lista de los espacios que ha reportado, incluyendo información como el nombre del espacio, la fecha del reporte, y el motivo del reporte. <br><br> **Escenario 02: Eliminar un reporte deslizando hacia la izquierda**  <br> Dado que el usuario se encuentra en la lista de espacios reportados. Cuando desliza uno de los reportes hacia la izquierda. Entonces aparece una opción para confirmar la eliminación del reporte. Y si confirma, el reporte se elimina de la lista.</div> | EP03 |
+| US18 | Iniciar sesión con servicios externos | <div align="justify">Como usuario de AlquilaFácil, quiero poder iniciar sesión utilizando servicios externos como Google o Outlook, para ahorrar tiempo y evitar tener que crear una cuenta desde cero.</div> | <div align="justify">**Escenario 01: Inicio de sesión con Google**  <br> Dado que un usuario está en la pantalla de inicio de sesión de AlquilaFácil, cuando hace clic en "Iniciar sesión con Google", entonces el sistema redirige al usuario a la pantalla de autenticación de Google, donde ingresa sus credenciales y otorga permisos. <br><br> **Escenario 02: Inicio de sesión con Facebook**  <br> Dado que un usuario está en la pantalla de inicio de sesión de AlquilaFácil, cuando hace clic en "Iniciar sesión con Facebook", entonces el sistema redirige al usuario a la pantalla de autenticación de Google, donde ingresa sus credenciales y otorga permisos.</div> | EP01 |
+| US19 | Acceder a información de ayuda | <div align="justify">Como usuario de AlquilaFácil, quiero poder acceder fácilmente a una sección de preguntas frecuentes e información de contacto para resolver mis dudas o comunicarme con el soporte cuando lo necesite.</div> | <div align="justify">**Escenario 01: Consultar preguntas frecuentes**  <br> Dado que un usuario tiene una duda común sobre el funcionamiento de la plataforma. Cuando selecciona la opción de "Preguntas frecuentes" en el menú de ayuda. Entonces se muestra una lista de preguntas con sus respuestas para ayudar al usuario. <br><br> **Escenario 02: Acceder a información de contacto**  <br> Dado que un usuario necesita comunicarse con el soporte. Cuando selecciona la opción de "Información de contacto" en el menú de ayuda. Entonces se muestra la información de contacto, incluyendo el correo electrónico y número de teléfono del soporte.</div> | EP05 |
+
+
+## 3.3. Product Backlog
+
+**Sprints:**
+
+Link trello: https://trello.com/invite/b/680019837959f6609959ce6e/ATTI946724210c7338f82a2e8bd7f289e223CC65121F/product-backlog-diseno-de-experimentos-de-ingenieria-de-software
+
+| Sprint # | Título                                                      | Descripción                                                                                                                             |
+|----------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | Desarrollo de funcionalidades Core                                          | <div align="justify">En este sprint, nos centramos en desarrollar nuestras funcionalidades mas importantes para el aplicativo, con esto facilitamos el vance para siguientes sprints</div> |
+| 2        |  | <div align="justify"> </div> |
+| 3        |          | <div align="justify"> </div> |
+| 4        |  | <div align="justify"> </div> |
+
+<br>
+
+**Product Backlog:**
+
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>User Stories ID</th>
+                <th>Título</th>
+                <th>Descripción</th>
+                <th>Story Points (1/2/3/5/8)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>US03</td>
+                <td>Registrar espacios</td>
+                <td>Como arrendador de un espacio para eventos en AlquilaFácil, quiero poder registrar mi espacio para comenzar a recibir solicitudes de reserva lo antes posible.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>US04</td>
+                <td>Buscar espacios disponibles</td>
+                <td>Como arrendatario, quiero poder buscar fácilmente espacios disponibles en AlquilaFácil para encontrar el lugar perfecto para mi evento.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>US05</td>
+                <td>Filtrar espacios disponibles</td>
+                <td>Como arrendatario, quiero poder filtrar los espacios disponibles por capacidad y categoría, para encontrar uno que cumpla con mis criterios específicos.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>US06</td>
+                <td>Visualizar información del espacio</td>
+                <td>Como arrendatario, quiero poder visualizar información detallada del espacio, para evaluar si cumple con los requisitos de mi evento antes de hacer una reserva.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>US07</td>
+                <td>Reservar espacios</td>
+                <td>Como arrendatario, quiero poder reservar un espacio para mi evento en AlquilaFácil para garantizar su disponibilidad en la fecha deseada.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>US12</td>
+                <td>Visualizar espacios propios publicados</td>
+                <td>Como arrendador en AlquilaFácil, quiero poder visualizar todos los espacios que he publicado en la plataforma, para gestionar fácilmente la información de mis propiedades.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US13</td>
+                <td>Modificar espacios publicados</td>
+                <td>Como arrendador de un espacio en AlquilaFácil, quiero poder modificar la información de los espacios que he publicado, incluyendo detalles como la descripción, aforo, servicios disponibles, tarifas y visibilidad temporal, para asegurar que los datos sean precisos y estén actualizados.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US08</td>
+                <td>Gestionar calendario de reservas</td>
+                <td>Como usuario de AlquilaFácil, quiero poder controlar una agenda de reservas para tener un horario organizado y evitar conflictos futuros.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>US09</td>
+                <td>Calificar y comentar sobre espacios</td>
+                <td>Como arrendatario, quiero poder publicar mi reseña sobre un espacio que he reservado para que otros usuarios puedan conocer mi experiencia sobre este.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US11</td>
+                <td>Controlar espacios favoritos</td>
+                <td>Como arrendatario en AlquilaFácil, quiero poder agregar un espacio a mis favoritos para guardar y acceder rápidamente a los lugares de interés para futuras reservas.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US16</td>
+                <td>Reportar espacios inseguros</td>
+                <td>Como usuario de AlquilaFácil, quiero poder reportar espacios inseguros, para contribuir a la seguridad de la comunidad y alertar sobre situaciones que puedan poner en riesgo a otros usuarios.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US17</td>
+                <td>Visualizar espacios reportados</td>
+                <td>Como usuario de AlquilaFácil, quiero poder visualizar los espacios que he reportado, para realizar un seguimiento de mis reportes y gestionarlos.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US01</td>
+                <td>Registrar usuario</td>
+                <td>Como usuario de la aplicación móvil de AlquilaFácil de un espacio para eventos, quiero poder registrarme fácilmente en AlquilaFácil para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US02</td>
+                <td>Iniciar sesión</td>
+                <td>Como usuario registrado de la aplicación móvil de AlquilaFácil, quiero poder iniciar sesión fácilmente en mi cuenta, para gestionar mi espacio en alquiler y acceder a mis mensajes y notificaciones.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US15</td>
+                <td>Adquirir membresía mensual premium</td>
+                <td>Como usuario de AlquilaFácil, quiero poder adquirir una membresía mensual premium para acceder a beneficios exclusivos, para maximizar mis oportunidades dentro del aplicativo.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>US10</td>
+                <td>Notificar sobre actividades de arrendatarios</td>
+                <td>Como arrendador de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones Cuando un arrendatario ha realizado cierta acción sobre mi espacio para estar al tanto de su estado y tomar las acciones pertinentes.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>US18</td>
+                <td>Permitir iniciar sesión con servicios externos</td>
+                <td>Como usuario de AlquilaFácil, quiero poder iniciar sesión utilizando servicios externos como Google o Outlook, para ahorrar tiempo y evitar tener que crear una cuenta desde cero.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>US14</td>
+                <td>Actualizar perfil y sesión de usuario</td>
+                <td>Como usuario de AlquilaFácil, quiero poder modificar mi perfil, incluyendo la opción de cambiar mi nombre de usuario y cerrar sesión, para mantener actualizada mi información personal y gestionar mi acceso a la aplicación de manera conveniente.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>US19</td>
+                <td>Acceder a información de ayuda</td>
+                <td>Como usuario de AlquilaFácil, quiero poder acceder fácilmente a una sección de preguntas frecuentes e información de contacto para resolver mis dudas o comunicarme con el soporte Cuando lo necesite.</td>
+                <td>5</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+## 3.4. Impact Mapping
+
+**Persona Principal: Arrendatarios**
+
+![Artefacto creado en UXPressia](Resources/Impact%20Mapping/Impact-1.png)
+
+**Persona Secundaria: Arrendadores**
+
+![Artefacto creado en UXPressia](Resources/Impact%20Mapping/Impact-2.png)
