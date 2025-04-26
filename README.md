@@ -556,6 +556,26 @@ Se recomienda el uso de herramientas como Swagger (OpenAPI) o Postman para docum
 
 ### 5.2.7. Team Collaboration Insights
 
+**Report Insights:**
+
+![Captura de Pantalla](Resources/Insights/Report%20Insights-1.png)
+
+**Landing Page Insights:**
+
+![Captura de Pantalla](Resources/Insights/Landing%20Insights-1.png)
+
+**Front-end Insights:**
+
+![Captura de Pantalla](Resources/Insights/Frontend%20Insights-1.png)
+
+**Back-end Insights:**
+
+![Captura de Pantalla](Resources/Insights/Backend%20Insights-1.png)
+
+**Mobile App Insights:**
+
+![Captura de Pantalla](Resources/Insights/Mobile%20App%20Insights-1.png)
+
 ## 5.3. Video About-the-Product
 
 ![Artefacto creado en Youtube](Resources/About%20Product/AboutProductEvidence.png)
