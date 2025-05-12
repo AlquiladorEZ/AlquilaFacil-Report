@@ -2690,9 +2690,9 @@ El usuario debe realizar el pago correspondiente y subir el comprobante a la pla
 * **¿Qué beneficios tengo como usuario premium?**
 Los usuarios premium cuentan con ventajas como:
 
-- Prioridad en la visualización de espacios.  
-- Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.  
-- Mejor visibilidad y herramientas adicionales para gestionar espacios.
+Prioridad en la visualización de espacios.  
+Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.  
+Mejor visibilidad y herramientas adicionales para gestionar espacios.
 
 
 * **¿Qué hago si sospecho de un fraude?**
@@ -2703,8 +2703,8 @@ Cada espacio tiene la opción de ser reportado. Si sospechas de actividad fraudu
 * **¿Puedo posponer una reserva?**
 Sí, pero con restricciones:
 
-- Las **reservas estándar** (resaltadas en azul en el calendario) se pueden posponer o modificar por parte del propietario.  
-- Las **reservas premium** (resaltadas en amarillo) **no** pueden ser pospuestas por el propietario, garantizando la estabilidad para el usuario premium.
+Las **reservas estándar** (resaltadas en azul en el calendario) se pueden posponer o modificar por parte del propietario.  
+Las **reservas premium** (resaltadas en amarillo) **no** pueden ser pospuestas por el propietario, garantizando la estabilidad para el usuario premium.
 
 
 * **¿Dónde puedo consultar los Términos y Condiciones completos?**
