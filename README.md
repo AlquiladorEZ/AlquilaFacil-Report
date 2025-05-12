@@ -2957,7 +2957,7 @@ El Core Behavior-Driven Development (BDD) es crucial para alinear el desarrollo 
 
 **US03: Registrar espacios**
 
-![US03](Resources/Core%20Behavior%20Driven%20Development/US03.jpeg)
+![US03](Resources/Core%20Behavior%20Driven%20Development/US3.jpeg)
 
 **US04: Buscar espacios disponibles**
 
@@ -3015,9 +3015,85 @@ El Core Behavior-Driven Development (BDD) es crucial para alinear el desarrollo 
 
 ### 6.1.4. Core System Tests
 
+<div align="justify">
+
+Los Core System Tests son vitales para evaluar el sistema completo en su conjunto, verificando que las funcionalidades principales operen según lo esperado en un entorno realista. Estas pruebas simulan el uso del sistema de extremo a extremo, incluyendo interacciones con componentes externos, bases de datos y APIs. Al identificar problemas en el comportamiento general del sistema, garantizan que las dependencias críticas funcionen correctamente y que la aplicación cumpla con los requisitos funcionales y no funcionales antes de su despliegue.
+
+</div>
+
 <div align="center">
 
+**Features:**
 
+![Features](Resources/Core%20Behavior%20Driven%20Development/CoreBehaviorDrivenDevelopment.jpeg)
+
+**US01: Registrar usuario**
+
+![US01](Resources/Core%20System%20Tests/US01.jpeg)
+
+**US02: Iniciar sesión**
+
+![US02](Resources/Core%20System%20Tests/US02.jpeg)
+
+**US03: Registrar espacios**
+
+![US03](Resources/Core%20System%20Tests/US03.jpeg)
+
+**US04: Buscar espacios disponibles**
+
+![US04](Resources/Core%20System%20Tests/US04.jpeg)
+
+**US05: Filtrar espacios disponibles**
+
+![US05](Resources/Core%20System%20Tests/US05.jpeg)
+
+**US06: Visualizar información del espacio**
+
+![US06](Resources/Core%20System%20Tests/US06.jpeg)
+
+**US07: Reservar espacios**
+
+![US07](Resources/Core%20System%20Tests/US07.jpeg)
+
+**US08: Gestionar calendario de reservas**
+
+![US08](Resources/Core%20System%20Tests/US08.jpeg)
+
+**US09: Calificar y comentar sobre espacios**
+
+![US09](Resources/Core%20System%20Tests/US09.jpeg)
+
+**US10: Notificar sobre actividades de arrendatarios**
+
+![US10](Resources/Core%20System%20Tests/US10.jpeg)
+
+**US11: Controlar espacios favoritos**
+
+![US11](Resources/Core%20System%20Tests/US11.jpeg)
+
+**US12: Visualizar espacios propios publicados**
+
+![US12](Resources/Core%20System%20Tests/US12.jpeg)
+
+**US13: Actualizar perfil y sesión de usuario**
+
+![US13](Resources/Core%20System%20Tests/US13.jpeg)
+
+**US14: Adquirir membresía premium**
+
+![US14](Resources/Core%20System%20Tests/US14.jpeg)
+
+**US15: Reportar espacios inseguros**
+
+![US15](Resources/Core%20System%20Tests/US15.jpeg)
+
+**US16: Visualizar espacios reportados por el usuario**
+
+![US16](Resources/Core%20System%20Tests/US16.jpeg)
+
+**US17: Acceder a información de ayuda**
+
+![US17](Resources/Core%20System%20Tests/US17.jpeg)
 
 </div>
 
