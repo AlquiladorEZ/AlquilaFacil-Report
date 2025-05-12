@@ -2676,39 +2676,37 @@ Esta sección establece los derechos, obligaciones y restricciones aplicables a 
 
 
 * **¿Qué sucede después de subir el comprobante de pago?**
-Una vez que subas el comprobante, el propietario del espacio será notificado y deberá validarlo manualmente. Si todo está correcto, la reserva se confirmará. Si hay algún error o sospecha de fraude, el propietario podrá rechazarla.
+<br>Una vez que subas el comprobante, el propietario del espacio será notificado y deberá validarlo manualmente. Si todo está correcto, la reserva se confirmará. Si hay algún error o sospecha de fraude, el propietario podrá rechazarla.
 
 
 * **¿AlquilaFácil gestiona el dinero o realiza reembolsos?**
-No. AlquilaFácil es una plataforma de conexión entre usuarios, pero no intermedia en los pagos. Los depósitos se hacen directamente a la cuenta del propietario, quien es responsable de validar y aceptar la reserva. Por eso es fundamental verificar los datos del espacio y del propietario antes de transferir dinero.
+<br>No. AlquilaFácil es una plataforma de conexión entre usuarios, pero no intermedia en los pagos. Los depósitos se hacen directamente a la cuenta del propietario, quien es responsable de validar y aceptar la reserva. Por eso es fundamental verificar los datos del espacio y del propietario antes de transferir dinero.
 
 
 * **¿Cómo activo una suscripción premium?**
-El usuario debe realizar el pago correspondiente y subir el comprobante a la plataforma. Un administrador del sistema revisará la transacción y, si es válida, activará manualmente la suscripción premium en tu cuenta. El usuario no necesita introducir ningún código.
+<br>El usuario debe realizar el pago correspondiente y subir el comprobante a la plataforma. Un administrador del sistema revisará la transacción y, si es válida, activará manualmente la suscripción premium en tu cuenta. El usuario no necesita introducir ningún código.
 
 
 * **¿Qué beneficios tengo como usuario premium?**
-Los usuarios premium cuentan con ventajas como:
-
-Prioridad en la visualización de espacios.  
-Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.  
-Mejor visibilidad y herramientas adicionales para gestionar espacios.
+<br>Los usuarios premium cuentan con ventajas como:
+<br>Prioridad en la visualización de espacios.  
+<br>Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.  
+<br>Mejor visibilidad y herramientas adicionales para gestionar espacios.
 
 
 * **¿Qué hago si sospecho de un fraude?**
-Cada espacio tiene la opción de ser reportado. Si sospechas de actividad fraudulenta, utiliza el botón **"Reportar"** disponible en la vista del espacio. Nuestro equipo revisará el caso y, de ser necesario, tomará medidas como la desactivación del espacio o la suspensión de cuentas.  
-**Los reportes falsos reiterados pueden generar sanciones.**
+<br>Cada espacio tiene la opción de ser reportado. Si sospechas de actividad fraudulenta, utiliza el botón **"Reportar"** disponible en la vista del espacio. Nuestro equipo revisará el caso y, de ser necesario, tomará medidas como la desactivación del espacio o la suspensión de cuentas.
+<br><strong>Los reportes falsos reiterados pueden generar sanciones.</strong>
 
 
 * **¿Puedo posponer una reserva?**
-Sí, pero con restricciones:
-
-Las **reservas estándar** (resaltadas en azul en el calendario) se pueden posponer o modificar por parte del propietario.  
-Las **reservas premium** (resaltadas en amarillo) **no** pueden ser pospuestas por el propietario, garantizando la estabilidad para el usuario premium.
+<br>Sí, pero con restricciones:
+<br>Las <strong>reservas estándar</strong> (resaltadas en azul en el calendario) se pueden posponer o modificar por parte del propietario.  
+<br>Las <strong>reservas premium</strong> (resaltadas en amarillo) **no** pueden ser pospuestas por el propietario, garantizando la estabilidad para el usuario premium.
 
 
 * **¿Dónde puedo consultar los Términos y Condiciones completos?**
-Puedes acceder a los **Términos y Condiciones** detallados desde la parte inferior del sitio web, en el enlace “Términos y Condiciones”.  
+<br>Puedes acceder a los <strong>Términos y Condiciones</strong> detallados desde la parte inferior del sitio web, en el enlace “Términos y Condiciones”.  
 
 
 </div>
