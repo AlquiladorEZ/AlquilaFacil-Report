@@ -3023,10 +3023,6 @@ Los Core System Tests son vitales para evaluar el sistema completo en su conjunt
 
 <div align="center">
 
-**Features:**
-
-![Features](Resources/Core%20Behavior%20Driven%20Development/CoreBehaviorDrivenDevelopment.jpeg)
-
 **US01: Registrar usuario**
 
 ![US01](Resources/Core%20System%20Tests/US01.jpeg)
@@ -3105,11 +3101,81 @@ Los Core System Tests son vitales para evaluar el sistema completo en su conjunt
 
 <div align="justify">
 
+Es muy importante que durante el desarrollo y las pruebas de software, se cuente con procesos y herramientas que garanticen simultáneamente un buen desarrollo del código y desempeño del equipo. En nuestra dinámica de trabajo integramos un amplio abanico de soluciones que potencian todo el ciclo de vida del software.
 
+Complementamos este flujo con las metodologías Behavior‑Driven Development  y Test‑Driven Development, lo que nos permite validar de forma temprana los requisitos del cliente y mantener estándares técnicos de alto nivel a lo largo de todo el proceso. Para asegurar la calidad del software, se integraron diversas herramientas de pruebas automatizadas y un sistema de integración continua (CI) mediante GitHub Actions. Esto permite detectar errores de forma temprana cada vez que se realiza un cambio en el código fuente. Las herramientas y prácticas empleadas fueron:
+
+* **xUnit:** framework para pruebas unitarias en .NET, utilizado en el proyecto para validar el comportamiento de componentes individuales.
+
+* **Moq:** biblioteca para la creación de objetos simulados (mocks) en pruebas unitarias, útil para aislar dependencias externas.
+
+* **Cucumber**: herramienta para pruebas de aceptación basadas en comportamiento (BDD), facilitando la escritura de pruebas en lenguaje natural.
+
+* **Selenium**: framework para pruebas automatizadas de interfaces gráficas web, utilizado para validar flujos completos en la aplicación web.
+
+* **Maestro**: herramienta de automatización de flujos para testing en apps móviles, permite definir y ejecutar escenarios sobre dispositivos simulados o reales.
+
+A nivel de integración, se implementó un sistema CI con GitHub Actions. El archivo Run Tests.yml define un workflow que se activa automáticamente en dos situaciones:
+
+* Cuando se realiza un push a la rama main.
+
+* Cuando se genera un pull request hacia la rama main.
+
+Este workflow garantiza que cada nuevo cambio sea verificado y probado antes de su integración definitiva. Las herramientas utilizadas dentro del pipeline fueron:
+
+* **actions/checkout@v3**: para clonar el repositorio en el entorno de ejecución.
+
+* **actions/setup-dotnet@v3**: para configurar el SDK de .NET 8.0 en la máquina virtual.
+
+* **dotnet restore / build / test**: comandos de línea de comandos de .NET utilizados para restaurar dependencias, compilar la solución y ejecutar las pruebas respectivas.
+
+</div>
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Integration/Captura1.PNG)
+
+</div>
+
+<div align="justify">
+
+Se muestra el historial de ejecuciones del pipeline en la pestaña "Actions" del repositorio. Se evidencia cómo cada nuevo commit activa el pipeline y se indica si el proceso fue exitoso o fallido, con los tiempos de ejecución por etapa.
+
+</div>
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Integration/Captura2.PNG)
 
 </div>
 
 ### 7.1.2. Build & Test Suite Pipeline Components
+
+<div align="justify">
+
+El pipeline de integración continua (CI) implementado con GitHub Actions en el proyecto tiene como objetivo verificar automáticamente que el código compilado sea funcional y que las pruebas definidas se ejecuten correctamente antes de integrarse a la rama principal. Este pipeline contiene las siguientes etapas clave:
+
+**Componentes del Pipeline de Build & Test:**
+
+* **Checkout del repositorio:**<br><br>Se utiliza actions/checkout@v3 para clonar el código fuente en la máquina virtual del runner.<br>Esto permite que los pasos posteriores trabajen con la última versión del código.
+
+* **Configuración del entorno .NET:**<br><br>Se usa actions/setup-dotnet@v3 para instalar el SDK de .NET 8.0.<br>Esta etapa asegura que el entorno de ejecución sea compatible con el framework del proyecto.
+
+* **Restauración de dependencias:**<br><br>dotnet restore asegura que todos los paquetes NuGet requeridos por los proyectos estén disponibles.<br>Se restauran dependencias tanto a nivel de la solución completa como por proyecto de test.
+
+* **Compilación del código fuente:**<br><br>dotnet build --no-restore compila el código sin volver a restaurar dependencias.<br>Se verifica que el código pueda ser compilado exitosamente en un entorno limpio.
+
+* **Ejecución de pruebas unitarias y de integración:**<br><br>Se ejecutan pruebas por separado para dos proyectos: CoreEntitiesUnitTests y CoreIntegrationTests, usando dotnet test.<br>Esto permite validar tanto el funcionamiento interno de las entidades como la integración de los componentes del sistema.
+
+Este pipeline asegura que cada contribución cumpla con estándares mínimos de calidad antes de ser integrada, previniendo errores tempranamente y manteniendo la estabilidad del repositorio.
+
+</div>
+
+<div align="center">
+
+![Build & Test Suite Pipeline Components](Resources/Continuous%20Integration/Captura3.PNG)
+
+</div>
 
 ## 7.2. Continuous Delivery
 
