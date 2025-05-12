@@ -149,10 +149,11 @@
 | [5.2.1. Sprint Backlogs](#521-sprint-backlogs) |
 | [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence) |
 | [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence) |
-| [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence) |
-| [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence) |
-| [5.2.6. RESTful API documentation](#526-restful-api-documentation) |
-| [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights) |
+| [5.2.4. Acuerdo de Servicio Saas](#524-acuerdo-de-servicio-saas) |
+| [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence) |
+| [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence) |
+| [5.2.7. RESTful API documentation](#527-restful-api-documentation) |
+| [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights) |
 | [5.3. Video About-the-Product](#53-video-about-the-product) |
 | [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification-&-validation) |    
 | [6.1. Testing Suites & Validation](#61-testing-suites-&-validation) |
@@ -2661,6 +2662,56 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 ![Captura de Pantalla](Resources/Evidences/App%20Web%20Evidence-2.jpeg)
 
 ![Captura de Pantalla](Resources/Evidences/App%20Web%20Evidence-3.jpeg)
+
+### 5.2.4. Acuerdo de Servicio Saas
+
+<div align="justify">
+
+Esta sección establece los derechos, obligaciones y restricciones aplicables a los usuarios de la plataforma, garantizando transparencia en el uso del servicio SaaS. Se integra públicamente en la sección **Soporte - Preguntas Frecuentes** del website, cumpliendo con los criterios de claridad, accesibilidad y cumplimiento normativo.
+
+**Sección de Soporte - Preguntas Frecuentes**
+
+* **¿Cómo reservo un espacio?**
+<br>Para reservar un espacio, inicia sesión en la plataforma, elige el local que deseas alquilar y completa la información requerida, como fecha y horario. Luego, realiza el depósito al número de cuenta indicado por el propietario y sube el comprobante de pago a través de la plataforma. El propietario validará el comprobante y confirmará tu reserva.
+
+
+* **¿Qué sucede después de subir el comprobante de pago?**
+Una vez que subas el comprobante, el propietario del espacio será notificado y deberá validarlo manualmente. Si todo está correcto, la reserva se confirmará. Si hay algún error o sospecha de fraude, el propietario podrá rechazarla.
+
+
+* **¿AlquilaFácil gestiona el dinero o realiza reembolsos?**
+No. AlquilaFácil es una plataforma de conexión entre usuarios, pero no intermedia en los pagos. Los depósitos se hacen directamente a la cuenta del propietario, quien es responsable de validar y aceptar la reserva. Por eso es fundamental verificar los datos del espacio y del propietario antes de transferir dinero.
+
+
+* **¿Cómo activo una suscripción premium?**
+El usuario debe realizar el pago correspondiente y subir el comprobante a la plataforma. Un administrador del sistema revisará la transacción y, si es válida, activará manualmente la suscripción premium en tu cuenta. El usuario no necesita introducir ningún código.
+
+
+* **¿Qué beneficios tengo como usuario premium?**
+Los usuarios premium cuentan con ventajas como:
+
+- Prioridad en la visualización de espacios.  
+- Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.  
+- Mejor visibilidad y herramientas adicionales para gestionar espacios.
+
+
+* **¿Qué hago si sospecho de un fraude?**
+Cada espacio tiene la opción de ser reportado. Si sospechas de actividad fraudulenta, utiliza el botón **"Reportar"** disponible en la vista del espacio. Nuestro equipo revisará el caso y, de ser necesario, tomará medidas como la desactivación del espacio o la suspensión de cuentas.  
+> Los reportes falsos reiterados pueden generar sanciones.
+
+
+* **¿Puedo posponer una reserva?**
+Sí, pero con restricciones:
+
+- Las **reservas estándar** (resaltadas en azul en el calendario) se pueden posponer o modificar por parte del propietario.  
+- Las **reservas premium** (resaltadas en amarillo) **no** pueden ser pospuestas por el propietario, garantizando la estabilidad para el usuario premium.
+
+
+* **¿Dónde puedo consultar los Términos y Condiciones completos?**
+Puedes acceder a los **Términos y Condiciones** detallados desde la parte inferior del sitio web, en el enlace “Términos y Condiciones”.  
+
+
+</div>
 
 ### 5.2.4. Implemented Native-Mobile Application Evidence
 
