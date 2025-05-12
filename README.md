@@ -2879,14 +2879,57 @@ Los Core Entities Unit Tests son fundamentales para garantizar la calidad y esta
 
 ![Reservation Unit Test](Resources/Core%20Entities%20Unit%20Tests/ReservationTest.jpeg)
 
-
 </div>
 
 ### 6.1.2. Core Integration Tests
 
+<div align="justify">
+
+Los Core Integration Tests son esenciales para verificar que los módulos clave de un sistema trabajen juntos de manera correcta y coherente. A diferencia de las pruebas unitarias, estas pruebas evalúan la interacción entre componentes o subsistemas, identificando problemas en la integración que podrían no ser evidentes al probar cada módulo por separado. Esto asegura que los flujos críticos de la aplicación, como procesos transversales o dependencias entre servicios, funcionen sin errores en un entorno integrado.
+
+</div>
+
 <div align="center">
 
+**Report Controller Test:**
 
+![Report Controller Test Unit Test](Resources/Core%20Integration%20Tests/ReportControllerTest.jpeg)
+
+**Subscription Controller Test:**
+
+![Subscription Controller Test](Resources/Core%20Integration%20Tests/SubscriptionControllerTest.jpeg)
+
+**Profile Controller Test:**
+
+![Profile Controller Test](Resources/Core%20Integration%20Tests/ProfileControllerTest.jpeg)
+
+**Notification Controller Test:**
+
+![Notification Controller Test](Resources/Core%20Integration%20Tests/NotificationControllerTest.jpeg)
+
+**Reservation Controller Test:**
+
+![Reservation Controller Test](Resources/Core%20Integration%20Tests/ReservationControllerTest.jpeg)
+
+**Local Categories Controller Test:**
+
+![Local Categories Controller Test](Resources/Core%20Integration%20Tests/LocalCategoriesControllerTest.jpeg)
+
+**Local Controller Test:**
+
+![Local Controller Test](Resources/Core%20Integration%20Tests/LocalControllerTest.jpeg)
+
+**Comment Controller Test:**
+
+![Comment Controller Test](Resources/Core%20Integration%20Tests/CommentControllerTest.jpeg)
+
+**Authentication Controller Test:**
+
+![Authentication Controller Test](Resources/Core%20Integration%20Tests/AuthenticationControllerTest.jpeg)
+
+**User Controller Test:**
+
+![User Controller Test](Resources/Core%20Integration%20Tests/UserControllerTest.jpeg)
 
 </div>
 
