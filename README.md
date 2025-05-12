@@ -2706,7 +2706,7 @@ Esta sección establece los derechos, obligaciones y restricciones aplicables a 
 
 </div>
 
-### 5.2.4. Implemented Native-Mobile Application Evidence
+### 5.2.5. Implemented Native-Mobile Application Evidence
 
 **Evidencias del avance de la implementación de la Mobile App:**
 
@@ -2722,7 +2722,7 @@ Esta sección establece los derechos, obligaciones y restricciones aplicables a 
 
 
 
-### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 
 **Evidencias del avance de la implementación del Back-end/Web Services:**
 
@@ -2731,7 +2731,7 @@ Esta sección establece los derechos, obligaciones y restricciones aplicables a 
 </p>
 
 
-### 5.2.6. RESTful API documentation
+### 5.2.7. RESTful API documentation
 
 <div align="justify">
 A continuación, se presenta una descripción detallada de la documentación de la RESTful API desarrollada para este sistema. Esta interfaz de programación de aplicaciones permite la comunicación entre clientes (tanto web como móviles) y el servidor backend, utilizando el paradigma REST (Representational State Transfer), ampliamente adoptado por su simplicidad, escalabilidad y separación de responsabilidades.
@@ -2817,7 +2817,7 @@ Se recomienda el uso de herramientas como Swagger (OpenAPI) o Postman para docum
 </div>
 
 
-### 5.2.7. Team Collaboration Insights
+### 5.2.8. Team Collaboration Insights
 
 **Report Insights:**
 
@@ -2844,6 +2844,103 @@ Se recomienda el uso de herramientas como Swagger (OpenAPI) o Postman para docum
 ![Artefacto creado en Youtube](Resources/About%20Product/AboutProductEvidence.png)
 
 **Enlace del video:** https://youtu.be/R445b6178Rs
+
+# Capítulo VI: Product Verification & Validation
+
+## 6.1. Testing Suites & Validation
+
+### 6.1.1. Core Entities Unit Tests
+
+<div align="justify">
+
+Los Core Entities Unit Tests son fundamentales para garantizar la calidad y estabilidad del núcleo de una aplicación. Estas pruebas se enfocan en validar el comportamiento de las entidades principales, como modelos de datos o componentes críticos, asegurando que funcionen correctamente bajo diferentes condiciones. Al detectar errores temprano, se reduce el riesgo de problemas en etapas avanzadas del desarrollo, mejorando la confianza en el sistema y facilitando su mantenimiento a largo plazo.
+
+</div>
+
+<div align="center">
+
+**Subscription Test:**
+
+![Subscription Unit Test](Resources/Core%20Entities%20Unit%20Tests/SubscriptionTest.jpeg)
+
+**Notification Test:**
+
+![Notification Unit Test](Resources/Core%20Entities%20Unit%20Tests/NotificationTest.jpeg)
+
+**Profile Test:**
+
+![Profile Unit Test](Resources/Core%20Entities%20Unit%20Tests/ProfileTest.jpeg)
+
+**Report Test:**
+
+![Report Unit Test](Resources/Core%20Entities%20Unit%20Tests/ReportTest.jpeg)
+
+**Reservation Test:**
+
+![Reservation Unit Test](Resources/Core%20Entities%20Unit%20Tests/ReservationTest.jpeg)
+
+
+</div>
+
+### 6.1.2. Core Integration Tests
+
+<div align="center">
+
+
+
+</div>
+
+### 6.1.3. Core Behavior Driven Development
+
+<div align="center">
+
+
+
+</div>
+
+### 6.1.4. Core System Tests
+
+<div align="center">
+
+
+
+</div>
+
+# Capítulo VII: DevOps Practices
+
+## 7.1. Continuous Integration
+
+### 7.1.1. Tools and Practices
+
+<div align="justify">
+
+
+
+</div>
+
+### 7.1.2. Build & Test Suite Pipeline Components
+
+## 7.2. Continuous Delivery
+
+### 7.2.1. Tools and Practices
+
+### 7.2.2. Stages Deployment Pipeline Components
+
+## 7.3. Continuous Deployment
+
+### 7.3.1. Tools and Practices
+
+### 7.3.2. Production Deployment Pipeline Components
+
+## 7.4. Continuous Monitoring
+
+### 7.4.1. Tools and Practices
+
+### 7.4.2. Monitoring Pipeline Components
+
+### 7.4.3. Alerting Pipeline Components
+
+### 7.4.4. Notification Pipeline Components
 
 # Conclusiones
 
