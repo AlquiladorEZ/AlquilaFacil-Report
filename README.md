@@ -2688,21 +2688,16 @@ Esta sección establece los derechos, obligaciones y restricciones aplicables a 
 
 
 * **¿Qué beneficios tengo como usuario premium?**
-<br>Los usuarios premium cuentan con ventajas como:
-<br>Prioridad en la visualización de espacios.  
-<br>Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.  
-<br>Mejor visibilidad y herramientas adicionales para gestionar espacios.
+<br>Los usuarios premium cuentan con ventajas como:<br>Prioridad en la visualización de espacios.<br>Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.<br>Mejor visibilidad y herramientas adicionales para gestionar espacios.
 
 
 * **¿Qué hago si sospecho de un fraude?**
-<br>Cada espacio tiene la opción de ser reportado. Si sospechas de actividad fraudulenta, utiliza el botón **"Reportar"** disponible en la vista del espacio. Nuestro equipo revisará el caso y, de ser necesario, tomará medidas como la desactivación del espacio o la suspensión de cuentas.
-<br><strong>Los reportes falsos reiterados pueden generar sanciones.</strong>
+<br>Cada espacio tiene la opción de ser reportado. Si sospechas de actividad fraudulenta, utiliza el botón **"Reportar"** disponible en la vista del espacio. Nuestro equipo revisará el caso y, de ser necesario, tomará medidas como la desactivación del espacio o la suspensión de cuentas. <strong>Los reportes falsos reiterados pueden generar sanciones.</strong>
 
 
 * **¿Puedo posponer una reserva?**
 <br>Sí, pero con restricciones:
-<br>Las <strong>reservas estándar</strong> (resaltadas en azul en el calendario) se pueden posponer o modificar por parte del propietario.  
-<br>Las <strong>reservas premium</strong> (resaltadas en amarillo) **no** pueden ser pospuestas por el propietario, garantizando la estabilidad para el usuario premium.
+<br>Las <strong>reservas estándar</strong> (resaltadas en azul en el calendario) se pueden posponer o modificar por parte del propietario.<br>Las <strong>reservas premium</strong> (resaltadas en amarillo) **no** pueden ser pospuestas por el propietario, garantizando la estabilidad para el usuario premium.
 
 
 * **¿Dónde puedo consultar los Términos y Condiciones completos?**
