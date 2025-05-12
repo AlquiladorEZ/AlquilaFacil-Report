@@ -2697,7 +2697,7 @@ Los usuarios premium cuentan con ventajas como:
 
 * **¿Qué hago si sospecho de un fraude?**
 Cada espacio tiene la opción de ser reportado. Si sospechas de actividad fraudulenta, utiliza el botón **"Reportar"** disponible en la vista del espacio. Nuestro equipo revisará el caso y, de ser necesario, tomará medidas como la desactivación del espacio o la suspensión de cuentas.  
-> Los reportes falsos reiterados pueden generar sanciones.
+**Los reportes falsos reiterados pueden generar sanciones.**
 
 
 * **¿Puedo posponer una reserva?**
