@@ -1597,13 +1597,13 @@ Link trello: https://trello.com/invite/b/680019837959f6609959ce6e/ATTI946724210c
                 <td>3</td>
             </tr>
             <tr>
-                <td>US16</td>
+                <td>US15</td>
                 <td>Reportar espacios inseguros</td>
                 <td>Como usuario de AlquilaFácil, quiero poder reportar espacios inseguros, para contribuir a la seguridad de la comunidad y alertar sobre situaciones que puedan poner en riesgo a otros usuarios.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>US17</td>
+                <td>US16</td>
                 <td>Visualizar espacios reportados</td>
                 <td>Como usuario de AlquilaFácil, quiero poder visualizar los espacios que he reportado, para realizar un seguimiento de mis reportes y gestionarlos.</td>
                 <td>3</td>
@@ -2935,9 +2935,81 @@ Los Core Integration Tests son esenciales para verificar que los módulos clave 
 
 ### 6.1.3. Core Behavior Driven Development
 
+<div align="justify">
+
+El Core Behavior-Driven Development (BDD) es crucial para alinear el desarrollo del software con los requisitos del negocio, enfocándose en el comportamiento esperado de las funcionalidades clave. Este enfoque utiliza un lenguaje común entre desarrolladores, testers y stakeholders, como Gherkin, para definir escenarios claros y específicos que describen cómo debería responder el sistema. Al priorizar las necesidades del usuario final y probar el comportamiento real frente a lo esperado, el Core BDD mejora la colaboración, reduce malentendidos y garantiza que el software entregue valor tangible.
+
+</div>
+
 <div align="center">
 
+**Features:**
 
+![Features](Resources/Core%20Behavior%20Driven%20Development/CoreBehaviorDrivenDevelopment.jpeg)
+
+**US01: Registrar usuario**
+
+![US01](Resources/Core%20Behavior%20Driven%20Development/US01.jpeg)
+
+**US02: Iniciar sesión**
+
+![US02](Resources/Core%20Behavior%20Driven%20Development/US02.jpeg)
+
+**US03: Registrar espacios**
+
+![US03](Resources/Core%20Behavior%20Driven%20Development/US03.jpeg)
+
+**US04: Buscar espacios disponibles**
+
+![US04](Resources/Core%20Behavior%20Driven%20Development/US04.jpeg)
+
+**US05: Filtrar espacios disponibles**
+
+![US05](Resources/Core%20Behavior%20Driven%20Development/US05.jpeg)
+
+**US06: Visualizar información del espacio**
+
+![US06](Resources/Core%20Behavior%20Driven%20Development/US06.jpeg)
+
+**US07: Reservar espacios**
+
+![US07](Resources/Core%20Behavior%20Driven%20Development/US07.jpeg)
+
+**US08: Gestionar calendario de reservas**
+
+![US08](Resources/Core%20Behavior%20Driven%20Development/US08.jpeg)
+
+**US09: Calificar y comentar sobre espacios**
+
+![US09](Resources/Core%20Behavior%20Driven%20Development/US09.jpeg)
+
+**US10: Notificar sobre actividades de arrendatarios**
+
+![US10](Resources/Core%20Behavior%20Driven%20Development/US10.jpeg)
+
+**US11: Controlar espacios favoritos**
+
+![US11](Resources/Core%20Behavior%20Driven%20Development/US11.jpeg)
+
+**US12: Visualizar espacios propios publicados**
+
+![US12](Resources/Core%20Behavior%20Driven%20Development/US12.jpeg)
+
+**US13: Actualizar perfil y sesión de usuario**
+
+![US13](Resources/Core%20Behavior%20Driven%20Development/US13.jpeg)
+
+**US14: Adquirir membresía premium**
+
+![US14](Resources/Core%20Behavior%20Driven%20Development/US14.jpeg)
+
+**US15: Reportar espacios inseguros**
+
+![US15](Resources/Core%20Behavior%20Driven%20Development/US15.jpeg)
+
+**US16: Visualizar espacios reportados por el usuario**
+
+![US16](Resources/Core%20Behavior%20Driven%20Development/US16.jpeg)
 
 </div>
 
