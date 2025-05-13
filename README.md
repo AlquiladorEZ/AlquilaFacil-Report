@@ -59,7 +59,7 @@
 |TB1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo I, II, III, IV y V |
 |TB1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo I, II, III, IV y V |
 |TB1| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo I, II, III, IV y V |
-|TP1| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo V |
+|TP1| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo V, VI y VII |
 |TP1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| Capítulo V, VI y VII |
 |TP1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo V, VI y VII |
 |TP1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo V, VI y VII |
