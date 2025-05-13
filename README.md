@@ -3343,13 +3343,111 @@ El pipeline de Despliegue Continuo incluye las siguientes etapas, cada una con s
 
 ## 7.4. Continuous Monitoring
 
+<div align="justify">
+
+El monitoreo continuo es esencial para garantizar el rendimiento, la disponibilidad y la seguridad de la aplicación. A continuación, se detallan las herramientas y componentes utilizados en el monitoreo, alertas y notificaciones dentro del ciclo de vida de la aplicación.
+
+</div>
+
 ### 7.4.1. Tools and Practices
+
+<div align="justify">
+
+El monitoreo continuo se lleva a cabo mediante diversas herramientas que permiten observar el comportamiento del sistema y recolectar datos relevantes para su mejora:
+
+* **Google Lighthouse**: Herramienta de auditoría de rendimiento, accesibilidad y SEO para aplicaciones web. Se integra en el pipeline de CI/CD para generar informes automáticos sobre la experiencia del usuario, identificando problemas de velocidad de carga y usabilidad.
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Monitoring/google-lighthouse-icon-may-2019-.svg)
+
+</div>
+
+* **MySQL Workbench**: Utilizada para monitorear el rendimiento de la base de datos MySQL, gestionando consultas, índices y recursos. Proporciona métricas cruciales sobre tiempos de respuesta y uso de recursos, asegurando el buen funcionamiento del backend.
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Monitoring/mysqlworkbench_93532.webp)
+
+</div>
+
+* **Render y Netlify**: Ofrecen acceso a registros detallados sobre los servicios backend (Render) y frontend (Netlify) desplegados. Estas herramientas permiten obtener logs de errores, advertencias y métricas clave, ayudando a identificar problemas en producción rápidamente.
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Monitoring/Render_logo_-_Black.jpg)
+
+![Tools and Practices](Resources/Continuous%20Monitoring/netlify-logo.jpg)
+
+</div>
+
+</div>
 
 ### 7.4.2. Monitoring Pipeline Components
 
+<div align="justify">
+
+El monitoreo efectivo requiere la integración de diversas herramientas en el pipeline de monitoreo para detectar problemas y obtener información relevante:
+
+* **Integración de Google Lighthouse**: En el pipeline CI/CD permite la auditoría periódica del rendimiento y accesibilidad en cada despliegue, asegurando que la aplicación mantenga los estándares de calidad.
+
+* **Render y Netlify**: Ambas plataformas proporcionan logs y métricas en tiempo real, que permiten a los desarrolladores detectar rápidamente problemas en el backend y frontend, respectivamente.
+
+</div>
+
+<div align="center">
+
+![Monitoring Pipeline Components](Resources/Continuous%20Monitoring/Captura1.PNG)
+
+![Monitoring Pipeline Components](Resources/Continuous%20Monitoring/Captura2.PNG)
+
+</div>
+
 ### 7.4.3. Alerting Pipeline Components
 
+<div align="justify">
+
+El sistema de alertas notifica a los equipos de desarrollo sobre problemas críticos, lo que permite una respuesta rápida y eficiente:
+
+* Las alertas de Render se configuran para notificar eventos como caídas de servicios o límites de uso. Estas alertas se pueden enviar por correo electrónico o integrarse con herramientas como Slack.
+
+<div align="center">
+
+![Alerting Pipeline Components](Resources/Continuous%20Monitoring/Captura3.PNG)
+
+</div>
+
+* Netlify permite configurar alertas sobre fallos en el despliegue del frontend. Las notificaciones se envían por correo electrónico y pueden integrarse con Slack para una respuesta rápida del equipo.
+
+<div align="center">
+
+![Alerting Pipeline Components](Resources/Continuous%20Monitoring/Captura4.PNG)
+
+</div>
+
+* Google Lighthouse genera informes automáticos que sirven como alerta sobre el estado del rendimiento y la accesibilidad, proporcionando información crítica que puede ser utilizada para abordar problemas antes de que afecten al usuario final.
+
+</div>
+
 ### 7.4.4. Notification Pipeline Components
+
+<div align="justify">
+
+Las notificaciones son esenciales para mantener al equipo informado sobre el estado del sistema:
+
+* **Render** y **Netlify** ofrecen notificaciones sobre el estado de los servicios backend y frontend, respectivamente. Los desarrolladores reciben notificaciones por correo electrónico o mediante integración con Slack, asegurando una comunicación fluida dentro del equipo.
+
+<div align="center">
+
+![Notification Pipeline Components](Resources/Continuous%20Monitoring/Captura5.PNG)
+
+![Notification Pipeline Components](Resources/Continuous%20Monitoring/Captura6.PNG)
+
+</div>
+
+* Los informes de **Google Lighthouse**, aunque no envían notificaciones automáticas, pueden configurarse para generar alertas mediante integraciones con otros servicios de monitoreo, proporcionando detalles sobre la experiencia del usuario en tiempo real.
+
+</div>
 
 # Conclusiones
 
