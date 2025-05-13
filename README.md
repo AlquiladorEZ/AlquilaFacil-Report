@@ -7,7 +7,7 @@
     <strong>1ASI0732 - Diseño de Experimentos de Ingeniería de Software - 4453</strong><br>  
     <br>
     <strong>Profesor: Julio Manuel Noriega Melendez</strong><br>
-    <br> <strong>INFORME DE TB1</strong> 
+    <br> <strong>INFORME DE TP1</strong> 
 </p>
 <p align="center">
     <strong>Startup: AlquilaEZ</strong><br>
@@ -45,7 +45,7 @@
 </div>
 <br>
 <p align="center">
-    <strong>ABRIL 2025 </strong>
+    <strong>MAYO 2025 </strong>
 </p>
 
 ## Registro de Versiones 
@@ -54,11 +54,16 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 13/04/2025 |Ames Oviedo, Mariano Jose| |
-|TB1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| |
-|TB1| 13/04/2025 |Lecca Choccare, Christopher Bryan| |
-|TB1| 13/04/2025 |Sosa Colca, Angello Rodolfo| |
-|TB1| 13/04/2025 |Valle Zuta, Abel Andrés| |
+|TB1| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo I, II, III, IV y V |
+|TB1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| Capítulo I, II, III, IV y V |
+|TB1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo I, II, III, IV y V |
+|TB1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo I, II, III, IV y V |
+|TB1| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo I, II, III, IV y V |
+|TP1| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo V |
+|TP1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| Capítulo V, VI y VII |
+|TP1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo V, VI y VII |
+|TP1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo V, VI y VII |
+|TP1| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo V, VI y VII |
 
 </div>
 
