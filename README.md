@@ -3179,9 +3179,81 @@ Este pipeline asegura que cada contribución cumpla con estándares mínimos de 
 
 ## 7.2. Continuous Delivery
 
+<div align="justify">
+
+El propósito es automatizar tanto las pruebas del código como su integración, garantizando que todo esté listo para desplegarse en cualquier momento.
+
+</div>
+
 ### 7.2.1. Tools and Practices
 
+<div align="justify">
+
+En el contexto de Alquila Fácil, se ha implementado una práctica de Continuous Delivery, que permite mantener el software en un estado continuamente desplegable, de modo que cada cambio que pasa por el pipeline de pruebas está listo para ser publicado en un entorno de staging o producción con mínima intervención manual.
+
+**Herramientas utilizadas:**
+* **GitHub Actions**: Se utiliza como orquestador principal del pipeline de CI/CD. Permite automatizar los procesos desde la integración hasta el despliegue.
+* **Render**: Plataforma de hosting utilizada para desplegar automáticamente la API del backend una vez que se aprueban los cambios en la rama principal (main).
+
+
+**Prácticas implementadas:**
+* **Despliegue automatizado en staging/producción**: Todo cambio en la rama main que pase exitosamente las pruebas se despliega automáticamente a Render, asegurando que la aplicación siempre esté actualizada. Render detecta cambios en el repositorio y ejecuta automáticamente el despliegue.
+
+* **Separación entre pruebas y despliegue**: Aunque el pipeline automatiza el despliegue, no se libera a producción si las pruebas no pasan. Esto mantiene la calidad del software.
+
+</div>
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Delivery/Captura1.PNG)
+
+![Tools and Practices](Resources/Continuous%20Delivery/Captura2.PNG)
+
+</div>
+
 ### 7.2.2. Stages Deployment Pipeline Components
+
+<div align="justify">
+
+El pipeline de entrega continua del proyecto está compuesto por varias etapas organizadas en el archivo de workflow .yml de GitHub Actions. Este flujo automatiza la verificación, compilación, pruebas y despliegue del backend.
+
+**Etapas del Pipeline:**
+1. **Checkout del código (Checkout code)**
+* Se obtiene el código fuente desde el repositorio GitHub para ejecutarlo en el runner.
+* **Comando:** uses: actions/checkout@v3
+
+2. **Configuración del entorno .NET (Setup .NET)**
+* Se instala la versión necesaria del SDK de .NET (8.0.x) en el runner.
+* **Comando:** uses: actions/setup-dotnet@v3
+
+3. **Restauración de dependencias**
+* Se ejecuta dotnet restore tanto a nivel de la solución como para proyectos de pruebas específicos.
+* Esta etapa asegura que todos los paquetes NuGet estén disponibles antes de la compilación.
+
+4. **Compilación (Build all projects)**
+* Se construyen todos los proyectos, asegurando que el código sea sintácticamente válido y todas las dependencias estén correctamente referenciadas.
+
+5. **Ejecución de pruebas (Run CoreEntitiesUnitTests y Run CoreIntegrationTests)**
+* Se corre la suite de pruebas unitarias e integradas.
+* Si alguna falla, el pipeline se detiene y no se continúa con el despliegue.
+
+6. **Despliegue en Render**
+* Esta etapa es automática y externa al pipeline de GitHub.
+* Render detecta el nuevo commit en main y comienza el despliegue. No se requiere una acción explícita dentro del .yml.
+
+</div>
+
+<div align="center">
+
+![Stages Deployment Pipeline Components](Resources/Continuous%20Delivery/Captura3.PNG)
+
+![Stages Deployment Pipeline Components](Resources/Continuous%20Delivery/Captura4.PNG)
+
+![Stages Deployment Pipeline Components](Resources/Continuous%20Delivery/Captura5.PNG)
+
+![Stages Deployment Pipeline Components](Resources/Continuous%20Delivery/Captura6.PNG)
+
+</div>
 
 ## 7.3. Continuous Deployment
 
