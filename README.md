@@ -3257,9 +3257,89 @@ El pipeline de entrega continua del proyecto está compuesto por varias etapas o
 
 ## 7.3. Continuous Deployment
 
+<div align="justify">
+
+Su objetivo principal es lograr que cada cambio en el código que pasa todas las pruebas y validaciones del pipeline sea implementado automáticamente en el entorno de producción sin intervención humana. Representa el siguiente paso después de Continuous Delivery, eliminando cualquier fricción manual en el proceso de despliegue.
+
+</div>
+
 ### 7.3.1. Tools and Practices
 
+<div align="justify">
+
+El proceso de despliegue continuo utiliza una combinación de herramientas modernas para automatizar y simplificar el flujo de trabajo. Las principales herramientas involucradas son:
+
+* **Netlify**: para el despliegue del frontend en Vue.js.
+
+* **Render**: para el despliegue del backend en ASP.NET Core.
+
+* **Railway**: para el despliegue y gestión de la base de datos MySQL.
+
+Cada una de estas herramientas trabaja de manera integrada dentro del pipeline de CI/CD, y tienen roles claramente definidos para gestionar diferentes aspectos del sistema.
+
+1. **Netlify (Frontend - Vue.js):**
+* **Descripción**: Netlify es una plataforma de despliegue y hosting para aplicaciones frontend. El frontend de AlquilaFácilPlatform, construido en Vue.js, se despliega automáticamente en Netlify cuando hay cambios en la rama main o cuando se completa un pull request exitoso.
+* **Práctica**: Netlify maneja automáticamente la construcción del frontend, y al hacer un commit, este es procesado, y el contenido actualizado se pone en producción sin intervención manual.
+
+</div>
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Deployment/Captura1.PNG)
+
+</div>
+
+<div align="justify">
+
+2. **Render (Backend - ASP.NET Core):**
+* **Descripción**: Render se utiliza para desplegar el backend de AlquilaFácilPlatform basado en ASP.NET Core. Una vez que el código en el backend ha sido probado y validado, Render se encarga de desplegar la aplicación en el entorno de producción, garantizando que la API y otros servicios estén siempre disponibles.
+* **Práctica**: Render está configurado para hacer despliegues automáticos cada vez que hay un cambio en el código en el repositorio correspondiente. Los pasos incluyen la construcción del servicio y la actualización del entorno en producción.
+
+
+3. **Railway (Base de Datos - MySQL):**
+* **Descripción**: Railway es utilizado para la gestión de la base de datos MySQL que soporta la aplicación Alquila Fácil. Cada vez que se realiza un despliegue, Railway asegura que la base de datos esté sincronizada con las nuevas versiones del sistema y que cualquier cambio en la estructura de la base de datos se realice de manera automatizada.
+* **Práctica**: Railway ofrece integración directa con la infraestructura de backend y frontend para asegurar que la base de datos esté disponible y actualizada en el entorno de producción.
+
+</div>
+
 ### 7.3.2. Production Deployment Pipeline Components
+
+<div align="justify">
+
+El pipeline de Despliegue Continuo incluye las siguientes etapas, cada una con su herramienta correspondiente:
+
+1. **Despliegue de Frontend en Netlify**
+* **Componente**: Netlify
+* **Proceso**: Cada vez que se realiza un cambio en la rama main del repositorio frontend, Netlify detecta el cambio, realiza una construcción de la aplicación y despliega la nueva versión en producción.
+* **Características**: Netlify maneja el build automático, cacheo de contenido, distribución a través de una CDN y provee un entorno seguro para la aplicación.
+
+2. **Despliegue de Backend en Render**
+* **Componente**: Render
+* **Proceso**: Cuando se hace un push a la rama main del backend, Render detecta el cambio y realiza una nueva construcción del proyecto ASP.NET Core. Render luego se encarga de desplegar la nueva versión del backend, asegurándose de que la aplicación esté disponible para recibir solicitudes en producción.
+* **Características**: Render proporciona despliegue automático, escalabilidad y monitoreo de la aplicación backend.
+
+</div>
+
+<div align="center">
+
+![Production Deployment Pipeline Components](Resources/Continuous%20Deployment/Captura2.PNG)
+
+</div>
+
+<div align="justify">
+
+3. **Gestión de la Base de Datos en Railway**
+* **Componente**: Railway
+* **Proceso**: Railway se integra en el pipeline para gestionar la base de datos MySQL utilizada por el backend. Cada vez que el backend se despliega, Railway asegura que la base de datos esté sincronizada con los últimos cambios, como migraciones o nuevas tablas.
+* **Características**: Railway proporciona integración con servicios como MySQL, gestionando despliegues, escalabilidad y migraciones de manera sencilla.
+
+</div>
+
+<div align="center">
+
+![Production Deployment Pipeline Components](Resources/Continuous%20Deployment/Captura3.PNG)
+
+</div>
 
 ## 7.4. Continuous Monitoring
 
