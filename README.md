@@ -3218,10 +3218,6 @@ Los Core System Tests son vitales para evaluar el sistema completo en su conjunt
 
 ![Ejecución](Resources/Core%20System%20Tests/Mobile/Ejecucion.jpeg)
 
-**Prueba con Lighthouse**
-
-![Lighthouse](Resources/Core%20System%20Tests/Mobile/lighthouse.jpeg)
-
 </div>
 
 # Capítulo VII: DevOps Practices
@@ -3531,6 +3527,10 @@ El monitoreo efectivo requiere la integración de diversas herramientas en el pi
 ![Monitoring Pipeline Components](Resources/Continuous%20Monitoring/Captura1.PNG)
 
 ![Monitoring Pipeline Components](Resources/Continuous%20Monitoring/Captura2.PNG)
+
+**Prueba con Lighthouse**
+
+![Lighthouse](Resources/Core%20System%20Tests/Mobile/lighthouse.jpeg)
 
 </div>
 
