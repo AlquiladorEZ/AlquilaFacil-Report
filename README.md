@@ -7,7 +7,7 @@
     <strong>1ASI0732 - Diseño de Experimentos de Ingeniería de Software - 4453</strong><br>  
     <br>
     <strong>Profesor: Julio Manuel Noriega Melendez</strong><br>
-    <br> <strong>INFORME DE TB1</strong> 
+    <br> <strong>INFORME DE TP1</strong> 
 </p>
 <p align="center">
     <strong>Startup: AlquilaEZ</strong><br>
@@ -45,7 +45,7 @@
 </div>
 <br>
 <p align="center">
-    <strong>ABRIL 2025 </strong>
+    <strong>MAYO 2025 </strong>
 </p>
 
 ## Registro de Versiones 
@@ -54,11 +54,16 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 13/04/2025 |Ames Oviedo, Mariano Jose| |
-|TB1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| |
-|TB1| 13/04/2025 |Lecca Choccare, Christopher Bryan| |
-|TB1| 13/04/2025 |Sosa Colca, Angello Rodolfo| |
-|TB1| 13/04/2025 |Valle Zuta, Abel Andrés| |
+|TB1| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo I, II, III, IV y V |
+|TB1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| Capítulo I, II, III, IV y V |
+|TB1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo I, II, III, IV y V |
+|TB1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo I, II, III, IV y V |
+|TB1| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo I, II, III, IV y V |
+|TP1| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo V, VI y VII |
+|TP1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| Capítulo V, VI y VII |
+|TP1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo V, VI y VII |
+|TP1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo V, VI y VII |
+|TP1| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo V, VI y VII |
 
 </div>
 
@@ -149,11 +154,33 @@
 | [5.2.1. Sprint Backlogs](#521-sprint-backlogs) |
 | [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence) |
 | [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence) |
-| [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence) |
-| [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence) |
-| [5.2.6. RESTful API documentation](#526-restful-api-documentation) |
-| [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights) |
+| [5.2.4. Acuerdo de Servicio Saas](#524-acuerdo-de-servicio-saas) |
+| [5.2.5. Implemented Native-Mobile Application Evidence](#525-implemented-native-mobile-application-evidence) |
+| [5.2.6. Implemented RESTful API and/or Serverless Backend Evidence](#526-implemented-restful-api-andor-serverless-backend-evidence) |
+| [5.2.7. RESTful API documentation](#527-restful-api-documentation) |
+| [5.2.8. Team Collaboration Insights](#528-team-collaboration-insights) |
 | [5.3. Video About-the-Product](#53-video-about-the-product) |
+| [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification-&-validation) |    
+| [6.1. Testing Suites & Validation](#61-testing-suites-&-validation) |
+| [6.1.1. Core Entities Unit Tests](#611-core-entities-unit-tests) |
+| [6.1.2. Core Integration Tests](#612-core-integration-tests) |
+| [6.1.3. Core Behavior Driven Development](#613-core-behavior-driven-development) |
+| [6.1.4. Core System Tests](#614-core-system-tests) |
+| [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices) |    
+| [7.1. Continuous Integration](#71-continuous-integration) |
+| [7.1.1. Tools and Practices](#711-tools-and-practices) |
+| [7.1.2. Build & Test Suite Pipeline Components](#712-build-&-test-suite-pipeline-components) |
+| [7.2. Continuous Delivery](#71-continuous-delivery) |
+| [7.2.1. Tools and Practices](#721-tools-and-practices) |
+| [7.2.2. Stages Deployment Pipeline Components](#722-stages-deployment-pipeline-components) |
+| [7.3. Continuous Deployment](#73-continuous-deployment) |
+| [7.3.1. Tools and Practices](#731-tools-and-practices) |
+| [7.3.2. Production Deployment Pipeline Components](#732-production-deployment-pipeline-components) |
+| [7.4. Continuous Monitoring](#74-continuous-monitoring) |
+| [7.4.1. Tools and Practices](#741-tools-and-practices) |
+| [7.4.2. Monitoring Pipeline Components](#742-monitoring-pipeline-components) |
+| [7.4.3. Alerting Pipeline Components](#743-alerting-pipeline-components) |
+| [7.4.4. Notification Pipeline Components](#744-notification-pipeline-components) |
 | [Conclusiones](#conclusiones) |
 | [Bibliografia](#bibliografia) |
 | [Anexos](#anexos) |
@@ -202,7 +229,7 @@ del ABET – EAC - Student Outcome 5.
       <br><br>
       Valle Zuta, Abel Andrés<br>
       En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
-      <br><br><strong>TP1:</strong><br><br>
+ <br><br><strong>TP1:</strong><br><br>
       Ames Oviedo, Mariano Jose<br>
       En esta nueva fase, asumí la responsabilidad de la integración de las distintas partes del sistema que habíamos desarrollado previamente. Coordiné las sesiones de integración y aseguré que todas las partes del equipo estuvieran alineadas en cuanto a la arquitectura del sistema y la interfaz de usuario. Este proceso me permitió mejorar mis habilidades en la gestión de dependencias entre componentes, y pude afianzar el liderazgo en la resolución de problemas que surgieron durante las pruebas de integración, enfocándome en las necesidades del cliente y los requerimientos técnicos.
       <br><br>
@@ -216,7 +243,7 @@ del ABET – EAC - Student Outcome 5.
       En esta fase del proyecto, asumí el liderazgo de la mejora de la usabilidad de la interfaz de usuario. Trabajé con los diseñadores y los desarrolladores frontend para mejorar la experiencia de usuario, asegurándome de que las interacciones fueran más intuitivas y accesibles. Además, presenté los resultados de las mejoras a los stakeholders, utilizando tanto términos técnicos como ejemplos visuales para garantizar la comprensión de los cambios realizados y su impacto en la experiencia del usuario final.
       <br><br>
       Valle Zuta, Abel Andrés<br>
-      En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
+      Durante esta fase, me enfoqué en la mejora de los procesos de control de calidad, implementando un conjunto más robusto de pruebas de integración. Fomenté el uso de pruebas automatizadas para asegurar que las distintas partes del sistema trabajaran en conjunto sin fallos. También gestioné la asignación de tareas de testing entre los miembros del equipo, lo que me permitió adquirir experiencia en la coordinación de equipos de testing y en la supervisión del proceso de validación de calidad.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
@@ -245,10 +272,27 @@ del ABET – EAC - Student Outcome 5.
       <br><br>
       Valle Zuta, Abel Andrés<br>
       Durante la primera entrega del presente proyecto, lideré la elaboración del reporte del proyecto que contiene los puntos clave del proyecto, la arquitectura que este tendrá y el alcance que planeamos para el software. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto aspectos técnicos como estratégicos fueran entendidos por audiencias con diferentes especialidades y roles jerárquicos.
+      <br><br><strong>TP1</strong><br><br>
+      Ames Oviedo, Mariano Jose<br>
+      En esta fase del proyecto, me encargué de redactar los informes sobre la verificación y validación del sistema, destacando las pruebas realizadas y los resultados obtenidos. Esto incluyó la documentación de las pruebas unitarias, pruebas de integración, y pruebas del sistema. Aseguré que la información fuera comprensible y detallada, utilizando un lenguaje técnico adecuado para los desarrolladores y un lenguaje accesible para los stakeholders no técnicos. Además, elaboré los informes de auditoría de experiencias de usuario, detallando los hallazgos y las modificaciones necesarias, con el fin de garantizar que el producto cumpliera con los requisitos de calidad.
+      <br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+      Durante esta iteración, fui responsable de actualizar la documentación sobre los procesos de validación y las entrevistas de usuario realizadas. Aseguré que las entrevistas fueran bien documentadas, detallando tanto el diseño como los registros y evaluaciones de las respuestas obtenidas. Me enfoqué en asegurar que los documentos fueran claros, proporcionando explicaciones sobre cómo se aplicaron las heurísticas para evaluar la experiencia del usuario. Esto facilitó la comprensión de los resultados por parte de los miembros del equipo y los stakeholders.
+      <br><br>
+      Lecca Choccare, Christopher Bryan<br>
+      Mi responsabilidad en esta iteración fue la documentación de las prácticas de integración continua y entrega continua dentro del pipeline de desarrollo. Redacté los procedimientos de las herramientas utilizadas y los componentes de la suite de pruebas, asegurando que la información fuera comprensible y estuviera orientada a facilitar la implementación de estas prácticas por parte del equipo. Además, detallé los cambios realizados en el proceso de despliegue, asegurando que los pasos fueran claros para todos los involucrados en las etapas de producción y monitoreo.
+      <br><br>
+      Sosa Colca, Angello Rodolfo<br>
+      En esta iteración, participé en la redacción de la documentación sobre las auditorías de experiencia de usuario, tanto las realizadas como las recibidas. Elaboré un informe detallado sobre los grupos auditados, el cronograma de la auditoría y las modificaciones propuestas para corregir los hallazgos. Además, contribuyó en la documentación sobre las prácticas de monitoreo continuo, describiendo los componentes del pipeline de monitoreo y alertas. Mi objetivo fue asegurar que las prácticas de monitoreo fueran fácilmente comprendidas y aplicadas en futuras iteraciones del proyecto.
+      <br><br>
+      Valle Zuta, Abel Andrés<br>
+      Durante esta fase, me encargué de la documentación técnica relacionada con el análisis estático de código y las revisiones de calidad. Escribí un informe sobre los estándares de codificación y las convenciones aplicadas, así como sobre los resultados del análisis de calidad y seguridad del código. Mi enfoque fue asegurar que toda la documentación fuera accesible y detallada, permitiendo que todos los miembros del equipo comprendieran las medidas tomadas para garantizar la calidad del código. También estuve involucrado en la redacción de la información sobre los componentes de la pipeline de notificación, asegurando que los equipos estuvieran informados de los cambios relevantes.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
       En este primer avance del proyecto, logramos tener una buena comunicación escrita, elaborando diversos documentos técnicos y presentaciones adaptadas a diferentes audiencias. Nos aseguramos de que la información estuviera estructurada de manera clara, utilizando gráficos, tablas y esquemas para facilitar la comprensión de los aspectos técnicos y estratégicos. Esta experiencia no solo fortaleció nuestra capacidad para redactar contenidos accesibles tanto para especialistas como para personas de otras áreas, sino que también consolidó la habilidad para transmitir ideas complejas de manera profesional y efectiva, asegurando que todos los niveles jerárquicos involucrados comprendieran el alcance, las metodologías y los resultados del proyecto.
+      <br><br><strong>TP1:</strong><br><br>
+      En esta iteración, todos los miembros del equipo desempeñaron un papel fundamental en la documentación de los procesos de verificación y validación, las prácticas de DevOps, y las auditorías realizadas. Gracias a la comunicación escrita clara y detallada, logramos no solo documentar las pruebas y los resultados, sino también crear una base sólida para la siguiente fase del proyecto. La documentación sobre las prácticas de integración continua, entrega continua, monitoreo y auditoría, permitió una mejor comprensión y aplicación de estas prácticas en todo el equipo. Además, las auditorías de experiencia de usuario y los informes de validación fueron clave para asegurar que el producto cumpliera con los estándares de calidad establecidos. Esta iteración ha mejorado significativamente nuestras capacidades para documentar y comunicar el progreso del proyecto de manera efectiva a todos los involucrados.
     </td>
   </tr>
 </table>
@@ -1475,11 +1519,11 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 | **Epic / Story ID** | **Título**                             | **Descripción**                                                                                                                                                                    | **Historias de usuario relacionadas**     |
 |---------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| **EP01**            | Gestión de usuarios y autenticación    | <div align="justify">Como usuario de AlquilaFácil, quiero poder registrarme fácilmente en la aplicación y acceder a mi cuenta, para poder utilizar las funcionalidades principales de la aplicación, sin complicaciones.</div> | <div align="justify">US01, US02, US14, US18</div> |
-| **EP02**            | Registro y gestión de espacios         | <div align="justify">Como arrendador de AlquilaFácil, quiero poder registrar, modificar y promocionar mis espacios en la plataforma para asegurarme de que los arrendatarios puedan ver y reservar mis propiedades de manera fácil y rápida.</div> | <div align="justify">US03, US12, US13</div> |
-| **EP03**            | Búsqueda y reserva de espacios         | <div align="justify">Como arrendatario de AlquilaFácil, quiero poder buscar y reservar espacios de acuerdo con mis necesidades (por capacidad, categoría, y ubicación), para encontrar el lugar perfecto para mi evento y asegurar su disponibilidad.</div> | <div align="justify">US04, US05, US06, US07, US11, US16, US17</div> |
+| **EP01**            | Gestión de usuarios y autenticación    | <div align="justify">Como usuario de AlquilaFácil, quiero poder registrarme fácilmente en la aplicación y acceder a mi cuenta, para poder utilizar las funcionalidades principales de la aplicación, sin complicaciones.</div> | <div align="justify">US01, US02, US13</div> |
+| **EP02**            | Registro y gestión de espacios         | <div align="justify">Como arrendador de AlquilaFácil, quiero poder registrar en la plataforma para asegurarme de que los arrendatarios puedan ver y reservar mis propiedades de manera fácil y rápida.</div> | <div align="justify">US03, US11, US12</div> |
+| **EP03**            | Búsqueda y reserva de espacios         | <div align="justify">Como arrendatario de AlquilaFácil, quiero poder buscar y reservar espacios de acuerdo con mis necesidades (por capacidad, categoría, y ubicación), para encontrar el lugar perfecto para mi evento y asegurar su disponibilidad.</div> | <div align="justify">US04, US05, US06, US07, US15, US16</div> |
 | **EP04**            | Gestión de agenda de usuario           | <div align="justify">Como usuario de AlquilaFácil, quiero poder gestionar mis reservas y recibir notificaciones sobre cambios y actividades relacionadas con mis espacios, para mantenerme organizado y al tanto de todo en tiempo real.</div> | <div align="justify">US08, US09, US10</div> |
-| **EP05**            | Funcionalidades de soporte y membresías| <div align="justify">Como usuario de AlquilaFácil, quiero poder acceder fácilmente a la sección de ayuda y adquirir una membresía premium, para recibir soporte cuando lo necesite y disfrutar de beneficios exclusivos que mejoren mi experiencia en la plataforma.</div> | <div align="justify">US15</div> |
+| **EP05**            | Funcionalidades de soporte y membresías| <div align="justify">Como usuario de AlquilaFácil, quiero poder acceder fácilmente a la sección de ayuda y adquirir una membresía premium, para recibir soporte cuando lo necesite y disfrutar de beneficios exclusivos que mejoren mi experiencia en la plataforma.</div> | <div align="justify">US14, US17</div> |
 
 
 <br>
@@ -1490,25 +1534,23 @@ Presentaremos los User Persona por cada segmento objetivo, en los cuales nos bas
 
 | **Epic / Story ID** | **Título**                      | **Descripción**                                                                                                                                                                                                                                                                       | **Criterios de aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                          | **Relacionado con (Epic ID)** |
 |---------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| US01                | Registrar usuario               | <div align="justify">Como usuario de la aplicación móvil de AlquilaFácil de un espacio para eventos, quiero poder registrarme fácilmente en AlquilaFácil para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</div>| <div align="justify">**Escenario 01: Registro exitoso**  <br> Dado que un usuario desea registrar su espacio en AlquilaFácil. Cuando el usuario completa el formulario de registro con la información requerida. Entonces el usuario recibe una confirmación de registro y puede acceder a su cuenta. <br><br> **Escenario 02: Validación de datos**  <br> Dado que un usuario completa el formulario de registro en AlquilaFácil. Cuando el usuario envía el formulario. Entonces los datos proporcionados se validan para garantizar la precisión y la autenticidad.</div> | EP01                          |
-| US02 | Iniciar sesión | <div align="justify">Como usuario registrado de la aplicación móvil de AlquilaFácil, quiero poder iniciar sesión fácilmente en mi cuenta, para gestionar mi espacio en alquiler y acceder a mis mensajes y notificaciones.</div> | <div align="justify">**Escenario 01: Inicio de sesión exitoso**  <br> Dado que un usuario registrado desea acceder a su cuenta en AlquilaFácil. Cuando el usuario ingresa su correo electrónico y contraseña correctos en el formulario de inicio de sesión. Entonces el usuario es autenticado exitosamente y se le otorga acceso a su cuenta. <br><br> **Escenario 02: Error en el inicio de sesión por credenciales incorrectas**  <br> Dado que un usuario registrado intenta acceder a su cuenta. Cuando el usuario ingresa una combinación incorrecta. Entonces se muestra un mensaje de error indicando que las credenciales son incorrectas.</div> | EP01 |
-| US03 | Registrar espacios | <div align="justify">Como arrendador de un espacio para eventos en AlquilaFácil, quiero poder registrar mi espacio para comenzar a recibir solicitudes de reserva lo antes posible.</div> | <div align="justify">**Escenario 01: Registro de datos básicos**  <br> Dado que un arrendador desea registrar su espacio en AlquilaFácil. Cuando completa distintos campos organizados en varios pasos detallados que incluyen información detallada sobre la propiedad. Entonces puede enviar el registro con éxito y recibir confirmación de su inclusión en la plataforma. <br><br> **Escenario 02: Validación de datos requeridos**  <br> Dado que un arrendador está completando el registro de su espacio. Cuando rellena todos los campos correspondientes a un paso específico. Entonces se activa el botón que le permite continuar al siguiente paso.</div> | EP02 |
-| US04 | Buscar espacios disponibles | <div align="justify">Como arrendatario, quiero poder buscar fácilmente espacios disponibles en AlquilaFácil para encontrar el lugar perfecto para mi evento.</div> | <div align="justify">**Escenario 01: Búsqueda principal por ubicación**  <br> Dado que un arrendatario busca un espacio para eventos en una ubicación específica. Cuando el arrendatario ingresa la ubicación deseada en el campo de búsqueda. Entonces se muestran los espacios disponibles en esa ubicación. <br><br> **Escenario 02: Búsqueda general de espacios**  <br> Dado que un arrendatario no ingresa algún texto en la barra de búsqueda. Cuando presiona sobre el ícono para buscar espacios. Entonces se muestran todos los espacios disponibles.</div> | EP03 |
+| US01 | Registrar usuario | <div align="justify">Como usuario de la aplicación de AlquilaFácil, quiero poder registrarme fácilmente en AlquilaFácil para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</div> | <div align="justify">**Escenario 01: Validación de datos**  <br> Dado que un usuario completa el formulario de registro en AlquilaFácil. Cuando el usuario envía el formulario. Entonces los datos proporcionados se validan para garantizar la precisión y la autenticidad. <br><br> **Escenario 02: Validación de CAPTCHA** <br> Dado que un usuario ha completado el formulario de registro. Cuando el usuario intenta enviarlo. Entonces el sistema solicita completar un CAPTCHA para verificar que no se trata de un bot. <br><br> **Escenario 03: Registro exitoso**  <br> Dado que un usuario ha completado correctamente el formulario y superado la validación de CAPTCHA. Cuando el usuario envía el formulario con toda la información válida. Entonces el usuario recibe una confirmación de registro y puede acceder a su cuenta.</div> | EP01            |
+| US02 | Iniciar sesión | <div align="justify">Como usuario registrado de la aplicación de AlquilaFácil, quiero poder iniciar sesión fácilmente en mi cuenta, para gestionar mi espacio en alquiler y acceder a mis reservas.</div> | <div align="justify">**Escenario 01: Inicio de sesión exitoso**  <br> Dado que un usuario registrado desea acceder a su cuenta en AlquilaFácil. Cuando el usuario ingresa su correo electrónico y contraseña correctos en el formulario de inicio de sesión. Entonces el usuario es autenticado exitosamente y se le otorga acceso a su cuenta. <br><br> **Escenario 02: Error en el inicio de sesión por credenciales incorrectas**  <br> Dado que un usuario registrado intenta acceder a su cuenta. Cuando el usuario ingresa una combinación incorrecta. Entonces se muestra un mensaje de error indicando que las credenciales son incorrectas.</div> | EP01 |
+| US03 | Registrar espacios | <div align="justify">Como arrendador de un espacio para eventos en AlquilaFácil, quiero poder registrar mi espacio para comenzar a recibir solicitudes de reserva lo antes posible.</div> | <div align="justify">**Escenario 01: Registro paso a paso del espacio**  <br> Dado que un arrendador desea registrar su espacio en AlquilaFácil. Cuando navega por las diferentes secciones del formulario e ingresa la información solicitada en cada paso, incluyendo detalles del espacio, ubicación, capacidad y servicios ofrecidos. Entonces puede avanzar progresivamente hasta llegar al resumen final del registro. <br><br> **Escenario 02: Validación final de los datos requeridos**  <br> Dado que un arrendador ha completado todos los pasos del registro. Cuando intenta enviar la solicitud de publicación del espacio. Entonces el sistema valida que toda la información requerida esté completa; si hay campos faltantes o incorrectos, se muestra un mensaje de error indicando qué se debe corregir antes de poder continuar.</div> | EP02 |
+| US04 | Buscar espacios disponibles | <div align="justify">Como arrendatario, quiero poder buscar fácilmente espacios disponibles en AlquilaFácil para encontrar el lugar perfecto para mi evento.</div> | <div align="justify">**Escenario 01: Búsqueda general desde la página principal**  <br> Dado que un arrendatario desea explorar todas las opciones disponibles. Cuando accede a la página principal sin ingresar filtros o criterios específicos. Entonces se muestran todos los espacios disponibles en la plataforma. <br><br> **Escenario 02: Búsqueda por distrito desde la barra de navegación**  <br> Dado que un arrendatario desea buscar espacios en un distrito específico. Cuando selecciona un distrito desde la barra de navegación. Entonces se muestran únicamente los espacios disponibles dentro de ese distrito.</div> | EP03 |
 | US05 | Filtrar espacios disponibles | <div align="justify">Como arrendatario, quiero poder filtrar los espacios disponibles por capacidad y categoría, para encontrar uno que cumpla con mis criterios específicos.</div> | <div align="justify">**Escenario 01: Filtrado por capacidad**  <br> Dado que un arrendatario desea un espacio con capacidad para un número específico de personas. Cuando el arrendatario aplica un filtro de capacidad en la búsqueda. Entonces se muestran solo los espacios que cumplen con ese criterio. <br><br> **Escenario 02: Filtrado por categoría**  <br> Dado que un arrendatario desea un espacio de una categoría en específico. Cuando aplica un filtro de categoría. Entonces se muestran solo los espacios que cumplen con ese criterio.</div> | EP03 |
-| US06 | Visualizar información del espacio | <div align="justify">Como arrendatario, quiero poder visualizar información detallada del espacio, para evaluar si cumple con los requisitos de mi evento antes de hacer una reserva.</div> | <div align="justify">**Escenario 01: Visualización de información**  <br> Dado que el arrendatario selecciona un espacio en AlquilaFácil. Cuando accede a la página de detalles del espacio. Entonces puede visualizar información detallada como el aforo máximo, descripción del espacio y servicios disponibles. <br><br> **Escenario 02: Visualización de reseñas del espacio**  <br> Dado que el arrendatario está revisando un espacio. Cuando accede a la página de comentarios. Entonces puede visualizar las reseñas y calificaciones dejadas por otros usuarios.</div> | US03 |
-| US07 | Reservar espacios | <div align="justify">Como arrendatario, quiero poder reservar un espacio para mi evento en AlquilaFácil para garantizar su disponibilidad en la fecha deseada.</div> | <div align="justify">**Escenario 01: Proceso de reserva**  <br> Dado que un arrendatario ha encontrado el espacio ideal en AlquilaFácil. Cuando selecciona un espacio y una fecha. Entonces se muestra un formulario para completar los detalles de reserva. <br><br> **Escenario 02: Pago de la reserva con PayPal**  <br> Dado que el usuario está a punto de culminar el proceso de reserva. Cuando presiona el botón de realizar reserva. Entonces realiza el pago a través de PayPal. <br><br> **Escenario 03: Confirmación de reserva**  <br> Dado que se ha realizado el pago. Cuando el arrendatario es redirigido a la app. Entonces recibe confirmación y detalles actualizados.</div> | EP03 |
-| US08 | Gestionar calendario de reservas | <div align="justify">Como usuario de AlquilaFácil, quiero poder controlar una agenda de reservas para tener un horario organizado y evitar conflictos futuros.</div> | <div align="justify">**Escenario 01: Reserva de usuario normal**  <br> Dado que un arrendatario ha reservado uno de mis espacios. Cuando el propietario accede al calendario. Entonces ve el día resaltado en rojo. <br><br> **Escenario 02: Reserva de usuario premium**  <br> Dado que un usuario premium ha reservado un espacio. Cuando el propietario accede al calendario. Entonces ve el día resaltado en amarillo. <br><br> **Escenario 03: Reserva de espacio ajeno**  <br> Dado que un arrendatario ha reservado un espacio. Cuando accede al calendario. Entonces ve el día resaltado en azul.</div> | EP03 |
-| US09 | Calificar y comentar sobre espacios | <div align="justify">Como arrendatario, quiero poder publicar mi reseña sobre un espacio que he reservado para que otros usuarios puedan conocer mi experiencia.</div> | <div align="justify">**Escenario 01: Permiso para opinar**  <br> Dado que un arrendatario tiene una reserva culminada. Cuando accede a su información en el calendario. Entonces puede publicar una reseña. <br><br> **Escenario 02: Aporte de reseña**  <br> Dado que ha rellenado todos los campos de reseña. Cuando presiona realizar reseña. Entonces esta se publica para todos los usuarios.</div> | EP04 |
-| US10 | Notificar sobre actividades | <div align="justify">Como arrendador, quiero recibir notificaciones cuando un arrendatario ha realizado acciones sobre mi espacio para estar al tanto de su estado.</div> | <div align="justify">**Escenario 01: Notificación de reserva**  <br> Dado que el arrendador ha publicado un espacio. Cuando un arrendatario realiza una reserva. Entonces recibe una notificación con detalles. <br><br> **Escenario 02: Notificación de reseña**  <br> Dado que el arrendador ha publicado un espacio. Cuando un arrendatario realiza una reseña. Entonces recibe una notificación que le permite ver el comentario y calificación.</div> | EP04 |
-| US11 | Controlar espacios favoritos | <div align="justify">Como arrendatario, quiero poder agregar un espacio a mis favoritos para acceder rápidamente a lugares de interés para futuras reservas.</div> |<div align="justify">**Escenario 01: Agregar a favoritos**  <br> Dado que el arrendatario está visualizando la página de detalles. Cuando selecciona "Agregar a favoritos". Entonces el espacio se guarda localmente. <br><br> **Escenario 02: Eliminar de favoritos**  <br> Dado que ha guardado un espacio. Cuando selecciona "Eliminar de favoritos". Entonces se elimina de la lista y no se mostrará al filtrar.</div>| EP03 |
-| US12 | Visualizar espacios propios publicados | <div align="justify">Como arrendador, quiero poder visualizar todos los espacios que he publicado en la plataforma, para gestionar fácilmente la información de mis propiedades.</div> |<div align="justify">**Escenario 01: Listado de espacios publicados**  <br> Dado que el arrendador ha iniciado sesión. Cuando accede a la sección "Mis espacios". Entonces puede ver una lista de todos los espacios publicados con nombre y ubicación. <br><br> **Escenario 02: Acceso a detalles y edición**  <br> Dado que visualiza la lista de espacios. Cuando selecciona un espacio. Entonces puede acceder a los detalles y editar la información.</div>| EP02 |
-| US13 | Modificar espacios publicados | <div align="justify">Como arrendador, quiero poder modificar la información de los espacios publicados para asegurar que los datos sean precisos y estén actualizados.</div> | <div align="justify">**Escenario 01: Edición de detalles del espacio**  <br> Dado que desea actualizar la información. Cuando accede a edición y modifica descripción, aforo, servicios y tarifas. Entonces guarda los cambios y se reflejan públicamente. <br><br> **Escenario 02: Modificación de visibilidad temporal**  <br> Dado que está realizando cambios. Cuando activa "No disponible temporalmente". Entonces el espacio se muestra como no disponible para reservas.</div> | EP02 |
-| US14 | Actualizar perfil y sesión de usuario | <div align="justify">Como usuario de AlquilaFácil, quiero poder modificar mi perfil, incluyendo la opción de cambiar mi nombre de usuario y cerrar sesión, para mantener actualizada mi información personal y gestionar mi acceso a la aplicación de manera conveniente.</div> | <div align="justify">**Escenario 01: Modificación del nombre de usuario**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de configuración de perfil y edita el campo "Nombre de usuario". Entonces puede guardar los cambios, y el nuevo nombre de usuario se refleja en su perfil y en todas las interacciones futuras en la plataforma. <br><br> **Escenario 02: Cierre de sesión**  <br> Dado que el usuario desea salir de su cuenta en AlquilaFácil. Cuando selecciona la opción "Cerrar sesión" en la configuración de perfil. Entonces es desconectado de su cuenta y redirigido a la pantalla de inicio de sesión, asegurando que su sesión se haya cerrado de manera segura.</div> | EP01 |
-| US15 | Adquirir membresía mensual premium | <div align="justify">Como usuario de AlquilaFácil, quiero poder adquirir una membresía mensual premium para acceder a beneficios exclusivos, para maximizar mis oportunidades dentro del aplicativo.</div> | <div align="justify">**Escenario 01: Selección de la membresía premium**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Membresías" y selecciona la opción de "Membresía Mensual Premium". Entonces puede ver una descripción de los beneficios y el costo asociado a la membresía. <br><br> **Escenario 02: Proceso de Pago**  <br> Dado que el usuario desea adquirir la membresía mensual premium. Cuando completa el formulario de pago con su información de PayPal y confirma la transacción. Entonces recibe una notificación de que la membresía ha sido adquirida con éxito y se le proporciona acceso inmediato a los beneficios premium.</div> | EP05 |
-| US16 | Reportar espacios inseguros | <div align="justify">Como usuario de AlquilaFácil, quiero poder reportar espacios inseguros, para contribuir a la seguridad de la comunidad y alertar sobre situaciones que puedan poner en riesgo a otros usuarios.</div> | <div align="justify">**Escenario 01: Selección del espacio inseguro**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Reportar espacio" y selecciona el espacio desde la lista de reservas activas o buscando un espacio específico. Entonces puede ingresar un asunto y descripción del problema. <br><br> **Escenario 02: Confirmación del reporte**  <br> Dado que el usuario ha completado el formulario de reporte con todos los detalles requeridos. Cuando envía el reporte mediante el botón "Enviar". Entonces el reporte será registrado y revisado por el equipo de soporte de AlquilaFácil.</div> | EP03 |
-| US17 | Visualizar espacios reportados por el usuario | <div align="justify">Como usuario de AlquilaFácil, quiero poder visualizar los espacios que he reportado, para realizar un seguimiento de mis reportes y gestionarlos.</div> | <div align="justify">**Escenario 01: Navegar a la sección de "Ver Espacios Reportados"**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Ver Espacios Reportados" desde el panel de control. Entonces puede ver una lista de los espacios que ha reportado, incluyendo información como el nombre del espacio, la fecha del reporte, y el motivo del reporte. <br><br> **Escenario 02: Eliminar un reporte deslizando hacia la izquierda**  <br> Dado que el usuario se encuentra en la lista de espacios reportados. Cuando desliza uno de los reportes hacia la izquierda. Entonces aparece una opción para confirmar la eliminación del reporte. Y si confirma, el reporte se elimina de la lista.</div> | EP03 |
-| US18 | Iniciar sesión con servicios externos | <div align="justify">Como usuario de AlquilaFácil, quiero poder iniciar sesión utilizando servicios externos como Google o Outlook, para ahorrar tiempo y evitar tener que crear una cuenta desde cero.</div> | <div align="justify">**Escenario 01: Inicio de sesión con Google**  <br> Dado que un usuario está en la pantalla de inicio de sesión de AlquilaFácil, cuando hace clic en "Iniciar sesión con Google", entonces el sistema redirige al usuario a la pantalla de autenticación de Google, donde ingresa sus credenciales y otorga permisos. <br><br> **Escenario 02: Inicio de sesión con Facebook**  <br> Dado que un usuario está en la pantalla de inicio de sesión de AlquilaFácil, cuando hace clic en "Iniciar sesión con Facebook", entonces el sistema redirige al usuario a la pantalla de autenticación de Google, donde ingresa sus credenciales y otorga permisos.</div> | EP01 |
-| US19 | Acceder a información de ayuda | <div align="justify">Como usuario de AlquilaFácil, quiero poder acceder fácilmente a una sección de preguntas frecuentes e información de contacto para resolver mis dudas o comunicarme con el soporte cuando lo necesite.</div> | <div align="justify">**Escenario 01: Consultar preguntas frecuentes**  <br> Dado que un usuario tiene una duda común sobre el funcionamiento de la plataforma. Cuando selecciona la opción de "Preguntas frecuentes" en el menú de ayuda. Entonces se muestra una lista de preguntas con sus respuestas para ayudar al usuario. <br><br> **Escenario 02: Acceder a información de contacto**  <br> Dado que un usuario necesita comunicarse con el soporte. Cuando selecciona la opción de "Información de contacto" en el menú de ayuda. Entonces se muestra la información de contacto, incluyendo el correo electrónico y número de teléfono del soporte.</div> | EP05 |
+| US06 | Visualizar información del espacio | <div align="justify">Como arrendatario, quiero poder visualizar información detallada del espacio, para evaluar si cumple con los requisitos de mi evento antes de hacer una reserva.</div> | <div align="justify">**Escenario 01: Visualización de información**  <br> Dado que el arrendatario selecciona un espacio en AlquilaFácil. Cuando accede a la página de detalles del espacio. Entonces puede visualizar información detallada como el aforo máximo, descripción del espacio y servicios disponibles. <br><br> **Escenario 02: Visualización de reseñas del espacio**  <br> Dado que el arrendatario está revisando un espacio. Cuando accede a la página de comentarios. Entonces puede visualizar las reseñas y calificaciones dejadas por otros usuarios.</div> | EP03 |
+| US07 | Reservar espacios | <div align="justify">Como arrendatario, quiero poder reservar un espacio para mi evento en AlquilaFácil para garantizar su disponibilidad en la fecha deseada.</div> | <div align="justify">**Escenario 01: Selección de espacio y fecha**  <br> Dado que un arrendatario desea reservar un espacio. Cuando selecciona el espacio deseado y la fecha del evento. Entonces se muestra el precio total a pagar junto con los datos de la cuenta bancaria e interbancaria del arrendador. <br><br> **Escenario 02: Envío del comprobante de pago**  <br> Dado que el arrendatario ha realizado el pago externo mediante transferencia. Cuando carga una foto del voucher de pago y completa los datos solicitados. Entonces el sistema registra la reserva como pendiente de validación. <br><br> **Escenario 03: Validación del pago por parte del arrendador**  <br> Dado que se ha creado una nueva reserva con comprobante adjunto. Cuando el arrendador revisa el voucher y verifica que el monto es correcto. Entonces puede aceptar la reserva, o en caso contrario, rechazarla.</div> | EP03 |
+| US08 | Gestionar calendario de reservas | <div align="justify">Como usuario de AlquilaFácil, quiero poder controlar una agenda de reservas para tener un horario organizado y evitar conflictos futuros.</div> | <div align="justify">**Escenario 01: Reserva de usuario normal**  <br> Dado que un arrendatario ha reservado un espacio. Cuando el arrendador accede al calendario. Entonces ve el día resaltado en azul. <br><br> **Escenario 02: Reserva de usuario premium**  <br> Dado que un usuario premium ha reservado un espacio. Cuando el propietario accede al calendario. Entonces ve el día resaltado en amarillo. <br><br> **Escenario 03: Reserva de espacio ajeno**  <br> Dado que un arrendatario ha reservado un espacio. Cuando accede al calendario. Entonces ve el día resaltado en rojo.</div> | EP03 |
+| US09 | Calificar y comentar sobre espacios | <div align="justify">Como arrendatario, quiero poder publicar mi reseña sobre un espacio que he reservado para que otros usuarios puedan conocer mi experiencia antes de reservar.</div> | <div align="justify">**Escenario 01: Disponibilidad para calificar**  <br> Dado que un arrendatario ha realizado una reserva en AlquilaFácil. Cuando accede a los detalles de la reserva desde su calendario. Entonces solo podrá publicar una reseña si la fecha del evento ya ha finalizado; de lo contrario, la opción estará deshabilitada. <br><br> **Escenario 02: Publicación de reseña**  <br> Dado que el arrendatario tiene una reserva finalizada y desea compartir su experiencia. Cuando completa los campos de calificación y comentario, y presiona el botón de publicar reseña. Entonces la reseña se guarda correctamente y se muestra públicamente en el perfil del local.</div> | EP04 |
+| US10 | Notificar sobre actividades | <div align="justify">Como arrendador, quiero recibir notificaciones cuando un arrendatario reserve mi espacio, para estar informado sobre la fecha y hora del evento.</div> | <div align="justify">**Escenario 01: Notificación automática de nueva reserva**  <br> Dado que un arrendatario ha realizado una reserva para un espacio. Cuando se completa el envío del comprobante de pago. Entonces el arrendador recibe una notificación que incluye la fecha, hora y nombre del espacio reservado. <br><br> **Escenario 02: Visualización en la sección de notificaciones**  <br> Dado que el arrendador desea revisar sus notificaciones. Cuando accede a la sección de notificaciones en la aplicación. Entonces puede ver un listado con los detalles de cada reserva reciente, incluyendo fecha y hora.</div> | EP04 |
+| US11 | Controlar espacios favoritos | <div align="justify">Como arrendatario, quiero poder agregar un espacio a mis favoritos para acceder rápidamente a lugares de interés para futuras reservas.</div> |<div align="justify">**Escenario 01: Agregar a favoritos**  <br> Dado que el arrendatario está visualizando la página de detalles de un espacio. Cuando selecciona la opción "Agregar a favoritos". Entonces el espacio se guarda temporalmente para permitir su consulta rápida más adelante. <br><br> **Escenario 02: Eliminar de favoritos**  <br> Dado que un espacio ha sido marcado como favorito. Cuando el arrendatario selecciona la opción "Eliminar de favoritos". Entonces dicho espacio se retira de la lista personal de favoritos y deja de mostrarse como tal.</div>| EP03 |
+| US12 | Visualizar espacios propios publicados | <div align="justify">Como arrendador, quiero poder visualizar todos los espacios que he publicado en la plataforma, para gestionar fácilmente la información de mis propiedades.</div> |<div align="justify">**Escenario 01: Listado de espacios publicados**  <br> Dado que el arrendador ha iniciado sesión. Cuando accede a la sección "Mis espacios". Entonces puede ver una lista de todos los espacios publicados con nombre y ubicación. <br><br> **Escenario 02: Acceso a detalles**  <br> Dado que visualiza la lista de espacios. Cuando selecciona un espacio. Entonces puede acceder a los detalles de este mismo.</div>| EP02 |
+| US13 | Actualizar perfil y sesión de usuario | <div align="justify">Como usuario de AlquilaFácil, quiero poder modificar mi perfil, incluyendo la opción de cambiar mi nombre de usuario y cerrar sesión, para mantener actualizada mi información personal y gestionar mi acceso a la aplicación de manera conveniente.</div> | <div align="justify">**Escenario 01: Modificación del nombre de usuario**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de configuración de perfil y edita el campo "Nombre de usuario". Entonces puede guardar los cambios, y el nuevo nombre de usuario se refleja en su perfil y en todas las interacciones futuras en la plataforma. <br><br> **Escenario 02: Cierre de sesión**  <br> Dado que el usuario desea salir de su cuenta en AlquilaFácil. Cuando selecciona la opción "Cerrar sesión" en la configuración de perfil. Entonces es desconectado de su cuenta y redirigido a la pantalla de inicio de sesión, asegurando que su sesión se haya cerrado de manera segura.</div> | EP01 |
+| US14 | Adquirir membresía premium | <div align="justify">Como usuario de AlquilaFácil, quiero poder adquirir una membresía mensual premium para acceder a beneficios exclusivos y maximizar mis oportunidades dentro del aplicativo.</div> | <div align="justify">**Escenario 01: Selección de la membresía premium**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Membresías" y selecciona la opción de "Membresía Premium". Entonces se le muestra una descripción detallada de los beneficios y el costo de la membresía, junto con la información bancaria necesaria para realizar el depósito. <br><br> **Escenario 02: Envío de comprobante de pago**  <br> Dado que el usuario desea adquirir la membresía mensual premium. Cuando realiza el depósito y carga la imagen del comprobante de pago. Entonces se registra su solicitud de membresía en espera de verificación. <br><br> **Escenario 03: Validación del comprobante**  <br> Dado que el usuario ha enviado el comprobante de pago. Cuando el administrador revisa que el depósito coincide con el monto correspondiente. Entonces aprueba la solicitud, y el usuario recibe acceso a los beneficios premium; de lo contrario, la solicitud es rechazada y el usuario es notificado.</div> | EP05 |
+| US15 | Reportar espacios inseguros | <div align="justify">Como usuario de AlquilaFácil, quiero poder reportar espacios inseguros, para contribuir a la seguridad de la comunidad y alertar sobre situaciones que puedan poner en riesgo a otros usuarios.</div> | <div align="justify">**Escenario 01: Selección del espacio inseguro**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Reportar espacio" y selecciona el espacio desde la lista de reservas activas o buscando un espacio específico. Entonces puede ingresar un asunto y descripción del problema. <br><br> **Escenario 02: Confirmación del reporte**  <br> Dado que el usuario ha completado el formulario de reporte con todos los detalles requeridos. Cuando envía el reporte mediante el botón "Enviar". Entonces el reporte será registrado y revisado por el equipo de soporte de AlquilaFácil.</div> | EP03 |
+| US16 | Visualizar espacios reportados por el usuario | <div align="justify">Como usuario de AlquilaFácil, quiero poder visualizar los espacios que he reportado, para realizar un seguimiento de mis reportes y gestionarlos.</div> | <div align="justify">**Escenario 01: Navegar a la sección de "Ver Espacios Reportados"**  <br> Dado que el usuario ha iniciado sesión en su cuenta de AlquilaFácil. Cuando accede a la sección de "Ver Espacios Reportados" desde el panel de control. Entonces puede ver una lista de los espacios que ha reportado, incluyendo información como el nombre del espacio, la fecha del reporte, y el motivo del reporte. <br><br> **Escenario 02: Eliminar un reporte deslizando hacia la izquierda**  <br> Dado que el usuario se encuentra en la lista de espacios reportados. Cuando desliza uno de los reportes hacia la izquierda. Entonces aparece una opción para confirmar la eliminación del reporte. Y si confirma, el reporte se elimina de la lista.</div> | EP03 |
+| US17 | Acceder a información de ayuda | <div align="justify">Como usuario de AlquilaFácil, quiero poder acceder fácilmente a una sección de preguntas frecuentes e información de contacto para resolver mis dudas o comunicarme con el soporte cuando lo necesite.</div> | <div align="justify">**Escenario 01: Consultar preguntas frecuentes**  <br> Dado que un usuario tiene una duda común sobre el funcionamiento de la plataforma. Cuando selecciona la opción de "Preguntas frecuentes" en el menú de ayuda. Entonces se muestra una lista de preguntas con sus respuestas para ayudar al usuario. <br><br> **Escenario 02: Acceder a información de contacto**  <br> Dado que un usuario necesita comunicarse con el soporte. Cuando selecciona la opción de "Información de contacto" en el menú de ayuda. Entonces se muestra la información de contacto, incluyendo el correo electrónico y número de teléfono del soporte.</div> | EP05 |
 
 
 ## 3.3. Product Backlog
@@ -1576,12 +1618,6 @@ Link trello: https://trello.com/invite/b/680019837959f6609959ce6e/ATTI946724210c
                 <td>3</td>
             </tr>
             <tr>
-                <td>US13</td>
-                <td>Modificar espacios publicados</td>
-                <td>Como arrendador de un espacio en AlquilaFácil, quiero poder modificar la información de los espacios que he publicado, incluyendo detalles como la descripción, aforo, servicios disponibles, tarifas y visibilidad temporal, para asegurar que los datos sean precisos y estén actualizados.</td>
-                <td>3</td>
-            </tr>
-            <tr>
                 <td>US08</td>
                 <td>Gestionar calendario de reservas</td>
                 <td>Como usuario de AlquilaFácil, quiero poder controlar una agenda de reservas para tener un horario organizado y evitar conflictos futuros.</td>
@@ -1600,13 +1636,13 @@ Link trello: https://trello.com/invite/b/680019837959f6609959ce6e/ATTI946724210c
                 <td>3</td>
             </tr>
             <tr>
-                <td>US16</td>
+                <td>US15</td>
                 <td>Reportar espacios inseguros</td>
                 <td>Como usuario de AlquilaFácil, quiero poder reportar espacios inseguros, para contribuir a la seguridad de la comunidad y alertar sobre situaciones que puedan poner en riesgo a otros usuarios.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>US17</td>
+                <td>US16</td>
                 <td>Visualizar espacios reportados</td>
                 <td>Como usuario de AlquilaFácil, quiero poder visualizar los espacios que he reportado, para realizar un seguimiento de mis reportes y gestionarlos.</td>
                 <td>3</td>
@@ -1624,8 +1660,8 @@ Link trello: https://trello.com/invite/b/680019837959f6609959ce6e/ATTI946724210c
                 <td>3</td>
             </tr>
             <tr>
-                <td>US15</td>
-                <td>Adquirir membresía mensual premium</td>
+                <td>US14</td>
+                <td>Adquirir membresía premium</td>
                 <td>Como usuario de AlquilaFácil, quiero poder adquirir una membresía mensual premium para acceder a beneficios exclusivos, para maximizar mis oportunidades dentro del aplicativo.</td>
                 <td>5</td>
             </tr>
@@ -1636,19 +1672,13 @@ Link trello: https://trello.com/invite/b/680019837959f6609959ce6e/ATTI946724210c
                 <td>3</td>
             </tr>
             <tr>
-                <td>US18</td>
-                <td>Permitir iniciar sesión con servicios externos</td>
-                <td>Como usuario de AlquilaFácil, quiero poder iniciar sesión utilizando servicios externos como Google o Outlook, para ahorrar tiempo y evitar tener que crear una cuenta desde cero.</td>
-                <td>2</td>
-            </tr>
-            <tr>
-                <td>US14</td>
+                <td>US13</td>
                 <td>Actualizar perfil y sesión de usuario</td>
                 <td>Como usuario de AlquilaFácil, quiero poder modificar mi perfil, incluyendo la opción de cambiar mi nombre de usuario y cerrar sesión, para mantener actualizada mi información personal y gestionar mi acceso a la aplicación de manera conveniente.</td>
                 <td>2</td>
             </tr>
             <tr>
-                <td>US19</td>
+                <td>US17</td>
                 <td>Acceder a información de ayuda</td>
                 <td>Como usuario de AlquilaFácil, quiero poder acceder fácilmente a una sección de preguntas frecuentes e información de contacto para resolver mis dudas o comunicarme con el soporte Cuando lo necesite.</td>
                 <td>5</td>
@@ -2672,7 +2702,50 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 ![Captura de Pantalla](Resources/Evidences/App%20Web%20Evidence-3.jpeg)
 
-### 5.2.4. Implemented Native-Mobile Application Evidence
+### 5.2.4. Acuerdo de Servicio Saas
+
+<div align="justify">
+
+Esta sección establece los derechos, obligaciones y restricciones aplicables a los usuarios de la plataforma, garantizando transparencia en el uso del servicio SaaS. Se integra públicamente en la sección **Soporte - Preguntas Frecuentes** del website, cumpliendo con los criterios de claridad, accesibilidad y cumplimiento normativo.
+
+**Sección de Soporte - Preguntas Frecuentes**
+
+* **¿Cómo reservo un espacio?**
+<br>Para reservar un espacio, inicia sesión en la plataforma, elige el local que deseas alquilar y completa la información requerida, como fecha y horario. Luego, realiza el depósito al número de cuenta indicado por el propietario y sube el comprobante de pago a través de la plataforma. El propietario validará el comprobante y confirmará tu reserva.
+
+
+* **¿Qué sucede después de subir el comprobante de pago?**
+<br>Una vez que subas el comprobante, el propietario del espacio será notificado y deberá validarlo manualmente. Si todo está correcto, la reserva se confirmará. Si hay algún error o sospecha de fraude, el propietario podrá rechazarla.
+
+
+* **¿AlquilaFácil gestiona el dinero o realiza reembolsos?**
+<br>No. AlquilaFácil es una plataforma de conexión entre usuarios, pero no intermedia en los pagos. Los depósitos se hacen directamente a la cuenta del propietario, quien es responsable de validar y aceptar la reserva. Por eso es fundamental verificar los datos del espacio y del propietario antes de transferir dinero.
+
+
+* **¿Cómo activo una suscripción premium?**
+<br>El usuario debe realizar el pago correspondiente y subir el comprobante a la plataforma. Un administrador del sistema revisará la transacción y, si es válida, activará manualmente la suscripción premium en tu cuenta. El usuario no necesita introducir ningún código.
+
+
+* **¿Qué beneficios tengo como usuario premium?**
+<br>Los usuarios premium cuentan con ventajas como:<br><br>Prioridad en la visualización de espacios.<br>Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.<br>Mejor visibilidad y herramientas adicionales para gestionar espacios.
+
+
+* **¿Qué hago si sospecho de un fraude?**
+<br>Cada espacio tiene la opción de ser reportado. Si sospechas de actividad fraudulenta, utiliza el botón **"Reportar"** disponible en la vista del espacio. Nuestro equipo revisará el caso y, de ser necesario, tomará medidas como la desactivación del espacio o la suspensión de cuentas. <strong>Los reportes falsos reiterados pueden generar sanciones.</strong>
+
+
+* **¿Puedo posponer una reserva?**
+<br>Sí, pero con restricciones:
+<br><br>Las <strong>reservas estándar</strong> (resaltadas en azul en el calendario) se pueden posponer o modificar por parte del propietario.<br>Las <strong>reservas premium</strong> (resaltadas en amarillo) **no** pueden ser pospuestas por el propietario, garantizando la estabilidad para el usuario premium.
+
+
+* **¿Dónde puedo consultar los Términos y Condiciones completos?**
+<br>Puedes acceder a los <strong>Términos y Condiciones</strong> detallados desde la parte inferior del sitio web, en el enlace “Términos y Condiciones”.  
+
+
+</div>
+
+### 5.2.5. Implemented Native-Mobile Application Evidence
 
 **Evidencias del avance de la implementación de la Mobile App:**
 
@@ -2688,7 +2761,7 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 
 
-### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 
 **Evidencias del avance de la implementación del Back-end/Web Services:**
 
@@ -2697,7 +2770,7 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 </p>
 
 
-### 5.2.6. RESTful API documentation
+### 5.2.7. RESTful API documentation
 
 <div align="justify">
 A continuación, se presenta una descripción detallada de la documentación de la RESTful API desarrollada para este sistema. Esta interfaz de programación de aplicaciones permite la comunicación entre clientes (tanto web como móviles) y el servidor backend, utilizando el paradigma REST (Representational State Transfer), ampliamente adoptado por su simplicidad, escalabilidad y separación de responsabilidades.
@@ -2783,7 +2856,7 @@ Se recomienda el uso de herramientas como Swagger (OpenAPI) o Postman para docum
 </div>
 
 
-### 5.2.7. Team Collaboration Insights
+### 5.2.8. Team Collaboration Insights
 
 **Report Insights:**
 
@@ -2810,6 +2883,702 @@ Se recomienda el uso de herramientas como Swagger (OpenAPI) o Postman para docum
 ![Artefacto creado en Youtube](Resources/About%20Product/AboutProductEvidence.png)
 
 **Enlace del video:** https://youtu.be/R445b6178Rs
+
+# Capítulo VI: Product Verification & Validation
+
+## 6.1. Testing Suites & Validation
+
+### 6.1.1. Core Entities Unit Tests
+
+<div align="justify">
+
+Los Core Entities Unit Tests son fundamentales para garantizar la calidad y estabilidad del núcleo de una aplicación. Estas pruebas se enfocan en validar el comportamiento de las entidades principales, como modelos de datos o componentes críticos, asegurando que funcionen correctamente bajo diferentes condiciones. Al detectar errores temprano, se reduce el riesgo de problemas en etapas avanzadas del desarrollo, mejorando la confianza en el sistema y facilitando su mantenimiento a largo plazo.
+
+</div>
+
+<div align="center">
+
+**Subscription Test:**
+
+![Subscription Unit Test](Resources/Core%20Entities%20Unit%20Tests/SubscriptionTest.jpeg)
+
+**Notification Test:**
+
+![Notification Unit Test](Resources/Core%20Entities%20Unit%20Tests/NotificationTest.jpeg)
+
+**Profile Test:**
+
+![Profile Unit Test](Resources/Core%20Entities%20Unit%20Tests/ProfileTest.jpeg)
+
+**Report Test:**
+
+![Report Unit Test](Resources/Core%20Entities%20Unit%20Tests/ReportTest.jpeg)
+
+**Reservation Test:**
+
+![Reservation Unit Test](Resources/Core%20Entities%20Unit%20Tests/ReservationTest.jpeg)
+
+</div>
+
+### 6.1.2. Core Integration Tests
+
+<div align="justify">
+
+Los Core Integration Tests son esenciales para verificar que los módulos clave de un sistema trabajen juntos de manera correcta y coherente. A diferencia de las pruebas unitarias, estas pruebas evalúan la interacción entre componentes o subsistemas, identificando problemas en la integración que podrían no ser evidentes al probar cada módulo por separado. Esto asegura que los flujos críticos de la aplicación, como procesos transversales o dependencias entre servicios, funcionen sin errores en un entorno integrado.
+
+</div>
+
+<div align="center">
+
+**Report Controller Test:**
+
+![Report Controller Test Unit Test](Resources/Core%20Integration%20Tests/ReportControllerTest.jpeg)
+
+**Subscription Controller Test:**
+
+![Subscription Controller Test](Resources/Core%20Integration%20Tests/SubscriptionControllerTest.jpeg)
+
+**Profile Controller Test:**
+
+![Profile Controller Test](Resources/Core%20Integration%20Tests/ProfileControllerTest.jpeg)
+
+**Notification Controller Test:**
+
+![Notification Controller Test](Resources/Core%20Integration%20Tests/NotificationControllerTest.jpeg)
+
+**Reservation Controller Test:**
+
+![Reservation Controller Test](Resources/Core%20Integration%20Tests/ReservationControllerTest.jpeg)
+
+**Local Categories Controller Test:**
+
+![Local Categories Controller Test](Resources/Core%20Integration%20Tests/LocalCategoriesControllerTest.jpeg)
+
+**Local Controller Test:**
+
+![Local Controller Test](Resources/Core%20Integration%20Tests/LocalControllerTest.jpeg)
+
+**Comment Controller Test:**
+
+![Comment Controller Test](Resources/Core%20Integration%20Tests/CommentControllerTest.jpeg)
+
+**Authentication Controller Test:**
+
+![Authentication Controller Test](Resources/Core%20Integration%20Tests/AuthenticationControllerTest.jpeg)
+
+**User Controller Test:**
+
+![User Controller Test](Resources/Core%20Integration%20Tests/UserControllerTest.jpeg)
+
+</div>
+
+### 6.1.3. Core Behavior Driven Development
+
+<div align="justify">
+
+El Core Behavior-Driven Development (BDD) es crucial para alinear el desarrollo del software con los requisitos del negocio, enfocándose en el comportamiento esperado de las funcionalidades clave. Este enfoque utiliza un lenguaje común entre desarrolladores, testers y stakeholders, como Gherkin, para definir escenarios claros y específicos que describen cómo debería responder el sistema. Al priorizar las necesidades del usuario final y probar el comportamiento real frente a lo esperado, el Core BDD mejora la colaboración, reduce malentendidos y garantiza que el software entregue valor tangible.
+
+</div>
+
+<div align="center">
+
+**Features:**
+
+![Features](Resources/Core%20Behavior%20Driven%20Development/CoreBehaviorDrivenDevelopment.jpeg)
+
+**US01: Registrar usuario**
+
+![US01](Resources/Core%20Behavior%20Driven%20Development/US01.jpeg)
+
+**US02: Iniciar sesión**
+
+![US02](Resources/Core%20Behavior%20Driven%20Development/US02.jpeg)
+
+**US03: Registrar espacios**
+
+![US03](Resources/Core%20Behavior%20Driven%20Development/US3.jpeg)
+
+**US04: Buscar espacios disponibles**
+
+![US04](Resources/Core%20Behavior%20Driven%20Development/US04.jpeg)
+
+**US05: Filtrar espacios disponibles**
+
+![US05](Resources/Core%20Behavior%20Driven%20Development/US05.jpeg)
+
+**US06: Visualizar información del espacio**
+
+![US06](Resources/Core%20Behavior%20Driven%20Development/US06.jpeg)
+
+**US07: Reservar espacios**
+
+![US07](Resources/Core%20Behavior%20Driven%20Development/US07.jpeg)
+
+**US08: Gestionar calendario de reservas**
+
+![US08](Resources/Core%20Behavior%20Driven%20Development/US08.jpeg)
+
+**US09: Calificar y comentar sobre espacios**
+
+![US09](Resources/Core%20Behavior%20Driven%20Development/US09.jpeg)
+
+**US10: Notificar sobre actividades de arrendatarios**
+
+![US10](Resources/Core%20Behavior%20Driven%20Development/US10.jpeg)
+
+**US11: Controlar espacios favoritos**
+
+![US11](Resources/Core%20Behavior%20Driven%20Development/US11.jpeg)
+
+**US12: Visualizar espacios propios publicados**
+
+![US12](Resources/Core%20Behavior%20Driven%20Development/US12.jpeg)
+
+**US13: Actualizar perfil y sesión de usuario**
+
+![US13](Resources/Core%20Behavior%20Driven%20Development/US13.jpeg)
+
+**US14: Adquirir membresía premium**
+
+![US14](Resources/Core%20Behavior%20Driven%20Development/US14.jpeg)
+
+**US15: Reportar espacios inseguros**
+
+![US15](Resources/Core%20Behavior%20Driven%20Development/US15.jpeg)
+
+**US16: Visualizar espacios reportados por el usuario**
+
+![US16](Resources/Core%20Behavior%20Driven%20Development/US16.jpeg)
+
+</div>
+
+### 6.1.4. Core System Tests
+
+<div align="justify">
+
+Los Core System Tests son vitales para evaluar el sistema completo en su conjunto, verificando que las funcionalidades principales operen según lo esperado en un entorno realista. Estas pruebas simulan el uso del sistema de extremo a extremo, incluyendo interacciones con componentes externos, bases de datos y APIs. Al identificar problemas en el comportamiento general del sistema, garantizan que las dependencias críticas funcionen correctamente y que la aplicación cumpla con los requisitos funcionales y no funcionales antes de su despliegue.
+
+</div>
+
+<div align="justify">
+
+**Aplicación Web:**
+
+</div>
+
+<div align="center">
+
+**US01: Registrar usuario**
+
+![US01](Resources/Core%20System%20Tests/US01.jpeg)
+
+**US02: Iniciar sesión**
+
+![US02](Resources/Core%20System%20Tests/US02.jpeg)
+
+**US03: Registrar espacios**
+
+![US03](Resources/Core%20System%20Tests/US03.jpeg)
+
+**US04: Buscar espacios disponibles**
+
+![US04](Resources/Core%20System%20Tests/US04.jpeg)
+
+**US05: Filtrar espacios disponibles**
+
+![US05](Resources/Core%20System%20Tests/US05.jpeg)
+
+**US06: Visualizar información del espacio**
+
+![US06](Resources/Core%20System%20Tests/US06.jpeg)
+
+**US07: Reservar espacios**
+
+![US07](Resources/Core%20System%20Tests/US07.jpeg)
+
+**US08: Gestionar calendario de reservas**
+
+![US08](Resources/Core%20System%20Tests/US08.jpeg)
+
+**US09: Calificar y comentar sobre espacios**
+
+![US09](Resources/Core%20System%20Tests/US09.jpeg)
+
+**US10: Notificar sobre actividades de arrendatarios**
+
+![US10](Resources/Core%20System%20Tests/US10.jpeg)
+
+**US11: Controlar espacios favoritos**
+
+![US11](Resources/Core%20System%20Tests/US11.jpeg)
+
+**US12: Visualizar espacios propios publicados**
+
+![US12](Resources/Core%20System%20Tests/US12.jpeg)
+
+**US13: Actualizar perfil y sesión de usuario**
+
+![US13](Resources/Core%20System%20Tests/US13.jpeg)
+
+**US14: Adquirir membresía premium**
+
+![US14](Resources/Core%20System%20Tests/US14.jpeg)
+
+**US15: Reportar espacios inseguros**
+
+![US15](Resources/Core%20System%20Tests/US15.jpeg)
+
+**US16: Visualizar espacios reportados por el usuario**
+
+![US16](Resources/Core%20System%20Tests/US16.jpeg)
+
+**US17: Acceder a información de ayuda**
+
+![US17](Resources/Core%20System%20Tests/US17.jpeg)
+
+</div>
+
+<div align="justify">
+
+**Aplicación Móvil:**
+
+</div>
+
+<div align="center">
+
+**US01: Registrar usuario**
+
+![US01](Resources/Core%20System%20Tests/Mobile/US01.jpeg)
+
+**US02: Iniciar sesión**
+
+![US02](Resources/Core%20System%20Tests/Mobile/US02.jpeg)
+
+**US03: Registrar espacios**
+
+![US03](Resources/Core%20System%20Tests/Mobile/US03.jpeg)
+
+**US04: Buscar espacios disponibles**
+
+![US04](Resources/Core%20System%20Tests/Mobile/US04.jpeg)
+
+**US05: Filtrar espacios disponibles**
+
+![US05](Resources/Core%20System%20Tests/Mobile/US05.jpeg)
+
+**US06: Visualizar información del espacio**
+
+![US06](Resources/Core%20System%20Tests/Mobile/US06.jpeg)
+
+**US07: Reservar espacios**
+
+![US07](Resources/Core%20System%20Tests/Mobile/US07.jpeg)
+
+**US08: Gestionar calendario de reservas**
+
+![US08](Resources/Core%20System%20Tests/Mobile/US08.jpeg)
+
+**US09: Calificar y comentar sobre espacios**
+
+![US09](Resources/Core%20System%20Tests/Mobile/US09.jpeg)
+
+**US10: Notificar sobre actividades de arrendatarios**
+
+![US10](Resources/Core%20System%20Tests/Mobile/US10.jpeg)
+
+**US11: Controlar espacios favoritos**
+
+![US11](Resources/Core%20System%20Tests/Mobile/US11.jpeg)
+
+**US12: Visualizar espacios propios publicados**
+
+![US12](Resources/Core%20System%20Tests/Mobile/US12.jpeg)
+
+**US13: Actualizar perfil y sesión de usuario**
+
+![US13](Resources/Core%20System%20Tests/Mobile/US13.jpeg)
+
+**US14: Adquirir membresía premium**
+
+![US14](Resources/Core%20System%20Tests/Mobile/US14.jpeg)
+
+**US15: Reportar espacios inseguros**
+
+![US15](Resources/Core%20System%20Tests/Mobile/US15.jpeg)
+
+**US16: Visualizar espacios reportados por el usuario**
+
+![US16](Resources/Core%20System%20Tests/Mobile/US16.jpeg)
+
+**US17: Acceder a información de ayuda**
+
+![US17](Resources/Core%20System%20Tests/Mobile/US17.jpeg)
+
+**Ejecución**
+
+![Ejecución](Resources/Core%20System%20Tests/Mobile/Ejecucion.jpeg)
+
+**Prueba con Lighthouse**
+
+![Lighthouse](Resources/Core%20System%20Tests/Mobile/lighthouse.jpeg)
+
+</div>
+
+# Capítulo VII: DevOps Practices
+
+## 7.1. Continuous Integration
+
+### 7.1.1. Tools and Practices
+
+<div align="justify">
+
+Es muy importante que durante el desarrollo y las pruebas de software, se cuente con procesos y herramientas que garanticen simultáneamente un buen desarrollo del código y desempeño del equipo. En nuestra dinámica de trabajo integramos un amplio abanico de soluciones que potencian todo el ciclo de vida del software.
+
+Complementamos este flujo con las metodologías Behavior‑Driven Development  y Test‑Driven Development, lo que nos permite validar de forma temprana los requisitos del cliente y mantener estándares técnicos de alto nivel a lo largo de todo el proceso. Para asegurar la calidad del software, se integraron diversas herramientas de pruebas automatizadas y un sistema de integración continua (CI) mediante GitHub Actions. Esto permite detectar errores de forma temprana cada vez que se realiza un cambio en el código fuente. Las herramientas y prácticas empleadas fueron:
+
+* **xUnit:** framework para pruebas unitarias en .NET, utilizado en el proyecto para validar el comportamiento de componentes individuales.
+
+* **Moq:** biblioteca para la creación de objetos simulados (mocks) en pruebas unitarias, útil para aislar dependencias externas.
+
+* **Cucumber**: herramienta para pruebas de aceptación basadas en comportamiento (BDD), facilitando la escritura de pruebas en lenguaje natural.
+
+* **Selenium**: framework para pruebas automatizadas de interfaces gráficas web, utilizado para validar flujos completos en la aplicación web.
+
+* **Maestro**: herramienta de automatización de flujos para testing en apps móviles, permite definir y ejecutar escenarios sobre dispositivos simulados o reales.
+
+A nivel de integración, se implementó un sistema CI con GitHub Actions. El archivo Run Tests.yml define un workflow que se activa automáticamente en dos situaciones:
+
+* Cuando se realiza un push a la rama main.
+
+* Cuando se genera un pull request hacia la rama main.
+
+Este workflow garantiza que cada nuevo cambio sea verificado y probado antes de su integración definitiva. Las herramientas utilizadas dentro del pipeline fueron:
+
+* **actions/checkout@v3**: para clonar el repositorio en el entorno de ejecución.
+
+* **actions/setup-dotnet@v3**: para configurar el SDK de .NET 8.0 en la máquina virtual.
+
+* **dotnet restore / build / test**: comandos de línea de comandos de .NET utilizados para restaurar dependencias, compilar la solución y ejecutar las pruebas respectivas.
+
+</div>
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Integration/Captura1.PNG)
+
+</div>
+
+<div align="justify">
+
+Se muestra el historial de ejecuciones del pipeline en la pestaña "Actions" del repositorio. Se evidencia cómo cada nuevo commit activa el pipeline y se indica si el proceso fue exitoso o fallido, con los tiempos de ejecución por etapa.
+
+</div>
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Integration/Captura2.PNG)
+
+</div>
+
+### 7.1.2. Build & Test Suite Pipeline Components
+
+<div align="justify">
+
+El pipeline de integración continua (CI) implementado con GitHub Actions en el proyecto tiene como objetivo verificar automáticamente que el código compilado sea funcional y que las pruebas definidas se ejecuten correctamente antes de integrarse a la rama principal. Este pipeline contiene las siguientes etapas clave:
+
+**Componentes del Pipeline de Build & Test:**
+
+* **Checkout del repositorio:**<br><br>Se utiliza actions/checkout@v3 para clonar el código fuente en la máquina virtual del runner.<br>Esto permite que los pasos posteriores trabajen con la última versión del código.
+
+* **Configuración del entorno .NET:**<br><br>Se usa actions/setup-dotnet@v3 para instalar el SDK de .NET 8.0.<br>Esta etapa asegura que el entorno de ejecución sea compatible con el framework del proyecto.
+
+* **Restauración de dependencias:**<br><br>dotnet restore asegura que todos los paquetes NuGet requeridos por los proyectos estén disponibles.<br>Se restauran dependencias tanto a nivel de la solución completa como por proyecto de test.
+
+* **Compilación del código fuente:**<br><br>dotnet build --no-restore compila el código sin volver a restaurar dependencias.<br>Se verifica que el código pueda ser compilado exitosamente en un entorno limpio.
+
+* **Ejecución de pruebas unitarias y de integración:**<br><br>Se ejecutan pruebas por separado para dos proyectos: CoreEntitiesUnitTests y CoreIntegrationTests, usando dotnet test.<br>Esto permite validar tanto el funcionamiento interno de las entidades como la integración de los componentes del sistema.
+
+Este pipeline asegura que cada contribución cumpla con estándares mínimos de calidad antes de ser integrada, previniendo errores tempranamente y manteniendo la estabilidad del repositorio.
+
+</div>
+
+<div align="center">
+
+![Build & Test Suite Pipeline Components](Resources/Continuous%20Integration/Captura3.PNG)
+
+</div>
+
+## 7.2. Continuous Delivery
+
+<div align="justify">
+
+El propósito es automatizar tanto las pruebas del código como su integración, garantizando que todo esté listo para desplegarse en cualquier momento.
+
+</div>
+
+### 7.2.1. Tools and Practices
+
+<div align="justify">
+
+En el contexto de Alquila Fácil, se ha implementado una práctica de Continuous Delivery, que permite mantener el software en un estado continuamente desplegable, de modo que cada cambio que pasa por el pipeline de pruebas está listo para ser publicado en un entorno de staging o producción con mínima intervención manual.
+
+**Herramientas utilizadas:**
+* **GitHub Actions**: Se utiliza como orquestador principal del pipeline de CI/CD. Permite automatizar los procesos desde la integración hasta el despliegue.
+* **Render**: Plataforma de hosting utilizada para desplegar automáticamente la API del backend una vez que se aprueban los cambios en la rama principal (main).
+
+
+**Prácticas implementadas:**
+* **Despliegue automatizado en staging/producción**: Todo cambio en la rama main que pase exitosamente las pruebas se despliega automáticamente a Render, asegurando que la aplicación siempre esté actualizada. Render detecta cambios en el repositorio y ejecuta automáticamente el despliegue.
+
+* **Separación entre pruebas y despliegue**: Aunque el pipeline automatiza el despliegue, no se libera a producción si las pruebas no pasan. Esto mantiene la calidad del software.
+
+</div>
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Delivery/Captura1.PNG)
+
+![Tools and Practices](Resources/Continuous%20Delivery/Captura2.PNG)
+
+</div>
+
+### 7.2.2. Stages Deployment Pipeline Components
+
+<div align="justify">
+
+El pipeline de entrega continua del proyecto está compuesto por varias etapas organizadas en el archivo de workflow .yml de GitHub Actions. Este flujo automatiza la verificación, compilación, pruebas y despliegue del backend.
+
+**Etapas del Pipeline:**
+1. **Checkout del código (Checkout code)**
+* Se obtiene el código fuente desde el repositorio GitHub para ejecutarlo en el runner.
+* **Comando:** uses: actions/checkout@v3
+
+2. **Configuración del entorno .NET (Setup .NET)**
+* Se instala la versión necesaria del SDK de .NET (8.0.x) en el runner.
+* **Comando:** uses: actions/setup-dotnet@v3
+
+3. **Restauración de dependencias**
+* Se ejecuta dotnet restore tanto a nivel de la solución como para proyectos de pruebas específicos.
+* Esta etapa asegura que todos los paquetes NuGet estén disponibles antes de la compilación.
+
+4. **Compilación (Build all projects)**
+* Se construyen todos los proyectos, asegurando que el código sea sintácticamente válido y todas las dependencias estén correctamente referenciadas.
+
+5. **Ejecución de pruebas (Run CoreEntitiesUnitTests y Run CoreIntegrationTests)**
+* Se corre la suite de pruebas unitarias e integradas.
+* Si alguna falla, el pipeline se detiene y no se continúa con el despliegue.
+
+6. **Despliegue en Render**
+* Esta etapa es automática y externa al pipeline de GitHub.
+* Render detecta el nuevo commit en main y comienza el despliegue. No se requiere una acción explícita dentro del .yml.
+
+</div>
+
+<div align="center">
+
+![Stages Deployment Pipeline Components](Resources/Continuous%20Delivery/Captura3.PNG)
+
+![Stages Deployment Pipeline Components](Resources/Continuous%20Delivery/Captura4.PNG)
+
+![Stages Deployment Pipeline Components](Resources/Continuous%20Delivery/Captura5.PNG)
+
+![Stages Deployment Pipeline Components](Resources/Continuous%20Delivery/Captura6.PNG)
+
+</div>
+
+## 7.3. Continuous Deployment
+
+<div align="justify">
+
+Su objetivo principal es lograr que cada cambio en el código que pasa todas las pruebas y validaciones del pipeline sea implementado automáticamente en el entorno de producción sin intervención humana. Representa el siguiente paso después de Continuous Delivery, eliminando cualquier fricción manual en el proceso de despliegue.
+
+</div>
+
+### 7.3.1. Tools and Practices
+
+<div align="justify">
+
+El proceso de despliegue continuo utiliza una combinación de herramientas modernas para automatizar y simplificar el flujo de trabajo. Las principales herramientas involucradas son:
+
+* **Netlify**: para el despliegue del frontend en Vue.js.
+
+* **Render**: para el despliegue del backend en ASP.NET Core.
+
+* **Railway**: para el despliegue y gestión de la base de datos MySQL.
+
+Cada una de estas herramientas trabaja de manera integrada dentro del pipeline de CI/CD, y tienen roles claramente definidos para gestionar diferentes aspectos del sistema.
+
+1. **Netlify (Frontend - Vue.js):**
+* **Descripción**: Netlify es una plataforma de despliegue y hosting para aplicaciones frontend. El frontend de AlquilaFácilPlatform, construido en Vue.js, se despliega automáticamente en Netlify cuando hay cambios en la rama main o cuando se completa un pull request exitoso.
+* **Práctica**: Netlify maneja automáticamente la construcción del frontend, y al hacer un commit, este es procesado, y el contenido actualizado se pone en producción sin intervención manual.
+
+</div>
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Deployment/Captura1.PNG)
+
+</div>
+
+<div align="justify">
+
+2. **Render (Backend - ASP.NET Core):**
+* **Descripción**: Render se utiliza para desplegar el backend de AlquilaFácilPlatform basado en ASP.NET Core. Una vez que el código en el backend ha sido probado y validado, Render se encarga de desplegar la aplicación en el entorno de producción, garantizando que la API y otros servicios estén siempre disponibles.
+* **Práctica**: Render está configurado para hacer despliegues automáticos cada vez que hay un cambio en el código en el repositorio correspondiente. Los pasos incluyen la construcción del servicio y la actualización del entorno en producción.
+
+
+3. **Railway (Base de Datos - MySQL):**
+* **Descripción**: Railway es utilizado para la gestión de la base de datos MySQL que soporta la aplicación Alquila Fácil. Cada vez que se realiza un despliegue, Railway asegura que la base de datos esté sincronizada con las nuevas versiones del sistema y que cualquier cambio en la estructura de la base de datos se realice de manera automatizada.
+* **Práctica**: Railway ofrece integración directa con la infraestructura de backend y frontend para asegurar que la base de datos esté disponible y actualizada en el entorno de producción.
+
+</div>
+
+### 7.3.2. Production Deployment Pipeline Components
+
+<div align="justify">
+
+El pipeline de Despliegue Continuo incluye las siguientes etapas, cada una con su herramienta correspondiente:
+
+1. **Despliegue de Frontend en Netlify**
+* **Componente**: Netlify
+* **Proceso**: Cada vez que se realiza un cambio en la rama main del repositorio frontend, Netlify detecta el cambio, realiza una construcción de la aplicación y despliega la nueva versión en producción.
+* **Características**: Netlify maneja el build automático, cacheo de contenido, distribución a través de una CDN y provee un entorno seguro para la aplicación.
+
+2. **Despliegue de Backend en Render**
+* **Componente**: Render
+* **Proceso**: Cuando se hace un push a la rama main del backend, Render detecta el cambio y realiza una nueva construcción del proyecto ASP.NET Core. Render luego se encarga de desplegar la nueva versión del backend, asegurándose de que la aplicación esté disponible para recibir solicitudes en producción.
+* **Características**: Render proporciona despliegue automático, escalabilidad y monitoreo de la aplicación backend.
+
+</div>
+
+<div align="center">
+
+![Production Deployment Pipeline Components](Resources/Continuous%20Deployment/Captura2.PNG)
+
+</div>
+
+<div align="justify">
+
+3. **Gestión de la Base de Datos en Railway**
+* **Componente**: Railway
+* **Proceso**: Railway se integra en el pipeline para gestionar la base de datos MySQL utilizada por el backend. Cada vez que el backend se despliega, Railway asegura que la base de datos esté sincronizada con los últimos cambios, como migraciones o nuevas tablas.
+* **Características**: Railway proporciona integración con servicios como MySQL, gestionando despliegues, escalabilidad y migraciones de manera sencilla.
+
+</div>
+
+<div align="center">
+
+![Production Deployment Pipeline Components](Resources/Continuous%20Deployment/Captura3.PNG)
+
+</div>
+
+## 7.4. Continuous Monitoring
+
+<div align="justify">
+
+El monitoreo continuo es esencial para garantizar el rendimiento, la disponibilidad y la seguridad de la aplicación. A continuación, se detallan las herramientas y componentes utilizados en el monitoreo, alertas y notificaciones dentro del ciclo de vida de la aplicación.
+
+</div>
+
+### 7.4.1. Tools and Practices
+
+<div align="justify">
+
+El monitoreo continuo se lleva a cabo mediante diversas herramientas que permiten observar el comportamiento del sistema y recolectar datos relevantes para su mejora:
+
+* **Google Lighthouse**: Herramienta de auditoría de rendimiento, accesibilidad y SEO para aplicaciones web. Se integra en el pipeline de CI/CD para generar informes automáticos sobre la experiencia del usuario, identificando problemas de velocidad de carga y usabilidad.
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Monitoring/google-lighthouse-icon-may-2019-.svg)
+
+</div>
+
+* **MySQL Workbench**: Utilizada para monitorear el rendimiento de la base de datos MySQL, gestionando consultas, índices y recursos. Proporciona métricas cruciales sobre tiempos de respuesta y uso de recursos, asegurando el buen funcionamiento del backend.
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Monitoring/mysqlworkbench_93532.webp)
+
+</div>
+
+* **Render y Netlify**: Ofrecen acceso a registros detallados sobre los servicios backend (Render) y frontend (Netlify) desplegados. Estas herramientas permiten obtener logs de errores, advertencias y métricas clave, ayudando a identificar problemas en producción rápidamente.
+
+<div align="center">
+
+![Tools and Practices](Resources/Continuous%20Monitoring/Render_logo_-_Black.jpg)
+
+![Tools and Practices](Resources/Continuous%20Monitoring/netlify-logo.jpg)
+
+</div>
+
+</div>
+
+### 7.4.2. Monitoring Pipeline Components
+
+<div align="justify">
+
+El monitoreo efectivo requiere la integración de diversas herramientas en el pipeline de monitoreo para detectar problemas y obtener información relevante:
+
+* **Integración de Google Lighthouse**: En el pipeline CI/CD permite la auditoría periódica del rendimiento y accesibilidad en cada despliegue, asegurando que la aplicación mantenga los estándares de calidad.
+
+* **Render y Netlify**: Ambas plataformas proporcionan logs y métricas en tiempo real, que permiten a los desarrolladores detectar rápidamente problemas en el backend y frontend, respectivamente.
+
+</div>
+
+<div align="center">
+
+![Monitoring Pipeline Components](Resources/Continuous%20Monitoring/Captura1.PNG)
+
+![Monitoring Pipeline Components](Resources/Continuous%20Monitoring/Captura2.PNG)
+
+</div>
+
+### 7.4.3. Alerting Pipeline Components
+
+<div align="justify">
+
+El sistema de alertas notifica a los equipos de desarrollo sobre problemas críticos, lo que permite una respuesta rápida y eficiente:
+
+* Las alertas de Render se configuran para notificar eventos como caídas de servicios o límites de uso. Estas alertas se pueden enviar por correo electrónico o integrarse con herramientas como Slack.
+
+<div align="center">
+
+![Alerting Pipeline Components](Resources/Continuous%20Monitoring/Captura3.PNG)
+
+</div>
+
+* Netlify permite configurar alertas sobre fallos en el despliegue del frontend. Las notificaciones se envían por correo electrónico y pueden integrarse con Slack para una respuesta rápida del equipo.
+
+<div align="center">
+
+![Alerting Pipeline Components](Resources/Continuous%20Monitoring/Captura4.PNG)
+
+</div>
+
+* Google Lighthouse genera informes automáticos que sirven como alerta sobre el estado del rendimiento y la accesibilidad, proporcionando información crítica que puede ser utilizada para abordar problemas antes de que afecten al usuario final.
+
+</div>
+
+### 7.4.4. Notification Pipeline Components
+
+<div align="justify">
+
+Las notificaciones son esenciales para mantener al equipo informado sobre el estado del sistema:
+
+* **Render** y **Netlify** ofrecen notificaciones sobre el estado de los servicios backend y frontend, respectivamente. Los desarrolladores reciben notificaciones por correo electrónico o mediante integración con Slack, asegurando una comunicación fluida dentro del equipo.
+
+<div align="center">
+
+![Notification Pipeline Components](Resources/Continuous%20Monitoring/Captura5.PNG)
+
+![Notification Pipeline Components](Resources/Continuous%20Monitoring/Captura6.PNG)
+
+</div>
+
+* Los informes de **Google Lighthouse**, aunque no envían notificaciones automáticas, pueden configurarse para generar alertas mediante integraciones con otros servicios de monitoreo, proporcionando detalles sobre la experiencia del usuario en tiempo real.
+
+</div>
 
 # Conclusiones
 
