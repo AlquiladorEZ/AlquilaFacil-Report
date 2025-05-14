@@ -3060,6 +3060,12 @@ Los Core System Tests son vitales para evaluar el sistema completo en su conjunt
 
 </div>
 
+<div align="justify">
+
+**Aplicación Web:**
+
+</div>
+
 <div align="center">
 
 **US01: Registrar usuario**
@@ -3129,6 +3135,92 @@ Los Core System Tests son vitales para evaluar el sistema completo en su conjunt
 **US17: Acceder a información de ayuda**
 
 ![US17](Resources/Core%20System%20Tests/US17.jpeg)
+
+</div>
+
+<div align="justify">
+
+**Aplicación Móvil:**
+
+</div>
+
+<div align="center">
+
+**US01: Registrar usuario**
+
+![US01](Resources/Core%20System%20Tests/Mobile/US01.jpeg)
+
+**US02: Iniciar sesión**
+
+![US02](Resources/Core%20System%20Tests/Mobile/US02.jpeg)
+
+**US03: Registrar espacios**
+
+![US03](Resources/Core%20System%20Tests/Mobile/US03.jpeg)
+
+**US04: Buscar espacios disponibles**
+
+![US04](Resources/Core%20System%20Tests/Mobile/US04.jpeg)
+
+**US05: Filtrar espacios disponibles**
+
+![US05](Resources/Core%20System%20Tests/Mobile/US05.jpeg)
+
+**US06: Visualizar información del espacio**
+
+![US06](Resources/Core%20System%20Tests/Mobile/US06.jpeg)
+
+**US07: Reservar espacios**
+
+![US07](Resources/Core%20System%20Tests/Mobile/US07.jpeg)
+
+**US08: Gestionar calendario de reservas**
+
+![US08](Resources/Core%20System%20Tests/Mobile/US08.jpeg)
+
+**US09: Calificar y comentar sobre espacios**
+
+![US09](Resources/Core%20System%20Tests/Mobile/US09.jpeg)
+
+**US10: Notificar sobre actividades de arrendatarios**
+
+![US10](Resources/Core%20System%20Tests/Mobile/US10.jpeg)
+
+**US11: Controlar espacios favoritos**
+
+![US11](Resources/Core%20System%20Tests/Mobile/US11.jpeg)
+
+**US12: Visualizar espacios propios publicados**
+
+![US12](Resources/Core%20System%20Tests/Mobile/US12.jpeg)
+
+**US13: Actualizar perfil y sesión de usuario**
+
+![US13](Resources/Core%20System%20Tests/Mobile/US13.jpeg)
+
+**US14: Adquirir membresía premium**
+
+![US14](Resources/Core%20System%20Tests/Mobile/US14.jpeg)
+
+**US15: Reportar espacios inseguros**
+
+![US15](Resources/Core%20System%20Tests/Mobile/US15.jpeg)
+
+**US16: Visualizar espacios reportados por el usuario**
+
+![US16](Resources/Core%20System%20Tests/Mobile/US16.jpeg)
+
+**US17: Acceder a información de ayuda**
+
+![US17](Resources/Core%20System%20Tests/Mobile/US17.jpeg)
+
+**Ejecución**
+
+![Ejecución](Resources/Core%20System%20Tests/Mobile/Ejecucion.jpeg)
+
+**Prueba con Lighthouse**
+
+![Lighthouse](Resources/Core%20System%20Tests/Mobile/lighthouse.jpeg)
 
 </div>
 
