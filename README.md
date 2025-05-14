@@ -202,10 +202,27 @@ del ABET – EAC - Student Outcome 5.
       <br><br>
       Valle Zuta, Abel Andrés<br>
       En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
+      <br><br><strong>TB2:</strong><br><br>
+      Ames Oviedo, Mariano Jose<br>
+      En esta nueva fase, asumí la responsabilidad de la integración de las distintas partes del sistema que habíamos desarrollado previamente. Coordiné las sesiones de integración y aseguré que todas las partes del equipo estuvieran alineadas en cuanto a la arquitectura del sistema y la interfaz de usuario. Este proceso me permitió mejorar mis habilidades en la gestión de dependencias entre componentes, y pude afianzar el liderazgo en la resolución de problemas que surgieron durante las pruebas de integración, enfocándome en las necesidades del cliente y los requerimientos técnicos.
+      <br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+	Durante esta nueva iteración, me encargué de la optimización de la documentación técnica para adaptarla a los nuevos cambios que hicimos en el diseño del sistema. Actualicé los diagramas de arquitectura, las descripciones de las interfaces de usuario y las 	instrucciones de implementación. Esto no solo me permitió consolidar mis habilidades en la creación de documentación técnica detallada, sino también en mejorar la comunicación entre los diferentes equipos de desarrollo, permitiendo una comprensión más fluida 	de los cambios.
+      <br><br>
+      Lecca Choccare, Christopher Bryan<br>
+      En esta nueva iteración, me centré en la implementación de nuevas funcionalidades basadas en los requerimientos del cliente. Colaboré estrechamente con el equipo de backend para integrar las nuevas características en el sistema, asegurando que el código fuera limpio y eficiente. A su vez, trabajé en las pruebas unitarias para validar el funcionamiento de las nuevas funcionalidades, lo que me permitió profundizar mis conocimientos en pruebas automatizadas y en la cobertura de código.
+      <br><br>
+      Sosa Colca, Angello Rodolfo<br>
+      En esta fase del proyecto, asumí el liderazgo de la mejora de la usabilidad de la interfaz de usuario. Trabajé con los diseñadores y los desarrolladores frontend para mejorar la experiencia de usuario, asegurándome de que las interacciones fueran más intuitivas y accesibles. Además, presenté los resultados de las mejoras a los stakeholders, utilizando tanto términos técnicos como ejemplos visuales para garantizar la comprensión de los cambios realizados y su impacto en la experiencia del usuario final.
+      <br><br>
+      Valle Zuta, Abel Andrés<br>
+      En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
       La experiencia acumulada durante el desarrollo del TB1 refleja un compromiso sólido con el liderazgo compartido y el trabajo en equipo. A través de roles diversos como la documentación técnica, la coordinación de tareas, la moderación de discusiones, y la gestión del tiempo, se promovió un ambiente de colaboración inclusivo y eficiente. Estas acciones no solo garantizaron el cumplimiento de los objetivos del proyecto dentro de los plazos establecidos, sino que también fortalecieron la comunicación, la confianza mutua y el aprovechamiento de las fortalezas individuales de los integrantes. En conjunto, estas contribuciones destacaron la importancia de un liderazgo rotativo y equitativo para alcanzar resultados exitosos.
+      <br><br><strong>TB2:</strong><br><br>
+	    En esta segunda iteración del proyecto, el trabajo en equipo y la colaboración continua fueron cruciales para el avance del proyecto. Gracias a la especialización de cada uno de los miembros en distintas áreas, logramos mejorar significativamente la usabilidad del sistema, la documentación técnica, y la calidad del código. El enfoque colaborativo en la resolución de problemas y la integración de nuevas funcionalidades nos permitió cumplir con los objetivos de esta fase, y sentar las bases para la próxima iteración. Además, esta iteración nos brindó la oportunidad de fortalecer nuestras habilidades técnicas y de gestión, promoviendo un ambiente de trabajo más eficiente y enfocado en la mejora continua.
     </td>
   </tr>
   <tr>
