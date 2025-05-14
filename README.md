@@ -229,10 +229,27 @@ del ABET – EAC - Student Outcome 5.
       <br><br>
       Valle Zuta, Abel Andrés<br>
       En la primera entrega del presente proyecto, lideré la organización de un cronograma semanal que permitió al equipo balancear sus responsabilidades. También proporcioné retroalimentación sobre avances individuales, promoviendo una dinámica de aprendizaje grupal y asegurando que el liderazgo se ejerciera de manera conjunta, enfocándonos siempre en cumplir los objetivos establecidos.
+ <br><br><strong>TB2:</strong><br><br>
+      Ames Oviedo, Mariano Jose<br>
+      En esta nueva fase, asumí la responsabilidad de la integración de las distintas partes del sistema que habíamos desarrollado previamente. Coordiné las sesiones de integración y aseguré que todas las partes del equipo estuvieran alineadas en cuanto a la arquitectura del sistema y la interfaz de usuario. Este proceso me permitió mejorar mis habilidades en la gestión de dependencias entre componentes, y pude afianzar el liderazgo en la resolución de problemas que surgieron durante las pruebas de integración, enfocándome en las necesidades del cliente y los requerimientos técnicos.
+      <br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+	Durante esta nueva iteración, me encargué de la optimización de la documentación técnica para adaptarla a los nuevos cambios que hicimos en el diseño del sistema. Actualicé los diagramas de arquitectura, las descripciones de las interfaces de usuario y las 	instrucciones de implementación. Esto no solo me permitió consolidar mis habilidades en la creación de documentación técnica detallada, sino también en mejorar la comunicación entre los diferentes equipos de desarrollo, permitiendo una comprensión más fluida 	de los cambios.
+      <br><br>
+      Lecca Choccare, Christopher Bryan<br>
+      En esta nueva iteración, me centré en la implementación de nuevas funcionalidades basadas en los requerimientos del cliente. Colaboré estrechamente con el equipo de backend para integrar las nuevas características en el sistema, asegurando que el código fuera limpio y eficiente. A su vez, trabajé en las pruebas unitarias para validar el funcionamiento de las nuevas funcionalidades, lo que me permitió profundizar mis conocimientos en pruebas automatizadas y en la cobertura de código.
+      <br><br>
+      Sosa Colca, Angello Rodolfo<br>
+      En esta fase del proyecto, asumí el liderazgo de la mejora de la usabilidad de la interfaz de usuario. Trabajé con los diseñadores y los desarrolladores frontend para mejorar la experiencia de usuario, asegurándome de que las interacciones fueran más intuitivas y accesibles. Además, presenté los resultados de las mejoras a los stakeholders, utilizando tanto términos técnicos como ejemplos visuales para garantizar la comprensión de los cambios realizados y su impacto en la experiencia del usuario final.
+      <br><br>
+      Valle Zuta, Abel Andrés<br>
+      Durante esta fase, me enfoqué en la mejora de los procesos de control de calidad, implementando un conjunto más robusto de pruebas de integración. Fomenté el uso de pruebas automatizadas para asegurar que las distintas partes del sistema trabajaran en conjunto sin fallos. También gestioné la asignación de tareas de testing entre los miembros del equipo, lo que me permitió adquirir experiencia en la coordinación de equipos de testing y en la supervisión del proceso de validación de calidad.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
       La experiencia acumulada durante el desarrollo del TB1 refleja un compromiso sólido con el liderazgo compartido y el trabajo en equipo. A través de roles diversos como la documentación técnica, la coordinación de tareas, la moderación de discusiones, y la gestión del tiempo, se promovió un ambiente de colaboración inclusivo y eficiente. Estas acciones no solo garantizaron el cumplimiento de los objetivos del proyecto dentro de los plazos establecidos, sino que también fortalecieron la comunicación, la confianza mutua y el aprovechamiento de las fortalezas individuales de los integrantes. En conjunto, estas contribuciones destacaron la importancia de un liderazgo rotativo y equitativo para alcanzar resultados exitosos.
+      <br><br><strong>TB2:</strong><br><br>
+	En esta segunda iteración del proyecto, el trabajo en equipo y la colaboración continua fueron cruciales para el avance del proyecto. Gracias a la especialización de cada uno de los miembros en distintas áreas, logramos mejorar significativamente la usabilidad del sistema, la documentación técnica, y la calidad del código. El enfoque colaborativo en la resolución de problemas y la integración de nuevas funcionalidades nos permitió cumplir con los objetivos de esta fase, y sentar las bases para la próxima iteración. Además, esta iteración nos brindó la oportunidad de fortalecer nuestras habilidades técnicas y de gestión, promoviendo un ambiente de trabajo más eficiente y enfocado en la mejora continua.
     </td>
   </tr>
   <tr>
@@ -255,10 +272,27 @@ del ABET – EAC - Student Outcome 5.
       <br><br>
       Valle Zuta, Abel Andrés<br>
       Durante la primera entrega del presente proyecto, lideré la elaboración del reporte del proyecto que contiene los puntos clave del proyecto, la arquitectura que este tendrá y el alcance que planeamos para el software. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto aspectos técnicos como estratégicos fueran entendidos por audiencias con diferentes especialidades y roles jerárquicos.
+      <br><br><strong>TB2</strong><br><br>
+      Ames Oviedo, Mariano Jose<br>
+      En esta fase del proyecto, me encargué de redactar los informes sobre la verificación y validación del sistema, destacando las pruebas realizadas y los resultados obtenidos. Esto incluyó la documentación de las pruebas unitarias, pruebas de integración, y pruebas del sistema. Aseguré que la información fuera comprensible y detallada, utilizando un lenguaje técnico adecuado para los desarrolladores y un lenguaje accesible para los stakeholders no técnicos. Además, elaboré los informes de auditoría de experiencias de usuario, detallando los hallazgos y las modificaciones necesarias, con el fin de garantizar que el producto cumpliera con los requisitos de calidad.
+      <br><br>
+      Criollo de la Cruz, Diego Anderson<br>
+      Durante esta iteración, fui responsable de actualizar la documentación sobre los procesos de validación y las entrevistas de usuario realizadas. Aseguré que las entrevistas fueran bien documentadas, detallando tanto el diseño como los registros y evaluaciones de las respuestas obtenidas. Me enfoqué en asegurar que los documentos fueran claros, proporcionando explicaciones sobre cómo se aplicaron las heurísticas para evaluar la experiencia del usuario. Esto facilitó la comprensión de los resultados por parte de los miembros del equipo y los stakeholders.
+      <br><br>
+      Lecca Choccare, Christopher Bryan<br>
+      Mi responsabilidad en esta iteración fue la documentación de las prácticas de integración continua y entrega continua dentro del pipeline de desarrollo. Redacté los procedimientos de las herramientas utilizadas y los componentes de la suite de pruebas, asegurando que la información fuera comprensible y estuviera orientada a facilitar la implementación de estas prácticas por parte del equipo. Además, detallé los cambios realizados en el proceso de despliegue, asegurando que los pasos fueran claros para todos los involucrados en las etapas de producción y monitoreo.
+      <br><br>
+      Sosa Colca, Angello Rodolfo<br>
+      En esta iteración, participé en la redacción de la documentación sobre las auditorías de experiencia de usuario, tanto las realizadas como las recibidas. Elaboré un informe detallado sobre los grupos auditados, el cronograma de la auditoría y las modificaciones propuestas para corregir los hallazgos. Además, contribuyó en la documentación sobre las prácticas de monitoreo continuo, describiendo los componentes del pipeline de monitoreo y alertas. Mi objetivo fue asegurar que las prácticas de monitoreo fueran fácilmente comprendidas y aplicadas en futuras iteraciones del proyecto.
+      <br><br>
+      Valle Zuta, Abel Andrés<br>
+      Durante esta fase, me encargué de la documentación técnica relacionada con el análisis estático de código y las revisiones de calidad. Escribí un informe sobre los estándares de codificación y las convenciones aplicadas, así como sobre los resultados del análisis de calidad y seguridad del código. Mi enfoque fue asegurar que toda la documentación fuera accesible y detallada, permitiendo que todos los miembros del equipo comprendieran las medidas tomadas para garantizar la calidad del código. También estuve involucrado en la redacción de la información sobre los componentes de la pipeline de notificación, asegurando que los equipos estuvieran informados de los cambios relevantes.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
       En este primer avance del proyecto, logramos tener una buena comunicación escrita, elaborando diversos documentos técnicos y presentaciones adaptadas a diferentes audiencias. Nos aseguramos de que la información estuviera estructurada de manera clara, utilizando gráficos, tablas y esquemas para facilitar la comprensión de los aspectos técnicos y estratégicos. Esta experiencia no solo fortaleció nuestra capacidad para redactar contenidos accesibles tanto para especialistas como para personas de otras áreas, sino que también consolidó la habilidad para transmitir ideas complejas de manera profesional y efectiva, asegurando que todos los niveles jerárquicos involucrados comprendieran el alcance, las metodologías y los resultados del proyecto.
+      <br><br><strong>TB2:</strong><br><br>
+      En esta iteración, todos los miembros del equipo desempeñaron un papel fundamental en la documentación de los procesos de verificación y validación, las prácticas de DevOps, y las auditorías realizadas. Gracias a la comunicación escrita clara y detallada, logramos no solo documentar las pruebas y los resultados, sino también crear una base sólida para la siguiente fase del proyecto. La documentación sobre las prácticas de integración continua, entrega continua, monitoreo y auditoría, permitió una mejor comprensión y aplicación de estas prácticas en todo el equipo. Además, las auditorías de experiencia de usuario y los informes de validación fueron clave para asegurar que el producto cumpliera con los estándares de calidad establecidos. Esta iteración ha mejorado significativamente nuestras capacidades para documentar y comunicar el progreso del proyecto de manera efectiva a todos los involucrados.
     </td>
   </tr>
 </table>
