@@ -2159,7 +2159,7 @@ A continuación, se visualizarán los diagramas C4.
 
 </div>
 
-![Artefacto creado en Structurizr](Resources/Domain-Driven%20Software%20Architecture/Software%20Architecture%20Container%20Diagrams.png) 
+![Artefacto creado en Structurizr](Resources/Domain-Driven%20Software%20Architecture/Software%20Architecture%20Container%20Diagrams.jpeg) 
 
 <div align="justify">
 
