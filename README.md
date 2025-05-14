@@ -1562,7 +1562,7 @@ Link trello: https://trello.com/invite/b/680019837959f6609959ce6e/ATTI946724210c
 | Sprint # | Título                                                      | Descripción                                                                                                                             |
 |----------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | Desarrollo de funcionalidades Core                                          | <div align="justify">En este sprint, nos centramos en desarrollar nuestras funcionalidades mas importantes para el aplicativo, con esto facilitamos el vance para siguientes sprints</div> |
-| 2        |  | <div align="justify"> </div> |
+| 2        | Desarrollo de segunda versión | <div align="justify">En este segundo sprint, nos enfocamos en implementar nuevas funcionalidades a nuestra aplicación, con el fin de tener una buena segunda versión que nos permita avanzar correctamente en los siguientes sprints.</div> |
 | 3        |          | <div align="justify"> </div> |
 | 4        |  | <div align="justify"> </div> |
 
@@ -2671,6 +2671,223 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
       <td><center>W18</center></td>
       <td><center>Visualizar espacios propios publicados - App Mobile</center></td>
       <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+  </tbody>
+</table>
+  
+</div>
+
+
+<div align="justify">
+  
+***Sprint 02:***
+
+**Evidencia en Trello:**
+
+![Artefacto creado en Trello](Resources/Sprint%20Backlog/Sprint%20Evidence-2.PNG)
+
+**Sprint Backlog 02:**
+
+<table align="center">
+  <thead>
+    <tr>
+       <td colspan="2" align="center"><strong>Sprint #</strong></td>
+       <td colspan="5" align="center"><strong>User Story</strong></td>
+    </tr>
+    <tr>
+       <td colspan="2" align="center"><strong>Sprint 2</strong></td>
+       <td colspan="5" align="center"><strong>Work-Item Task</strong></td>
+    </tr>
+    <tr>
+      <th><center>Id</center></th>
+      <th><center>Title</center></th>
+      <th><center>Id</center></th>
+      <th><center>Title</center></th>
+      <th><center>Estimation (In hours)</center></th>
+      <th><center>Assigned To</center></th>
+      <th><center>Status</center></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><center>US05</center></td>
+      <td><center>Filtrar espacios disponibles</center></td>
+      <td><center>W01</center></td>
+      <td><center>Filtrar espacios disponibles - App Web</center></td>
+      <td><center>5</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US05</center></td>
+      <td><center>Filtrar espacios disponibles</center></td>
+      <td><center>W02</center></td>
+      <td><center>Filtrar espacios disponibles - App Mobile</center></td>
+      <td><center>5</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US05</center></td>
+      <td><center>Filtrar espacios disponibles</center></td>
+      <td><center>W03</center></td>
+      <td><center>Filtrar espacios disponibles - Web Services IAM</center></td>
+      <td><center>5</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US09</center></td>
+      <td><center>Calificar y comentar sobre espacios</center></td>
+      <td><center>W04</center></td>
+      <td><center>Calificar y comentar sobre espacios - App Web</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US09</center></td>
+      <td><center>Calificar y comentar sobre espacios</center></td>
+      <td><center>W05</center></td>
+      <td><center>Calificar y comentar sobre espacios - App Mobile</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US09</center></td>
+      <td><center>Calificar y comentar sobre espacios</center></td>
+      <td><center>W06</center></td>
+      <td><center>Calificar y comentar sobre espacios - Web Services IAM</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US10</center></td>
+      <td><center>Notificar sobre actividades de arrendatarios</center></td>
+      <td><center>W07</center></td>
+      <td><center>Notificar sobre actividades de arrendatarios - App Web</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US10</center></td>
+      <td><center>Notificar sobre actividades de arrendatarios</center></td>
+      <td><center>W08</center></td>
+      <td><center>Notificar sobre actividades de arrendatarios - App Mobile</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US11</center></td>
+      <td><center>Controlar espacios favoritos</center></td>
+      <td><center>W09</center></td>
+      <td><center>Controlar espacios favoritos - App Web</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US11</center></td>
+      <td><center>Controlar espacios favoritos</center></td>
+      <td><center>W10</center></td>
+      <td><center>Controlar espacios favoritos - App Mobile</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US13</center></td>
+      <td><center>Actualizar perfil y sesión de usuario</center></td>
+      <td><center>W11</center></td>
+      <td><center>Actualizar perfil y sesión de usuario - App Web</center></td>
+      <td><center>2</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US13</center></td>
+      <td><center>Actualizar perfil y sesión de usuario</center></td>
+      <td><center>W12</center></td>
+      <td><center>Actualizar perfil y sesión de usuario - App Mobile</center></td>
+      <td><center>2</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US14</center></td>
+      <td><center>Adquirir membresía premium</center></td>
+      <td><center>W13</center></td>
+      <td><center>Adquirir membresía premium - App Web</center></td>
+      <td><center>5</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US14</center></td>
+      <td><center>Adquirir membresía premium</center></td>
+      <td><center>W14</center></td>
+      <td><center>Adquirir membresía premium - App Mobile</center></td>
+      <td><center>5</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US15</center></td>
+      <td><center>Reportar espacios inseguros</center></td>
+      <td><center>W15</center></td>
+      <td><center>Reportar espacios inseguros - App Web</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US15</center></td>
+      <td><center>Reportar espacios inseguros</center></td>
+      <td><center>W16</center></td>
+      <td><center>Reportar espacios inseguros - App Mobile</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US16</center></td>
+      <td><center>Visualizar espacios reportados</center></td>
+      <td><center>W17</center></td>
+      <td><center>Visualizar espacios reportados - App Web</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US16</center></td>
+      <td><center>Visualizar espacios reportados</center></td>
+      <td><center>W18</center></td>
+      <td><center>Visualizar espacios reportados - App Mobile</center></td>
+      <td><center>3</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US17</center></td>
+      <td><center>Acceder a información de ayuda</center></td>
+      <td><center>W17</center></td>
+      <td><center>Acceder a información de ayuda - App Web</center></td>
+      <td><center>5</center></td>
+      <td><center>XXXX</center></td>
+      <td><center>Done</center></td>
+    </tr>
+    <tr>
+      <td><center>US17</center></td>
+      <td><center>Acceder a información de ayuda</center></td>
+      <td><center>W18</center></td>
+      <td><center>Acceder a información de ayuda - App Mobile</center></td>
+      <td><center>5</center></td>
       <td><center>XXXX</center></td>
       <td><center>Done</center></td>
     </tr>
