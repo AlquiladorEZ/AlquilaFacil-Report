@@ -3627,6 +3627,434 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 
 <div align="justify">
 
+**Segmento 1: Arrendadores de espacios para eventos**
+<br>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>XXX</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>XXXXX</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>XXXX</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>XXX</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>XXXXX</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>XXXX</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>XXX</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>XXXXX</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>XXXX</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+**Segmento 2: Arrendatarios sociales frecuentes de espacios para eventos**
+<br>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>XXX</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>XXXXX</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>XXXX</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>XXX</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>XXXXX</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>XXXX</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>XXX</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>XXXXX</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>XXXX</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>XXXX</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:05 min - 05:20 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
 </div>
 
 ### 6.3.3. Evaluaciones según heurísticas
