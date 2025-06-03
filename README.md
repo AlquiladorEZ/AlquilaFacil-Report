@@ -321,6 +321,26 @@ del ABET – EAC - Student Outcome 5.
       <br><br>
       Valle Zuta, Abel Andrés<br>
       Durante esta fase, me encargué de la documentación técnica relacionada con el análisis estático de código y las revisiones de calidad. Escribí un informe sobre los estándares de codificación y las convenciones aplicadas, así como sobre los resultados del análisis de calidad y seguridad del código. Mi enfoque fue asegurar que toda la documentación fuera accesible y detallada, permitiendo que todos los miembros del equipo comprendieran las medidas tomadas para garantizar la calidad del código. También estuve involucrado en la redacción de la información sobre los componentes de la pipeline de notificación, asegurando que los equipos estuvieran informados de los cambios relevantes.
+    <strong>TB2:</strong><br><br>
+
+Ames Oviedo, Mariano José<br>
+Durante esta iteración, lideré junto al equipo la integración funcional de los módulos desarrollados por cada área. Me encargué de coordinar reuniones técnicas para revisar la compatibilidad de interfaces y asegurar que las decisiones sobre arquitectura fueran comprendidas por todos. También participé en la resolución colaborativa de errores detectados durante la integración, lo que fortaleció mis habilidades de liderazgo compartido y trabajo sinérgico con los demás integrantes.
+<br><br>
+
+Criollo de la Cruz, Diego Anderson<br>
+En esta fase, trabajé en la actualización y consolidación de la documentación técnica del sistema. Además, coordiné con los demás miembros para asegurar que los cambios realizados en los componentes se reflejaran adecuadamente en los documentos compartidos. Esta experiencia me permitió ejercer liderazgo en el seguimiento documental del proyecto y facilitar la comunicación entre las áreas, alineando nuestros esfuerzos hacia una entrega más cohesionada.
+<br><br>
+
+Lecca Choccare, Christopher Bryan<br>
+Durante esta entrega, me enfoqué en el desarrollo de funcionalidades críticas, colaborando estrechamente con los demás desarrolladores para mantener la consistencia del sistema. Participé activamente en reuniones de revisión de código y sesiones de pruebas conjuntas, lo que me permitió proponer mejoras y resolver incidencias de forma colectiva. Esta colaboración constante reforzó mi capacidad para liderar desde el conocimiento técnico y la cooperación.
+<br><br>
+
+Sosa Colca, Angello Rodolfo<br>
+En esta iteración, tomé un rol activo en la mejora de la experiencia de usuario, trabajando junto con el equipo de desarrollo y de diseño para implementar interfaces más intuitivas. Lideré la validación de propuestas de UI/UX a través de sesiones grupales y pruebas de usuario, promoviendo siempre un enfoque participativo para decidir los ajustes necesarios. Esto fortaleció mis competencias de liderazgo horizontal en contextos de diseño centrado en el usuario.
+<br><br>
+
+Valle Zuta, Abel Andrés<br>
+Durante esta etapa, impulsé mejoras en el control de calidad del sistema, promoviendo la incorporación de pruebas automatizadas y coordinando su ejecución entre los miembros del equipo. Asimismo, apoyé la definición de criterios de aceptación para las funcionalidades clave, en conjunto con los demás integrantes. Esta experiencia reforzó mis habilidades de liderazgo en entornos técnicos colaborativos, basándome en estándares compartidos de calidad y rendimiento.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
