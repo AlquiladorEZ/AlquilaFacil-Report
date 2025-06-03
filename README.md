@@ -342,6 +342,27 @@ Durante esta etapa, impulsé mejoras en el control de calidad del sistema, promo
       <br><br>
       Valle Zuta, Abel Andrés<br>
       Durante esta fase, me encargué de la documentación técnica relacionada con el análisis estático de código y las revisiones de calidad. Escribí un informe sobre los estándares de codificación y las convenciones aplicadas, así como sobre los resultados del análisis de calidad y seguridad del código. Mi enfoque fue asegurar que toda la documentación fuera accesible y detallada, permitiendo que todos los miembros del equipo comprendieran las medidas tomadas para garantizar la calidad del código. También estuve involucrado en la redacción de la información sobre los componentes de la pipeline de notificación, asegurando que los equipos estuvieran informados de los cambios relevantes.
+   <br><br> <strong>TB2:</strong><br><br>
+
+
+Ames Oviedo, Mariano José<br>
+Durante esta fase, elaboré reportes sobre la integración del sistema, explicando detalladamente cómo interactúan los módulos y cuáles fueron los criterios aplicados para garantizar su compatibilidad. Redacté un documento dirigido tanto al equipo técnico como al área de gestión, utilizando diagramas y lenguaje accesible que facilitara la comprensión de los avances por parte de todos los stakeholders. Esto fortaleció mi capacidad para comunicar ideas técnicas de manera clara y objetiva.
+<br><br>
+
+Criollo de la Cruz, Diego Anderson<br>
+Me encargué de actualizar y redactar la documentación funcional del sistema, destacando las modificaciones realizadas y su impacto en el flujo general del proyecto. Para asegurar una comunicación efectiva, estructuré los documentos con secciones dirigidas a públicos distintos, desde programadores hasta supervisores no técnicos, incluyendo explicaciones breves, tablas comparativas y diagramas de proceso. Esta experiencia reforzó mi habilidad para adaptar el contenido técnico a distintos perfiles profesionales.
+<br><br>
+
+Lecca Choccare, Christopher Bryan<br>
+Mi rol en esta iteración incluyó la redacción de informes de validación de funcionalidades clave, los cuales compartí con los responsables de QA y los asesores externos del proyecto. Me aseguré de emplear una estructura clara y un lenguaje técnico preciso, acompañado de evidencias gráficas y tablas de resultados. El objetivo fue que cualquier lector, sin importar su especialidad, pudiera comprender los criterios de validación aplicados y los resultados obtenidos.
+<br><br>
+
+Sosa Colca, Angello Rodolfo<br>
+Durante esta entrega, preparé la documentación relacionada con los cambios de interfaz de usuario, incluyendo una sección explicativa para los usuarios finales y otra para los desarrolladores encargados del mantenimiento. Utilicé capturas de pantalla, descripciones paso a paso y glosarios técnicos para facilitar la lectura. Esta actividad me permitió mejorar mi habilidad para traducir información técnica en mensajes comprensibles y relevantes para públicos con distintos niveles de conocimiento.
+<br><br>
+
+Valle Zuta, Abel Andrés<br>
+Redacté un informe detallado sobre las prácticas de aseguramiento de calidad y pruebas automatizadas aplicadas en el proyecto. Este documento estaba dirigido tanto al equipo de desarrollo como a los gestores del proyecto. Utilicé una estructura basada en criterios técnicos y de cumplimiento, acompañada de gráficos de cobertura y explicación de métricas, lo que permitió que fuera comprensible por audiencias de distintos niveles jerárquicos. Esta labor reforzó mi capacidad para comunicar resultados técnicos de forma clara y profesional.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
