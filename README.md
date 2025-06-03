@@ -3476,6 +3476,7 @@ Los Core System Tests son vitales para evaluar el sistema completo en su conjunt
 ### 6.2.1. Static Code Analysis
 
 <div align="justify">
+	
 Esta sección se enfoca en los métodos de verificación temprana del software **AlquilaFacil** mediante pruebas estáticas. Estas prácticas aseguran que el código cumpla con estándares de calidad, seguridad y mantenibilidad antes de su ejecución, optimizando así el proceso de desarrollo y reduciendo costos de corrección.
 
 El análisis de código estático consiste en la revisión del código fuente sin necesidad de ejecutarlo, utilizando herramientas automatizadas como **SonarQube** y revisiones manuales por parte del equipo de desarrollo. En el contexto de **AlquilaFacil**, esto permite identificar errores lógicos, vulnerabilidades en la validación de entradas del usuario y oportunidades de mejora en la estructuración del software.
@@ -3594,34 +3595,27 @@ El monitoreo continuo del sistema es clave para la mejora proactiva y la rápida
 ### 6.3.1. Diseño de Entrevistas
 
 <div align="justify">
-A continuación, se presentan las preguntas que se utilizarán en las entrevistas de validación para evaluar la usabilidad de la aplicación **AlquilaFácil**. Estas preguntas están diseñadas para explorar la experiencia del usuario desde el punto de vista de la funcionalidad, comprensión, navegación y percepción general de la solución.
+	
+Se presentan las preguntas que se utilizarán en las entrevistas de validación para evaluar la usabilidad de la aplicación **AlquilaFácil**. Estas preguntas están diseñadas para explorar la experiencia del usuario desde el punto de vista de la funcionalidad, comprensión, navegación y percepción general de la solución.
+<br>
 
 **1.** ¿Te resultó clara la función principal de AlquilaFácil desde el primer momento que accediste a la plataforma?  
-<br>
 
 **2.** ¿La plataforma te guía de manera intuitiva en procesos como publicar un espacio, reservar un evento o realizar un pago?  
-<br>
 
 **3.** ¿Has sentido que la información de los espacios (fotos, precios, licencias, disponibilidad, etc.) es suficiente y está bien organizada para tomar una decisión?  
-<br>
 
 **4.** ¿Tuviste alguna dificultad para completar tareas importantes como filtrar espacios, contactar con el arrendador o modificar una reserva?  
-<br>
 
 **5.** ¿Cómo calificarías la claridad del lenguaje utilizado en la plataforma? ¿Encontraste términos confusos o poco familiares?  
-<br>
 
 **6.** ¿La plataforma respondió correctamente cuando cometiste un error (por ejemplo, dejar un campo vacío o introducir una fecha no válida)?  
-<br>
 
 **7.** ¿Consideras que la navegación entre pantallas es fluida? ¿Encontraste sencillo regresar, corregir o cancelar acciones en cualquier parte del flujo?  
-<br>
 
 **8.** ¿Tuviste alguna dificultad para entender cómo funcionan aspectos clave como las políticas de cancelación, la validación del lugar o los métodos de pago?  
-<br>
 
 **9.** ¿Qué tan fácil fue para ti encontrar y entender los horarios disponibles de un espacio en particular? ¿La flexibilidad de horarios está bien reflejada?  
-<br>
 
 **10.** ¿Qué características o mejoras específicas agregarías a AlquilaFácil para que tu experiencia de uso sea más satisfactoria y completa?  
 <br>
