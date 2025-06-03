@@ -3475,19 +3475,171 @@ Los Core System Tests son vitales para evaluar el sistema completo en su conjunt
 
 ### 6.2.1. Static Code Analysis
 
+<div align="justify">
+Esta sección se enfoca en los métodos de verificación temprana del software **AlquilaFacil** mediante pruebas estáticas. Estas prácticas aseguran que el código cumpla con estándares de calidad, seguridad y mantenibilidad antes de su ejecución, optimizando así el proceso de desarrollo y reduciendo costos de corrección.
+
+El análisis de código estático consiste en la revisión del código fuente sin necesidad de ejecutarlo, utilizando herramientas automatizadas como **SonarQube** y revisiones manuales por parte del equipo de desarrollo. En el contexto de **AlquilaFacil**, esto permite identificar errores lógicos, vulnerabilidades en la validación de entradas del usuario y oportunidades de mejora en la estructuración del software.
+</div>
+
 #### 6.2.1.1. Coding standard & Code conventions
+
+<div align="justify">
+
+Para garantizar un código legible, mantenible y alineado con los objetivos de negocio en **AlquilaFacil**, se aplican las siguientes buenas prácticas:
+
+- **Clean Code**:  
+  - Se emplean nombres descriptivos y claros para clases, funciones y variables, especialmente en los procesos críticos como búsqueda, reserva y gestión de espacios para eventos.  
+  - Las funciones están diseñadas para cumplir con una única responsabilidad, evitando la duplicación de lógica y eliminando código obsoleto.  
+  - Se minimiza el uso de comentarios mediante la escritura de código autoexplicativo.
+
+- **Domain-Driven Design (DDD)**:  
+  - El dominio se modela con un lenguaje ubicuo compartido entre desarrolladores y stakeholders (ej.: "arrendatario", "evento", "espacio disponible").  
+  - Se han definido **bounded contexts** que separan las funcionalidades de gestión de usuarios, reservas, pagos y reportes.  
+  - Se implementan entidades como `Usuario`, `Espacio`, `Reserva` y objetos de valor como `FechaEvento`, representando fielmente la lógica del negocio.  
+  - La lógica de dominio se estructura mediante **servicios de dominio** y **repositorios**, lo que refuerza una arquitectura sólida y comprensible.
+
+- **Aplicación de Pruebas**:  
+  - Se han realizado **pruebas unitarias sobre entidades principales** (Core Entities Unit Tests), asegurando la validez de las reglas de negocio en los módulos centrales.  
+  - Se empleó el enfoque **BDD con Gherkin** para describir escenarios de uso desde la perspectiva del usuario y asegurar la coherencia entre requerimientos y comportamiento.  
+  - Las pruebas funcionales con **Selenium** validan flujos completos, como la búsqueda y reserva de espacios, desde el frontend hasta el backend.  
+  - Con **Maestro**, se realizaron pruebas de carga y stress sobre flujos de alta concurrencia como pagos y reservas simultáneas.
+
+</div>
+
+<br>
 
 #### 6.2.1.2. Code Quality & Code Security
 
+<div align="justify">
+
+En el desarrollo de **AlquilaFacil**, la calidad del código y la seguridad son prioridades fundamentales para asegurar una plataforma confiable y escalable:
+
+- **Calidad del Código**:  
+  - Se utiliza **SonarQube** para evaluar métricas clave como la cobertura de pruebas, duplicación, deuda técnica y complejidad ciclomática.  
+  - La cobertura de pruebas es especialmente monitoreada en los módulos de autenticación, reservas y pagos. Se promueve un umbral mínimo del 80%.  
+  - Las pruebas automatizadas incluyen validaciones unitarias, pruebas BDD y pruebas end-to-end, integradas en el pipeline de CI/CD.  
+  - La integración de **Google Lighthouse** permite auditar automáticamente la accesibilidad, el rendimiento y la experiencia de usuario desde el punto de vista del frontend.
+
+- **Seguridad del Código**:  
+  - Se aplican prácticas de **desarrollo seguro**, incluyendo validaciones rigurosas de entrada, uso de parámetros preparados y mecanismos de autenticación robustos.  
+  - Las vulnerabilidades comunes como **inyecciones SQL**, **cross-site scripting (XSS)** y **exposición de datos sensibles** son mitigadas desde la etapa de diseño.  
+  - Se verifica de forma continua la seguridad de dependencias mediante herramientas automatizadas, y se aplican actualizaciones periódicas.  
+  - Las pruebas funcionales y de estrés también evalúan cómo el sistema responde a condiciones de entrada anómalas o maliciosas.
+
+</div>
+
 ### 6.2.2. Reviews
+
+<div align="justify">
+Las revisiones de código son un proceso fundamental para garantizar la calidad y la conformidad con las normas establecidas. Este proceso implica tanto revisiones manuales como automáticas, y debe seguir ciertas pautas para asegurar la calidad técnica y la colaboración en equipo.<br>
+
+**Tipos de Revisiones**  
+- **Revisión de Código por Pares**  
+  Un desarrollador revisa el código de otro desarrollador para garantizar que cumpla con los estándares y sea comprensible.
+
+- **Revisión de Código Formal**  
+  Incluye una reunión estructurada donde se evalúa el código utilizando un checklist, lo que permite detectar problemas en grupo.
+
+- **Revisión Automática**  
+  Uso de herramientas como **SonarLint** y **SonarQube** para detectar errores y problemas de calidad en tiempo real.<br>
+
+**Proceso de Revisión**  
+- **Creación de Pull Requests (PR)**  
+  Los desarrolladores deben crear un PR que incluya una descripción clara de los cambios realizados y las pruebas asociadas.
+
+- **Checklist de Revisión**  
+  Debe existir una lista de verificación que cubra aspectos como la claridad del código, la cobertura de pruebas y el manejo de errores.
+
+- **Comentarios y Feedback**  
+  Los revisores deben proporcionar comentarios constructivos y específicos. Cualquier problema identificado debe ser abordado antes de la aprobación final.
+
+- **Aprobación o Rechazo del PR**  
+  El PR debe ser aprobado por al menos un revisor adicional antes de fusionarse en la rama principal del proyecto.<br>
+
+**Criterios de Aceptación**  
+- **Calidad y Seguridad del Código**  
+  El código debe cumplir con los estándares de calidad definidos y no introducir vulnerabilidades de seguridad.
+
+- **Cobertura de Pruebas**  
+  Se requiere una cobertura mínima de pruebas (por ejemplo, 80%) para asegurar que el código nuevo esté adecuadamente validado.<br>
+
+**Frecuencia de Revisiones**  
+Las revisiones de código deben realizarse de forma regular, preferiblemente al final de cada sprint o en intervalos definidos, con el objetivo de evitar la acumulación de cambios sin revisar y mantener la calidad continua del software.<br>
+
+**Pruebas Realizadas**  
+Como parte del proceso de revisión y aseguramiento de calidad, se han implementado y documentado diversas pruebas sobre los componentes críticos del sistema:
+
+- **Core Entities Unit Tests**  
+  Se realizaron pruebas unitarias para validar la lógica interna de entidades fundamentales del sistema.
+
+- **Pruebas con Gherkin (BDD)**  
+  Se empleó el enfoque de desarrollo guiado por comportamiento para describir y verificar funcionalidades clave desde la perspectiva del usuario final.
+
+- **Selenium**  
+  Se automatizaron pruebas end-to-end para verificar la correcta interacción del usuario con la interfaz gráfica, especialmente en los flujos principales.
+
+- **Maestro**  
+  Se aplicaron pruebas de rendimiento y carga para validar el comportamiento del sistema ante múltiples usuarios concurrentes.<br>
+
+**Monitoreo Continuo**  
+El monitoreo continuo del sistema es clave para la mejora proactiva y la rápida detección de problemas en producción. Para ello, se utilizan herramientas específicas:
+
+- **Google Lighthouse**  
+  Herramienta de auditoría que evalúa rendimiento, accesibilidad y SEO en aplicaciones web.  
+  Está integrada en el pipeline de CI/CD para generar informes automáticos que identifican cuellos de botella en la carga y problemas de usabilidad.<br>
+</div>
 
 ## 6.3. Validation Interviews
 
 ### 6.3.1. Diseño de Entrevistas
 
+<div align="justify">
+A continuación, se presentan las preguntas que se utilizarán en las entrevistas de validación para evaluar la usabilidad de la aplicación **AlquilaFácil**. Estas preguntas están diseñadas para explorar la experiencia del usuario desde el punto de vista de la funcionalidad, comprensión, navegación y percepción general de la solución.
+
+**1.** ¿Te resultó clara la función principal de AlquilaFácil desde el primer momento que accediste a la plataforma?  
+<br>
+
+**2.** ¿La plataforma te guía de manera intuitiva en procesos como publicar un espacio, reservar un evento o realizar un pago?  
+<br>
+
+**3.** ¿Has sentido que la información de los espacios (fotos, precios, licencias, disponibilidad, etc.) es suficiente y está bien organizada para tomar una decisión?  
+<br>
+
+**4.** ¿Tuviste alguna dificultad para completar tareas importantes como filtrar espacios, contactar con el arrendador o modificar una reserva?  
+<br>
+
+**5.** ¿Cómo calificarías la claridad del lenguaje utilizado en la plataforma? ¿Encontraste términos confusos o poco familiares?  
+<br>
+
+**6.** ¿La plataforma respondió correctamente cuando cometiste un error (por ejemplo, dejar un campo vacío o introducir una fecha no válida)?  
+<br>
+
+**7.** ¿Consideras que la navegación entre pantallas es fluida? ¿Encontraste sencillo regresar, corregir o cancelar acciones en cualquier parte del flujo?  
+<br>
+
+**8.** ¿Tuviste alguna dificultad para entender cómo funcionan aspectos clave como las políticas de cancelación, la validación del lugar o los métodos de pago?  
+<br>
+
+**9.** ¿Qué tan fácil fue para ti encontrar y entender los horarios disponibles de un espacio en particular? ¿La flexibilidad de horarios está bien reflejada?  
+<br>
+
+**10.** ¿Qué características o mejoras específicas agregarías a AlquilaFácil para que tu experiencia de uso sea más satisfactoria y completa?  
+<br>
+
+Estas preguntas están destinadas a proporcionar una visión clara sobre la usabilidad de la aplicación y ayudar a identificar oportunidades de mejora desde la perspectiva del usuario final.
+</div>
+
 ### 6.3.2. Registro de Entrevistas
 
+<div align="justify">
+
+</div>
+
 ### 6.3.3. Evaluaciones según heurísticas
+
+<div align="justify">
+
+</div>
 
 ## 6.4. Auditoría de Experiencias de Usuario
 
