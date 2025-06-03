@@ -278,7 +278,8 @@ del ABET – EAC - Student Outcome 5.
       <br><br>
       Valle Zuta, Abel Andrés<br>
       Durante esta fase, me enfoqué en la mejora de los procesos de control de calidad, implementando un conjunto más robusto de pruebas de integración. Fomenté el uso de pruebas automatizadas para asegurar que las distintas partes del sistema trabajaran en conjunto sin fallos. También gestioné la asignación de tareas de testing entre los miembros del equipo, lo que me permitió adquirir experiencia en la coordinación de equipos de testing y en la supervisión del proceso de validación de calidad.
-       <br><strong>TB2:</strong><br><br>
+      <br><br>
+      <strong>TB2:</strong><br><br>
 
 Ames Oviedo, Mariano José<br>
 Durante esta iteración, lideré junto al equipo la integración funcional de los módulos desarrollados por cada área. Me encargué de coordinar reuniones técnicas para revisar la compatibilidad de interfaces y asegurar que las decisiones sobre arquitectura fueran comprendidas por todos. También participé en la resolución colaborativa de errores detectados durante la integración, lo que fortaleció mis habilidades de liderazgo compartido y trabajo sinérgico con los demás integrantes.
