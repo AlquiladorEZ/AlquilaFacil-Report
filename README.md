@@ -3603,7 +3603,7 @@ Se presentan las preguntas que se utilizarán en las entrevistas de validación 
 
 **2.** ¿La plataforma te guía de manera intuitiva en procesos como publicar un espacio, reservar un evento o realizar un pago?  
 
-**3.** ¿Has sentido que la información de los espacios (fotos, precios, licencias, disponibilidad, etc.) es suficiente y está bien organizada para tomar una decisión?  
+**3.** ¿Has sentido que la información de los espacios (fotos, precios, disponibilidad, etc.) es suficiente y está bien organizada para tomar una decisión?  
 
 **4.** ¿Tuviste alguna dificultad para completar tareas importantes como filtrar espacios, contactar con el arrendador o modificar una reserva?  
 
@@ -3613,7 +3613,7 @@ Se presentan las preguntas que se utilizarán en las entrevistas de validación 
 
 **7.** ¿Consideras que la navegación entre pantallas es fluida? ¿Encontraste sencillo regresar, corregir o cancelar acciones en cualquier parte del flujo?  
 
-**8.** ¿Tuviste alguna dificultad para entender cómo funcionan aspectos clave como las políticas de cancelación, la validación del lugar o los métodos de pago?  
+**8.** ¿Tuviste alguna dificultad para entender cómo funcionan aspectos clave como las políticas de cancelación, la validación del lugar o de la forma de realizar el pago?  
 
 **9.** ¿Qué tan fácil fue para ti encontrar y entender los horarios disponibles de un espacio en particular? ¿La flexibilidad de horarios está bien reflejada?  
 
