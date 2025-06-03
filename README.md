@@ -4449,7 +4449,7 @@ Las notificaciones son esenciales para mantener al equipo informado sobre el est
 
 ### 8.1.1. As-Is Summary
 
-<div align="center">
+<div align="justify">
 	
 AlquilaFácil es una aplicación que conecta a propietarios de espacios para eventos con personas que desean alquilarlos por horas o días, facilitando el proceso de publicación, búsqueda, reserva y pago en línea. Actualmente, la plataforma proporciona funcionalidades esenciales como:
 
@@ -4482,7 +4482,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
 
-<div align="center">
+<div align="justify">
 
 **Assumptions**
 
