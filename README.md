@@ -4449,7 +4449,82 @@ Las notificaciones son esenciales para mantener al equipo informado sobre el est
 
 ### 8.1.1. As-Is Summary
 
+<div align="center">
+	
+AlquilaFácil es una aplicación que conecta a propietarios de espacios para eventos con personas que desean alquilarlos por horas o días, facilitando el proceso de publicación, búsqueda, reserva y pago en línea. Actualmente, la plataforma proporciona funcionalidades esenciales como:
+
+- Registro y autenticación de usuarios (arrendador y arrendatario).
+- Publicación de espacios con imágenes, licencias, horarios y precios.
+- Sistema de búsqueda filtrada y reservas automáticas.
+- Validación de espacios y gestión de disponibilidad.
+
+Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han detectado algunas áreas críticas para mejorar la experiencia del usuario:
+
+**Problemas Identificados:**
+
+- **Rendimiento:** El tiempo de carga en dispositivos móviles puede superar los 3 segundos en zonas con conexión inestable, lo que afecta la fluidez del proceso de reserva.
+- **Usabilidad:** La interfaz aún no incluye un modo oscuro, lo cual afecta el confort visual en ambientes nocturnos o de baja luz.
+- **Adaptabilidad:** La experiencia varía dependiendo del dispositivo. Algunos elementos visuales no están completamente optimizados para pantallas pequeñas o resoluciones distintas.
+- **Accesibilidad limitada:** La plataforma está disponible solo en español, lo cual restringe su alcance en zonas urbanas con usuarios bilingües o extranjeros.
+- **Interacción limitada:** No existen funciones que fomenten el compromiso del usuario, como calificaciones, recompensas o recomendaciones personalizadas.
+
+**Objetivos de Mejora:**
+
+- **Optimizar el rendimiento general** de la aplicación, reduciendo los tiempos de espera y mejorando la velocidad de navegación en móviles.
+- **Introducir un modo oscuro** para brindar mayor comodidad en distintas condiciones de iluminación.
+- **Mejorar la experiencia cross-device**, asegurando una visualización responsiva y consistente en computadoras, tablets y móviles.
+- **Expandir el acceso lingüístico**, integrando traducciones al inglés y portugués.
+- **Incorporar gamificación y funcionalidades sociales** que aumenten la interacción y fidelización de los usuarios, como badges, reviews o recomendaciones basadas en intereses.
+
+</div>
+
+<br>
+
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
+
+<div align="center">
+
+**Assumptions**
+
+- **Preferencia por personalización:** Se presume que los usuarios valoran un diseño adaptable y opciones como el modo oscuro para una experiencia más personalizada.
+- **Diversidad de usuarios:** Se asume que una parte significativa de los usuarios potenciales (especialmente turistas, promotores de eventos y arrendadores en zonas urbanas) pueden no hablar español, justificando la necesidad de traducción.
+- **Funcionalidades sociales:** Se cree que los usuarios estarían interesados en dejar comentarios o reseñas, lo que fortalecería la comunidad y la confianza en los espacios.
+- **Notificaciones útiles:** Se considera que las alertas de confirmación, recordatorios de reserva y cambios en disponibilidad aumentarían la confianza y satisfacción del usuario.
+- **Espacios comerciales especializados:** Se infiere que existe una demanda específica para tipos de eventos únicos (reuniones corporativas, fiestas infantiles, talleres, etc.) y que los usuarios desearían categorización detallada.
+
+<br>
+
+**Knowledge Gap**
+
+- **Preferencias visuales reales:** Se carece de datos sobre cuántos usuarios realmente desean un modo oscuro o en qué condiciones usan la plataforma.
+- **Composición lingüística del público:** No hay cifras claras sobre qué porcentaje de usuarios potenciales requeriría traducción, ni qué idiomas tienen mayor prioridad.
+- **Interés en gamificación:** Falta evidencia sobre si implementar recompensas o retos realmente aumentaría el uso recurrente.
+- **Efectividad de las notificaciones:** Aún no se ha validado si los usuarios desean o perciben como útiles los recordatorios push o por correo.
+- **Clasificación y necesidades del mercado:** Se necesita estudiar más a fondo qué tipos de espacios tienen mayor demanda y cómo se pueden categorizar eficazmente.
+
+<br>
+
+**Ideas**
+
+- **Encuestas a usuarios reales y potenciales**, enfocadas en preferencias de diseño, idiomas y experiencia general de navegación.
+- **Pruebas A/B con y sin modo oscuro**, para validar su impacto en la retención de usuarios.
+- **Integración de un sistema de calificación y comentarios** para mejorar la confianza entre arrendadores y arrendatarios.
+- **Incorporación de notificaciones push personalizadas**, con recordatorios de reservas, ofertas y recomendaciones según historial de búsqueda.
+- **Explorar filtros inteligentes**, como tipo de evento, servicios incluidos (Wi-Fi, estacionamiento, catering), entre otros.
+
+<br>
+
+**Claims**
+
+- **Un diseño visual adaptable y personalizado** (modo oscuro, interfaz intuitiva) puede mejorar significativamente la percepción de calidad y modernidad de la aplicación.
+- **El multilenguaje facilitará la expansión a mercados internacionales**, especialmente en distritos turísticos o de negocios donde se habla inglés o portugués.
+- **Las funcionalidades sociales (comentarios, calificaciones) aumentan la transparencia** y confianza en la plataforma, promoviendo una comunidad activa.
+- **La gamificación puede mejorar la tasa de retorno** de usuarios frecuentes y ayudar a fidelizar a nuevos arrendadores.
+- **Una categorización más específica de espacios facilita la búsqueda**, acorta el tiempo de decisión y mejora la tasa de conversión de vistas en reservas.
+
+</div>
+
+<br>
 
 ### 8.1.3. Experiment-Ready Questions
 
