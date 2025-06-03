@@ -3676,7 +3676,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>XXXX</td>
+    <td>Angello Sosa</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -3747,7 +3747,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>XXXX</td>
+    <td>Christopher Lecca</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -3818,7 +3818,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>XXXX</td>
+    <td>Abel Valle</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -3891,7 +3891,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>XXXX</td>
+    <td>Christopher Lecca</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -3962,7 +3962,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>XXXX</td>
+    <td>Diego Criollo</td>
   </tr>
   <tr>
     <td>Evidencia</td>
@@ -4033,7 +4033,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>XXXX</td>
+    <td>Abel Valle</td>
   </tr>
   <tr>
     <td>Evidencia</td>
