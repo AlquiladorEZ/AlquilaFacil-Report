@@ -4909,7 +4909,82 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.2.2. Measures
 
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejorará la experiencia añadiendo un modo oscuro a la aplicación web?</td>
+  </tr>
+  <tr>
+    <td><strong>Measure</strong></td>
+    <td>
+      Medir la satisfacción de los usuarios mediante encuestas antes y después de implementar el modo oscuro. Además, analizar los puntajes de valoración de experiencia visual y la duración promedio de las sesiones para evaluar si el modo oscuro mejora la comodidad y reduce la fatiga visual.
+    </td>
+  </tr>
+</table>
+
+
+<br>
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?</td>
+  </tr>
+  <tr>
+    <td><strong>Measure</strong></td>
+    <td>
+      Medir la tasa de retención de usuarios y el tiempo promedio de uso mediante análisis de métricas antes y después de la implementación del diseño más colorido y visual. Complementar con encuestas para recoger opiniones sobre la experiencia estética y su impacto en la motivación de uso.
+    </td>
+  </tr>
+</table>
+
+<br>
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?</td>
+  </tr>
+  <tr>
+    <td><strong>Measure</strong></td>
+    <td>
+      Medir la satisfacción mediante encuestas específicas que indaguen la percepción sobre el soporte disponible. Analizar el uso de la sección de contacto y correlacionarlo con las métricas de retención y reducción de tickets o quejas para comprobar el impacto del soporte en la experiencia del usuario.
+    </td>
+  </tr>
+</table>
+
+<br>
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?</td>
+  </tr>
+  <tr>
+    <td><strong>Measure</strong></td>
+    <td>
+      Realizar encuestas de percepción de calidad antes y después de la implementación del diseño visual e interactivo. Medir el Net Promoter Score (NPS) para evaluar cambios en la recomendación de la aplicación y analizar el feedback cualitativo sobre la interfaz.
+    </td>
+  </tr>
+</table>
+
+
+
+</div>
+
+<br>
+
 ### 8.2.3. Conditions
+
+<br>
+
+<div align="center">
+
+
+</div>
+
+<br>
 
 ### 8.2.4. Scale Calculations and Decisions
 
