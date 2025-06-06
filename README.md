@@ -4652,85 +4652,95 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 <div align="center">
 <table>
-  <thead>
-    <tr>
-      <th>Question</th>
-      <th>Why</th>
-      <th>What</th>
-      <th>Hypothesis</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
+      <td><strong>Question</strong></td>
       <td>¿Mejorará la experiencia del usuario al añadir un modo oscuro a la aplicación web?</td>
+    </tr>
+    <tr>
+      <td><strong>Why</strong></td>
       <td>El modo oscuro reduce la fatiga visual en ambientes con poca luz, mejora la personalización y puede aumentar el tiempo de uso.</td>
+    </tr>
+    <tr>
+      <td><strong>What</strong></td>
       <td>Implementar modo oscuro seleccionable, ajustando colores de texto, fondo y elementos para facilitar la navegación.</td>
+    </tr>
+    <tr>
+      <td><strong>Hypothesis</strong></td>
       <td>Se espera que el 60% de usuarios prefieran el modo oscuro y que el tiempo promedio de uso aumente en un 25%.</td>
     </tr>
   </tbody>
 </table>
 
 <br>
+
 <table>
-  <thead>
-    <tr>
-      <th>Question</th>
-      <th>Why</th>
-      <th>What</th>
-      <th>Hypothesis</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
+      <td><strong>Question</strong></td>
       <td>¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?</td>
+    </tr>
+    <tr>
+      <td><strong>Why</strong></td>
       <td>Un diseño más colorido y visualmente atractivo mejora la primera impresión, la navegación y la retención de usuarios.</td>
+    </tr>
+    <tr>
+      <td><strong>What</strong></td>
       <td>Rediseñar vistas principales con paleta vibrante, imágenes destacadas, íconos y elementos gráficos llamativos.</td>
+    </tr>
+    <tr>
+      <td><strong>Hypothesis</strong></td>
       <td>Se espera un aumento del 20% en retención y 15% en tiempo promedio de uso diario.</td>
     </tr>
   </tbody>
 </table>
 
-
 <br>
+
 <table>
-  <thead>
-    <tr>
-      <th>Question</th>
-      <th>Why</th>
-      <th>What</th>
-      <th>Hypothesis</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
+      <td><strong>Question</strong></td>
       <td>¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?</td>
+    </tr>
+    <tr>
+      <td><strong>Why</strong></td>
       <td>Una vía directa para resolver dudas reduce frustración, aumenta confianza y mejora la experiencia.</td>
+    </tr>
+    <tr>
+      <td><strong>What</strong></td>
       <td>Agregar sección de contacto accesible desde menú, con formulario, FAQs y posible chat en línea.</td>
+    </tr>
+    <tr>
+      <td><strong>Hypothesis</strong></td>
       <td>El 70% de usuarios reportarán mayor satisfacción y la retención aumentará en un 10%.</td>
     </tr>
   </tbody>
 </table>
 
-
 <br>
+
 <table>
-  <thead>
-    <tr>
-      <th>Question</th>
-      <th>Why</th>
-      <th>What</th>
-      <th>Hypothesis</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
+      <td><strong>Question</strong></td>
       <td>¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?</td>
+    </tr>
+    <tr>
+      <td><strong>Why</strong></td>
       <td>Un diseño moderno con microinteracciones y animaciones transmite profesionalismo y valor percibido.</td>
+    </tr>
+    <tr>
+      <td><strong>What</strong></td>
       <td>Rediseñar interfaz con transiciones suaves, tarjetas visuales, íconos animados y microinteracciones.</td>
+    </tr>
+    <tr>
+      <td><strong>Hypothesis</strong></td>
       <td>El 65% de usuarios percibirán mejora y la tasa de recomendación aumentará 20 puntos.</td>
     </tr>
   </tbody>
 </table>
+
 
 
 <br>
