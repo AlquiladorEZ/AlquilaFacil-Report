@@ -4980,7 +4980,68 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 <br>
 
 <div align="center">
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejorará la experiencia añadiendo un modo oscuro a la aplicación web?</td>
+  </tr>
+  <tr>
+    <td><strong>Condición Experimental</strong></td>
+    <td>La satisfacción del usuario aumentará en al menos un 20% después de implementar el modo oscuro, evaluado mediante encuestas y métricas de duración de uso, debido a la reducción de fatiga visual y mayor comodidad en ambientes con poca luz.</td>
+  </tr>
+  <tr>
+    <td><strong>Condición de Control</strong></td>
+    <td>No habrá un aumento significativo en la satisfacción ni en la duración de uso tras la implementación del modo oscuro, manteniéndose valores similares a los niveles previos a la función.</td>
+  </tr>
+</table>
 
+<br>
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?</td>
+  </tr>
+  <tr>
+    <td><strong>Condición Experimental</strong></td>
+    <td>La retención de usuarios aumentará en un 20% y el tiempo promedio de uso diario crecerá un 15% luego de introducir un diseño más colorido y visualmente atractivo, debido a la mayor motivación y facilidad de navegación.</td>
+  </tr>
+  <tr>
+    <td><strong>Condición de Control</strong></td>
+    <td>No se observarán cambios relevantes en la retención ni en el tiempo de uso, manteniéndose similares a las métricas previas al rediseño visual.</td>
+  </tr>
+</table>
+
+<br>
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?</td>
+  </tr>
+  <tr>
+    <td><strong>Condición Experimental</strong></td>
+    <td>El 70% de los usuarios reportará un aumento en la satisfacción tras la inclusión de una sección de contacto con soporte, mejorando la percepción de respaldo y confianza en la aplicación.</td>
+  </tr>
+  <tr>
+    <td><strong>Condición de Control</strong></td>
+    <td>No habrá un cambio significativo en la satisfacción del usuario, con niveles similares a los existentes antes de la implementación del soporte.</td>
+  </tr>
+</table>
+
+<br>
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?</td>
+  </tr>
+  <tr>
+    <td><strong>Condición Experimental</strong></td>
+    <td>El 65% de los usuarios percibirá una mejora significativa en la calidad y profesionalismo del diseño, reflejándose en un aumento de 20 puntos porcentuales en la tasa de recomendación gracias a las microinteracciones y animaciones suaves.</td>
+  </tr>
+  <tr>
+    <td><strong>Condición de Control</strong></td>
+    <td>No se registrará una mejora perceptible en la valoración de calidad ni en la recomendación, manteniéndose la tasa similar a la previa a los cambios visuales e interactivos.</td>
+  </tr>
+</table>
 
 </div>
 
