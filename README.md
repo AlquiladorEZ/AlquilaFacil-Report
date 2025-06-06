@@ -4565,17 +4565,191 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.1.3. Experiment-Ready Questions
 
-| Pregunta                                                                                   | Confianza                                                                                  | Riesgo                                                                                  | Impacto                                                                                               | Interés                                                                                             | Total |
-|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------|
-| ¿Mejorará la experiencia del usuario añadir un modo oscuro a la aplicación web?           | 7 - Es una funcionalidad popular, aunque no todos los usuarios la utilizan.               | 2 - Bajo riesgo, ya que es una implementación técnica estándar.                         | 6 - Mejora la experiencia del usuario, pero no es crítica.                                             | 5 - Interés moderado entre los usuarios, especialmente quienes usan la app en entornos oscuros.      | 20    |
-| ¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?| 6 - Las mejoras visuales suelen tener buena recepción, aunque varía según el perfil.       | 2 - Bajo riesgo; se trata de cambios estéticos no disruptivos.                          | 7 - Mejora la primera impresión, navegación y retención.                                               | 6 - Bastante interesante para usuarios visuales o jóvenes.                                             | 21    |
-| ¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?  | 8 - La mayoría de apps modernas lo incluyen como parte estándar.                          | 2 - Bajo riesgo; la implementación es directa y no invasiva.                            | 7 - Aumenta la confianza del usuario al sentirse respaldado.                                           | 7 - Muy interesante para quienes necesitan ayuda o resolución rápida.                                | 24    |
-| ¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?| 7 - Los usuarios suelen responder mejor a interfaces modernas y atractivas.                | 3 - Riesgo medio si se sobrecarga la interfaz o complica la navegación.                 | 8 - Un diseño moderno puede hacer que los usuarios perciban más valor en la aplicación.               | 6 - Interés sostenido por una experiencia más agradable y profesional.                                | 24    |
+<table>
+  <thead>
+    <tr>
+      <th>Pregunta</th>
+      <th>Confianza</th>
+      <th>Riesgo</th>
+      <th>Impacto</th>
+      <th>Interés</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>¿Mejorará la experiencia del usuario añadir un modo oscuro a la aplicación web?</td>
+      <td>7 - Es una funcionalidad popular, aunque no todos los usuarios la utilizan.</td>
+      <td>2 - Bajo riesgo, ya que es una implementación técnica estándar.</td>
+      <td>6 - Mejora la experiencia del usuario, pero no es crítica.</td>
+      <td>5 - Interés moderado entre los usuarios, especialmente quienes usan la app en entornos oscuros.</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?</td>
+      <td>6 - Las mejoras visuales suelen tener buena recepción, aunque varía según el perfil.</td>
+      <td>2 - Bajo riesgo; se trata de cambios estéticos no disruptivos.</td>
+      <td>7 - Mejora la primera impresión, navegación y retención.</td>
+      <td>6 - Bastante interesante para usuarios visuales o jóvenes.</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <td>¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?</td>
+      <td>8 - La mayoría de apps modernas lo incluyen como parte estándar.</td>
+      <td>2 - Bajo riesgo; la implementación es directa y no invasiva.</td>
+      <td>7 - Aumenta la confianza del usuario al sentirse respaldado.</td>
+      <td>7 - Muy interesante para quienes necesitan ayuda o resolución rápida.</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?</td>
+      <td>7 - Los usuarios suelen responder mejor a interfaces modernas y atractivas.</td>
+      <td>3 - Riesgo medio si se sobrecarga la interfaz o complica la navegación.</td>
+      <td>8 - Un diseño moderno puede hacer que los usuarios perciban más valor en la aplicación.</td>
+      <td>6 - Interés sostenido por una experiencia más agradable y profesional.</td>
+      <td>24</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 
 ### 8.1.4. Question Backlog
 
+### 8.1.4. Question Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th>Prioridad<br>(1, 2, 3, 5, 8)</th>
+      <th>Pregunta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>¿Mejorará la experiencia del usuario al añadir un modo oscuro a la aplicación web?</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 ### 8.1.5. Experiment Cards
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejorará la experiencia añadiendo un modo oscuro a la aplicación web?</td>
+  </tr>
+  <tr>
+    <td><strong>Why</strong></td>
+    <td>Al agregar un modo oscuro, se mejora la usabilidad para los usuarios que prefieren una experiencia visual más cómoda, especialmente en ambientes con poca luz. Esto no solo reduce la fatiga visual, sino que también puede aumentar el tiempo que los usuarios pasan en la aplicación, resultando en un mayor compromiso y satisfacción general.</td>
+  </tr>
+  <tr>
+    <td><strong>What</strong></td>
+    <td>Implementar un modo oscuro que los usuarios puedan seleccionar fácilmente en la configuración de la aplicación. Esto incluiría ajustar el esquema de colores de texto, fondo y elementos gráficos para facilitar una experiencia de navegación más cómoda.</td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>Se espera que, al añadir el modo oscuro, el 60% de los usuarios informen una mejora en la usabilidad y que el tiempo promedio de uso de la aplicación se incremente en un 25%.</td>
+  </tr>
+</table>
+<br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejorará la participación de los usuarios al implementar un foro de recetas y consejos en la aplicación?</td>
+  </tr>
+  <tr>
+    <td><strong>Why</strong></td>
+    <td>Un foro puede fomentar la interacción entre usuarios, permitiéndoles compartir experiencias y consejos útiles. Esta participación activa puede generar una comunidad más sólida, lo que a su vez puede aumentar el compromiso con la aplicación.</td>
+  </tr>
+  <tr>
+    <td><strong>What</strong></td>
+    <td>Crear un foro dentro de la aplicación que permita a los usuarios publicar recetas, hacer preguntas y compartir consejos sobre la crianza de cuyes. Implementar un sistema de moderación para asegurar contenido relevante y respetuoso.</td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>Se espera que, con la implementación del foro, la participación de los usuarios aumente en un 30% en comparación con el período anterior.</td>
+  </tr>
+</table>
+<br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Aumentará la audiencia agregando traducciones al documento a otros idiomas como inglés o chino?</td>
+  </tr>
+  <tr>
+    <td><strong>Why</strong></td>
+    <td>La inclusión de traducciones podría hacer que la aplicación sea más accesible para un público más amplio, aumentando la base de usuarios al atraer a hablantes de otros idiomas. Esto no solo puede mejorar la satisfacción del usuario, sino también la imagen de marca y la aceptación en mercados internacionales.</td>
+  </tr>
+  <tr>
+    <td><strong>What</strong></td>
+    <td>Traducir el contenido más relevante de la aplicación y asegurarse de que las traducciones sean precisas y culturalmente relevantes. Esto podría incluir la creación de un sistema para actualizar el contenido traducido de manera continua.</td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>Se espera que, tras la implementación de traducciones, la cantidad de usuarios de países de habla inglesa y china aumente en un 15% dentro de los tres meses siguientes.</td>
+  </tr>
+</table>
+<br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejorará la satisfacción del usuario la integración de un sistema de notificaciones personalizadas para recordatorios de tareas?</td>
+  </tr>
+  <tr>
+    <td><strong>Why</strong></td>
+    <td>Las notificaciones personalizadas pueden ayudar a los usuarios a gestionar mejor sus tareas, recordándoles actividades importantes y mejorando la organización. Esto puede resultar en una experiencia más fluida y satisfactoria.</td>
+  </tr>
+  <tr>
+    <td><strong>What</strong></td>
+    <td>Desarrollar un sistema que permita a los usuarios configurar notificaciones personalizadas para tareas específicas. Estas notificaciones deben ser fáciles de activar y personalizar según las preferencias del usuario.</td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>Se espera que, tras la integración de las notificaciones personalizadas, la tasa de finalización de tareas aumente en un 40% y la satisfacción general del usuario se eleve en un 20%.</td>
+  </tr>
+</table>
+<br>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Aumentaría la conexión con otros mercados la inclusión de una sección de comercio dentro de la aplicación para la compra/venta de cuyes y productos relacionados?</td>
+  </tr>
+  <tr>
+    <td><strong>Why</strong></td>
+    <td>La inclusión de una sección de comercio puede abrir nuevas oportunidades para los usuarios, facilitando el intercambio de productos y servicios. Esto no solo puede aumentar la actividad en la aplicación, sino también fomentar un ecosistema más dinámico entre los criadores.</td>
+  </tr>
+  <tr>
+    <td><strong>What</strong></td>
+    <td>Implementar una plataforma de comercio dentro de la aplicación que permita a los usuarios listar productos, realizar transacciones y comunicarse entre sí. Asegurar que el sistema sea seguro y fácil de usar.</td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>Se espera que, con la inclusión de la sección de comercio, el número de transacciones realizadas en la aplicación aumente en un 50% en los primeros seis meses.</td>
+  </tr>
+</table>
+
+<br>
 
 ## 8.2. Experiment Design
 
