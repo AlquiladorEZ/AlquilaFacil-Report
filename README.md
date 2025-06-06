@@ -4780,6 +4780,133 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.2.1. Hypotheses
 
+<br>
+
+
+
+<div align="center">
+<table>
+  <tr>
+    <td colspan="2"><strong>Hypothesis</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejorará la experiencia del usuario añadir un modo oscuro a la aplicación web?</td>
+  </tr>
+  <tr>
+    <td><strong>Belief</strong></td>
+    <td>
+      La funcionalidad de modo oscuro es muy popular entre los usuarios, especialmente aquellos que usan la aplicación en ambientes con poca luz o durante largos períodos. Sin embargo, no todos los usuarios la utilizan, por lo que el interés es moderado. Técnicamente, es una implementación estándar con bajo riesgo, por lo que se confía en su viabilidad y beneficios.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>
+      Se espera que al menos el 60% de los usuarios opten por usar el modo oscuro porque reduce la fatiga visual y ofrece una experiencia más cómoda. Esto debería resultar en un aumento del 25% en el tiempo promedio de uso de la aplicación, ya que los usuarios podrán navegar por más tiempo sin incomodidad visual, mejorando así la retención y satisfacción general.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Null hypothesis</strong></td>
+    <td>
+      La inclusión del modo oscuro no tendrá un impacto significativo en la experiencia del usuario, ni modificará el porcentaje de usuarios activos ni el tiempo promedio de uso, ya que algunos usuarios no cambiarán su modo de visualización o no lo encontrarán relevante.
+    </td>
+  </tr>
+</table>
+
+<br>
+<table>
+  <tr>
+    <td colspan="2"><strong>Hypothesis</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?</td>
+  </tr>
+  <tr>
+    <td><strong>Belief</strong></td>
+    <td>
+      El uso de colores vibrantes y elementos gráficos mejora la primera impresión de la aplicación y facilita la navegación, haciendo que los usuarios visuales o más jóvenes encuentren el entorno más atractivo. Este cambio es un ajuste estético con bajo riesgo, pues no afecta la funcionalidad principal.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>
+      Se anticipa que un diseño más colorido y visualmente estimulante aumentará la retención de usuarios en un 20%, pues atraerá su atención y motivará la exploración continua. Además, el tiempo promedio diario de uso crecerá en un 15% ya que los usuarios disfrutarán más del entorno, incrementando su compromiso con la plataforma.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Null hypothesis</strong></td>
+    <td>
+      Cambiar el diseño para hacerlo más colorido y con imágenes no tendrá un impacto medible en la retención ni en el tiempo que los usuarios pasan en la aplicación, ya que los usuarios podrían no valorar estos cambios visuales o preferir una interfaz más simple.
+    </td>
+  </tr>
+</table>
+
+
+<br>
+<table>
+  <tr>
+    <td colspan="2"><strong>Hypothesis</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?</td>
+  </tr>
+  <tr>
+    <td><strong>Belief</strong></td>
+    <td>
+      La mayoría de las aplicaciones modernas incluyen una sección de soporte que los usuarios esperan. Esto genera confianza y reduce la frustración, especialmente para quienes necesitan ayuda rápida. La implementación es directa, con bajo riesgo de problemas técnicos o de usabilidad.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>
+      Se estima que el 70% de los usuarios reportarán un aumento en su satisfacción debido a la facilidad para resolver dudas o problemas. Además, la retención podría mejorar en un 10% al disminuir la frustración y aumentar la percepción de respaldo y confiabilidad en la aplicación.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Null hypothesis</strong></td>
+    <td>
+      La inclusión de la sección de soporte no tendrá efecto significativo en la satisfacción ni en la retención de usuarios, porque los usuarios podrían no utilizar el soporte o no considerarlo relevante para su experiencia.
+    </td>
+  </tr>
+</table>
+
+<br>
+<table>
+  <tr>
+    <td colspan="2"><strong>Hypothesis</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?</td>
+  </tr>
+  <tr>
+    <td><strong>Belief</strong></td>
+    <td>
+      Los usuarios tienden a responder positivamente a interfaces modernas con microinteracciones y animaciones suaves que ofrecen feedback visual. Esto transmite profesionalismo y cuidado por los detalles, aunque existe un riesgo medio de que se complique la navegación o se afecte el rendimiento si no se implementa bien.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>
+      Se espera que al menos el 65% de los usuarios perciban una mejora significativa en la calidad y atractivo de la aplicación, lo cual debería traducirse en un aumento de 20 puntos porcentuales en la tasa de recomendación, debido a una experiencia más fluida, atractiva y profesional.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Null hypothesis</strong></td>
+    <td>
+      Mejorar la interfaz con elementos visuales e interacciones no afectará la percepción de calidad ni la recomendación, ya que algunos usuarios podrían no notar o valorar estos cambios, o podrían sentirse incómodos con una interfaz demasiado animada.
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+</div>
+
+
 ### 8.2.2. Measures
 
 ### 8.2.3. Conditions
