@@ -4508,19 +4508,17 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 **Problemas Identificados:**
 
-- **Rendimiento:** El tiempo de carga en dispositivos móviles puede superar los 3 segundos en zonas con conexión inestable, lo que afecta la fluidez del proceso de reserva.
-- **Usabilidad:** La interfaz aún no incluye un modo oscuro, lo cual afecta el confort visual en ambientes nocturnos o de baja luz.
-- **Adaptabilidad:** La experiencia varía dependiendo del dispositivo. Algunos elementos visuales no están completamente optimizados para pantallas pequeñas o resoluciones distintas.
-- **Accesibilidad limitada:** La plataforma está disponible solo en español, lo cual restringe su alcance en zonas urbanas con usuarios bilingües o extranjeros.
-- **Interacción limitada:** No existen funciones que fomenten el compromiso del usuario, como calificaciones, recompensas o recomendaciones personalizadas.
+- **Diseño visual poco atractivo:** La aplicación tiene un diseño sobrio que no destaca ni estimula visualmente al usuario.
+- **Falta de contenido visual atractivo:** Hay pocas imágenes o elementos gráficos que capten la atención del usuario en la navegación.
+- **Ausencia de modo oscuro:** No se ofrece una opción de visualización cómoda para usuarios que prefieren interfaces oscuras.
+- **Falta de contacto con soporte:** Los usuarios no cuentan con una vía directa para resolver dudas o reportar problemas dentro de la app.
 
 **Objetivos de Mejora:**
 
-- **Optimizar el rendimiento general** de la aplicación, reduciendo los tiempos de espera y mejorando la velocidad de navegación en móviles.
-- **Introducir un modo oscuro** para brindar mayor comodidad en distintas condiciones de iluminación.
-- **Mejorar la experiencia cross-device**, asegurando una visualización responsiva y consistente en computadoras, tablets y móviles.
-- **Expandir el acceso lingüístico**, integrando traducciones al inglés y portugués.
-- **Incorporar gamificación y funcionalidades sociales** que aumenten la interacción y fidelización de los usuarios, como badges, reviews o recomendaciones basadas en intereses.
+- **Incorporar una paleta de colores más variada** para que el diseño sea más atractivo e intuitivo.
+- **Utilizar más imágenes, íconos y elementos gráficos** en las vistas principales para enriquecer la experiencia visual.
+- **Agregar un modo oscuro** como opción para mejorar la accesibilidad y la comodidad en diferentes entornos de luz.
+- **Implementar una sección de contacto** dentro de la app donde los usuarios puedan escribir sus dudas por correo o mensaje directo al equipo de soporte.
 
 </div>
 
@@ -4532,47 +4530,48 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 **Assumptions**
 
-- **Preferencia por personalización:** Se presume que los usuarios valoran un diseño adaptable y opciones como el modo oscuro para una experiencia más personalizada.
-- **Diversidad de usuarios:** Se asume que una parte significativa de los usuarios potenciales (especialmente turistas, promotores de eventos y arrendadores en zonas urbanas) pueden no hablar español, justificando la necesidad de traducción.
-- **Funcionalidades sociales:** Se cree que los usuarios estarían interesados en dejar comentarios o reseñas, lo que fortalecería la comunidad y la confianza en los espacios.
-- **Notificaciones útiles:** Se considera que las alertas de confirmación, recordatorios de reserva y cambios en disponibilidad aumentarían la confianza y satisfacción del usuario.
-- **Espacios comerciales especializados:** Se infiere que existe una demanda específica para tipos de eventos únicos (reuniones corporativas, fiestas infantiles, talleres, etc.) y que los usuarios desearían categorización detallada.
+- **Preferencia por personalización:** Se presume que los usuarios valoran un diseño adaptable, más colorido y opciones como el modo oscuro para una experiencia visual más personalizada.
+- **Atracción visual como factor decisivo:** Se asume que un diseño atractivo con más imágenes y elementos gráficos puede influir en la retención y satisfacción del usuario.
+- **Confianza mediante soporte accesible:** Se cree que los usuarios se sienten más seguros cuando tienen una vía directa para comunicarse con soporte técnico o resolver dudas dentro de la aplicación.
 
 <br>
 
 **Knowledge Gap**
 
-- **Preferencias visuales reales:** Se carece de datos sobre cuántos usuarios realmente desean un modo oscuro o en qué condiciones usan la plataforma.
-- **Composición lingüística del público:** No hay cifras claras sobre qué porcentaje de usuarios potenciales requeriría traducción, ni qué idiomas tienen mayor prioridad.
-- **Interés en gamificación:** Falta evidencia sobre si implementar recompensas o retos realmente aumentaría el uso recurrente.
-- **Efectividad de las notificaciones:** Aún no se ha validado si los usuarios desean o perciben como útiles los recordatorios push o por correo.
-- **Clasificación y necesidades del mercado:** Se necesita estudiar más a fondo qué tipos de espacios tienen mayor demanda y cómo se pueden categorizar eficazmente.
+- **Preferencias visuales reales:** Se carece de datos sobre qué combinaciones de colores o tipos de contenido visual resultan más atractivos para los usuarios.
+- **Uso y aceptación del modo oscuro:** No se sabe qué porcentaje de los usuarios potenciales preferiría una interfaz oscura o si eso impacta positivamente su experiencia.
+- **Demanda efectiva de soporte directo:** No hay evidencia suficiente sobre la frecuencia con que los usuarios desean o necesitan contactar a soporte desde la app.
 
 <br>
 
 **Ideas**
 
-- **Encuestas a usuarios reales y potenciales**, enfocadas en preferencias de diseño, idiomas y experiencia general de navegación.
-- **Pruebas A/B con y sin modo oscuro**, para validar su impacto en la retención de usuarios.
-- **Integración de un sistema de calificación y comentarios** para mejorar la confianza entre arrendadores y arrendatarios.
-- **Incorporación de notificaciones push personalizadas**, con recordatorios de reservas, ofertas y recomendaciones según historial de búsqueda.
-- **Explorar filtros inteligentes**, como tipo de evento, servicios incluidos (Wi-Fi, estacionamiento, catering), entre otros.
+- **Diseñar una paleta de colores vibrante** y aplicarla en las vistas principales para hacer la aplicación más atractiva visualmente.
+- **Incluir imágenes destacadas, íconos y elementos gráficos** en los listados, perfiles y banners promocionales dentro de la plataforma.
+- **Agregar una opción de modo oscuro** en el menú de configuración para ofrecer una experiencia visual más flexible.
+- **Incorporar una sección de contacto o formulario de mensajes**, accesible desde el menú principal, para que los usuarios puedan comunicarse fácilmente con el equipo de soporte.
 
 <br>
 
 **Claims**
 
-- **Un diseño visual adaptable y personalizado** (modo oscuro, interfaz intuitiva) puede mejorar significativamente la percepción de calidad y modernidad de la aplicación.
-- **El multilenguaje facilitará la expansión a mercados internacionales**, especialmente en distritos turísticos o de negocios donde se habla inglés o portugués.
-- **Las funcionalidades sociales (comentarios, calificaciones) aumentan la transparencia** y confianza en la plataforma, promoviendo una comunidad activa.
-- **La gamificación puede mejorar la tasa de retorno** de usuarios frecuentes y ayudar a fidelizar a nuevos arrendadores.
-- **Una categorización más específica de espacios facilita la búsqueda**, acorta el tiempo de decisión y mejora la tasa de conversión de vistas en reservas.
+- **Una interfaz más visual y colorida aumenta la percepción de calidad** y profesionalismo de la aplicación.
+- **El modo oscuro mejora la comodidad visual**, especialmente en entornos con poca luz, lo cual puede traducirse en mayor tiempo de uso.
+- **Una vía de comunicación directa con soporte reduce la frustración**, mejora la experiencia del usuario y fomenta la confianza en la plataforma.
 
 </div>
 
 <br>
 
 ### 8.1.3. Experiment-Ready Questions
+
+| Pregunta                                                                                   | Confianza                                                                                  | Riesgo                                                                                  | Impacto                                                                                               | Interés                                                                                             | Total |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------|
+| ¿Mejorará la experiencia del usuario añadir un modo oscuro a la aplicación web?           | 7 - Es una funcionalidad popular, aunque no todos los usuarios la utilizan.               | 2 - Bajo riesgo, ya que es una implementación técnica estándar.                         | 6 - Mejora la experiencia del usuario, pero no es crítica.                                             | 5 - Interés moderado entre los usuarios, especialmente quienes usan la app en entornos oscuros.      | 20    |
+| ¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?| 6 - Las mejoras visuales suelen tener buena recepción, aunque varía según el perfil.       | 2 - Bajo riesgo; se trata de cambios estéticos no disruptivos.                          | 7 - Mejora la primera impresión, navegación y retención.                                               | 6 - Bastante interesante para usuarios visuales o jóvenes.                                             | 21    |
+| ¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?  | 8 - La mayoría de apps modernas lo incluyen como parte estándar.                          | 2 - Bajo riesgo; la implementación es directa y no invasiva.                            | 7 - Aumenta la confianza del usuario al sentirse respaldado.                                           | 7 - Muy interesante para quienes necesitan ayuda o resolución rápida.                                | 24    |
+| ¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?| 7 - Los usuarios suelen responder mejor a interfaces modernas y atractivas.                | 3 - Riesgo medio si se sobrecarga la interfaz o complica la navegación.                 | 8 - Un diseño moderno puede hacer que los usuarios perciban más valor en la aplicación.               | 6 - Interés sostenido por una experiencia más agradable y profesional.                                | 24    |
+
 
 ### 8.1.4. Question Backlog
 
