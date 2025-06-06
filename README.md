@@ -4617,8 +4617,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.1.4. Question Backlog
 
-### 8.1.4. Question Backlog
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -4645,111 +4644,99 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
     </tr>
   </tbody>
 </table>
+</div>
 
 <br>
 
 ### 8.1.5. Experiment Cards
 
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Question</strong></td>
-    <td>¿Mejorará la experiencia añadiendo un modo oscuro a la aplicación web?</td>
-  </tr>
-  <tr>
-    <td><strong>Why</strong></td>
-    <td>Al agregar un modo oscuro, se mejora la usabilidad para los usuarios que prefieren una experiencia visual más cómoda, especialmente en ambientes con poca luz. Esto no solo reduce la fatiga visual, sino que también puede aumentar el tiempo que los usuarios pasan en la aplicación, resultando en un mayor compromiso y satisfacción general.</td>
-  </tr>
-  <tr>
-    <td><strong>What</strong></td>
-    <td>Implementar un modo oscuro que los usuarios puedan seleccionar fácilmente en la configuración de la aplicación. Esto incluiría ajustar el esquema de colores de texto, fondo y elementos gráficos para facilitar una experiencia de navegación más cómoda.</td>
-  </tr>
-  <tr>
-    <td><strong>Hypothesis</strong></td>
-    <td>Se espera que, al añadir el modo oscuro, el 60% de los usuarios informen una mejora en la usabilidad y que el tiempo promedio de uso de la aplicación se incremente en un 25%.</td>
-  </tr>
-</table>
-<br>
-
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Question</strong></td>
-    <td>¿Mejorará la participación de los usuarios al implementar un foro de recetas y consejos en la aplicación?</td>
-  </tr>
-  <tr>
-    <td><strong>Why</strong></td>
-    <td>Un foro puede fomentar la interacción entre usuarios, permitiéndoles compartir experiencias y consejos útiles. Esta participación activa puede generar una comunidad más sólida, lo que a su vez puede aumentar el compromiso con la aplicación.</td>
-  </tr>
-  <tr>
-    <td><strong>What</strong></td>
-    <td>Crear un foro dentro de la aplicación que permita a los usuarios publicar recetas, hacer preguntas y compartir consejos sobre la crianza de cuyes. Implementar un sistema de moderación para asegurar contenido relevante y respetuoso.</td>
-  </tr>
-  <tr>
-    <td><strong>Hypothesis</strong></td>
-    <td>Se espera que, con la implementación del foro, la participación de los usuarios aumente en un 30% en comparación con el período anterior.</td>
-  </tr>
-</table>
-<br>
-
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Question</strong></td>
-    <td>¿Aumentará la audiencia agregando traducciones al documento a otros idiomas como inglés o chino?</td>
-  </tr>
-  <tr>
-    <td><strong>Why</strong></td>
-    <td>La inclusión de traducciones podría hacer que la aplicación sea más accesible para un público más amplio, aumentando la base de usuarios al atraer a hablantes de otros idiomas. Esto no solo puede mejorar la satisfacción del usuario, sino también la imagen de marca y la aceptación en mercados internacionales.</td>
-  </tr>
-  <tr>
-    <td><strong>What</strong></td>
-    <td>Traducir el contenido más relevante de la aplicación y asegurarse de que las traducciones sean precisas y culturalmente relevantes. Esto podría incluir la creación de un sistema para actualizar el contenido traducido de manera continua.</td>
-  </tr>
-  <tr>
-    <td><strong>Hypothesis</strong></td>
-    <td>Se espera que, tras la implementación de traducciones, la cantidad de usuarios de países de habla inglesa y china aumente en un 15% dentro de los tres meses siguientes.</td>
-  </tr>
-</table>
-<br>
-
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Question</strong></td>
-    <td>¿Mejorará la satisfacción del usuario la integración de un sistema de notificaciones personalizadas para recordatorios de tareas?</td>
-  </tr>
-  <tr>
-    <td><strong>Why</strong></td>
-    <td>Las notificaciones personalizadas pueden ayudar a los usuarios a gestionar mejor sus tareas, recordándoles actividades importantes y mejorando la organización. Esto puede resultar en una experiencia más fluida y satisfactoria.</td>
-  </tr>
-  <tr>
-    <td><strong>What</strong></td>
-    <td>Desarrollar un sistema que permita a los usuarios configurar notificaciones personalizadas para tareas específicas. Estas notificaciones deben ser fáciles de activar y personalizar según las preferencias del usuario.</td>
-  </tr>
-  <tr>
-    <td><strong>Hypothesis</strong></td>
-    <td>Se espera que, tras la integración de las notificaciones personalizadas, la tasa de finalización de tareas aumente en un 40% y la satisfacción general del usuario se eleve en un 20%.</td>
-  </tr>
-</table>
-<br>
-
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Question</strong></td>
-    <td>¿Aumentaría la conexión con otros mercados la inclusión de una sección de comercio dentro de la aplicación para la compra/venta de cuyes y productos relacionados?</td>
-  </tr>
-  <tr>
-    <td><strong>Why</strong></td>
-    <td>La inclusión de una sección de comercio puede abrir nuevas oportunidades para los usuarios, facilitando el intercambio de productos y servicios. Esto no solo puede aumentar la actividad en la aplicación, sino también fomentar un ecosistema más dinámico entre los criadores.</td>
-  </tr>
-  <tr>
-    <td><strong>What</strong></td>
-    <td>Implementar una plataforma de comercio dentro de la aplicación que permita a los usuarios listar productos, realizar transacciones y comunicarse entre sí. Asegurar que el sistema sea seguro y fácil de usar.</td>
-  </tr>
-  <tr>
-    <td><strong>Hypothesis</strong></td>
-    <td>Se espera que, con la inclusión de la sección de comercio, el número de transacciones realizadas en la aplicación aumente en un 50% en los primeros seis meses.</td>
-  </tr>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Question</th>
+      <th>Why</th>
+      <th>What</th>
+      <th>Hypothesis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>¿Mejorará la experiencia del usuario al añadir un modo oscuro a la aplicación web?</td>
+      <td>El modo oscuro reduce la fatiga visual en ambientes con poca luz, mejora la personalización y puede aumentar el tiempo de uso.</td>
+      <td>Implementar modo oscuro seleccionable, ajustando colores de texto, fondo y elementos para facilitar la navegación.</td>
+      <td>Se espera que el 60% de usuarios prefieran el modo oscuro y que el tiempo promedio de uso aumente en un 25%.</td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
+<table>
+  <thead>
+    <tr>
+      <th>Question</th>
+      <th>Why</th>
+      <th>What</th>
+      <th>Hypothesis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>¿Aumentará la retención y el tiempo de uso al utilizar más colores e imágenes en el diseño?</td>
+      <td>Un diseño más colorido y visualmente atractivo mejora la primera impresión, la navegación y la retención de usuarios.</td>
+      <td>Rediseñar vistas principales con paleta vibrante, imágenes destacadas, íconos y elementos gráficos llamativos.</td>
+      <td>Se espera un aumento del 20% en retención y 15% en tiempo promedio de uso diario.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Question</th>
+      <th>Why</th>
+      <th>What</th>
+      <th>Hypothesis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>¿Incrementará la satisfacción del usuario al incluir una sección de contacto con soporte?</td>
+      <td>Una vía directa para resolver dudas reduce frustración, aumenta confianza y mejora la experiencia.</td>
+      <td>Agregar sección de contacto accesible desde menú, con formulario, FAQs y posible chat en línea.</td>
+      <td>El 70% de usuarios reportarán mayor satisfacción y la retención aumentará en un 10%.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Question</th>
+      <th>Why</th>
+      <th>What</th>
+      <th>Hypothesis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?</td>
+      <td>Un diseño moderno con microinteracciones y animaciones transmite profesionalismo y valor percibido.</td>
+      <td>Rediseñar interfaz con transiciones suaves, tarjetas visuales, íconos animados y microinteracciones.</td>
+      <td>El 65% de usuarios percibirán mejora y la tasa de recomendación aumentará 20 puntos.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+</div>
+
+
 
 ## 8.2. Experiment Design
 
