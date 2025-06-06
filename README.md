@@ -4565,6 +4565,8 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.1.3. Experiment-Ready Questions
 
+<br>
+
 <table>
   <thead>
     <tr>
@@ -4617,6 +4619,8 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.1.4. Question Backlog
 
+<br>
+
 <div align="center">
 <table>
   <thead>
@@ -4650,8 +4654,11 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.1.5. Experiment Cards
 
+<br>
+
 <div align="center">
-<table>
+
+<table width="600">
   <tbody>
     <tr>
       <td><strong>Question</strong></td>
@@ -4674,7 +4681,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 <br>
 
-<table>
+<table width="600">
   <tbody>
     <tr>
       <td><strong>Question</strong></td>
@@ -4697,7 +4704,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 <br>
 
-<table>
+<table width="600">
   <tbody>
     <tr>
       <td><strong>Question</strong></td>
@@ -4720,7 +4727,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 <br>
 
-<table>
+<table width="600">
   <tbody>
     <tr>
       <td><strong>Question</strong></td>
@@ -4740,8 +4747,6 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
     </tr>
   </tbody>
 </table>
-
-
 
 <br>
 </div>
