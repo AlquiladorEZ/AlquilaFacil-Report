@@ -4666,15 +4666,21 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
     </tr>
     <tr>
       <td><strong>Why</strong></td>
-      <td>El modo oscuro reduce la fatiga visual en ambientes con poca luz, mejora la personalización y puede aumentar el tiempo de uso.</td>
+      <td>
+        El modo oscuro es beneficioso porque reduce significativamente la fatiga visual en ambientes con poca luz o durante uso prolongado, lo que contribuye a una experiencia más cómoda y menos agresiva para la vista. Además, mejora la personalización del entorno digital, permitiendo que los usuarios adapten la interfaz según sus preferencias y condiciones de iluminación, lo que puede aumentar la satisfacción y el tiempo que permanecen activos en la aplicación.
+      </td>
     </tr>
     <tr>
       <td><strong>What</strong></td>
-      <td>Implementar modo oscuro seleccionable, ajustando colores de texto, fondo y elementos para facilitar la navegación.</td>
+      <td>
+        Implementar un modo oscuro seleccionable que permita al usuario alternar fácilmente entre el modo claro y oscuro. Esto implica ajustar no solo los colores de fondo y texto, sino también los elementos gráficos, botones, iconos y demás componentes de la interfaz para mantener la legibilidad, accesibilidad y coherencia visual. También se considerará el soporte para temas automáticos basados en la hora del día o la configuración del sistema operativo.
+      </td>
     </tr>
     <tr>
       <td><strong>Hypothesis</strong></td>
-      <td>Se espera que el 60% de usuarios prefieran el modo oscuro y que el tiempo promedio de uso aumente en un 25%.</td>
+      <td>
+        Se espera que al menos el 60% de los usuarios elijan el modo oscuro para su navegación, ya sea por comodidad o preferencia estética. Como resultado, se proyecta un aumento del 25% en el tiempo promedio de uso de la aplicación, debido a que el modo oscuro permite sesiones más largas sin causar fatiga ocular ni incomodidad, mejorando así la retención y satisfacción general.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -4689,15 +4695,21 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
     </tr>
     <tr>
       <td><strong>Why</strong></td>
-      <td>Un diseño más colorido y visualmente atractivo mejora la primera impresión, la navegación y la retención de usuarios.</td>
+      <td>
+        Un diseño más colorido y visualmente atractivo capta mejor la atención de los usuarios desde el primer contacto, generando una impresión positiva y profesional. La incorporación estratégica de imágenes, íconos y elementos gráficos dinámicos mejora la navegación al facilitar la identificación rápida de secciones y funcionalidades, lo que reduce la frustración y fomenta el uso frecuente. Además, un diseño vibrante puede evocar emociones positivas y aumentar el engagement.
+      </td>
     </tr>
     <tr>
       <td><strong>What</strong></td>
-      <td>Rediseñar vistas principales con paleta vibrante, imágenes destacadas, íconos y elementos gráficos llamativos.</td>
+      <td>
+        Rediseñar las vistas principales de la aplicación utilizando una paleta de colores vibrante y coherente que transmita energía y modernidad. Se integrarán imágenes destacadas que refuercen el mensaje y contexto de cada sección, así como íconos personalizados y elementos gráficos que guíen intuitivamente al usuario. Además, se prestará atención a la armonía visual para evitar sobrecarga sensorial y garantizar una experiencia equilibrada.
+      </td>
     </tr>
     <tr>
       <td><strong>Hypothesis</strong></td>
-      <td>Se espera un aumento del 20% en retención y 15% en tiempo promedio de uso diario.</td>
+      <td>
+        Se anticipa que la retención de usuarios aumentará en un 20% gracias a un diseño más atractivo, y que el tiempo promedio diario de uso crecerá un 15%, dado que los usuarios se sentirán más motivados a explorar y permanecer en la plataforma al experimentar un entorno visual estimulante y fácil de usar.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -4712,15 +4724,21 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
     </tr>
     <tr>
       <td><strong>Why</strong></td>
-      <td>Una vía directa para resolver dudas reduce frustración, aumenta confianza y mejora la experiencia.</td>
+      <td>
+        Contar con una sección accesible de contacto y soporte es fundamental para resolver dudas y problemas de manera rápida y directa, lo que disminuye la frustración del usuario. Esta comunicación abierta genera confianza y refuerza la percepción de que la plataforma es confiable y está comprometida con brindar asistencia eficiente. Además, un buen soporte puede prevenir la pérdida de usuarios debido a problemas sin resolver.
+      </td>
     </tr>
     <tr>
       <td><strong>What</strong></td>
-      <td>Agregar sección de contacto accesible desde menú, con formulario, FAQs y posible chat en línea.</td>
+      <td>
+        Añadir una sección de contacto fácilmente accesible desde el menú principal que incluya un formulario para enviar consultas, una sección de Preguntas Frecuentes (FAQs) para resolver dudas comunes y la opción de chat en línea para soporte en tiempo real. Se asegurará que esta sección sea intuitiva y responda rápidamente a las solicitudes de los usuarios, con seguimiento oportuno.
+      </td>
     </tr>
     <tr>
       <td><strong>Hypothesis</strong></td>
-      <td>El 70% de usuarios reportarán mayor satisfacción y la retención aumentará en un 10%.</td>
+      <td>
+        Se estima que el 70% de los usuarios reportarán un aumento en su satisfacción al tener un canal directo de comunicación, y que la retención mejorará en un 10% al reducirse la frustración y mejorar la experiencia de soporte.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -4735,22 +4753,27 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
     </tr>
     <tr>
       <td><strong>Why</strong></td>
-      <td>Un diseño moderno con microinteracciones y animaciones transmite profesionalismo y valor percibido.</td>
+      <td>
+        Un diseño moderno que incorpore microinteracciones y animaciones suaves crea una sensación de profesionalismo y cuidado en los detalles, elevando el valor percibido de la aplicación. Las animaciones bien diseñadas mejoran la usabilidad al dar feedback visual sobre acciones del usuario, lo que genera una experiencia más intuitiva y atractiva. Esto puede traducirse en recomendaciones positivas y mayor fidelidad.
+      </td>
     </tr>
     <tr>
       <td><strong>What</strong></td>
-      <td>Rediseñar interfaz con transiciones suaves, tarjetas visuales, íconos animados y microinteracciones.</td>
+      <td>
+        Rediseñar la interfaz para incluir transiciones suaves entre pantallas, tarjetas visuales con sombras y efectos de profundidad, iconos animados que respondan a la interacción del usuario, y microinteracciones que guíen el flujo de navegación y refuercen el sentido de control y respuesta. Estas mejoras se implementarán cuidando el rendimiento para no afectar la velocidad de la aplicación.
+      </td>
     </tr>
     <tr>
       <td><strong>Hypothesis</strong></td>
-      <td>El 65% de usuarios percibirán mejora y la tasa de recomendación aumentará 20 puntos.</td>
+      <td>
+        Se espera que el 65% de los usuarios perciban una mejora significativa en la calidad del diseño, y que la tasa de recomendación aumente en 20 puntos porcentuales debido a una experiencia más atractiva y fluida.
+      </td>
     </tr>
   </tbody>
 </table>
 
 <br>
 </div>
-
 
 
 ## 8.2. Experiment Design
