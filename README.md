@@ -4110,22 +4110,255 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 </div>
 
 ## 6.4. Auditoría de Experiencias de Usuario
-
 ### 6.4.1. Auditoría realizada
-
-### 6.4.1.1. Información del grupo auditado
-
-### 6.4.1.2. Cronograma de auditoría realizada
-
-### 6.4.1.3. Contenido de auditoría realizada
+#### 6.4.1.1. Información del grupo auditado
+#### 6.4.1.2. Cronograma de auditoría realizada
+#### 6.4.1.3. Contenido de auditoría realizada
 
 ### 6.4.2. Auditoría recibida
+#### 6.4.2.1. Información del grupo auditor
+#### 6.4.2.2. Cronograma de auditoría recibida
 
-### 6.4.2.1. Información del grupo auditor
+<table class="cronograma-auditoria">
+  <thead>
+    <tr>
+      <th>Fase</th>
+      <th>Actividades</th>
+      <th>Fecha Inicio</th>
+      <th>Fecha Fin</th>
+      <th>Responsable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Recepción</td>
+      <td>
+        <ul>
+          <li>Solicitud formal de auditoría</li>
+          <li>Recopilación de documentación</li>
+          <li>Acceso a sistemas/producto</li>
+        </ul>
+      </td>
+      <td>12/06/2025</td>
+      <td>12/06/2025</td>
+      <td> Samira Jetzabel </td>
+    </tr>
+    <tr>
+      <td>Planificación</td>
+      <td>
+        <ul>
+          <li>Revisión de requisitos</li>
+          <li>Definición de heurísticas</li>
+          <li>Elaboración de checklist</li>
+        </ul>
+      </td>
+      <td>12/06/2025</td>
+      <td>13/06/2025</td>
+      <td> Samira Jetzabel </td>
+    </tr>
+    <tr>
+      <td>Ejecución</td>
+      <td>
+        <ul>
+          <li>Evaluación heurística</li>
+          <li>Pruebas de usabilidad</li>
+          <li>Análisis de accesibilidad</li>
+          <li>Registro de hallazgos</li>
+        </ul>
+      </td>
+      <td>14/06/2025</td>
+      <td>15/06/2025</td>
+      <td> Samira Jetzabel </td>
+    </tr>
+    <tr>
+      <td>Reporte</td>
+      <td>
+        <ul>
+          <li>Redacción de informe</li>
+          <li>Diseño de recomendaciones</li>
+          <li>Revisión final</li>
+        </ul>
+      </td>
+      <td>04/06/2025</td>
+      <td>10/06/2025</td>
+      <td> Samira Jetzabel </td>
+    </tr>
+  </tbody>
+</table>
 
-### 6.4.2.2. Cronograma de auditoría recibida
+#### 6.4.2.3. Contenido de auditoría recibida
 
-### 6.4.2.3. Contenido de auditoría recibida
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Navegación en la interfaz
+- Visualización de locales
+- Interacción en formularios
+- Accesibilidad general
+- Manejo de temas de color
+- Funcionalidad de contacto
+- Experiencia móvil (responsive)
+
+<br>
+
+**ESCALA DE SEVERIDAD**
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: ocurre con mayor frecuencia o es un poco más difícil de superar para el usuario. Prioridad baja para su corrección. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Prioridad alta para su corrección. |
+| 4 | Problema muy grave: error de gran impacto que impide al usuario continuar. Debe ser corregido antes del lanzamiento. |
+
+<br></br>
+
+**TABLA RESUMEN**
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Problema</th>
+      <th>Escala de severidad</th>
+      <th>Heurística/Principio violado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>No se puede adjuntar más de una imagen por local</td>
+      <td>3</td>
+      <td>Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>No hay opción de tema claro/oscuro</td>
+      <td>2</td>
+      <td>Usability: Preferencias del usuario</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>No hay forma de contactar al soporte desde la app</td>
+      <td>3</td>
+      <td>Usability: Ayuda y documentación</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Textos pequeños en dispositivos móviles</td>
+      <td>2</td>
+      <td>Inclusive Design: Accesibilidad visual</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Botón "Buscar" se confunde con "Publicar"</td>
+      <td>2</td>
+      <td>Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>No hay confirmación al eliminar un local</td>
+      <td>3</td>
+      <td>Usability: Prevención de errores</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Falta de feedback al enviar un formulario</td>
+      <td>2</td>
+      <td>Usability: Visibilidad del estado del sistema</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+## **DESCRIPCIÓN DE PROBLEMAS**
+
+### **PROBLEMA #1: No se puede adjuntar más de una imagen por local**
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Flexibilidad y eficiencia de uso  
+- **Problema:**  
+  El sistema permite subir únicamente una imagen por local, limitando la información visual que se puede proporcionar al usuario interesado. Esto afecta negativamente la experiencia de exploración de los espacios.  
+  <img src="./Resources/Chapter VI/Problema1.PNG">
+
+- **Recomendación:**  
+  Permitir adjuntar múltiples imágenes por local, con una interfaz que permita visualizarlas en carrusel o miniaturas.
+
+---
+
+### **PROBLEMA #2: No hay opción de tema claro/oscuro**
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Preferencias del usuario  
+- **Problema:**  
+  La aplicación no cuenta con opción de personalización visual, como el modo claro y oscuro, lo cual limita la comodidad visual según preferencias o condiciones de iluminación.  
+  <img src="./Resources/Chapter VI/Problema2.PNG">
+
+- **Recomendación:**  
+  Implementar un selector de tema para que el usuario elija entre modo claro, oscuro o automático según el sistema operativo.
+
+---
+
+### **PROBLEMA #3: No hay forma de contactar al soporte desde la app**
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Ayuda y documentación  
+- **Problema:**  
+  No existe una sección visible para que los usuarios puedan contactar al equipo de soporte o enviar reportes de errores desde la aplicación.  
+  <img src="./Resources/Chapter VI/Problema3.PNG">
+
+- **Recomendación:**  
+  Añadir una sección de contacto o botón flotante que permita enviar correos o mensajes al equipo de soporte de forma directa.
+
+---
+
+### **PROBLEMA #4: Textos pequeños en dispositivos móviles**
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Problema:**  
+  En algunos móviles, los textos aparecen demasiado pequeños, dificultando su lectura especialmente para personas con problemas visuales.  
+  <img src="./Resources/Chapter VI/Problema4.PNG">
+
+- **Recomendación:**  
+  Ajustar el tamaño mínimo de fuente en vistas móviles y permitir escalado de texto.
+
+---
+
+### **PROBLEMA #5: Botón "Buscar" se confunde con "Publicar"**
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Consistencia y estándares  
+- **Problema:**  
+  Los botones “Buscar” y “Publicar” están ubicados muy cerca uno del otro y tienen estilos similares, lo que puede causar errores de interacción.  
+  <img src="./Resources/Chapter VI/Problema5.PNG">
+
+- **Recomendación:**  
+  Diferenciar ambos botones por color, ícono o ubicación, y añadir un texto descriptivo más claro si es necesario.
+
+---
+
+### **PROBLEMA #6: No hay confirmación al eliminar un local**
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Problema:**  
+  Al eliminar un local, no se solicita confirmación previa, lo que puede derivar en la pérdida de datos por error involuntario.  
+  <img src="./Resources/Chapter VI/Problema6.PNG">
+
+- **Recomendación:**  
+  Mostrar una alerta de confirmación con opción de cancelar antes de ejecutar la acción de borrado.
+
+---
+
+### **PROBLEMA #7: Falta de feedback al enviar un formulario**
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Problema:**  
+  Cuando un usuario envía un formulario, no se muestra un mensaje de éxito o error, dejando incertidumbre sobre si la acción fue procesada.  
+  <img src="./Resources/Chapter VI/Problema7.PNG">
+
+- **Recomendación:**  
+  Añadir mensajes de retroalimentación visual como alertas, toast o loaders para informar al usuario del resultado.
+
+---
+
 
 ### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
 
