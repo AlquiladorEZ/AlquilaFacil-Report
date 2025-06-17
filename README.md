@@ -5280,13 +5280,21 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 <br>
 
-### 8.2.4. Scale Calculations and Decisions
+### 8.2.4. Cálculos de Escala y Decisiones
 
-### 8.2.5. Methods Selection
+Se calcularan tamaños de muestra con un 95% de confianza y 5% de margen de error. Para esto sera necesario un grupo de no menos de 300 usuario para cada uno de los escenarios, se realizarán pruebas A/B con grupos control y experimental, aplicando corrección estadística si es necesario. Cada experimento tendrá un período mínimo de dos semanas para garantizar resultados estables.
 
-### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
+### 8.2.5. Selección de Métodos
 
-### 8.2.7. Web and Mobile Tracking Plan
+Se emplearán métodos cualitativos como encuestas, entrevistas breves y pruebas de usabilidad para obtener retroalimentación directa. En lo cuantitativo, se usarán pruebas A/B, análisis de cohortes y test de hipótesis para comparar métricas antes y después de cada implementación. Se apoyará el análisis con herramientas como Google Analytics, Firebase y Mixpanel.
+
+### 8.2.6. Analítica de Datos: Objetivos, KPIs y Métricas
+
+Cada hipótesis tiene objetivos específicos con KPIs asociados. Para el modo oscuro se medirá satisfacción y duración de sesión; para el rediseño, retención y tiempo de uso; para la sección de soporte, satisfacción general y uso del canal; y para la interfaz interactiva, percepción de calidad y NPS. El objetivo general es validar si al menos tres intervenciones generan mejoras significativas.
+
+### 8.2.7. Plan de Tracking Web y Móvil
+
+Se configurarán eventos personalizados en la app web y móvil con herramientas como GA4 y Firebase. Se rastrearán acciones como activación del modo oscuro, tiempo de sesión, uso de la sección de soporte y respuestas a encuestas de NPS. También se segmentará por tipo de usuario (nuevo vs. recurrente) y duración de sesión. Todo el seguimiento cumplirá con las políticas de privacidad y consentimiento informado.
 
 # Conclusiones
 
