@@ -5868,6 +5868,14 @@ Se utilizó Lighthouse como herramienta principal de medición, enfocándose en 
 
 ![Lighthouse Evidence](Resources/Experiment%20Design/Lighthouse_Evidence_1.jpg)
 
+![Lighthouse Evidence](Resources/Experiment%20Design/Accesibility.png)
+
+![Lighthouse Evidence](Resources/Experiment%20Design/Performance.png)
+
+![Lighthouse Evidence](Resources/Experiment%20Design/SEO.png)
+
+![Lighthouse Evidence](Resources/Experiment%20Design/Tabla.png)
+
 
 ### 8.2.7. Plan de Tracking Web y Móvil
 
