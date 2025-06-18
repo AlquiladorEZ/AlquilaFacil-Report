@@ -7,7 +7,7 @@
     <strong>1ASI0732 - Diseño de Experimentos de Ingeniería de Software - 4453</strong><br>  
     <br>
     <strong>Profesor: Julio Manuel Noriega Melendez</strong><br>
-    <br> <strong>INFORME DE TP1</strong> 
+    <br> <strong>INFORME DE TB2</strong> 
 </p>
 <p align="center">
     <strong>Startup: AlquilaEZ</strong><br>
@@ -64,6 +64,11 @@
 |TP1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo V, VI y VII |
 |TP1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo V, VI y VII |
 |TP1| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo V, VI y VII |
+|TB2| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo VI, VII y VIII |
+|TB2| 13/04/2025 |Criollo de la Cruz, Diego Anderson| Capítulo VI, VII y VIII |
+|TB2| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo VI, VII y VIII |
+|TB2| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo VI, VII y VIII |
+|TB2| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo VI, VII y VIII |
 
 </div>
 
@@ -3766,11 +3771,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>00:00 min - 08:02 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -3837,11 +3842,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>08:02 min - 17:01 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -3907,11 +3912,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>17:01 min - 31:38 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -3981,11 +3986,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>31:38 min - 39:14 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4054,11 +4059,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>39:14 min - 49:06 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4126,11 +4131,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>49:06 min - 1:01:54 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4146,6 +4151,77 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 ### 6.3.3. Evaluaciones según heurísticas
 
 <div align="justify">
+
+A continuación se presentan las evaluaciones aplicadas a partir de los hallazgos encontrados en las entrevistas de validación.
+
+**1. Heurística: Consistencia y estándares**
+- **Descripción de la heurística:**  
+  La interfaz debe seguir patrones reconocibles y uniformes en todos sus elementos.  
+- **Observaciones:**  
+  Los usuarios comentaron que la navegación y la presentación de la información son claras y coherentes. Sin embargo, algunos flujos (reseñas y calendario) utilizan estilos distintos.  
+- **Evidencia:**  
+  - El usuario valora el manejo sencillo de la aplicación y la presentación clara de la información.
+  - El usuario desea hacer el apartado de reseña de locales un poco más vistoso.
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Unificar estilos de tarjetas de reseñas con el resto de la app.  
+  - Definir un sistema de diseño (colores, tipografías) para los distintos estados (disponible vs. ocupado).
+
+**2. Heurística: Flexibilidad y eficiencia de uso**
+- **Descripción de la heurística:**  
+  La aplicación debe permitir al usuario adaptar flujos a sus necesidades y acelerar tareas frecuentes.  
+- **Observaciones:**  
+  - Interés en la funcionalidad del calendario de reservas.  
+  - El usuario tiene la necesidad de subir varias imágenes de forma rápida.  
+- **Evidencia:**  
+  - El usuario está interesado en la funcionalidad del calendario de reservas.
+  - Al usuario le gustaría la posibilidad de cargar varias imágenes a la vez.
+- **Nivel de severidad:** 3 (Alto)  
+- **Recomendaciones:**  
+  - Implementar selector múltiple de imágenes con vista previa.  
+  - Permitir filtrado rápido de fechas en el calendario.
+
+**3. Heurística: Diseño estético y minimalista**
+- **Descripción de la heurística:**  
+  La interfaz no debe contener información irrelevante.  
+- **Observaciones:**  
+  - Se sugiere un **tema oscuro** para reducir la fatiga visual.  
+  - Uso de colores para resaltar mensajes de error y disponibilidad.  
+- **Evidencia:**  
+  - El usuario desea que se implemente un tema oscuro para mayor comodidad.
+  - El usuario le gustaría que se haga uso de colores para diferenciar horarios disponibles de ocupados.
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Incorporar modo oscuro con conmutador en perfil.  
+  - Definir paleta de colores semánticos (éxito, error, advertencia y disponibilidad).
+
+**4. Heurística: Prevención de errores**
+- **Descripción de la heurística:**  
+  Diseñar de modo que evite situaciones propensas a errores.  
+- **Observaciones:**  
+  - Usuarios mencionan confusión al no distinguir claramente errores de validación de formularios.  
+  - Falta un canal directo para contactar al soporte.  
+- **Evidencia:**  
+  - Los usuarios desean facilitar el acceso al equipo de soporte a través de un formulario de contacto directo.  
+  - Los usuarios siguieren usar más colores para resaltar mensajes de error.  
+- **Nivel de severidad:** 3 (Alto)  
+- **Recomendaciones:**  
+  - Añadir formulario de contacto “Ayuda” en el menú principal.  
+  - Validaciones en tiempo real con mensajes claros y feedback visual (colores e iconos).
+
+**5. Heurística: Accesibilidad e inclusive design**
+- **Descripción de la heurística:**  
+  Asegurar que la experiencia sea usable por personas con diferentes capacidades.  
+- **Observaciones:**  
+  - Solicitan modo oscuro y contraste adecuado.  
+  - Necesidad de etiquetado semántico y uso de colores accesibles.  
+- **Evidencia:**  
+  - El usuario sugiere implementar un tema oscuro para que la vista no sea irritada.  
+  - Los usuarios recomiendan ampliar el uso de colores en la interfaz para mejorar la comprensión.  
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Verificar contraste WCAG 2.1 (AA) en todos los textos y elementos interactivos.  
+  - Añadir descripciones en imágenes y labels ARIA en formularios. 
 
 </div>
 
@@ -5164,6 +5240,8 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 - **Atracción visual como factor decisivo:** Se asume que un diseño atractivo con más imágenes y elementos gráficos puede influir en la retención y satisfacción del usuario.
 - **Confianza mediante soporte accesible:** Se cree que los usuarios se sienten más seguros cuando tienen una vía directa para comunicarse con soporte técnico o resolver dudas dentro de la aplicación.
 - **Interés por novedades en primer lugar:** Se asume que los usuarios valoran ver primero los locales recién ingresados, ya que les transmite dinamismo y sensación de constante actualización de la plataforma.
+- **Valorización de la eficiencia en la navegación:** Se asume que los usuarios priorizan la rapidez para encontrar resultados relevantes, por lo que mostrar contenido reciente y potencialmente útil desde el inicio puede reducir la frustración y aumentar la eficiencia.
+
 
 <br>
 
@@ -5173,6 +5251,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 - **Uso y aceptación del modo oscuro:** No se sabe qué porcentaje de los usuarios potenciales preferiría una interfaz oscura o si eso impacta positivamente su experiencia.
 - **Demanda efectiva de soporte directo:** No hay evidencia suficiente sobre la frecuencia con que los usuarios desean o necesitan contactar a soporte desde la app.
 - **Interacción con nuevos locales:** No se conoce con certeza si los usuarios efectivamente interactúan más con locales recién ingresados cuando estos se muestran en primeras posiciones.
+- **Impacto del orden de resultados en la decisión final:** No se ha validado si cambiar el orden de visualización influye directamente en la conversión (clics, reservas) o si los usuarios ignoran esa jerarquía en favor de filtros más específicos.
 
 
 <br>
@@ -5183,6 +5262,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 - **Incluir imágenes destacadas, íconos y elementos gráficos** en los listados, perfiles y banners promocionales dentro de la plataforma.
 - **Agregar una opción de modo oscuro** en el menú de configuración para ofrecer una experiencia visual más flexible.
 - **Incorporar una sección de contacto o formulario de mensajes**, accesible desde el menú principal, para que los usuarios puedan comunicarse fácilmente con el equipo de soporte.
+- **Implementar un filtro de ordenamiento personalizado,** que permita a los usuarios elegir entre ver primero los más recientes, los más populares o los mejor valorados, brindando control sobre la forma en que se presentan los resultados.
 
 <br>
 
@@ -5192,6 +5272,8 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 - **El modo oscuro mejora la comodidad visual**, especialmente en entornos con poca luz, lo cual puede traducirse en mayor tiempo de uso.
 - **Una vía de comunicación directa con soporte reduce la frustración**, mejora la experiencia del usuario y fomenta la confianza en la plataforma.
 - **Mostrar primero los locales recién añadidos incrementa la visibilidad y la interacción**, mejorando la percepción de novedad, frescura y dinamismo en la plataforma.
+- **Dar mayor control al usuario sobre la presentación del contenido mejora la percepción de utilidad**, ya que se adapta mejor a sus intereses, lo que puede derivar en una experiencia más personalizada y efectiva.
+
 
 </div>
 
@@ -5961,6 +6043,8 @@ Se configurarán eventos personalizados en la app web y móvil con herramientas 
 + Repositorio GitHub de la Landing Page: [Ver Landing Page](https://github.com/AlquiladorEZ/AlquilaFacil-LandingPage)<br><br>
 + Enlace a reporte de pruebas unitarias y de integración: [Ver Enlace](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202212077_upc_edu_pe/EqzdScqg9kBPgPO-NsnDql8BFkWpX9k-GQgrM3JGpZvvOg?e=WD0WcH)<br><br>
 + Entrevistas: [Ver Entrevistas](https://upcedupe-my.sharepoint.com/personal/u202212077_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202212077%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Dise%C3%B1o%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9d51545d%2Dea00%2D497d%2D9757%2D2b9f40b5d8be)<br><br>
-+ Video exposición TP1: [Ver video de exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EYZgHYm2GwZPst7ueQ1V82cBxNv-Rl0hrJz72OnoI_jh-g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EYXBSI)
++ Entrevistas de validación: [Ver Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br><br>
++ Video exposición TP1: [Ver video de exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EYZgHYm2GwZPst7ueQ1V82cBxNv-Rl0hrJz72OnoI_jh-g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EYXBSI)<br><br>
++ Video exposición TB2: [Ver video de exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211399_upc_edu_pe/EcPgvhycgQtBnTSv5dxn2SUB0Sdhns39abdR5FAEg6wZUQ?e=Viy3W8)
 
 </div>
