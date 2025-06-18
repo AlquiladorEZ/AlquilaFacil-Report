@@ -5790,10 +5790,58 @@ Este enfoque se basa en el uso de métricas para comprobar si las hipótesis de 
   </tr>
   <tr>
     <td>
-      Creemos que al agregar un modo oscuro a la aplicación web, se mejorará la experiencia del usuario en al menos un 30%, reduciendo la fatiga visual y aumentando el tiempo de uso promedio. Sabremos que esto es cierto cuando observemos un aumento del 30% en la satisfacción del usuario.
+      Creemos que al agregar un modo oscuro a la aplicación web, se mejorará la experiencia del usuario en al menos un 20%, esto al poder reducir la fatiga visual del mismo y aumentar su uso promedio. Sabremos que hemos tenido exito cuando veamos un aumento en el uso promedio de la aplicación web por parte de los usuarios.
     </td>
     <td>
-      Implementar un modo oscuro que permita a los usuarios elegir entre un modo claro y uno oscuro, mejorando así la comodidad visual.
+      Implementar un modo oscuro en la aplicación web que permita a los usuarios elegir entre el modo de visualización preferido.
+    </td>
+    <td></td>
+    <td style="text-align: center;">X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      Creemos que al agregar un diseño mas colorido y visualmente atractivo, la retención de usuarios aumentará en un 20% y el tiempo promedio de uso diario crecerá un 15%,debido a la mayor motivación y facilidad de navegación. Sabremos que hemos tenido exito cuando veamos un aumento de promedio de uso diario de un 15%.
+    </td>
+    <td>
+      Implementar un diseño colorido y visualmente atractivo en la aplicación web que permita a los usuarios la navegación sencilla y les de una mayor motivación.
+    </td>
+    <td></td>
+    <td></td>
+    <td style="text-align: center;">X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      Creemos que habra un aumento en la satisfacción tras la inclusión de una sección de contacto con soporte, mejorando la percepción de respaldo y confianza en la aplicación de los usuarios. Sabremos que hemos tenido exito cuando los usuarios reporten un 70% de satisfacción con la sección de soporte en la aplicación
+    </td>
+    <td>
+      Implementar una sección de soporte que les permita a los usuarios comunicarse y tener respaldo y confianza en la aplicación.
+    </td>
+    <td></td>
+    <td></td>
+    <td style="text-align: center;">X</td>
+    <td></td>
+  </tr>
+      <tr>
+    <td>
+      Creemos que el 65% de los usuarios percibirá una mejora significativa en la calidad y profesionalismo del diseño, sabremos que hemos tenido exito cuando veamos un aumento de 20 puntos porcentuales en la tasa de recomendación gracias a las microinteracciones y animaciones suaves.
+    </td>
+    <td>
+      Implementar mejoras de diseño visual e interactivo para que los usuarios tengan una navegación mas gratificante en la aplicación
+    </td>
+    <td></td>
+    <td style="text-align: center;">X</td>
+    <td></td>
+    <td></td>
+  </tr>
+        <tr>
+    <td>
+      Creemos que al implementar una mayor visibilidad de los nuevos locales aumentarán en al menos un 15% la interacción con estos, medida por la tasa de clics y el tiempo de permanencia en dichos perfiles, sabremos que hemos tenido exito cuando veamos un aumento en la tasa de reservas creadas en estos locales y tiempo de permanencia en los mismos.
+    </td>
+    <td>
+      Implementar una mayor visibilidad de los nuevos locales ingresados en la aplicación, mejorando su interacción a los usuarios.
     </td>
     <td></td>
     <td style="text-align: center;">X</td>
@@ -5805,7 +5853,12 @@ Este enfoque se basa en el uso de métricas para comprobar si las hipótesis de 
 
 ### 8.2.5. Selección de Métodos
 
-Se emplearán métodos cualitativos como encuestas, entrevistas breves y pruebas de usabilidad para obtener retroalimentación directa. En lo cuantitativo, se usarán pruebas A/B, análisis de cohortes y test de hipótesis para comparar métricas antes y después de cada implementación. Se apoyará el análisis con herramientas como Google Analytics, Firebase y Mixpanel.
+| **Herramienta**     | **Google Analytics**                                                                 | **Catchpoint**                                                                                     | **RedLine13**                                                                                 | **Lighthouse**                                                                                           |
+|---------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Precio**          | Plan gratuito con créditos sin costo                                                 | Requiere suscripción, pero permite pruebas gratuitas                                                | Gratuito con ciertas limitaciones                                                             | Gratuito y disponible para ejecución local                                                               |
+| **Capacidad de Análisis** | Análisis detallado de métricas y comportamiento del usuario                       | Monitoreo completo del rendimiento desde varias ubicaciones                                         | Pruebas centradas en carga y eficiencia del sistema                                           | Evaluación de experiencia del usuario con métricas clave de accesibilidad y rendimiento                   |
+| **Sencillez**       | Fácil de aprender, especialmente en el uso de métricas                              | Interfaz robusta y completa, aunque más compleja                                                    | Presentación clara y concisa de resultados                                                   | Reportes resumidos con puntuaciones clave sobre el rendimiento de la aplicación                          |
+| **Ventajas**        | Generación avanzada de reportes e integración con otros servicios                   | Ideal para monitoreo global en tiempo real desde distintos dispositivos                             | Simulación de tráfico y evaluación bajo escenarios exigentes                                  | Ayuda a mejorar el diseño centrado en el usuario a través de métricas clave de accesibilidad y rendimiento |
 
 ### 8.2.6. Analítica de Datos: Objetivos, KPIs y Métricas
 
