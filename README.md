@@ -5862,7 +5862,12 @@ Este enfoque se basa en el uso de métricas para comprobar si las hipótesis de 
 
 ### 8.2.6. Analítica de Datos: Objetivos, KPIs y Métricas
 
-Cada hipótesis tiene objetivos específicos con KPIs asociados. Para el modo oscuro se medirá satisfacción y duración de sesión; para el rediseño, retención y tiempo de uso; para la sección de soporte, satisfacción general y uso del canal; y para la interfaz interactiva, percepción de calidad y NPS. El objetivo general es validar si al menos tres intervenciones generan mejoras significativas.
+Se utilizó Lighthouse como herramienta principal de medición, enfocándose en métricas cuantitativas como rendimiento, accesibilidad y buenas prácticas. Estas métricas permitieron identificar de manera objetiva los cambios en la calidad técnica de la aplicación antes y después de las intervenciones, proporcionando una base sólida para validar su efectividad.
+
+![Lighthouse Evidence](Resources/Experiment%20Design/Lighthouse_Evidence_1.jpg)
+
+![Lighthouse Evidence](Resources/Experiment%20Design/Lighthouse_Evidence_1.jpg)
+
 
 ### 8.2.7. Plan de Tracking Web y Móvil
 
