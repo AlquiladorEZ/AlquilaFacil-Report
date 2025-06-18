@@ -4733,8 +4733,31 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 ---
 
-
 ### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
+
+  **Se añadió un pop up de confirmación de acciones realizadas por el usuario**
+  <img src="./Resources/Chapter VI/Modifications/Mod 1.jpeg">
+  <br></br>
+  
+  **Se Corrigieron los iconos de buscar y el de publicar, colocandolos de una mejor forma que permita diferenciarse**
+  <img src="./Resources/Chapter VI/Modifications/Mod 2.jpeg">
+  <br></br>
+
+  **Se arregló correctamente el footer de la aplicación**
+  <img src="./Resources/Chapter VI/Modifications/Mod 3.jpeg">
+  <br></br>
+
+  **Se agrego mas formas de contacto hacia el soporte de la aplicación**
+  <img src="./Resources/Chapter VI/Modifications/Mod 4.jpeg">
+  <br></br>
+
+  **Ahora se pueden colocar mas imagenes de los locales para mostrar mas a detalle hacia el arrendatario el espacio que puede alquilar**
+  <img src="./Resources/Chapter VI/Modifications/Mod 5.jpeg">
+  <br></br>
+
+  **Ahora se encuentra un botón que permite cambiar el tema del aplicativo**
+  <img src="./Resources/Chapter VI/Modifications/Mod 6.jpeg">
+  <br></br>
 
 # Capítulo VII: DevOps Practices
 
