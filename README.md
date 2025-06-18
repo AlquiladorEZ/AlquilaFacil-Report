@@ -5140,6 +5140,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 - **Preferencia por personalización:** Se presume que los usuarios valoran un diseño adaptable, más colorido y opciones como el modo oscuro para una experiencia visual más personalizada.
 - **Atracción visual como factor decisivo:** Se asume que un diseño atractivo con más imágenes y elementos gráficos puede influir en la retención y satisfacción del usuario.
 - **Confianza mediante soporte accesible:** Se cree que los usuarios se sienten más seguros cuando tienen una vía directa para comunicarse con soporte técnico o resolver dudas dentro de la aplicación.
+- **Interés por novedades en primer lugar:** Se asume que los usuarios valoran ver primero los locales recién ingresados, ya que les transmite dinamismo y sensación de constante actualización de la plataforma.
 
 <br>
 
@@ -5148,6 +5149,8 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 - **Preferencias visuales reales:** Se carece de datos sobre qué combinaciones de colores o tipos de contenido visual resultan más atractivos para los usuarios.
 - **Uso y aceptación del modo oscuro:** No se sabe qué porcentaje de los usuarios potenciales preferiría una interfaz oscura o si eso impacta positivamente su experiencia.
 - **Demanda efectiva de soporte directo:** No hay evidencia suficiente sobre la frecuencia con que los usuarios desean o necesitan contactar a soporte desde la app.
+- **Interacción con nuevos locales:** No se conoce con certeza si los usuarios efectivamente interactúan más con locales recién ingresados cuando estos se muestran en primeras posiciones.
+
 
 <br>
 
@@ -5165,6 +5168,7 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 - **Una interfaz más visual y colorida aumenta la percepción de calidad** y profesionalismo de la aplicación.
 - **El modo oscuro mejora la comodidad visual**, especialmente en entornos con poca luz, lo cual puede traducirse en mayor tiempo de uso.
 - **Una vía de comunicación directa con soporte reduce la frustración**, mejora la experiencia del usuario y fomenta la confianza en la plataforma.
+- **Mostrar primero los locales recién añadidos incrementa la visibilidad y la interacción**, mejorando la percepción de novedad, frescura y dinamismo en la plataforma.
 
 </div>
 
@@ -5218,6 +5222,14 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
       <td>6 - Interés sostenido por una experiencia más agradable y profesional.</td>
       <td>24</td>
     </tr>
+    <tr>
+  <td>¿Mejoraría la experiencia del usuario mostrar primero los locales recién ingresados en la búsqueda?</td>
+  <td>6 - Facilita el descubrimiento de nuevas opciones, lo que suele ser valorado por los usuarios.</td>
+  <td>2 - Riesgo bajo, ya que el cambio no afecta funcionalidades existentes.</td>
+  <td>7 - Incrementa la visibilidad de nuevos locales y puede motivar a más propietarios a registrarse.</td>
+  <td>5 - Interés moderado por acceder rápidamente a las novedades.</td>
+  <td>20</td>
+    </tr>
   </tbody>
 </table>
 
@@ -5252,6 +5264,10 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
     <tr>
       <td>5</td>
       <td>¿Podría mejorar la percepción de calidad un diseño más visual e interactivo en la interfaz?</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>¿Mejoraría la experiencia del usuario mostrar primero los locales recién ingresados en la búsqueda?</td>
     </tr>
   </tbody>
 </table>
@@ -5380,6 +5396,38 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 </table>
 
 <br>
+
+
+<table width="600">
+  <tbody>
+    <tr>
+      <td><strong>Question</strong></td>
+      <td>¿Mejoraría la experiencia del usuario mostrar primero los locales recién ingresados en la búsqueda?</td>
+    </tr>
+    <tr>
+      <td><strong>Why</strong></td>
+      <td>
+        Mostrar los locales más recientes en primer lugar mejora la visibilidad de nuevas opciones, lo cual es útil para usuarios frecuentes que buscan novedades o cambios en la oferta. Además, puede incentivar a los propietarios a registrar sus locales al ver que estos reciben exposición inmediata, fortaleciendo así la dinámica y frescura del contenido disponible en la plataforma.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>What</strong></td>
+      <td>
+        Modificar el orden de los resultados en la búsqueda para que los locales recién agregados aparezcan en la parte superior de la lista. Esta funcionalidad se implementará como un cambio por defecto, con la posibilidad de que en el futuro se agregue un filtro para que el usuario pueda elegir el criterio de ordenamiento.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Hypothesis</strong></td>
+      <td>
+        Se espera que al menos un 40% de los usuarios interactúe con uno de los nuevos locales en su primera búsqueda tras el cambio. Esto podría traducirse en un aumento del 15% en la tasa de clics y una percepción más positiva de la utilidad de la aplicación, especialmente entre usuarios recurrentes.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+
 </div>
 
 
@@ -5511,6 +5559,38 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 <br>
 
+<div align="center">
+<table>
+  <tr>
+    <td colspan="2"><strong>Hypothesis</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejoraría la experiencia del usuario mostrar primero los locales recién ingresados en la búsqueda?</td>
+  </tr>
+  <tr>
+    <td><strong>Belief</strong></td>
+    <td>
+      Los usuarios suelen valorar la aparición de nuevas opciones al inicio de sus búsquedas, ya que esto les permite conocer rápidamente los últimos ingresos sin necesidad de navegar por toda la lista. Esta funcionalidad tiene bajo riesgo técnico, y podría además incentivar a los propietarios a registrar nuevos locales al ver que ganan visibilidad inmediata.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Hypothesis</strong></td>
+    <td>
+      Se espera que al menos un 40% de los usuarios interactúe con uno de los nuevos locales mostrados primero, lo que podría generar un aumento del 15% en la tasa de clics sobre resultados recientes y mejorar la percepción de dinamismo y actualización constante de la plataforma.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Null hypothesis</strong></td>
+    <td>
+      Mostrar primero los locales recién ingresados no generará cambios significativos en la interacción del usuario ni en la tasa de clics, ya que los usuarios no necesariamente priorizan la novedad sobre otros factores como ubicación o precio.
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
 </div>
 
 
@@ -5572,6 +5652,21 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
     <td><strong>Measure</strong></td>
     <td>
       Realizar encuestas de percepción de calidad antes y después de la implementación del diseño visual e interactivo. Medir el Net Promoter Score (NPS) para evaluar cambios en la recomendación de la aplicación y analizar el feedback cualitativo sobre la interfaz.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejoraría la experiencia del usuario mostrar primero los locales recién ingresados en la búsqueda?</td>
+  </tr>
+  <tr>
+    <td><strong>Measure</strong></td>
+    <td>
+      Evaluar el impacto comparando la tasa de clics (CTR) en locales recién ingresados antes y después del cambio. Además, analizar el tiempo promedio que los usuarios tardan en seleccionar un local y recopilar feedback cualitativo a través de encuestas para conocer la percepción sobre la relevancia de los resultados y facilidad para encontrar nuevas opciones.
     </td>
   </tr>
 </table>
@@ -5650,9 +5745,32 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
   </tr>
 </table>
 
+<br>
+
+<table>
+  <tr>
+    <td><strong>Question</strong></td>
+    <td>¿Mejoraría la experiencia del usuario mostrar primero los locales recién ingresados en la búsqueda?</td>
+  </tr>
+  <tr>
+    <td><strong>Condición Experimental</strong></td>
+    <td>
+      La visibilidad y la interacción con los nuevos locales aumentarán en al menos un 15%, medida por la tasa de clics y el tiempo de permanencia en dichos perfiles, tras cambiar el orden para que aparezcan primero en la búsqueda.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Condición de Control</strong></td>
+    <td>
+      No se observará un aumento significativo en la interacción con los nuevos locales, manteniéndose los niveles previos de visibilidad y clics, independientemente del cambio en el orden de los resultados.
+    </td>
+  </tr>
+</table>
+
+
 </div>
 
 <br>
+
 
 ### 8.2.4. Cálculos de Escala y Decisiones
 
