@@ -3828,35 +3828,35 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>XXXX</td>
+    <td>Rodrigo Alejandro</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>XXX</td>
+    <td>Espinoza Torreblanca</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>XXXX</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>XXXX</td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>XXXX</td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>XXXXX</td>
+    <td>Comprobar la funcionalidad clara de la plataforma y comprobar si su diseño es intuitivo, y brindar sugerencias de mejoras en la aplicación para tener una mejor experiencia al utilizar la app.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>XXXX</td>
+    <td>El usuario encuentra limitaciones en la subida de múltiples imágenes y en la falta de un canal directo para contactar al equipo de soporte.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>XXXX</td>
+    <td>Computadoras Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -3868,7 +3868,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Espinoza.PNG" alt="Entrevista a Rodrigo Espinoza"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3881,6 +3881,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+    Según nuestro entrevistado Rodrigo Espinoza, de 22 años, la aplicación AlquilaFácil logra cumplir con las necesidades básicas del usuario, destacándose por su funcionalidad clara y navegación intuitiva. Sin embargo, identifica áreas clave de mejora para optimizar la experiencia. Sugiere implementar un tema oscuro para mayor comodidad en diferentes condiciones de uso, mejorar el sistema de subida de imágenes permitiendo cargar varias a la vez, y facilitar el acceso al equipo de soporte a través de un formulario de contacto directo. También considera que los aspectos visuales, como el uso de colores para resaltar mensajes de error y diferenciar horarios disponibles de ocupados, podrían ser más efectivos. Estas mejoras no solo aumentarían la usabilidad, sino que también harían la plataforma más atractiva y accesible para una audiencia más amplia.
     </td>
   </tr>
 </tbody>
@@ -4043,35 +4044,35 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>XXXX</td>
+    <td>Ariana</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>XXX</td>
+    <td>Torpoco Baltazar</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>XXXX</td>
+    <td>25 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>XXXX</td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>XXXX</td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>XXXXX</td>
+    <td>La facilidad de uso de la plataforma y la simplificación de tareas clave, como la publicación y reserva de espacios. Además, valora que la información necesaria para tomar decisiones esté bien organizada y sea accesible.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>XXXX</td>
+    <td>Siente que algunos aspectos técnicos, como la falta de flexibilidad en el diseño visual y las limitaciones en la personalización de flujos, reducen la experiencia de uso.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>XXXX</td>
+    <td>Laptop Mac y Computadora Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -4083,7 +4084,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Ariana.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4096,6 +4097,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+    Desde el punto de vista de nuestra entrevistada Ariana Torpoco, de 25 años, AlquilaFácil proporciona una experiencia funcional y organizada, pero presenta oportunidades de mejora significativas desde la perspectiva del usuario. Ella valora que la plataforma permita completar tareas clave de forma intuitiva, aunque siente que la experiencia sería más satisfactoria con la incorporación de opciones de personalización, como un tema oscuro y un diseño visual más dinámico. Además, menciona que procesos como la carga de imágenes múltiples y la comunicación con soporte técnico podrían ser más fluidos e integrados. Considera que abordar estos puntos fortalecería la relación del usuario con la aplicación y mejoraría la percepción general de su usabilidad.
     </td>
   </tr>
 </tbody>
