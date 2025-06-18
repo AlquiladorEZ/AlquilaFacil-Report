@@ -189,7 +189,7 @@
 | [6.4.2.1. Información del grupo auditor](#6421-información-del-grupo-auditor) |
 | [6.4.2.2. Cronograma de auditoría recibida](#6422-cronograma-de-auditoría-recibida) |
 | [6.4.2.3. Contenido de auditoría recibida](#6423-contenido-de-auditoría-recibida) |
-| [6.4.2.4. Resumen de modificaciones para subsanar hallazgos](#6424-resumen-de-modificaciones-para-subsanar-hallazgos) |
+| [6.4.2.4. Resumen de modificaciones para subsanar os](#6424-resumen-de-modificaciones-para-subsanar-os) |
 | [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices) |    
 | [7.1. Continuous Integration](#71-continuous-integration) |
 | [7.1.1. Tools and Practices](#711-tools-and-practices) |
@@ -336,7 +336,7 @@ Durante esta etapa, impulsé mejoras en el control de calidad del sistema, promo
       Durante la primera entrega del presente proyecto, lideré la elaboración del reporte del proyecto que contiene los puntos clave del proyecto, la arquitectura que este tendrá y el alcance que planeamos para el software. Utilicé diagramas y esquemas para complementar el texto, garantizando que tanto aspectos técnicos como estratégicos fueran entendidos por audiencias con diferentes especialidades y roles jerárquicos.
       <br><br><strong>TP1</strong><br><br>
       Ames Oviedo, Mariano Jose<br>
-      En esta fase del proyecto, me encargué de redactar los informes sobre la verificación y validación del sistema, destacando las pruebas realizadas y los resultados obtenidos. Esto incluyó la documentación de las pruebas unitarias, pruebas de integración, y pruebas del sistema. Aseguré que la información fuera comprensible y detallada, utilizando un lenguaje técnico adecuado para los desarrolladores y un lenguaje accesible para los stakeholders no técnicos. Además, elaboré los informes de auditoría de experiencias de usuario, detallando los hallazgos y las modificaciones necesarias, con el fin de garantizar que el producto cumpliera con los requisitos de calidad.
+      En esta fase del proyecto, me encargué de redactar los informes sobre la verificación y validación del sistema, destacando las pruebas realizadas y los resultados obtenidos. Esto incluyó la documentación de las pruebas unitarias, pruebas de integración, y pruebas del sistema. Aseguré que la información fuera comprensible y detallada, utilizando un lenguaje técnico adecuado para los desarrolladores y un lenguaje accesible para los stakeholders no técnicos. Además, elaboré los informes de auditoría de experiencias de usuario, detallando los os y las modificaciones necesarias, con el fin de garantizar que el producto cumpliera con los requisitos de calidad.
       <br><br>
       Criollo de la Cruz, Diego Anderson<br>
       Durante esta iteración, fui responsable de actualizar la documentación sobre los procesos de validación y las entrevistas de usuario realizadas. Aseguré que las entrevistas fueran bien documentadas, detallando tanto el diseño como los registros y evaluaciones de las respuestas obtenidas. Me enfoqué en asegurar que los documentos fueran claros, proporcionando explicaciones sobre cómo se aplicaron las heurísticas para evaluar la experiencia del usuario. Esto facilitó la comprensión de los resultados por parte de los miembros del equipo y los stakeholders.
@@ -345,7 +345,7 @@ Durante esta etapa, impulsé mejoras en el control de calidad del sistema, promo
       Mi responsabilidad en esta iteración fue la documentación de las prácticas de integración continua y entrega continua dentro del pipeline de desarrollo. Redacté los procedimientos de las herramientas utilizadas y los componentes de la suite de pruebas, asegurando que la información fuera comprensible y estuviera orientada a facilitar la implementación de estas prácticas por parte del equipo. Además, detallé los cambios realizados en el proceso de despliegue, asegurando que los pasos fueran claros para todos los involucrados en las etapas de producción y monitoreo.
       <br><br>
       Sosa Colca, Angello Rodolfo<br>
-      En esta iteración, participé en la redacción de la documentación sobre las auditorías de experiencia de usuario, tanto las realizadas como las recibidas. Elaboré un informe detallado sobre los grupos auditados, el cronograma de la auditoría y las modificaciones propuestas para corregir los hallazgos. Además, contribuyó en la documentación sobre las prácticas de monitoreo continuo, describiendo los componentes del pipeline de monitoreo y alertas. Mi objetivo fue asegurar que las prácticas de monitoreo fueran fácilmente comprendidas y aplicadas en futuras iteraciones del proyecto.
+      En esta iteración, participé en la redacción de la documentación sobre las auditorías de experiencia de usuario, tanto las realizadas como las recibidas. Elaboré un informe detallado sobre los grupos auditados, el cronograma de la auditoría y las modificaciones propuestas para corregir los os. Además, contribuyó en la documentación sobre las prácticas de monitoreo continuo, describiendo los componentes del pipeline de monitoreo y alertas. Mi objetivo fue asegurar que las prácticas de monitoreo fueran fácilmente comprendidas y aplicadas en futuras iteraciones del proyecto.
       <br><br>
       Valle Zuta, Abel Andrés<br>
       Durante esta fase, me encargué de la documentación técnica relacionada con el análisis estático de código y las revisiones de calidad. Escribí un informe sobre los estándares de codificación y las convenciones aplicadas, así como sobre los resultados del análisis de calidad y seguridad del código. Mi enfoque fue asegurar que toda la documentación fuera accesible y detallada, permitiendo que todos los miembros del equipo comprendieran las medidas tomadas para garantizar la calidad del código. También estuve involucrado en la redacción de la información sobre los componentes de la pipeline de notificación, asegurando que los equipos estuvieran informados de los cambios relevantes.
@@ -4152,7 +4152,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 
 <div align="justify">
 
-A continuación se presentan las evaluaciones aplicadas a partir de los hallazgos encontrados en las entrevistas de validación.
+A continuación se presentan las evaluaciones aplicadas a partir de los os encontrados en las entrevistas de validación.
 
 **1. Heurística: Consistencia y estándares**
 - **Descripción de la heurística:**  
@@ -4305,7 +4305,7 @@ A continuación se presentan las evaluaciones aplicadas a partir de los hallazgo
           <li>Evaluación heurística</li>
           <li>Pruebas de usabilidad</li>
           <li>Análisis de accesibilidad</li>
-          <li>Registro de hallazgos</li>
+          <li>Registro de os</li>
         </ul>
       </td>
       <td>01/06/2025</td>
@@ -4612,7 +4612,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
           <li>Evaluación heurística</li>
           <li>Pruebas de usabilidad</li>
           <li>Análisis de accesibilidad</li>
-          <li>Registro de hallazgos</li>
+          <li>Registro de os</li>
         </ul>
       </td>
       <td>14/06/2025</td>
@@ -4795,22 +4795,27 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 ### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
 
   **Se añadió un pop up de confirmación de acciones realizadas por el usuario**
+  
   <img src="./Resources/Chapter VI/Modifications/Mod 1.jpeg">
   <br></br>
   
   **Se Corrigieron los iconos de buscar y el de publicar, colocandolos de una mejor forma que permita diferenciarse**
+  
   <img src="./Resources/Chapter VI/Modifications/Mod 2.jpeg">
   <br></br>
 
   **Se arregló correctamente el footer de la aplicación**
+  
   <img src="./Resources/Chapter VI/Modifications/Mod 3.jpeg">
   <br></br>
 
   **Se agrego mas formas de contacto hacia el soporte de la aplicación**
+  
   <img src="./Resources/Chapter VI/Modifications/Mod 4.jpeg">
   <br></br>
 
   **Ahora se pueden colocar mas imagenes de los locales para mostrar mas a detalle hacia el arrendatario el espacio que puede alquilar**
+  
   <img src="./Resources/Chapter VI/Modifications/Mod 5.jpeg">
   <br></br>
 
