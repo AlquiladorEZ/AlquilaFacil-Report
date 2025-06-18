@@ -4282,7 +4282,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Usability – Flexibilidad y eficiencia de uso  
 - **Problema:**  
   El sistema permite subir únicamente una imagen por local, limitando la información visual que se puede proporcionar al usuario interesado. Esto afecta negativamente la experiencia de exploración de los espacios.  
-  <img src="./Resources/Chapter VI/Problema1.PNG">
+  <img src="./Resources/Chapter VI/Problema1.png">
 
 - **Recomendación:**  
   Permitir adjuntar múltiples imágenes por local, con una interfaz que permita visualizarlas en carrusel o miniaturas.
@@ -4294,7 +4294,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Usability – Preferencias del usuario  
 - **Problema:**  
   La aplicación no cuenta con opción de personalización visual, como el modo claro y oscuro, lo cual limita la comodidad visual según preferencias o condiciones de iluminación.  
-  <img src="./Resources/Chapter VI/Problema2.PNG">
+  <img src="./Resources/Chapter VI/Problema2.png">
 
 - **Recomendación:**  
   Implementar un selector de tema para que el usuario elija entre modo claro, oscuro o automático según el sistema operativo.
@@ -4306,7 +4306,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Usability – Ayuda y documentación  
 - **Problema:**  
   No existe una sección visible para que los usuarios puedan contactar al equipo de soporte o enviar reportes de errores desde la aplicación.  
-  <img src="./Resources/Chapter VI/Problema3.PNG">
+  <img src="./Resources/Chapter VI/Problema3.png">
 
 - **Recomendación:**  
   Añadir una sección de contacto o botón flotante que permita enviar correos o mensajes al equipo de soporte de forma directa.
@@ -4318,7 +4318,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Inclusive Design – Accesibilidad visual  
 - **Problema:**  
   En algunos móviles, los textos aparecen demasiado pequeños, dificultando su lectura especialmente para personas con problemas visuales.  
-  <img src="./Resources/Chapter VI/Problema4.PNG">
+  <img src="./Resources/Chapter VI/Problema4.png">
 
 - **Recomendación:**  
   Ajustar el tamaño mínimo de fuente en vistas móviles y permitir escalado de texto.
@@ -4330,7 +4330,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Usability – Consistencia y estándares  
 - **Problema:**  
   Los botones “Buscar” y “Publicar” están ubicados muy cerca uno del otro y tienen estilos similares, lo que puede causar errores de interacción.  
-  <img src="./Resources/Chapter VI/Problema5.PNG">
+  <img src="./Resources/Chapter VI/Problema5.png">
+
 
 - **Recomendación:**  
   Diferenciar ambos botones por color, ícono o ubicación, y añadir un texto descriptivo más claro si es necesario.
@@ -4342,7 +4343,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Usability – Prevención de errores  
 - **Problema:**  
   Al eliminar un local, no se solicita confirmación previa, lo que puede derivar en la pérdida de datos por error involuntario.  
-  <img src="./Resources/Chapter VI/Problema6.PNG">
+  <img src="./Resources/Chapter VI/Problema6.png">
 
 - **Recomendación:**  
   Mostrar una alerta de confirmación con opción de cancelar antes de ejecutar la acción de borrado.
@@ -4354,7 +4355,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Usability – Visibilidad del estado del sistema  
 - **Problema:**  
   Cuando un usuario envía un formulario, no se muestra un mensaje de éxito o error, dejando incertidumbre sobre si la acción fue procesada.  
-  <img src="./Resources/Chapter VI/Problema7.PNG">
+  <img src="./Resources/Chapter VI/Problema7.png">
 
 - **Recomendación:**  
   Añadir mensajes de retroalimentación visual como alertas, toast o loaders para informar al usuario del resultado.
