@@ -4147,6 +4147,77 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 
 <div align="justify">
 
+A continuación se presentan las evaluaciones aplicadas a partir de los hallazgos encontrados en las entrevistas de validación.
+
+**1. Heurística: Consistencia y estándares**
+- **Descripción de la heurística:**  
+  La interfaz debe seguir patrones reconocibles y uniformes en todos sus elementos.  
+- **Observaciones:**  
+  Los usuarios comentaron que la navegación y la presentación de la información son claras y coherentes. Sin embargo, algunos flujos (reseñas y calendario) utilizan estilos distintos.  
+- **Evidencia:**  
+  - El usuario valora el manejo sencillo de la aplicación y la presentación clara de la información.
+  - El usuario desea hacer el apartado de reseña de locales un poco más vistoso.
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Unificar estilos de tarjetas de reseñas con el resto de la app.  
+  - Definir un sistema de diseño (colores, tipografías) para los distintos estados (disponible vs. ocupado).
+
+**2. Heurística: Flexibilidad y eficiencia de uso**
+- **Descripción de la heurística:**  
+  La aplicación debe permitir al usuario adaptar flujos a sus necesidades y acelerar tareas frecuentes.  
+- **Observaciones:**  
+  - Interés en la funcionalidad del calendario de reservas.  
+  - El usuario tiene la necesidad de subir varias imágenes de forma rápida.  
+- **Evidencia:**  
+  - El usuario está interesado en la funcionalidad del calendario de reservas.
+  - Al usuario le gustaría la posibilidad de cargar varias imágenes a la vez.
+- **Nivel de severidad:** 3 (Alto)  
+- **Recomendaciones:**  
+  - Implementar selector múltiple de imágenes con vista previa.  
+  - Permitir filtrado rápido de fechas en el calendario.
+
+**3. Heurística: Diseño estético y minimalista**
+- **Descripción de la heurística:**  
+  La interfaz no debe contener información irrelevante.  
+- **Observaciones:**  
+  - Se sugiere un **tema oscuro** para reducir la fatiga visual.  
+  - Uso de colores para resaltar mensajes de error y disponibilidad.  
+- **Evidencia:**  
+  - El usuario desea que se implemente un tema oscuro para mayor comodidad.
+  - El usuario le gustaría que se haga uso de colores para diferenciar horarios disponibles de ocupados.
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Incorporar modo oscuro con conmutador en perfil.  
+  - Definir paleta de colores semánticos (éxito, error, advertencia y disponibilidad).
+
+**4. Heurística: Prevención de errores**
+- **Descripción de la heurística:**  
+  Diseñar de modo que evite situaciones propensas a errores.  
+- **Observaciones:**  
+  - Usuarios mencionan confusión al no distinguir claramente errores de validación de formularios.  
+  - Falta un canal directo para contactar al soporte.  
+- **Evidencia:**  
+  - Los usuarios desean facilitar el acceso al equipo de soporte a través de un formulario de contacto directo.  
+  - Los usuarios siguieren usar más colores para resaltar mensajes de error.  
+- **Nivel de severidad:** 3 (Alto)  
+- **Recomendaciones:**  
+  - Añadir formulario de contacto “Ayuda” en el menú principal.  
+  - Validaciones en tiempo real con mensajes claros y feedback visual (colores e iconos).
+
+**5. Heurística: Accesibilidad e inclusive design**
+- **Descripción de la heurística:**  
+  Asegurar que la experiencia sea usable por personas con diferentes capacidades.  
+- **Observaciones:**  
+  - Solicitan modo oscuro y contraste adecuado.  
+  - Necesidad de etiquetado semántico y uso de colores accesibles.  
+- **Evidencia:**  
+  - El usuario sugiere implementar un tema oscuro para que la vista no sea irritada.  
+  - Los usuarios recomiendan ampliar el uso de colores en la interfaz para mejorar la comprensión.  
+- **Nivel de severidad:** 2 (Moderado)  
+- **Recomendaciones:**  
+  - Verificar contraste WCAG 2.1 (AA) en todos los textos y elementos interactivos.  
+  - Añadir descripciones en imágenes y labels ARIA en formularios. 
+
 </div>
 
 ## 6.4. Auditoría de Experiencias de Usuario
