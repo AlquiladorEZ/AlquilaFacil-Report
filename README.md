@@ -3836,7 +3836,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Edad</td>
-    <td>22</td>
+    <td>22 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
