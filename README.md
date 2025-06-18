@@ -3833,7 +3833,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a Omar Morales"></div></td>
+    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Omar.PNG" alt="Entrevista a Omar Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
