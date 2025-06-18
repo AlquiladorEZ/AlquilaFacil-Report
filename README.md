@@ -3793,47 +3793,47 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>XXXX</td>
+    <td>Omar Andrew</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>XXX</td>
+    <td>Morales Montalvo</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>XXXX</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>XXXX</td>
+    <td>San Juan de Lurigancho</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>XXXX</td>
+    <td>Facebook Marketplace</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>XXXXX</td>
+    <td>Explorar nuevas oportunidades de negocio y expandir su presencia en el mercado de eventos sociales</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>XXXX</td>
+    <td>Dificultad para promocionar eficazmente su local y atraer clientes nuevos y recurrentes</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>XXXX</td>
+    <td>iOS, Android y Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Google Chrome</td>
+    <td>Brave</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Christopher Lecca</td>
+    <td>Mariano Ames</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a Omar Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3845,8 +3845,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">
-    </td>
+    <td style="text-align: justify;">Según el entrevistado la aplicación logra cumplir con las necesidades del usuario, destaco el manejo sencillo de la aplicación y la presentación clara de la información. Considero que se cumplen las funciones basicas que el usuario necesitaria en la aplicación al demostrar los diferentes flujos de estos. El usuario se mostro interesado en la funcionalidad del calendario de reservas. Tambien dio como oportunidad de mejora el hacer el apartado de reseña de locales un poco mas vistoso para los usuarios y arrendadores, para que de esta manera sea mas facil ubicar dichos comentarios.</td>
   </tr>
 </tbody>
 </table>
