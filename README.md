@@ -3005,6 +3005,43 @@ En esta sección se muestran los tasks que se realizaron en cada sprint respecti
 
 Esta sección establece los derechos, obligaciones y restricciones aplicables a los usuarios de la plataforma, garantizando transparencia en el uso del servicio SaaS. Se integra públicamente en la sección **Soporte - Preguntas Frecuentes** del website, cumpliendo con los criterios de claridad, accesibilidad y cumplimiento normativo.
 
+**Derechos del Usuario**
+* Acceso a funcionalidades básicas: Todo usuario tiene derecho a registrarse en la plataforma y utilizar sus funcionalidades principales, como buscar locales, realizar reservas y contactar a propietarios.
+
+* Proceso de reserva transparente: El usuario puede realizar una reserva eligiendo el local, ingresando la información requerida y subiendo un comprobante de pago. El propietario está obligado a validar o rechazar dicha reserva.
+
+* Acceso a información clara: El usuario puede consultar en todo momento los Términos y Condiciones completos desde el pie de página del sitio web.
+
+* Denuncia de irregularidades: Cualquier usuario puede reportar espacios o actividades sospechosas mediante el botón "Reportar", activando un proceso de revisión interna.
+
+* Beneficios premium (en caso de suscripción): El usuario premium tiene derecho a:
+
+  * Prioridad en la visualización de espacios.
+
+  * Acceso a reservas protegidas (inamovibles por propietarios).
+
+  * Herramientas avanzadas de gestión de espacios.
+
+**Obligaciones del Usuario**
+
+* Pago y comprobante: Para reservar un espacio o activar una suscripción premium, el usuario debe realizar el pago directamente al propietario o administrador (según corresponda) y subir el comprobante a la plataforma.
+
+* Verificación de datos: Es responsabilidad del usuario verificar la autenticidad del espacio y del propietario antes de realizar cualquier transacción.
+
+* Proveer información veraz: El usuario debe ingresar información precisa en el proceso de reserva y en su perfil.
+
+* Uso adecuado del sistema de reportes: El botón "Reportar" debe ser usado únicamente en caso de sospecha real de fraude. El uso indebido reiterado puede tener consecuencias.
+
+**Restricciones del Usuario**
+
+* Pagos fuera de plataforma: AlquilaFácil no gestiona ni intermedia pagos. Cualquier intento de utilizar la plataforma como canal de transacciones no autorizadas está prohibido.
+
+* Manipulación de reservas premium: Los propietarios no pueden modificar ni posponer reservas premium. Cualquier intento de hacerlo constituye una violación del sistema de garantías al usuario premium.
+
+* Reembolsos: AlquilaFácil no gestiona reembolsos. Las disputas sobre pagos deben resolverse entre el usuario y el propietario. La plataforma no asume responsabilidad sobre transferencias realizadas.
+
+* Fraude y uso malicioso: Queda prohibido el uso de comprobantes falsos, suplantación de identidad, creación de reservas fraudulentas o reportes falsos sistemáticos. Esto puede derivar en suspensión de cuenta.
+
 **Sección de Soporte - Preguntas Frecuentes**
 
 * **¿Cómo reservo un espacio?**
@@ -3024,7 +3061,7 @@ Esta sección establece los derechos, obligaciones y restricciones aplicables a 
 
 
 * **¿Qué beneficios tengo como usuario premium?**
-<br>Los usuarios premium cuentan con ventajas como:<br><br>Prioridad en la visualización de espacios.<br>Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.<br>Mejor visibilidad y herramientas adicionales para gestionar espacios.
+<br>Los usuarios premium cuentan con ventajas como:<br><br>Prioridad en la visualización de espacios.<br>Acceso a reservas protegidas, que no pueden ser modificadas por el propietario.<br>Mejor visibilidad para gestionar espacios.
 
 
 * **¿Qué hago si sospecho de un fraude?**
@@ -3038,7 +3075,6 @@ Esta sección establece los derechos, obligaciones y restricciones aplicables a 
 
 * **¿Dónde puedo consultar los Términos y Condiciones completos?**
 <br>Puedes acceder a los <strong>Términos y Condiciones</strong> detallados desde la parte inferior del sitio web, en el enlace “Términos y Condiciones”.  
-
 
 </div>
 
