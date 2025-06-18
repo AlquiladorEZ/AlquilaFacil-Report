@@ -4154,7 +4154,34 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 
 #### 6.4.1.1. Información del grupo auditado
 
-
+<div>
+     <table>
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Roles</th>
+        </tr>
+        <tr>
+            <td>Alvarez Araguache, Samira Jetzabel</td>
+            <td>Developer</td>
+        </tr>
+        <tr>
+            <td> Elias Sanchez, Harold Miguel</td>
+            <td> Developer</td>
+        </tr>
+        <tr>
+            <td>Ramirez Contreras, Zaid Valentino</td>
+            <td>Product Owner</td>
+        </tr>
+        <tr>
+            <td>Meneses Arevalo, Victor Manuel</td>
+            <td>Developer</td>
+        </tr>
+         <tr>
+            <td>Velasquez Pizarro, Jair</td>
+            <td>Scrum Master</td>
+        </tr>
+    </table>
+</div>
 
 #### 6.4.1.2. Cronograma de auditoría realizada
 
