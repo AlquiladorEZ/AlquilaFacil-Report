@@ -3833,7 +3833,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Omar.png" alt="Entrevista a Omar Morales"></div></td>
+    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a Omar Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4177,7 +4177,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
       </td>
       <td>16/05/2025</td>
       <td>20/05/2025</td>
-      <td> - </td>
+      <td> Angello Sosa </td>
     </tr>
     <tr>
       <td>Planificación</td>
@@ -4190,7 +4190,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
       </td>
       <td>23/05/2025</td>
       <td>27/05/2025</td>
-      <td> - </td>
+      <td> Angello Sosa </td>
     </tr>
     <tr>
       <td>Ejecución</td>
@@ -4204,7 +4204,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
       </td>
       <td>01/06/2025</td>
       <td>03/06/2025</td>
-      <td> - </td>
+      <td> Angello Sosa </td>
     </tr>
     <tr>
       <td>Reporte</td>
@@ -4217,7 +4217,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
       </td>
       <td>04/06/2025</td>
       <td>10/06/2025</td>
-      <td> - </td>
+      <td> Angello Sosa </td>
     </tr>
   </tbody>
 </table>
@@ -4278,7 +4278,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Se observa una línea horizontal innecesaria sobre el campo de login que no cumple ninguna función identificable y rompe con la estética del formulario. Este elemento no sigue patrones de diseño convencionales para interfaces de autenticación.
 <br></br>
-  <img src="./assets/Chapter VI/Problema1.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema1.png">
 
 - **Recomendación:**
   Eliminar la línea para mantener la interfaz limpia y consistente.
@@ -4291,7 +4291,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Los mensajes indicadores de carga de datos no tiene suficiente contraste con el fondo, dificultando su lectura especialmente en condiciones de luminosidad ambiental alta o para usuarios con deficiencias visuales.
 <br></br>
-  <img src="./assets/Chapter VI/Problema2.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema2.png"">
 
 - **Recomendación:**
   Aumentar el contraste del texto o cambiar el color de fondo para mejorar la legibilidad.
@@ -4304,8 +4304,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Los usuarios no pueden identificar que una imagen es editable debido a la falta de iconos o indicadores visuales.
 <br></br>
-  <img src="./assets/Chapter VI/Problema3.1.PNG">
-  <img src="./assets/Chapter VI/Problema3.2.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema3.1.png"">
+  <img src="./assets/Chapter VI/Audit Group/Problema3.2.png">
 
 - **Recomendación:**
   Añadir un ícono o tooltip que indique la posibilidad de edición.
@@ -4318,7 +4318,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   El botón "Guardar cambios" no ejecuta ninguna acción al ser clickeado y no proporciona feedback visual (hover).
   <br></br>
-  <img src="./assets/Chapter VI/Problema4.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema4.png"">
 
 - **Recomendación:**
   Implementar la funcionalidad del botón y añadir un efecto hover para mejorar la experiencia del usuario.
@@ -4331,7 +4331,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Cuando no hay contenido en la pantalla, el footer se expande abruptamente, cortando el fondo y creando un espacio vacío antiestético.
 <br></br>
-  <img src="./assets/Chapter VI/Problema5.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema5.png">
 
 - **Recomendación:**
   Ajustar el footer para que se adapte dinámicamente al contenido disponible.
@@ -4344,7 +4344,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   El botón "Apply to Project" no tiene un efecto hover, lo que rompe con la consistencia de otros botones interactivos en la aplicación.
 <br></br>
-  <img src="./assets/Chapter VI/Problema6.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema6.png">
 
 - **Recomendación:**
   Añadir un efecto hover para indicar que el botón es interactivo y mantener la coherencia visual.
@@ -4357,7 +4357,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Las fotos de perfil de los desarrolladores no aparecen en la lista, lo que dificulta la identificación rápida de los usuarios.
 <br></br>
-  <img src="./assets/Chapter VI/Problema7.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema7.png">
 
 - **Recomendación:**
   Asegurar que las imágenes se carguen correctamente y mostrar un placeholder si no están disponibles.
@@ -4370,7 +4370,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Al mostrar mensajes de validación, uno de los inputs reduce su tamaño, lo que afecta la legibilidad y el diseño.
 <br></br>
-  <img src="./assets/Chapter VI/Problema8.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema8.png">
 
 - **Recomendación:**
   Ajustar el tamaño del input para que sea consistente con los demás campos sin afectar el layout.
@@ -4383,7 +4383,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   En la versión móvil, la navbar no tiene márgenes laterales, lo que hace que los elementos toquen los bordes de la pantalla, dando una apariencia descuidada.
   <br></br>
-  <img src="./assets/Chapter VI/Problema9.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema9.png>
 
 - **Recomendación:**
   Añadir padding/margen en los laterales para mejorar el espaciado.
@@ -4396,7 +4396,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   En móviles, hacer clic en el logo de la aplicación no redirige al inicio, lo que contradice el comportamiento esperado por los usuarios.
 <br></br>
-  <img src="./assets/Chapter VI/Problema10.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema10.png>
 
 - **Recomendación:**
   Implementar la funcionalidad de redirección al home al hacer clic en el logo.
@@ -4409,7 +4409,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   En dispositivos móviles, el contenido del footer aparece alineado a la izquierda en lugar de centrado, lo que afecta la estética.
 <br></br>
-  <img src="./assets/Chapter VI/Problema11.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema11.png">
 
 - **Recomendación:**
   Centrar el contenido del footer para mejorar la presentación en pantallas pequeñas.
@@ -4422,7 +4422,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Los usuarios deben navegar a "Publish Project" para crear un proyecto, lo que añade pasos innecesarios.
   <br></br>
-  <img src="./assets/Chapter VI/Problema12.PNG">
+  <img src="./assets/Chapter VI/Audit Group/Problema12.png">
 
 - **Recomendación:**
   Añadir un botón "Crear proyecto" en la página de inicio de la empresa para acelerar el proceso.
