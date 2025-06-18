@@ -3937,39 +3937,39 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>XXXX</td>
+    <td>Manuel Jesús</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>XXX</td>
+    <td>Chávez Cuba</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>XXXX</td>
+    <td>21 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>XXXX</td>
+    <td>San Martín de Porres</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>XXXX</td>
+    <td>Facebook, Instagram</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>XXXXX</td>
+    <td>Ofrecer experiencias únicas y memorables para sus clientes</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>XXXX</td>
+    <td>Dificultades para encontrar espacios que cuenten con características específicas</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>XXXX</td>
+    <td>iOS, Android, Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Google Chrome</td>
+    <td>Google Chrome, Opera GX</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -3977,7 +3977,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Manuel_Chavez.PNG" alt="Entrevista a Manuel Chavez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3990,11 +3990,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	Manuel Chavez, estudiante de Ingeniería de 21 años, quedó satisfecho con el software presentado de AlquilaFacil. Nos comentó que le gustó la interfaz, proponiendo feedback de mejora en cuanto a esta. En primer lugar, Manuel nos comentó que creería útil la opción de poder cambiar a tema oscuro, de modo que la vista de algunos usuarios no sea irritada. Por otro lado, nos mencionó que sería buena idea añadir la posibilidad de agregar más de una imagen del espacio publicado, de forma que los posibles arrendatarios tengan una mejor visión de este.
     </td>
   </tr>
 </tbody>
 </table>
-
 <br>
 
 <table>
