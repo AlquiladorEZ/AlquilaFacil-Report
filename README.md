@@ -4008,39 +4008,41 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>XXXX</td>
+    <td>Hernan</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>XXX</td>
+    <td>Morales Calderón</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>XXXX</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>XXXX</td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>XXXX</td>
+    <td>Zoom, Chrome</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>XXXXX</td>
+    <td>Hernán busca alquilar espacios de forma rápida y segura para sus eventos frecuentes, valorando la transparencia, disponibilidad inmediata y flexibilidad horaria.
+</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>XXXX</td>
+    <td>Se frustra con la falta de información clara, políticas de cancelación injustas y la poca flexibilidad de horarios en los locales. También le incomoda no tener herramientas que generen confianza al alquilar.
+</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>XXXX</td>
+    <td>Laptop, Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Google Chrome</td>
+    <td>Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -4048,7 +4050,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Validation%20Interviews/Entrevista_hernan.png" alt="Entrevista a Hernan"></div></td>
   </tr>
   <tr>
     <td>Link</td>
