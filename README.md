@@ -4148,9 +4148,285 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
 
 ## 6.4. Auditoría de Experiencias de Usuario
 ### 6.4.1. Auditoría realizada
+
 #### 6.4.1.1. Información del grupo auditado
+
+
+
 #### 6.4.1.2. Cronograma de auditoría realizada
+
+<table class="cronograma-auditoria">
+  <thead>
+    <tr>
+      <th>Fase</th>
+      <th>Actividades</th>
+      <th>Fecha Inicio</th>
+      <th>Fecha Fin</th>
+      <th>Responsable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Recepción</td>
+      <td>
+        <ul>
+          <li>Solicitud formal de auditoría</li>
+          <li>Recopilación de documentación</li>
+          <li>Acceso a sistemas/producto</li>
+        </ul>
+      </td>
+      <td>16/05/2025</td>
+      <td>20/05/2025</td>
+      <td> - </td>
+    </tr>
+    <tr>
+      <td>Planificación</td>
+      <td>
+        <ul>
+          <li>Revisión de requisitos</li>
+          <li>Definición de heurísticas</li>
+          <li>Elaboración de checklist</li>
+        </ul>
+      </td>
+      <td>23/05/2025</td>
+      <td>27/05/2025</td>
+      <td> - </td>
+    </tr>
+    <tr>
+      <td>Ejecución</td>
+      <td>
+        <ul>
+          <li>Evaluación heurística</li>
+          <li>Pruebas de usabilidad</li>
+          <li>Análisis de accesibilidad</li>
+          <li>Registro de hallazgos</li>
+        </ul>
+      </td>
+      <td>01/06/2025</td>
+      <td>03/06/2025</td>
+      <td> - </td>
+    </tr>
+    <tr>
+      <td>Reporte</td>
+      <td>
+        <ul>
+          <li>Redacción de informe</li>
+          <li>Diseño de recomendaciones</li>
+          <li>Revisión final</li>
+        </ul>
+      </td>
+      <td>04/06/2025</td>
+      <td>10/06/2025</td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+
+
 #### 6.4.1.3. Contenido de auditoría realizada
+
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Registro de un usuario nuevo
+- Edición de perfil
+- Navegación en la interfaz
+- Visualización de proyectos
+- Creación de proyectos
+- Validación de formularios
+- Interacción con botones
+- Responsive design
+
+<br></br>
+
+**ESCALA DE SEVERIDAD**
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: ocurre con mayor frecuencia o es un poco más difícil de superar para el usuario. Prioridad baja para su corrección. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Prioridad alta para su corrección. |
+| 4 | Problema muy grave: error de gran impacto que impide al usuario continuar. Debe ser corregido antes del lanzamiento. |
+
+<br></br>
+
+**TABLA RESUMEN**
+
+| # | Problema | Escala de severidad | Heurística/Principio violado |
+|---|----------|----------------------|-------------------------------|
+| 1 | Elemento visual extraño en área de login | 1 | Usability: Consistencia y estándares |
+| 2 | Falta de contraste visual en las letras durante la carga de datos. | 2 | Inclusive Design: Proporcionar experiencias comparables |
+| 3 | Falta de indicadores para edición de imágenes | 2 | Usability: Visibilidad del estado del sistema |
+| 4 | Botón "Guardar cambios" no funciona correctamente | 3 | Usability: Retroalimentación y control del usuario |
+| 5 | Comportamiento inadecuado del footer | 2 | Information Architecture: Is it usable? |
+| 6 | Botón "Apply to Project" sin estados hover | 1 | Usability: Consistencia y estándares |
+| 7 | 	Fotografías de desarrolladores no visibles en la lista de desarrolladores | 2 | Information Architecture: Is it findable? |
+| 8 | Campos de formulario que se deforman | 2 | Usability: Prevención de errores |
+| 9 | Problemas de márgenes en navbar móvil | 2 | Usability: Flexibilidad y eficiencia de uso |
+| 10 | Logo no funciona como enlace en móvil | 3 | Usability: Libertad y control del usuario |
+| 11 | Alineación incorrecta en footer móvil | 1 | Usability: Consistencia y estándares |
+| 12 | Falta acceso rápido a creación de proyectos | 2 | Usability: Eficiencia y simplicidad |
+<br></br>
+
+**DESCRIPCIÓN DE PROBLEMAS**
+
+**PROBLEMA #1: Elemento visual extraño en área de login**
+
+- **Severidad:** 1
+- **Heurística violada:** Usability - Consistencia y estándares
+- **Problema:**
+  Se observa una línea horizontal innecesaria sobre el campo de login que no cumple ninguna función identificable y rompe con la estética del formulario. Este elemento no sigue patrones de diseño convencionales para interfaces de autenticación.
+<br></br>
+  <img src="./assets/Chapter VI/Problema1.PNG">
+
+- **Recomendación:**
+  Eliminar la línea para mantener la interfaz limpia y consistente.
+<br></br>
+
+**PROBLEMA #2: Falta de contraste en las letras durante la carga de datos**
+
+- **Severidad:** 2
+- **Heurística violada:** Inclusive Design - Proporcionar experiencias comparables
+- **Problema:**
+  Los mensajes indicadores de carga de datos no tiene suficiente contraste con el fondo, dificultando su lectura especialmente en condiciones de luminosidad ambiental alta o para usuarios con deficiencias visuales.
+<br></br>
+  <img src="./assets/Chapter VI/Problema2.PNG">
+
+- **Recomendación:**
+  Aumentar el contraste del texto o cambiar el color de fondo para mejorar la legibilidad.
+<br></br>
+
+**PROBLEMA #3: Falta de indicadores para edición de imágenes**
+
+- **Severidad:** 2
+- **Heurística violada:** Usability - Visibilidad del estado del sistema.
+- **Problema:**
+  Los usuarios no pueden identificar que una imagen es editable debido a la falta de iconos o indicadores visuales.
+<br></br>
+  <img src="./assets/Chapter VI/Problema3.1.PNG">
+  <img src="./assets/Chapter VI/Problema3.2.PNG">
+
+- **Recomendación:**
+  Añadir un ícono o tooltip que indique la posibilidad de edición.
+<br></br>
+
+**PROBLEMA #4:  Botón "Guardar cambios" no funciona correctamente**
+
+- **Severidad:** 3
+- **Heurística violada:** Usability - Retroalimentación y control del usuario.
+- **Problema:**
+  El botón "Guardar cambios" no ejecuta ninguna acción al ser clickeado y no proporciona feedback visual (hover).
+  <br></br>
+  <img src="./assets/Chapter VI/Problema4.PNG">
+
+- **Recomendación:**
+  Implementar la funcionalidad del botón y añadir un efecto hover para mejorar la experiencia del usuario.
+<br></br>
+
+**PROBLEMA #5: Comportamiento inadecuado del footer**
+
+- **Severidad:** 2
+- **Heurística violada:** Information Architecture - Is it usable?
+- **Problema:**
+  Cuando no hay contenido en la pantalla, el footer se expande abruptamente, cortando el fondo y creando un espacio vacío antiestético.
+<br></br>
+  <img src="./assets/Chapter VI/Problema5.PNG">
+
+- **Recomendación:**
+  Ajustar el footer para que se adapte dinámicamente al contenido disponible.
+<br></br>
+
+**PROBLEMA #6: Botón "Apply to Project" sin estados hover**
+
+- **Severidad:** 1
+- **Heurística violada:** Usability - Consistencia y estándares
+- **Problema:**
+  El botón "Apply to Project" no tiene un efecto hover, lo que rompe con la consistencia de otros botones interactivos en la aplicación.
+<br></br>
+  <img src="./assets/Chapter VI/Problema6.PNG">
+
+- **Recomendación:**
+  Añadir un efecto hover para indicar que el botón es interactivo y mantener la coherencia visual.
+<br></br>
+
+**PROBLEMA #7: Fotografías de desarrolladores no visibles en la lista de desarrolladores**
+
+- **Severidad:** 2
+- **Heurística violada:** Information Architecture - Is it findable?
+- **Problema:**
+  Las fotos de perfil de los desarrolladores no aparecen en la lista, lo que dificulta la identificación rápida de los usuarios.
+<br></br>
+  <img src="./assets/Chapter VI/Problema7.PNG">
+
+- **Recomendación:**
+  Asegurar que las imágenes se carguen correctamente y mostrar un placeholder si no están disponibles.
+<br></br>
+
+**PROBLEMA #8: Campos de formulario que se deforman**
+
+- **Severidad:** 2
+- **Heurística violada:** Usability - Prevención de errores.
+- **Problema:**
+  Al mostrar mensajes de validación, uno de los inputs reduce su tamaño, lo que afecta la legibilidad y el diseño.
+<br></br>
+  <img src="./assets/Chapter VI/Problema8.PNG">
+
+- **Recomendación:**
+  Ajustar el tamaño del input para que sea consistente con los demás campos sin afectar el layout.
+<br></br>
+
+**PROBLEMA #9: Problemas de márgenes en navbar móvil**
+
+- **Severidad:** 2
+- **Heurística violada:** Usability - Flexibilidad y eficiencia de uso
+- **Problema:**
+  En la versión móvil, la navbar no tiene márgenes laterales, lo que hace que los elementos toquen los bordes de la pantalla, dando una apariencia descuidada.
+  <br></br>
+  <img src="./assets/Chapter VI/Problema9.PNG">
+
+- **Recomendación:**
+  Añadir padding/margen en los laterales para mejorar el espaciado.
+<br></br>
+
+**PROBLEMA #10: Logo no funciona como enlace en móvil**
+
+- **Severidad:** 3
+- **Heurística violada:** Usability - Libertad y control del usuario.
+- **Problema:**
+  En móviles, hacer clic en el logo de la aplicación no redirige al inicio, lo que contradice el comportamiento esperado por los usuarios.
+<br></br>
+  <img src="./assets/Chapter VI/Problema10.PNG">
+
+- **Recomendación:**
+  Implementar la funcionalidad de redirección al home al hacer clic en el logo.
+<br></br>
+
+**PROBLEMA #11: Alineación incorrecta en footer móvil**
+
+- **Severidad:** 1
+- **Heurística violada:** Usability - Consistencia y estándares.
+- **Problema:**
+  En dispositivos móviles, el contenido del footer aparece alineado a la izquierda en lugar de centrado, lo que afecta la estética.
+<br></br>
+  <img src="./assets/Chapter VI/Problema11.PNG">
+
+- **Recomendación:**
+  Centrar el contenido del footer para mejorar la presentación en pantallas pequeñas.
+<br></br>
+
+**PROBLEMA #12: Falta acceso rápido a creación de proyectos**
+
+- **Severidad:** 2
+- **Heurística violada:** Usability - Eficiencia y simplicidad.
+- **Problema:**
+  Los usuarios deben navegar a "Publish Project" para crear un proyecto, lo que añade pasos innecesarios.
+  <br></br>
+  <img src="./assets/Chapter VI/Problema12.PNG">
+
+- **Recomendación:**
+  Añadir un botón "Crear proyecto" en la página de inicio de la empresa para acelerar el proceso.
+
 
 ### 6.4.2. Auditoría recibida
 #### 6.4.2.1. Información del grupo auditor
