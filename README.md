@@ -3766,11 +3766,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>00:00 min - 08:02 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -3837,11 +3837,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>08:02 min - 17:01 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -3907,11 +3907,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>17:01 min - 31:38 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -3981,11 +3981,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>31:38 min - 39:14 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4054,11 +4054,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>39:14 min - 49:06 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4126,11 +4126,11 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Eb8yf3KhYDhEnQRAr3IiJkMB3QJIzxpIo97ILmSzEit0QA?e=UvTJfz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:05 min - 05:20 min </td>
+    <td>49:06 min - 1:01:54 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
