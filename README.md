@@ -4706,12 +4706,6 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
     </tr>
     <tr>
       <td>6</td>
-      <td>No hay confirmación al eliminar un local</td>
-      <td>3</td>
-      <td>Usability: Prevención de errores</td>
-    </tr>
-    <tr>
-      <td>7</td>
       <td>Falta de feedback al enviar un formulario</td>
       <td>2</td>
       <td>Usability: Visibilidad del estado del sistema</td>
@@ -4785,19 +4779,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 ---
 
-### **PROBLEMA #6: No hay confirmación al eliminar un local**
-- **Severidad:** 3  
-- **Heurística violada:** Usability – Prevención de errores  
-- **Problema:**  
-  Al eliminar un local, no se solicita confirmación previa, lo que puede derivar en la pérdida de datos por error involuntario.  
-  <img src="./Resources/Chapter VI/Problema6.png">
 
-- **Recomendación:**  
-  Mostrar una alerta de confirmación con opción de cancelar antes de ejecutar la acción de borrado.
-
----
-
-### **PROBLEMA #7: Falta de feedback al enviar un formulario**
+### **PROBLEMA #6: Falta de feedback al enviar un formulario**
 - **Severidad:** 2  
 - **Heurística violada:** Usability – Visibilidad del estado del sistema  
 - **Problema:**  
