@@ -5774,7 +5774,34 @@ Sin embargo, durante las pruebas iniciales y retroalimentación temprana, se han
 
 ### 8.2.4. Cálculos de Escala y Decisiones
 
-Se calcularan tamaños de muestra con un 95% de confianza y 5% de margen de error. Para esto sera necesario un grupo de no menos de 300 usuario para cada uno de los escenarios, se realizarán pruebas A/B con grupos control y experimental, aplicando corrección estadística si es necesario. Cada experimento tendrá un período mínimo de dos semanas para garantizar resultados estables.
+Este enfoque se basa en el uso de métricas para comprobar si las hipótesis de un proyecto se cumplen. A cada hipótesis se le asigna un indicador que mide su éxito: si la métrica alcanza el objetivo planteado, se considera ideal; si se encuentra entre un valor mínimo aceptable y el ideal, es considerada adecuada; y si está por debajo del mínimo, se evalúa como desfavorable, lo que implica la necesidad de revisión. Además, se establece que un desempeño excelente ocurre cuando el valor supera el objetivo ideal en un 25% o más, reflejando un logro destacado. Así, este método facilita decisiones basadas en datos para validar o modificar las hipótesis del proyecto.
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2">Scale Calculation</th>
+    <th rowspan="2">Decision</th>
+    <th colspan="4">Factor</th>
+  </tr>
+  <tr>
+    <th>Desfavorable</th>
+    <th>Aceptable</th>
+    <th>Ideal</th>
+    <th>Excelente</th>
+  </tr>
+  <tr>
+    <td>
+      Creemos que al agregar un modo oscuro a la aplicación web, se mejorará la experiencia del usuario en al menos un 30%, reduciendo la fatiga visual y aumentando el tiempo de uso promedio. Sabremos que esto es cierto cuando observemos un aumento del 30% en la satisfacción del usuario.
+    </td>
+    <td>
+      Implementar un modo oscuro que permita a los usuarios elegir entre un modo claro y uno oscuro, mejorando así la comodidad visual.
+    </td>
+    <td></td>
+    <td style="text-align: center;">X</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 ### 8.2.5. Selección de Métodos
 
