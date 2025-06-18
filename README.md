@@ -4063,6 +4063,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    Según nuestro entrevistado Hernán Morales, de 25 años, la plataforma AlquilaFácil cumple con su propósito principal al facilitar la publicación y reserva de espacios de manera clara y accesible. Destaca la buena organización de la información y la fluidez en la navegación entre pantallas. No obstante, señala oportunidades importantes de mejora para enriquecer la experiencia del usuario. Propone la incorporación de un modo oscuro para mayor confort visual, especialmente en contextos de baja iluminación, así como la posibilidad de subir múltiples imágenes por espacio para brindar una visión más completa del local. También sugiere ampliar el uso de colores en la interfaz para mejorar la comprensión de elementos como la disponibilidad horaria o los errores en formularios. Finalmente, considera necesario incluir un formulario de contacto directo con el equipo de soporte para resolver dudas adicionales de forma más eficiente. Estas recomendaciones apuntan a fortalecer tanto la usabilidad como la percepción visual de la aplicación.
     </td>
   </tr>
 </tbody>
