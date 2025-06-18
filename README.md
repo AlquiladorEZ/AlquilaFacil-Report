@@ -3762,7 +3762,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista-Carlos.png" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3774,7 +3774,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">
+    <td style="text-align: justify;">El entrevistado la aplicación logra cumplir con las necesidades de los usuarios, destaco el manejo sencillo de la aplicación y la presentación clara de la información. Considera que se cumplen las funciones basicas que el usuario necesitaria en la aplicación al demostrar los diferentes flujos de estos.Dio como mejora incentivar mas la comunidad de la aplicacion, tanto como para el segmento de arrendadores como de arrendatarios.
     </td>
   </tr>
 </tbody>
@@ -3833,7 +3833,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista-Carlos.png" alt="Entrevista a Omar Morales"></div></td>
+    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Omar.png" alt="Entrevista a Omar Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3845,7 +3845,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">El entrevistado la aplicación logra cumplir con las necesidades de los usuarios, destaco el manejo sencillo de la aplicación y la presentación clara de la información. Considera que se cumplen las funciones basicas que el usuario necesitaria en la aplicación al demostrar los diferentes flujos de estos.Dio como mejora incentivar mas la comunidad de la aplicacion, tanto como para el segmento de arrendadores como de arrendatarios.</td>
+    <td style="text-align: justify;">Según el entrevistado la aplicación logra cumplir con las necesidades del usuario, destaco el manejo sencillo de la aplicación y la presentación clara de la información. Considero que se cumplen las funciones basicas que el usuario necesitaria en la aplicación al demostrar los diferentes flujos de estos. El usuario se mostro interesado en la funcionalidad del calendario de reservas. Tambien dio como oportunidad de mejora el hacer el apartado de reseña de locales un poco mas vistoso para los usuarios y arrendadores, para que de esta manera sea mas facil ubicar dichos comentarios.</td>
   </tr>
 </tbody>
 </table>
@@ -4321,7 +4321,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Los mensajes indicadores de carga de datos no tiene suficiente contraste con el fondo, dificultando su lectura especialmente en condiciones de luminosidad ambiental alta o para usuarios con deficiencias visuales.
 <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema2.PNG"">
+  <img src="./Resources/Chapter VI/Audit Group/Problema2.PNG">
 
 - **Recomendación:**
   Aumentar el contraste del texto o cambiar el color de fondo para mejorar la legibilidad.
@@ -4334,8 +4334,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Los usuarios no pueden identificar que una imagen es editable debido a la falta de iconos o indicadores visuales.
 <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema3.1.PNG"">
-  <img src="./assets/Chapter VI/Audit Group/Problema3.2.PNG">
+  <img src="./Resources/Chapter VI/Audit Group/Problema3.1.PNG">
+  <img src="./Resources/Chapter VI/Audit Group/Problema3.2.PNG">
 
 - **Recomendación:**
   Añadir un ícono o tooltip que indique la posibilidad de edición.
@@ -4348,7 +4348,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   El botón "Guardar cambios" no ejecuta ninguna acción al ser clickeado y no proporciona feedback visual (hover).
   <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema4.PNG"">
+  <img src="./Resources/Chapter VI/Audit Group/Problema4.PNG">
 
 - **Recomendación:**
   Implementar la funcionalidad del botón y añadir un efecto hover para mejorar la experiencia del usuario.
@@ -4361,7 +4361,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Cuando no hay contenido en la pantalla, el footer se expande abruptamente, cortando el fondo y creando un espacio vacío antiestético.
 <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema5.PNG">
+  <img src="./Resources/Chapter VI/Audit Group/Problema5.PNG">
 
 - **Recomendación:**
   Ajustar el footer para que se adapte dinámicamente al contenido disponible.
@@ -4374,7 +4374,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   El botón "Apply to Project" no tiene un efecto hover, lo que rompe con la consistencia de otros botones interactivos en la aplicación.
 <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema6.PNG">
+  <img src="./Resources/Chapter VI/Audit Group/Problema6.PNG">
 
 - **Recomendación:**
   Añadir un efecto hover para indicar que el botón es interactivo y mantener la coherencia visual.
@@ -4387,7 +4387,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Las fotos de perfil de los desarrolladores no aparecen en la lista, lo que dificulta la identificación rápida de los usuarios.
 <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema7.PNG">
+  <img src="./Resources/Chapter VI/Audit Group/Problema7.PNG">
 
 - **Recomendación:**
   Asegurar que las imágenes se carguen correctamente y mostrar un placeholder si no están disponibles.
@@ -4400,7 +4400,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Al mostrar mensajes de validación, uno de los inputs reduce su tamaño, lo que afecta la legibilidad y el diseño.
 <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema8.PNG">
+  <img src="./Resources/Chapter VI/Audit Group/Problema8.PNG">
 
 - **Recomendación:**
   Ajustar el tamaño del input para que sea consistente con los demás campos sin afectar el layout.
@@ -4413,7 +4413,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   En la versión móvil, la navbar no tiene márgenes laterales, lo que hace que los elementos toquen los bordes de la pantalla, dando una apariencia descuidada.
   <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema9.PNG>
+  <img src="./Resources/Chapter VI/Audit Group/Problema9.PNG">
 
 - **Recomendación:**
   Añadir padding/margen en los laterales para mejorar el espaciado.
@@ -4426,7 +4426,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   En móviles, hacer clic en el logo de la aplicación no redirige al inicio, lo que contradice el comportamiento esperado por los usuarios.
 <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema10.PNG>
+ <img src="./Resources/Chapter VI/Audit Group/Problema10.PNG">
 
 - **Recomendación:**
   Implementar la funcionalidad de redirección al home al hacer clic en el logo.
@@ -4439,7 +4439,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   En dispositivos móviles, el contenido del footer aparece alineado a la izquierda en lugar de centrado, lo que afecta la estética.
 <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema11.PNG">
+  <img src="./Resources/Chapter VI/Audit Group/Problema11.PNG">
 
 - **Recomendación:**
   Centrar el contenido del footer para mejorar la presentación en pantallas pequeñas.
@@ -4452,7 +4452,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**
   Los usuarios deben navegar a "Publish Project" para crear un proyecto, lo que añade pasos innecesarios.
   <br></br>
-  <img src="./assets/Chapter VI/Audit Group/Problema12.PNG">
+  <img src="./Resources/Chapter VI/Audit Group/Problema12.PNG">
 
 - **Recomendación:**
   Añadir un botón "Crear proyecto" en la página de inicio de la empresa para acelerar el proceso.
