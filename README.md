@@ -220,6 +220,9 @@
 | [8.2.5. Methods Selection](#825-methods-selection) |
 | [8.2.6. Data Analytics: Goals, KPIs and Metrics Selection](#826-data-analytics-goals-kpis-and-metrics-selection) |
 | [8.2.7. Web and Mobile Tracking Plan](#827-web-and-mobile-tracking-plan) |
+| [8.3. Experimentation](#827-web-and-mobile-tracking-plan) |
+| [8.3.1. To-be user stories](#827-web-and-mobile-tracking-plan) |
+| [8.3.2. To-be product backlog](#827-web-and-mobile-tracking-plan) |
 | [Conclusiones](#conclusiones) |
 | [Bibliografia](#bibliografia) |
 | [Anexos](#anexos) |
@@ -284,8 +287,7 @@ del ABET – EAC - Student Outcome 5.
       Valle Zuta, Abel Andrés<br>
       Durante esta fase, me enfoqué en la mejora de los procesos de control de calidad, implementando un conjunto más robusto de pruebas de integración. Fomenté el uso de pruebas automatizadas para asegurar que las distintas partes del sistema trabajaran en conjunto sin fallos. También gestioné la asignación de tareas de testing entre los miembros del equipo, lo que me permitió adquirir experiencia en la coordinación de equipos de testing y en la supervisión del proceso de validación de calidad.
       <br><br>
-      <strong>TB2:</strong><br><br>
-
+ <br><br><strong>TB2:</strong><br><br>
 Ames Oviedo, Mariano José<br>
 Durante esta iteración, lideré junto al equipo la integración funcional de los módulos desarrollados por cada área. Me encargué de coordinar reuniones técnicas para revisar la compatibilidad de interfaces y asegurar que las decisiones sobre arquitectura fueran comprendidas por todos. También participé en la resolución colaborativa de errores detectados durante la integración, lo que fortaleció mis habilidades de liderazgo compartido y trabajo sinérgico con los demás integrantes.
 <br><br>
@@ -952,7 +954,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="./Resources/Interviews/Arrendador-1.png" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1026,7 +1028,7 @@ Para el registro de entrevistas se realizará 3 entrevista por segmento, dando u
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-2.png" alt="Entrevista a Omar Morales"></div></td>
+    <td><div align="center"><img src="./Resources/Interviews/Arrendador-2.png" alt="Entrevista a Omar Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1101,7 +1103,7 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendador-3.PNG" alt="Entrevista a Sebastian Vallejos"></div></td>
+    <td><div align="center"><img src="./Resources/Interviews/Arrendador-3.PNG" alt="Entrevista a Sebastian Vallejos"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1175,7 +1177,7 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendatario-1.png" alt="Entrevista a Manuel Chavez"></div></td>
+    <td><div align="center"><img src="./Resources/Interviews/Arrendatario-1.png" alt="Entrevista a Manuel Chavez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1252,7 +1254,7 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendatario-2.png" alt="Entrevista a Hernan Morales"></div></td>
+    <td><div align="center"><img src="./Resources/Interviews/Arrendatario-2.png" alt="Entrevista a Hernan Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1325,7 +1327,7 @@ Para finalizar, nos comentó su experiencia previa con otras herramientas simila
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Interviews/Arrendatario-3.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
+    <td><div align="center"><img src="./Resources/Interviews/Arrendatario-3.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3767,7 +3769,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista-Carlos.png" alt="Entrevista a XXX"></div></td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista-Carlos.png" alt="Entrevista a XXX"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3838,7 +3840,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Omar.png" alt="Entrevista a Omar Morales"></div></td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Omar.png" alt="Entrevista a Omar Morales"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3908,7 +3910,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Espinoza.PNG" alt="Entrevista a Rodrigo Espinoza"></div></td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Espinoza.PNG" alt="Entrevista a Rodrigo Espinoza"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -3982,7 +3984,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Manuel_Chavez.PNG" alt="Entrevista a Manuel Chavez"></div></td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Manuel_Chavez.PNG" alt="Entrevista a Manuel Chavez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4055,7 +4057,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Validation%20Interviews/Entrevista_hernan.png" alt="Entrevista a Hernan"></div></td>
+    <td><div align="center"><img src="./Resources/Validation%20Interviews/Entrevista_hernan.png" alt="Entrevista a Hernan"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4127,7 +4129,7 @@ Estas preguntas están destinadas a proporcionar una visión clara sobre la usab
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Validation Interviews/Entrevista_Ariana.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Ariana.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -5973,6 +5975,126 @@ Se utilizó Lighthouse como herramienta principal de medición, enfocándose en 
 ### 8.2.7. Plan de Tracking Web y Móvil
 
 Se configurarán eventos personalizados en la app web y móvil con herramientas como GA4 y Firebase. Se rastrearán acciones como activación del modo oscuro, tiempo de sesión, uso de la sección de soporte y respuestas a encuestas de NPS. También se segmentará por tipo de usuario (nuevo vs. recurrente) y duración de sesión. Todo el seguimiento cumplirá con las políticas de privacidad y consentimiento informado.
+
+## 8.3 Experimentation
+
+### 8.3.1. To-be User Stories
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Historia de Usuario</th>
+      <th>Escenarios</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UA01</td>
+      <td>Como usuario de la aplicación, quiero tener la opción de un modo oscuro para que mi experiencia sea más cómoda en condiciones de poca luz.</td>
+      <td>
+        <ul>
+          <li><strong>Given</strong> que estoy en la aplicación, <strong>when</strong> hago clic en el botón "Modo Oscuro", <strong>then</strong> la aplicación cambiará al tema oscuro.</li>
+          <li><strong>Given</strong> que el modo oscuro está activado, <strong>when</strong> hago clic en "Modo Claro", <strong>then</strong> la aplicación volverá al tema claro.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>UA02</td>
+      <td>Como usuario visual, quiero que la interfaz tenga más colores e imágenes atractivas para tener una experiencia visual más estimulante.</td>
+      <td>
+        <ul>
+          <li><strong>Given</strong> que navego por la app, <strong>when</strong> accedo a la página principal, <strong>then</strong> veo un diseño con colores vibrantes e imágenes relevantes.</li>
+          <li><strong>Given</strong> que interactúo con elementos visuales, <strong>when</strong> paso el cursor o clico, <strong>then</strong> recibo retroalimentación visual (hover, animaciones, etc.).</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>UA03</td>
+      <td>Como usuario, quiero tener acceso a una sección de contacto con soporte para resolver dudas o reportar problemas rápidamente.</td>
+      <td>
+        <ul>
+          <li><strong>Given</strong> que necesito ayuda, <strong>when</strong> accedo a la sección de contacto, <strong>then</strong> puedo enviar un mensaje fácilmente.</li>
+          <li><strong>Given</strong> que envío el formulario, <strong>when</strong> los datos son válidos, <strong>then</strong> recibo una confirmación de que el mensaje ha sido enviado.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>UA04</td>
+      <td>Como usuario, quiero una interfaz con microinteracciones y feedback visual para percibir mayor calidad y profesionalismo.</td>
+      <td>
+        <ul>
+          <li><strong>Given</strong> que navego por la app, <strong>when</strong> interactúo con botones o menús, <strong>then</strong> las microinteracciones responden visualmente.</li>
+          <li><strong>Given</strong> que estoy usando funciones animadas, <strong>when</strong> se cargan correctamente, <strong>then</strong> percibo una experiencia fluida y moderna.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>UA05</td>
+      <td>Como usuario, quiero ver primero los locales recién agregados en las búsquedas para encontrar novedades rápidamente y tener más opciones actualizadas.</td>
+      <td>
+        <ul>
+          <li><strong>Given</strong> que busco un espacio, <strong>when</strong> se muestran los resultados, <strong>then</strong> los más recientes aparecen primero.</li>
+          <li><strong>Given</strong> que veo un local nuevo, <strong>when</strong> hago clic en él, <strong>then</strong> accedo a su detalle y fomenta mi interés por reservar.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### 8.3.2 To-be Product Backlog
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Historia de Usuario</th>
+      <th>Prioridad</th>
+      <th>Esfuerzo (Story Points)</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UA01</td>
+      <td>Como usuario, quiero ver primero los locales recién ingresados para conocer las nuevas opciones disponibles.</td>
+      <td>Alta</td>
+      <td>3</td>
+      <td>Pendiente</td>
+    </tr>
+    <tr>
+      <td>UA02</td>
+      <td>Como usuario, quiero que el diseño tenga colores e imágenes atractivas para hacer más agradable la navegación.</td>
+      <td>Media</td>
+      <td>5</td>
+      <td>Pendiente</td>
+    </tr>
+    <tr>
+      <td>UA03</td>
+      <td>Como usuario, quiero que la interfaz tenga microinteracciones y animaciones para una experiencia más fluida.</td>
+      <td>Media</td>
+      <td>8</td>
+      <td>Pendiente</td>
+    </tr>
+    <tr>
+      <td>UA04</td>
+      <td>Como usuario, quiero acceder fácilmente al soporte para resolver dudas o problemas rápidamente.</td>
+      <td>Alta</td>
+      <td>3</td>
+      <td>Pendiente</td>
+    </tr>
+    <tr>
+      <td>UA05</td>
+      <td>Como propietario, quiero que mis locales nuevos tengan visibilidad prioritaria para aumentar su exposición.</td>
+      <td>Alta</td>
+      <td>2</td>
+      <td>Pendiente</td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Conclusiones
 
