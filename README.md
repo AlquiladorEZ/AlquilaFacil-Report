@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/0474be35-c6c5-4813-8931-32599b7c7f20)<p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <br><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png"></img><br>
     <br>
@@ -216,13 +216,13 @@
 | [8.2.1. Hypotheses](#821-hypotheses) |
 | [8.2.2. Measures](#822-measures) |
 | [8.2.3. Conditions](#823-conditions) |
-| [8.2.4. Scale Calculations and Decisions](#824-scale-calculations-and-decisions) |
-| [8.2.5. Methods Selection](#825-methods-selection) |
-| [8.2.6. Data Analytics: Goals, KPIs and Metrics Selection](#826-data-analytics-goals-kpis-and-metrics-selection) |
+| [8.2.4. Scale Calculations and Decisions](#824-cálculos-de-escala-y-decisiones) |
+| [8.2.5. Methods Selection](#825-selección-de-métodos) |
+| [8.2.6. Data Analytics: Goals, KPIs and Metrics Selection](#826-analítica-de-datos-objetivos-kpis-y-métricas) |
 | [8.2.7. Web and Mobile Tracking Plan](#827-web-and-mobile-tracking-plan) |
-| [8.3. Experimentation](#827-web-and-mobile-tracking-plan) |
-| [8.3.1. To-be user stories](#827-web-and-mobile-tracking-plan) |
-| [8.3.2. To-be product backlog](#827-web-and-mobile-tracking-plan) |
+| [8.3. Experimentation](#83-experimentation) |
+| [8.3.1. To-be user stories](#831-to-be-user-stories) |
+| [8.3.2. To-be product backlog](#832-to-be-product-backlog) |
 | [Conclusiones](#conclusiones) |
 | [Bibliografia](#bibliografia) |
 | [Anexos](#anexos) |
