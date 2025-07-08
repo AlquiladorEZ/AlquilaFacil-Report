@@ -6148,6 +6148,27 @@ Se configurarán eventos personalizados en la app web y móvil con herramientas 
 
 #### 8.3.3.6 Team Collaboration Insights
 
+**Report Insights:**
+
+![Captura de Pantalla](Resources/Insights/Report%20Insights-2.png)
+
+**Landing Page Insights:**
+
+![Captura de Pantalla](Resources/Insights/Landing%20Insights-1.png)
+
+**Front-end Insights:**
+
+![Captura de Pantalla](Resources/Insights/Frontend%20Insights-2.png)
+
+**Back-end Insights:**
+
+![Captura de Pantalla](Resources/Insights/Backend%20Insights-2.png)
+
+**Mobile App Insights:**
+
+![Captura de Pantalla](Resources/Insights/Mobile%20App%20Insights-1.png)
+
+
 ### 8.3.4 To-Be Validation Interviews
 
 #### 8.3.4.1 Diseño de Entrevistas
