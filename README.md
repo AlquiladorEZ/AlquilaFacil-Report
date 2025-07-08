@@ -6096,6 +6096,507 @@ Se configurarán eventos personalizados en la app web y móvil con herramientas 
 </table>
 
 
+### 8.3.3 Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
+#### 8.3.3.1 To-Be Sprint Backlogs
+
+#### 8.3.3.2 Implemented To-Be Landing Page Evidence
+
+#### 8.3.3.3 Implemented To-Be Frontend-Web Application Evidence
+
+#### 8.3.3.4 Implemented To-Be Native-Mobile Application Evidence
+
+#### 8.3.3.5 Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+#### 8.3.3.6 Team Collaboration Insights
+
+### 8.3.4 To-Be Validation Interviews
+
+#### 8.3.4.1 Diseño de Entrevistas
+
+<div align="justify">
+
+Se presentan a continuación las preguntas que se utilizarán en las entrevistas de validación para evaluar la usabilidad de las **nuevas funcionalidades y mejoras visuales** implementadas en la aplicación **AlquilaFácil**. Estas preguntas están orientadas a comprender cómo estas actualizaciones han influido en la experiencia del usuario, considerando aspectos como accesibilidad, percepción visual, retroalimentación del sistema, y claridad de navegación.
+
+<br>
+
+**1.** ¿Qué le pareció la nueva opción de subir múltiples imágenes por local? ¿Le ayudó a tomar una mejor decisión de alquiler?  
+
+**2.** ¿Cómo fue su experiencia utilizando el nuevo botón para cambiar entre modo claro y oscuro? ¿Le resultó útil según su entorno de iluminación?  
+
+**3.** ¿Notó mejoras en la visibilidad de los textos desde su dispositivo móvil? ¿Le resultó más cómodo leer la información?  
+
+**4.** ¿Pudo diferenciar fácilmente los botones “Buscar” y “Publicar” en esta nueva versión? ¿Le pareció más claro su uso?  
+
+**5.** ¿Recibió el mensaje de confirmación luego de enviar algún formulario? ¿Le ayudó a sentir que su acción fue exitosa?  
+
+**6.** ¿Ha utilizado alguna de las nuevas opciones para contactar al soporte desde la aplicación? ¿Le parecieron accesibles y útiles?  
+
+**7.** ¿Le resultó más informativo ver más de una imagen por local al momento de explorar opciones de alquiler?  
+
+**8.** ¿Sintió mayor confianza en usar la aplicación ahora que puede ver un mensaje claro tras enviar acciones importantes?  
+
+**9.** ¿Qué tan satisfecho está con la nueva organización visual del *footer* e íconos de navegación? ¿Le pareció más intuitiva la app?  
+
+**10.** En general, ¿cuál de las mejoras recientes considera que ha tenido un mayor impacto positivo en su experiencia con AlquilaFácil?  
+
+<br>
+
+Estas preguntas buscan obtener una visión precisa sobre el impacto de las recientes actualizaciones de la plataforma, permitiendo identificar oportunidades de mejora adicionales y validar la efectividad de los cambios implementados desde la perspectiva del usuario final.
+
+<br>
+</div>
+
+
+#### 8.3.4.2 Registro de Entrevistas
+
+<div align="justify">
+
+**Segmento 1: Arrendadores de espacios para eventos**
+<br>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Carlos</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Casimiro Oswaldo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td> 25 </td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td> Surquillo </td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td> Familiares con Windows y Android </td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td> Las oportunidades pare emprender, sobre todo con el alquiler de espacios para eventos diversos.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td> Las herramientas que posee no le permiten lograr su meta de forma organizada </td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td> Excel, Facebook, Instagram </td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Angello Sosa</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista-Carlos.png" alt="Entrevista a XXX"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 08:02 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Omar Andrew</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Morales Montalvo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>29</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Facebook Marketplace</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Explorar nuevas oportunidades de negocio y expandir su presencia en el mercado de eventos sociales</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Dificultad para promocionar eficazmente su local y atraer clientes nuevos y recurrentes</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>iOS, Android y Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Brave</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mariano Ames</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Omar.png" alt="Entrevista a Omar Morales"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>08:02 min - 17:01 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Rodrigo Alejandro</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Espinoza Torreblanca</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Comprobar la funcionalidad clara de la plataforma y comprobar si su diseño es intuitivo, y brindar sugerencias de mejoras en la aplicación para tener una mejor experiencia al utilizar la app.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>El usuario encuentra limitaciones en la subida de múltiples imágenes y en la falta de un canal directo para contactar al equipo de soporte.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Computadoras Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Valle</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Espinoza.PNG" alt="Entrevista a Rodrigo Espinoza"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>17:01 min - 31:38 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+**Segmento 2: Arrendatarios sociales frecuentes de espacios para eventos**
+<br>
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Manuel Jesús</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Chávez Cuba</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>21 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Martín de Porres</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Facebook, Instagram</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Ofrecer experiencias únicas y memorables para sus clientes</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Dificultades para encontrar espacios que cuenten con características específicas</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>iOS, Android, Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome, Opera GX</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Christopher Lecca</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Manuel_Chavez.PNG" alt="Entrevista a Manuel Chavez"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>31:38 min - 39:14 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Hernan</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Morales Calderón</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Chrome</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Hernán busca alquilar espacios de forma rápida y segura para sus eventos frecuentes, valorando la transparencia, disponibilidad inmediata y flexibilidad horaria.
+</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Se frustra con la falta de información clara, políticas de cancelación injustas y la poca flexibilidad de horarios en los locales. También le incomoda no tener herramientas que generen confianza al alquilar.
+</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop, Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Criollo</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./Resources/Validation%20Interviews/Entrevista_hernan.png" alt="Entrevista a Hernan"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>39:14 min - 49:06 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ariana</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Torpoco Baltazar</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Santiago de Surco</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>La facilidad de uso de la plataforma y la simplificación de tareas clave, como la publicación y reserva de espacios. Además, valora que la información necesaria para tomar decisiones esté bien organizada y sea accesible.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Siente que algunos aspectos técnicos, como la falta de flexibilidad en el diseño visual y las limitaciones en la personalización de flujos, reducen la experiencia de uso.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop Mac y Computadora Windows</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Valle</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Ariana.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>49:06 min - 1:01:54 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+</div>
+
+## 8.4 Experiment Aftermath & Analysis
+
+### 8.4.1 Analysis and Interpretation of Results
+
+### 8.4.2 Re-scored and Re-prioritized Question Backlog
+
+## 8.5 Continuous Learning
+
+### 8.5.1 Shareback Session Artifacts: Learning Workflow
+
+## 8.6 To-Be Software Platform Pre-launch
+
+### 8.6.1 About-the-Product Intro Video
+
+
 # Conclusiones
 
 <div align="justify">
