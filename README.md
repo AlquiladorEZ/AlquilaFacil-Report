@@ -7,7 +7,7 @@
     <strong>1ASI0732 - Diseño de Experimentos de Ingeniería de Software - 4453</strong><br>  
     <br>
     <strong>Profesor: Julio Manuel Noriega Melendez</strong><br>
-    <br> <strong>INFORME DE TB2</strong> 
+    <br> <strong>INFORME DE TF1</strong> 
 </p>
 <p align="center">
     <strong>Startup: AlquilaEZ</strong><br>
@@ -69,6 +69,11 @@
 |TB2| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo VI, VII y VIII |
 |TB2| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo VI, VII y VIII |
 |TB2| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo VI, VII y VIII |
+|TF1| 13/04/2025 |Ames Oviedo, Mariano Jose| Capítulo VIII |
+|TF1| 13/04/2025 |Criollo de la Cruz, Diego Anderson| Capítulo VIII |
+|TF1| 13/04/2025 |Lecca Choccare, Christopher Bryan| Capítulo VIII |
+|TF1| 13/04/2025 |Sosa Colca, Angello Rodolfo| Capítulo VIII |
+|TF1| 13/04/2025 |Valle Zuta, Abel Andrés| Capítulo VIII |
 
 </div>
 
@@ -223,6 +228,23 @@
 | [8.3. Experimentation](#83-experimentation) |
 | [8.3.1. To-be user stories](#831-to-be-user-stories) |
 | [8.3.2. To-be product backlog](#832-to-be-product-backlog) |
+| [8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle) |
+| [8.3.3.1. To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs) |
+| [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence) |
+| [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence) |
+| [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence) |
+| [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8335-implemented-to-be-restful-api-andor-serverless-backend-evidence) |
+| [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights) |
+| [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews) |
+| [8.3.4.1. Diseño de Entrevistas](#8341-diseño-de-entrevistas) |
+| [8.3.4.2. Registro de Entrevistas](#8342-registro-de-entrevistas) |
+| [8.4. Experiment Aftermath & Analysis](#84-experiment-aftermath--analysis) |
+| [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results) |
+| [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog) |
+| [8.5. Continuous Learning](#85-continuous-learning) |
+| [8.5.1. Shareback Session Artifacts: Learning Workflow](#851-shareback-session-artifacts-learning-workflow) |
+| [8.6. To-Be Software Platform Pre-launch](#86-to-be-software-platform-pre-launch) |
+| [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video) |
 | [Conclusiones](#conclusiones) |
 | [Bibliografia](#bibliografia) |
 | [Anexos](#anexos) |
