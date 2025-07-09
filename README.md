@@ -6515,82 +6515,14 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
 
 **Segmento 2: Arrendatarios sociales frecuentes de espacios para eventos**
 <br>
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Manuel Jesús</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Chávez Cuba</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>21 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>San Martín de Porres</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Facebook, Instagram</td>
-  </tr>
-  <tr>
-    <td>Motivación</td>
-    <td>Ofrecer experiencias únicas y memorables para sus clientes</td>
-  </tr>
-  <tr>
-    <td>Frustración</td>
-    <td>Dificultades para encontrar espacios que cuenten con características específicas</td>
-  </tr>
-  <tr>
-    <td>Tecnologías</td>
-    <td>iOS, Android, Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome, Opera GX</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Christopher Lecca</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Manuel_Chavez.PNG" alt="Entrevista a Manuel Chavez"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219639_upc_edu_pe/ERcASubz4ltGtq5iAAFY_t8Be0jqJ858RTYa9yh7K5ZS6Q?e=QNXf48&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</a></p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>31:38 min - 39:14 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td style="text-align: justify;">
-    </td>
-  </tr>
-</tbody>
-</table>
-<br>
+
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -6664,7 +6596,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
+    <th colspan="2"> <div align="center">Entrevista #2<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -6733,7 +6665,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2"> <div align="center">Entrevista #4<br></div></th>
+    <th colspan="2"> <div align="center">Entrevista #3<br></div></th>
   </tr>
 </thead>
 <tbody>
