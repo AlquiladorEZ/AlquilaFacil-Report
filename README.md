@@ -6896,11 +6896,14 @@ También se contrastó el diseño inicial del sistema con el resultado final, ta
 
 ![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebMockup-1.png)
 
+
 **Enlace:** 
 
 [https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=2-259&p=f&t=KCXgjx4xgr76zKvo-0](https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=2-259&p=f&t=KCXgjx4xgr76zKvo-0)
 
 ![New Frontend Web Evidence](Resources/ToBeImplementation/newfront.PNG)
+
+[https://www.figma.com/design/ogwYzVlUzY38ExHyLMiNWo/AlquilaFacil-dise?node-id=151-219&t=Dp6uTf55wmqKrldS-1](https://www.figma.com/design/ogwYzVlUzY38ExHyLMiNWo/AlquilaFacil-dise?node-id=151-219&t=Dp6uTf55wmqKrldS-1)
 
 
 * Aplicación Web Final:
