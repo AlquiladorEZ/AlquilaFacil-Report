@@ -6797,7 +6797,70 @@ En conclusión, las métricas establecidas para las historias de usuario UA01, U
 
 ![Captura de Pantalla](Resources/ua05.PNG)
 
+Como parte de la evaluación cualitativa del sistema, se diseñó y distribuyó una encuesta de satisfacción a los usuarios registrados utilizando Google Forms. Esta encuesta buscó recoger impresiones sobre la experiencia general con la aplicación AlquilaFácil, así como específicamente con la funcionalidad de contacto con soporte técnico y el diseño visual de la interfaz. La muestra incluyó usuarios activos tras la implementación de las mejoras asociadas a las historias UA03 y UA04.
+
+Para UA03, se formuló la pregunta: "¿Cuál fue tu experiencia con el contacto a soporte técnico?", con opciones de respuesta que iban desde "Insatisfactoria" hasta "Satisfactoria". Esta pregunta permitió evaluar la percepción de disponibilidad, claridad y efectividad del canal de soporte. Los resultados mostraron una tendencia positiva, con una mayoría de respuestas en las categorías de "Buena" y "Satisfactoria", lo que sugiere que los usuarios valoran la inclusión de este canal como respaldo ante problemas o dudas.
+
+En cuanto a UA04, se consideró la percepción estética y funcional de la interfaz. A través de la pregunta "¿Cuál fue tu experiencia en el uso de la aplicación AlquilaFácil?", se buscó evaluar de forma indirecta el impacto de las microinteracciones y el diseño visual atractivo recientemente incorporados. Las respuestas recibidas reflejaron una mejora significativa en la experiencia del usuario, destacando el aumento en respuestas positivas en comparación con pruebas anteriores, lo cual respalda el cumplimiento del objetivo de transmitir mayor profesionalismo y calidad visual.
+
+![Captura de Pantalla](Resources/formsevidence.PNG)
+
 ### 8.4.2 Re-scored and Re-prioritized Question Backlog
+
+Luego de realizar la evaluación de los resultados y recopilar métricas cuantitativas y cualitativas, se procedió a una nueva puntuación y priorización del backlog de historias de usuario. Esta revaluación se basó en el nivel de cumplimiento de las métricas definidas, el impacto percibido por los usuarios y los comentarios obtenidos en las encuestas de satisfacción.
+
+Las historias de usuario que demostraron haber alcanzado sus objetivos con alto impacto positivo, como UA01 (modo oscuro), UA02 (diseño visual atractivo) y UA05 (interacción con locales recientes), fueron marcadas como cumplidas y se consideran de baja prioridad futura, al no requerir acciones adicionales inmediatas.
+
+En contraste, historias como UA03 (soporte técnico) y UA04 (calidad visual y microinteracciones), aunque mostraron resultados prometedores, recibirán seguimiento adicional. Esto con el objetivo de validar de forma continua su impacto en la satisfacción del usuario. Por ello, se mantienen como de prioridad media, orientadas a mejoras incrementales o expansión de funcionalidades existentes.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Historia de Usuario</th>
+      <th>Nueva Prioridad</th>
+      <th>Esfuerzo (Story Points)</th>
+      <th>Estado Actual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UA03</td>
+      <td>Como usuario, quiero tener acceso a una sección de contacto con soporte para resolver dudas o reportar problemas rápidamente.</td>
+      <td>Media</td>
+      <td>5</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UA04</td>
+      <td>Como usuario, quiero una interfaz con microinteracciones y feedback visual para percibir mayor calidad y profesionalismo.</td>
+      <td>Media</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UA02</td>
+      <td>Como usuario visual, quiero que la interfaz tenga más colores e imágenes atractivas para tener una experiencia visual más estimulante.</td>
+      <td>Baja</td>
+      <td>2</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UA05</td>
+      <td>Como usuario, quiero ver primero los locales recién agregados en las búsquedas para encontrar novedades rápidamente y tener más opciones actualizadas.</td>
+      <td>Baja</td>
+      <td>3</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>UA01</td>
+      <td>Como usuario de la aplicación, quiero tener la opción de un modo oscuro para que mi experiencia sea más cómoda en condiciones de poca luz.</td>
+      <td>Baja</td>
+      <td>8</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 8.5 Continuous Learning
 
