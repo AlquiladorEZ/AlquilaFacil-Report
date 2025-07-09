@@ -6789,6 +6789,13 @@ Los resultados mostraron que, en promedio, más del 20% de las sesiones diarias 
 En conclusión, las métricas establecidas para las historias de usuario UA01, UA02 y UA05 se cumplieron satisfactoriamente, lo que demuestra que las mejoras implementadas generaron un impacto positivo en la usabilidad y percepción del sistema por parte de los usuarios.
 
 
+![Captura de Pantalla](Resources/ua01.PNG)
+
+
+![Captura de Pantalla](Resources/ua02.PNG)
+
+
+![Captura de Pantalla](Resources/ua05.PNG)
 
 ### 8.4.2 Re-scored and Re-prioritized Question Backlog
 
