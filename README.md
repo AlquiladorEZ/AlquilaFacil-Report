@@ -328,6 +328,28 @@ En esta iteración, tomé un rol activo en la mejora de la experiencia de usuari
 
 Valle Zuta, Abel Andrés<br>
 Durante esta etapa, impulsé mejoras en el control de calidad del sistema, promoviendo la incorporación de pruebas automatizadas y coordinando su ejecución entre los miembros del equipo. Asimismo, apoyé la definición de criterios de aceptación para las funcionalidades clave, en conjunto con los demás integrantes. Esta experiencia reforzó mis habilidades de liderazgo en entornos técnicos colaborativos, basándome en estándares compartidos de calidad y rendimiento.
+          <br><br>
+<br><br>
+<strong>TF1:</strong><br><br>
+
+Ames Oviedo, Mariano José<br>
+Durante esta fase final, asumí un rol clave en la coordinación de pruebas integradas entre el frontend, backend y la app mobile. Junto al equipo, organicé sesiones conjuntas de testeo donde guié la identificación de errores críticos y el seguimiento de soluciones. Este trabajo colaborativo fortaleció mi liderazgo compartido, promoviendo decisiones técnicas consensuadas y la entrega de un producto más sólido.
+<br><br>
+
+Criollo de la Cruz, Diego Anderson<br>
+En el TF1, contribuí activamente a liderar el control cruzado de funcionalidades entre plataformas, asegurando que los resultados de las pruebas estuvieran correctamente documentados y compartidos. Coordiné la validación de flujos completos desde la experiencia del usuario, lo que permitió una visión integral del sistema. Este rol reforzó mi capacidad de liderar en equipo desde la organización y comunicación efectiva.
+<br><br>
+
+Lecca Choccare, Christopher Bryan<br>
+Durante esta etapa, trabajé junto a mis compañeros en la ejecución de pruebas funcionales y de estrés, aportando desde el conocimiento técnico para resolver rápidamente los errores detectados. Aporté propuestas de mejora tanto en lógica de negocio como en la comunicación entre servicios. Esta participación conjunta consolidó mi habilidad para liderar colaborativamente en un entorno de validación técnica exigente.
+<br><br>
+
+Sosa Colca, Angello Rodolfo<br>
+En el TF1, lideré de forma compartida las pruebas de experiencia de usuario, coordinando con los equipos técnicos para ajustar las interfaces según el feedback obtenido. Participé en sesiones grupales donde discutimos mejoras visuales y de interacción, fomentando un enfoque colectivo en las decisiones. Esta labor reafirmó mi liderazgo horizontal orientado al diseño funcional y accesible.
+<br><br>
+
+Valle Zuta, Abel Andrés<br>
+Mi participación se centró en promover la calidad durante las pruebas finales del sistema. Coordiné con los demás integrantes la ejecución de pruebas automatizadas y validaciones manuales clave, asegurando un monitoreo constante del rendimiento. Esta responsabilidad me permitió ejercer un liderazgo técnico compartido, guiando al equipo hacia una entrega más estable y eficiente.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
@@ -336,6 +358,8 @@ Durante esta etapa, impulsé mejoras en el control de calidad del sistema, promo
 	    En esta segunda iteración del proyecto, el trabajo en equipo y la colaboración continua fueron cruciales para el avance del proyecto. Gracias a la especialización de cada uno de los miembros en distintas áreas, logramos mejorar significativamente la usabilidad del sistema, la documentación técnica, y la calidad del código. El enfoque colaborativo en la resolución de problemas y la integración de nuevas funcionalidades nos permitió cumplir con los objetivos de esta fase, y sentar las bases para la próxima iteración. Además, esta iteración nos brindó la oportunidad de fortalecer nuestras habilidades técnicas y de gestión, promoviendo un ambiente de trabajo más eficiente y enfocado en la mejora continua.
      <br><br><strong>TB2:</strong><br><br>
 	    Durante el TB2, la dinámica de trabajo en equipo se vio aún más fortalecida, mostrando una evolución significativa en la distribución de roles y la colaboración entre los miembros. A través de sesiones de coordinación, seguimiento y retroalimentación constante, cada integrante pudo desempeñar tareas críticas que respondían a sus habilidades y al mismo tiempo contribuir al objetivo común. Se fomentó una cultura de respeto mutuo, apertura al aprendizaje y adaptabilidad, lo que permitió superar obstáculos técnicos y organizacionales. Este proceso consolidó nuestras capacidades para trabajar en entornos colaborativos reales, con un enfoque proactivo y profesional.
+     <br><br><strong>TF1:</strong><br><br>
+Durante el TF1, el equipo demostró una capacidad madura para ejercer un liderazgo compartido en todas las etapas de prueba final del sistema. A través de una coordinación constante entre las áreas de frontend, backend y mobile, se logró ejecutar pruebas integradas de manera eficiente, resolviendo incidencias de forma colaborativa. Cada integrante asumió responsabilidades específicas y aportó desde su especialidad, pero siempre con una visión colectiva del producto final. Esta sinergia permitió una validación técnica más rigurosa y una mejora sustancial en la calidad del sistema. La experiencia reafirmó nuestra capacidad para liderar en conjunto, adaptarnos a los desafíos y entregar resultados como un equipo cohesionado y comprometido.
     </td>
   </tr>
   <tr>
@@ -394,6 +418,31 @@ Durante esta entrega, preparé la documentación relacionada con los cambios de 
 
 Valle Zuta, Abel Andrés<br>
 Redacté un informe detallado sobre las prácticas de aseguramiento de calidad y pruebas automatizadas aplicadas en el proyecto. Este documento estaba dirigido tanto al equipo de desarrollo como a los gestores del proyecto. Utilicé una estructura basada en criterios técnicos y de cumplimiento, acompañada de gráficos de cobertura y explicación de métricas, lo que permitió que fuera comprensible por audiencias de distintos niveles jerárquicos. Esta labor reforzó mi capacidad para comunicar resultados técnicos de forma clara y profesional.
+<br><br>
+<strong>TF1:</strong><br><br>
+
+Ames Oviedo, Mariano José<br>
+Durante el TF1, me enfoqué en garantizar que los reportes técnicos y resultados de pruebas fueran comprendidos claramente por todos los involucrados, incluyendo personas fuera del área técnica. Redacté informes objetivos sobre la integración de módulos y documenté hallazgos relevantes en lenguaje accesible. Esto me permitió mejorar mi capacidad para comunicar con claridad en contextos interdisciplinarios, fortaleciendo la comprensión de los avances del proyecto en todos los niveles.
+
+<br><br>
+
+Criollo de la Cruz, Diego Anderson<br>
+En esta etapa, trabajé activamente en la elaboración y revisión de documentos clave que explicaban el funcionamiento del sistema y sus resultados, procurando que fueran comprensibles tanto para perfiles técnicos como no técnicos. Utilicé esquemas visuales y lenguaje claro para facilitar la comunicación transversal del proyecto. Esta experiencia fortaleció mi habilidad para transmitir información de manera objetiva, estructurada y adecuada al público destinatario.
+
+<br><br>
+
+Lecca Choccare, Christopher Bryan<br>
+Durante el TF1, me aseguré de documentar de forma precisa y objetiva los resultados de pruebas técnicas, utilizando un lenguaje claro y accesible para diversos perfiles. Participé en la redacción de reportes de errores y propuestas de mejora que facilitaron el entendimiento de decisiones técnicas a miembros de otras áreas. Esta práctica mejoró mi capacidad para comunicar con efectividad los aspectos críticos del sistema a diferentes niveles jerárquicos.
+
+<br><br>
+
+Sosa Colca, Angello Rodolfo<br>
+En esta fase, contribuí activamente en la redacción de descripciones funcionales y resultados de pruebas de experiencia de usuario, con un enfoque comunicativo centrado en la claridad. Adapté la información para distintos públicos, asegurando que tanto diseñadores como desarrolladores comprendieran el impacto de los cambios propuestos. Esta experiencia fortaleció mi competencia para comunicar resultados de manera objetiva y eficaz en entornos multidisciplinarios.
+
+<br><br>
+
+Valle Zuta, Abel Andrés<br>
+Durante esta etapa, me encargué de presentar los resultados de pruebas automatizadas y criterios de calidad en informes estructurados que pudieran ser comprendidos por distintos perfiles del equipo. Me enfoqué en comunicar con objetividad tanto los hallazgos como las recomendaciones, permitiendo una toma de decisiones informada. Esta labor reforzó mi capacidad para transmitir información técnica de forma clara y coherente ante audiencias diversas.
     </td>
     <td>
       <strong>TB1:</strong><br><br>
@@ -402,6 +451,8 @@ Redacté un informe detallado sobre las prácticas de aseguramiento de calidad y
       En esta iteración, todos los miembros del equipo desempeñaron un papel fundamental en la documentación de los procesos de verificación y validación, las prácticas de DevOps, y las auditorías realizadas. Gracias a la comunicación escrita clara y detallada, logramos no solo documentar las pruebas y los resultados, sino también crear una base sólida para la siguiente fase del proyecto. La documentación sobre las prácticas de integración continua, entrega continua, monitoreo y auditoría, permitió una mejor comprensión y aplicación de estas prácticas en todo el equipo. Además, las auditorías de experiencia de usuario y los informes de validación fueron clave para asegurar que el producto cumpliera con los estándares de calidad establecidos. Esta iteración ha mejorado significativamente nuestras capacidades para documentar y comunicar el progreso del proyecto de manera efectiva a todos los involucrados.
       <br><br><strong>TB2:</strong><br><br>
 	   La segunda etapa del proyecto (TB2) exigió una comunicación aún más precisa y estructurada, al incluir informes más complejos, resultados de pruebas de usuario y documentación técnica dirigida a diferentes audiencias. Se mejoraron los formatos, se integraron elementos visuales como gráficos y diagramas, y se empleó un lenguaje técnico y accesible según correspondía. Esto garantizó que los documentos fueran comprendidos por desarrolladores, usuarios finales y responsables de la toma de decisiones. Esta experiencia reafirmó la importancia de la comunicación escrita efectiva en proyectos de ingeniería, fortaleciendo nuestra capacidad para documentar procesos y resultados con claridad, objetividad y enfoque profesional.
+    <br><br><strong>TF1:</strong><br><br>
+Durante el TF1, la etapa final del proyecto, la comunicación escrita se volvió fundamental para consolidar y presentar los resultados obtenidos tras las pruebas integradas del sistema. Elaboramos reportes que documentaron de manera objetiva el estado del producto, identificando errores, validaciones superadas y mejoras implementadas. Se utilizaron estructuras claras, lenguaje accesible y elementos visuales para que tanto miembros técnicos como no técnicos pudieran comprender el progreso. Esta experiencia fortaleció nuestra capacidad para comunicar hallazgos de manera precisa y profesional, reafirmando la importancia de adaptar el mensaje según el perfil del público dentro del desarrollo de proyectos de ingeniería.
     </td>
   </tr>
 </table>
