@@ -251,16 +251,17 @@
 
 # Student Outcome
 
-**ABET – EAC – Student Outcome 5**
+**ABET – EAC – Student Outcome 4**
 
 <div align="justify">
-    Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos
+    Criterio: La capacidad de reconocer responsabilidades éticas y
+profesionales en situaciones de ingeniería y hacer juicios informados, que deben
+considerar el impacto de las soluciones de ingeniería en contextos globales, económicos,
+ambientales y sociales
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
+del ABET – EAC - Student Outcome 4.
 </div>    
 
 <div align="justify">
@@ -274,7 +275,10 @@ del ABET – EAC - Student Outcome 5.
     <th>Conclusiones</th>
   </tr>
   <tr>
-    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
+    <td>4.c.1 Reconoce responsabilidad
+ética y profesional en
+situaciones de ingeniería de
+software</td>
     <td>
       <strong>TB1:</strong><br><br>
       Ames Oviedo, Mariano Jose<br>
@@ -363,7 +367,12 @@ Durante el TF1, el equipo demostró una capacidad madura para ejercer un lideraz
     </td>
   </tr>
   <tr>
-    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>4.c.2 Emite juicios informados
+considerando el impacto de las
+soluciones de ingeniería de
+software en contextos globales,
+económicos, ambientales y
+sociales.</td>
     <td>
       <strong>TB1:</strong><br><br>
       Ames Oviedo, Mariano Jose<br>
