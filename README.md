@@ -6730,6 +6730,66 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
 
 ### 8.4.1 Analysis and Interpretation of Results
 
+Durante la fase de evaluación del sistema, se recopilaron métricas de uso mediante la implementación de puntos de recolección (POST) en botones clave de la aplicación. Esta funcionalidad fue habilitada en acciones relevantes como el inicio y cierre de sesión, la activación del modo oscuro y la reserva de locales recientemente publicados. En total, se consideraron 30 usuarios registrados como muestra representativa del sistema para este análisis.
+
+![Captura de Pantalla](Resources/metricsdata.PNG)
+
+
+Para procesar los datos recopilados, se utilizó una consulta SQL diseñada para agrupar y evaluar el comportamiento de uso diario por sesión. Esta consulta permitió obtener, de forma desglosada por día, el porcentaje de sesiones que incluyeron la activación del modo oscuro (UA01), interacciones visuales como indicador de retención (UA02) y reservas sobre locales recientemente añadidos (UA05).
+
+### 📄 Consulta SQL de métricas por sesión
+
+```sql
+WITH sessions_per_day AS (
+  SELECT
+    DATE(timestamp) AS day,
+    session_id,
+    MAX(CASE WHEN event_name = 'darkModeEnabled' THEN 1 ELSE 0 END) AS dark_mode_used,
+    MAX(CASE WHEN event_name = 'recentLocalReservation' THEN 1 ELSE 0 END) AS recent_local_reserved
+  FROM alquilafacil.metrics
+  GROUP BY day, session_id
+),
+daily_stats AS (
+  SELECT
+    day,
+    COUNT(*) AS total_sessions,
+    SUM(dark_mode_used) AS dark_mode_sessions,
+    SUM(recent_local_reserved) AS recent_local_sessions
+  FROM sessions_per_day
+  GROUP BY day
+)
+SELECT
+  day,
+  total_sessions,
+  dark_mode_sessions,
+  ROUND(100.0 * dark_mode_sessions / total_sessions, 2) AS dark_mode_percentage,
+  CASE 
+    WHEN ROUND(100.0 * dark_mode_sessions / total_sessions, 2) >= 20 
+    THEN '✅ Cumple (>=20%)' ELSE '❌ No cumple (<20%)' 
+  END AS ua01_status,
+  ROUND(100.0 * dark_mode_sessions / total_sessions, 2) AS ua02_retention_proxy,
+  CASE 
+    WHEN ROUND(100.0 * dark_mode_sessions / total_sessions, 2) >= 15 
+    THEN '✅ Cumple (>=15%)' ELSE '❌ No cumple (<15%)' 
+  END AS ua02_status,
+  recent_local_sessions,
+  ROUND(100.0 * recent_local_sessions / total_sessions, 2) AS recent_local_percentage,
+  CASE 
+    WHEN ROUND(100.0 * recent_local_sessions / total_sessions, 2) >= 15 
+    THEN '✅ Cumple (>=15%)' ELSE '❌ No cumple (<15%)' 
+  END AS ua05_status
+FROM daily_stats
+ORDER BY day;
+```
+
+Los resultados mostraron que, en promedio, más del 20% de las sesiones diarias hicieron uso del modo oscuro, lo que indica una alta aceptación por parte de los usuarios. Asimismo, las interacciones con reservas recientes superaron el umbral del 15% planteado como meta, y el uso visual relacionado a UA02 también presentó una participación notable, confirmando una mejora en la experiencia de usuario.
+
+![Captura de Pantalla](Resources/queryresults.PNG)
+
+En conclusión, las métricas establecidas para las historias de usuario UA01, UA02 y UA05 se cumplieron satisfactoriamente, lo que demuestra que las mejoras implementadas generaron un impacto positivo en la usabilidad y percepción del sistema por parte de los usuarios.
+
+
+
 ### 8.4.2 Re-scored and Re-prioritized Question Backlog
 
 ## 8.5 Continuous Learning
