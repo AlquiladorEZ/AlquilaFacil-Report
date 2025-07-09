@@ -6601,11 +6601,11 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>La facilidad de uso de la plataforma y la simplificación de tareas clave, como la publicación y reserva de espacios. Además, valora que la información necesaria para tomar decisiones esté bien organizada y sea accesible.</td>
+    <td>Visualizar las mejoras implementadas tras haber dado un feedback en su entrevista de validación, esperando que se hayan implementado y cumpla con sus espectativas.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>Siente que algunos aspectos técnicos, como la falta de flexibilidad en el diseño visual y las limitaciones en la personalización de flujos, reducen la experiencia de uso.</td>
+    <td>Siente nervios que la aplicación no le guste por completo o sienta que le faltan mejorar varios puntos.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
@@ -6621,7 +6621,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Ariana.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
+    <td><div align="center"><img src="./Resources/To-Be Validation Interviews/entrevista_ariana.PNG" alt="Entrevista a Ariana Torpoco"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -6633,7 +6633,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">
+    <td style="text-align: justify;">En la entrevista con Ariana, nuestra entrevistada valoró de forma muy positiva los cambios implementados en la aplicación. Comentó que ver más de una imagen por local le permitió observar detalles que antes pasaban desapercibidos, lo cual influyó favorablemente en su decisión de alquiler. La función de modo claro y oscuro fue calificada como útil, adaptándose a distintos entornos de uso. Señaló una mejora notoria en la legibilidad de los textos desde su celular, lo que le permitió navegar con mayor comodidad. Indicó que los botones “Buscar” y “Publicar” están mucho mejor diferenciados en esta versión. Confirmó haber recibido mensajes de éxito tras realizar acciones, lo que le generó tranquilidad. Además, valoró poder acceder al soporte directamente desde la app, sin complicaciones. Finalmente, consideró que la nueva organización del footer y los íconos de navegación hacen que la app se sienta más ordenada y fácil de usar, destacando como mejoras más relevantes la visualización de imágenes, la implementación del modo oscuro y la claridad en la navegación.
     </td>
   </tr>
 </tbody>
