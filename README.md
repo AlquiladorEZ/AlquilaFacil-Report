@@ -6799,6 +6799,8 @@ En conclusión, las métricas establecidas para las historias de usuario UA01, U
 
 Como parte de la evaluación cualitativa del sistema, se diseñó y distribuyó una encuesta de satisfacción a los usuarios registrados utilizando Google Forms. Esta encuesta buscó recoger impresiones sobre la experiencia general con la aplicación AlquilaFácil, así como específicamente con la funcionalidad de contacto con soporte técnico y el diseño visual de la interfaz. La muestra incluyó usuarios activos tras la implementación de las mejoras asociadas a las historias UA03 y UA04.
 
+Enlace: https://docs.google.com/forms/d/e/1FAIpQLScgnRXgq33JL7Gv2OW5rhCj8sdWGcMrq3Ob6dLo1Ek65ZDYZg/viewform?usp=header
+
 Para UA03, se formuló la pregunta: "¿Cuál fue tu experiencia con el contacto a soporte técnico?", con opciones de respuesta que iban desde "Insatisfactoria" hasta "Satisfactoria". Esta pregunta permitió evaluar la percepción de disponibilidad, claridad y efectividad del canal de soporte. Los resultados mostraron una tendencia positiva, con una mayoría de respuestas en las categorías de "Buena" y "Satisfactoria", lo que sugiere que los usuarios valoran la inclusión de este canal como respaldo ante problemas o dudas.
 
 En cuanto a UA04, se consideró la percepción estética y funcional de la interfaz. A través de la pregunta "¿Cuál fue tu experiencia en el uso de la aplicación AlquilaFácil?", se buscó evaluar de forma indirecta el impacto de las microinteracciones y el diseño visual atractivo recientemente incorporados. Las respuestas recibidas reflejaron una mejora significativa en la experiencia del usuario, destacando el aumento en respuestas positivas en comparación con pruebas anteriores, lo cual respalda el cumplimiento del objetivo de transmitir mayor profesionalismo y calidad visual.
@@ -6866,10 +6868,70 @@ En contraste, historias como UA03 (soporte técnico) y UA04 (calidad visual y mi
 
 ### 8.5.1 Shareback Session Artifacts: Learning Workflow
 
+En esta sección se presentan los artefactos clave generados durante el proceso de experimentación con enfoque XDPD (eXtreme Data-Driven Product Development), aplicados al proyecto AlquilaFácil. Estos artefactos reflejan no solo los resultados obtenidos a partir de datos reales, sino también el aprendizaje colectivo del equipo a lo largo de la validación de hipótesis.
+
+La imagen representa el flujo de trabajo seguido para la planificación, ejecución y análisis de cada experimento dentro del enfoque XDPD aplicado en el proyecto AlquilaFácil. Este diagrama visualiza cómo una pregunta generadora da inicio al ciclo, seguido por la formulación de hipótesis, la definición de métricas, el diseño e implementación de la solución propuesta, la recolección de datos y, finalmente, el análisis de resultados para decidir si escalar o ajustar la solución. Este flujo sirvió como guía estructurada para cada iteración de mejora validada con datos.
+
+![Captura de Pantalla](Resources/shareback_artifacts/experiment-flow.png)
+
+Esta imagen presenta un resumen de los principales artefactos técnicos utilizados durante los experimentos. Incluye métricas recolectadas desde la aplicación (eventos como signIn, darkModeEnabled, recentLocalReservation), consultas SQL para el análisis de tendencias por día, dashboards con visualizaciones de resultados, así como gráficos comparativos que evidencian el impacto de las mejoras implementadas. Estos artefactos permitieron validar hipótesis clave, como la adopción del modo oscuro o el interés en locales recientes, de forma objetiva y cuantificable.
+
+
+![Captura de Pantalla](Resources/shareback_artifacts/technic-artifacts.png)
+
+Durante la sesión de shareback, el equipo presentó los principales artefactos generados a lo largo del experimento con AlquilaFácil. Se destacó especialmente el diagrama de flujo del proceso experimental, el cual permitió visualizar cómo cada pregunta del backlog se transformó en hipótesis, soluciones implementadas y validaciones mediante métricas reales. Este flujo fue esencial para mantener una lógica de aprendizaje continuo y tomar decisiones informadas en cada iteración. A su vez, se mostraron los artefactos técnicos utilizados, incluyendo los dashboards de métricas, scripts de recolección de eventos y consultas SQL para medir el impacto en la experiencia del usuario.
+
+También se contrastó el diseño inicial del sistema con el resultado final, tanto a nivel visual como estructural. Se expusieron capturas de pantalla del prototipo inicial realizado en Figma junto a la versión implementada en la web, evidenciando mejoras en la estética, la navegación y el enfoque visual. El modo oscuro, las microinteracciones y la reorganización del contenido en la interfaz fueron parte de las mejoras clave validadas a través del uso real. Asimismo, se mostró la evolución del modelo de base de datos, que incorporó nuevas entidades como métricas de interacción y soporte al cliente, alineándose con los objetivos definidos.
+
+* Figma del prototipo inicial:
+
+![Artefacto creado en Figma](Resources/Web%20Page%20UXUI/WebMockup-1.png)
+
+**Enlace:** 
+
+[https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=2-259&p=f&t=KCXgjx4xgr76zKvo-0](https://www.figma.com/design/iVWEVfK7bp5Ski017EYYZI/AlquilaFacil?node-id=2-259&p=f&t=KCXgjx4xgr76zKvo-0)
+
+![New Frontend Web Evidence](Resources/ToBeImplementation/newfront.PNG)
+
+
+* Aplicación Web Final:
+
+**Enlace:** 
+
+[https://alquila-facil-app-experiment-design.netlify.app/](https://alquila-facil-app-experiment-design.netlify.app/)
+
+* Base de datos inicial:
+
+![Artefacto creado en Miro](Resources/Object-Oriented%20Design/DatabaseDiagram.png) 
+
+* Base de datos final:
+
+![Artefacto creado en Miro](Resources/Object-Oriented%20Design/FinalDatabaseDiagram.PNG) 
+
+* Encuesta utilizada para comprobación de métricas:
+
+**Enlace:**
+
+[https://docs.google.com/forms/d/e/1FAIpQLScgnRXgq33JL7Gv2OW5rhCj8sdWGcMrq3Ob6dLo1Ek65ZDYZg/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLScgnRXgq33JL7Gv2OW5rhCj8sdWGcMrq3Ob6dLo1Ek65ZDYZg/viewform?usp=header)
+
+![Artefacto creado en Miro](Resources/survey.PNG)
+
+
+
+Finalmente, el equipo reflexionó sobre los aprendizajes más importantes. Se destacó cómo el uso de datos en tiempo real ayudó a desmitificar supuestos iniciales y enfocarse en lo que realmente impacta al usuario. La validación de hipótesis mediante experimentación estructurada generó confianza en las decisiones de diseño y funcionalidades, y permitió ajustar las prioridades del backlog de forma fundamentada. Estos artefactos no solo sirvieron como evidencia del progreso, sino también como herramientas valiosas para guiar futuras mejoras de producto.
+
+
 ## 8.6 To-Be Software Platform Pre-launch
 
 ### 8.6.1 About-the-Product Intro Video
 
+El siguiente video tiene como objetivo presentar AlquilaFácil, una plataforma digital que conecta a propietarios de espacios para eventos con personas que buscan alquilarlos de forma rápida y segura. A través de una experiencia intuitiva, moderna y optimizada por datos, AlquilaFácil facilita la publicación, búsqueda, reserva y pago en línea de locales, promoviendo así la eficiencia y accesibilidad en el alquiler de espacios. Este contenido resalta cómo la plataforma impulsa el uso inteligente de tecnología para fortalecer la economía colaborativa, simplificar procesos y mejorar la experiencia tanto de arrendadores como de usuarios en entornos urbanos y sociales.
+
+![Artefacto creado en Youtube](Resources/About%20Product/AboutProductEvidence.png)
+
+**Enlace del video:** 
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211371_upc_edu_pe/EbFKt4KnciZPl__H2iWjL9wBjbpi3LX0bRDxGBpN8tYvPw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GkTymx](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211371_upc_edu_pe/EbFKt4KnciZPl__H2iWjL9wBjbpi3LX0bRDxGBpN8tYvPw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GkTymx)
 
 # Conclusiones
 
