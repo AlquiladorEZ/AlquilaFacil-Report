@@ -6365,15 +6365,15 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Rodrigo Alejandro</td>
+    <td>Rodrigo Hernan</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Espinoza Torreblanca</td>
+    <td>Oblitas Calderón</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>22 años</td>
+    <td>25 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -6385,11 +6385,11 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>Comprobar la funcionalidad clara de la plataforma y comprobar si su diseño es intuitivo, y brindar sugerencias de mejoras en la aplicación para tener una mejor experiencia al utilizar la app.</td>
+    <td>Comprobar la implementación de mejoras y cambios de algunas funcionalidad de la plataforma tras haber utilizar previamente la app y haber hallado puntos de mejora.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>El usuario encuentra limitaciones en la subida de múltiples imágenes y en la falta de un canal directo para contactar al equipo de soporte.</td>
+    <td>El usuario se encuentra nervioso de ver si el producto final es lo que espera.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
@@ -6405,7 +6405,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="./Resources/Validation Interviews/Entrevista_Espinoza.PNG" alt="Entrevista a Rodrigo Espinoza"></div></td>
+    <td><div align="center"><img src="./Resources/To-Be Validation Interviews/entrevista_oblitas.PNG" alt="Entrevista a Rodrigo Oblitas"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -6417,7 +6417,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">
+    <td style="text-align: justify;">Nuestro entrevistado Rodrigo Oblitas expresó una experiencia muy positiva con las nuevas funcionalidades de AlquilaFácil. Destacó especialmente la opción de subir múltiples imágenes por local, afirmando que le permitió tomar decisiones más seguras y comparar mejor. El cambio entre modo claro y oscuro le resultó práctico, especialmente en ambientes con poca luz. También notó una mejora considerable en la visibilidad de textos desde el móvil, facilitando la lectura. Afirmó que los botones “Buscar” y “Publicar” ahora se distinguen claramente, lo cual evita errores. Mencionó que los mensajes de confirmación tras enviar formularios le transmitieron confianza en el sistema. Probó las nuevas opciones de contacto con soporte y las encontró accesibles y funcionales. En general, sintió que la app es más intuitiva, moderna y profesional gracias a estas mejoras, resaltando como más impactantes la función de múltiples imágenes y la nueva estructura visual.
     </td>
   </tr>
 </tbody>
