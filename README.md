@@ -6131,37 +6131,37 @@ Se configurarán eventos personalizados en la app web y móvil con herramientas 
   </thead>
   <tbody>
     <tr>
-      <td>UA01</td>
-      <td>Como usuario, quiero ver primero los locales recién ingresados para conocer las nuevas opciones disponibles.</td>
+      <td>UA05</td>
+      <td>Como usuario, quiero ver primero los locales recién agregados en las búsquedas para encontrar novedades rápidamente y tener más opciones actualizadas.</td>
       <td>Alta</td>
       <td>3</td>
       <td>Pendiente</td>
     </tr>
     <tr>
-      <td>UA02</td>
-      <td>Como usuario, quiero que el diseño tenga colores e imágenes atractivas para hacer más agradable la navegación.</td>
+      <td>UA03</td>
+      <td>Como usuario, quiero tener acceso a una sección de contacto con soporte para resolver dudas o reportar problemas rápidamente.</td>
       <td>Media</td>
       <td>5</td>
       <td>Pendiente</td>
     </tr>
     <tr>
-      <td>UA03</td>
-      <td>Como usuario, quiero que la interfaz tenga microinteracciones y animaciones para una experiencia más fluida.</td>
+      <td>UA01</td>
+      <td>Como usuario de la aplicación, quiero tener la opción de un modo oscuro para que mi experiencia sea más cómoda en condiciones de poca luz.</td>
       <td>Media</td>
       <td>8</td>
       <td>Pendiente</td>
     </tr>
     <tr>
       <td>UA04</td>
-      <td>Como usuario, quiero acceder fácilmente al soporte para resolver dudas o problemas rápidamente.</td>
-      <td>Alta</td>
+      <td>Como usuario, quiero una interfaz con microinteracciones y feedback visual para percibir mayor calidad y profesionalismo.</td>
+      <td>Baja</td>
       <td>3</td>
       <td>Pendiente</td>
     </tr>
     <tr>
-      <td>UA05</td>
-      <td>Como propietario, quiero que mis locales nuevos tengan visibilidad prioritaria para aumentar su exposición.</td>
-      <td>Alta</td>
+      <td>UA02</td>
+      <td>Como usuario visual, quiero que la interfaz tenga más colores e imágenes atractivas para tener una experiencia visual más estimulante.</td>
+      <td>Baja</td>
       <td>2</td>
       <td>Pendiente</td>
     </tr>
@@ -6191,11 +6191,44 @@ Se configurarán eventos personalizados en la app web y móvil con herramientas 
 
 #### 8.3.3.2 Implemented To-Be Landing Page Evidence
 
+En esta sección se presenta la evidencia de la implementación de la Landing Page bajo el modelo To-Be propuesto. Durante esta fase, se realizaron mejoras significativas en aspectos clave como la optimización para motores de búsqueda (SEO), tiempos de carga, estructura semántica del contenido y compatibilidad con distintos dispositivos (responsive design). Estas mejoras no solo fortalecen la presencia en línea del producto, sino que también contribuyen a una mejor experiencia de usuario y mayor visibilidad en los resultados de búsqueda.
+
+![New Landing Page Evidence](Resources/ToBeImplementation/newlanding.PNG)
+
+Enlace:
+[https://alquiladorez.github.io/AlquilaFacil-LandingPage/](https://alquiladorez.github.io/AlquilaFacil-LandingPage/)
+
 #### 8.3.3.3 Implemented To-Be Frontend-Web Application Evidence
+
+Durante la implementación del frontend de la aplicación web bajo el modelo To-Be, se completaron varios requerimientos clave orientados a mejorar la experiencia del usuario. Se priorizó la visibilidad de los locales recién agregados en los resultados de búsqueda (UA05), permitiendo a los usuarios descubrir rápidamente nuevas opciones disponibles. Además, se habilitó una sección de contacto con soporte (UA03), lo cual facilita la comunicación directa ante dudas o inconvenientes, fortaleciendo la confianza y asistencia al usuario.
+
+Asimismo, se incorporaron mejoras en el diseño visual y la usabilidad general. Se implementó un modo oscuro (UA01) para brindar mayor comodidad en entornos con poca iluminación, y se integraron microinteracciones y elementos de feedback visual (UA04) para enriquecer la experiencia y transmitir una mayor sensación de calidad. También se aplicó un enfoque más visual y atractivo en la interfaz (UA02), utilizando una paleta de colores más variada y recursos gráficos que favorecen una experiencia más estimulante e intuitiva para los usuarios.
+
+![New Frontend Web Evidence](Resources/ToBeImplementation/newfront.PNG)
+
+![New Frontend Web Evidence](Resources/ToBeImplementation/newfront2.PNG)
+
+![New Frontend Web Evidence](Resources/ToBeImplementation/newfront3.PNG)
+
+![New Frontend Web Evidence](Resources/ToBeImplementation/newfront4.PNG)
 
 #### 8.3.3.4 Implemented To-Be Native-Mobile Application Evidence
 
+En la versión nativa móvil de la aplicación, se implementaron las funcionalidades propuestas en el modelo To-Be, enfocándose en brindar una experiencia más dinámica, accesible y adaptada al entorno móvil. Se desarrolló una lógica que permite mostrar primero los locales recientemente agregados (UA05), lo cual ayuda a los usuarios a descubrir novedades de forma rápida y sencilla desde sus dispositivos. También se incorporó una sección dedicada al soporte y contacto (UA03), accesible desde el menú principal, para facilitar la resolución de dudas y la atención de incidencias desde la propia app.
+
+Además, se incluyeron varias mejoras visuales y de accesibilidad que elevan la calidad de la aplicación. Entre ellas se encuentra la opción de activar el modo oscuro (UA01), pensada para optimizar la experiencia del usuario en contextos de baja iluminación. También se añadieron microinteracciones sutiles y retroalimentación visual (UA04) para aportar mayor dinamismo a la navegación. Finalmente, se trabajó en una interfaz visualmente atractiva (UA02), con imágenes optimizadas y una paleta de colores adaptada al entorno móvil, ofreciendo una experiencia más inmersiva y agradable.
+
+![New Mobile App Evidence](Resources/ToBeImplementation/newmobile.PNG)
+
+![New Mobile App Evidence](Resources/ToBeImplementation/newmobile2.PNG)
+
+![New Mobile App Evidence](Resources/ToBeImplementation/newmobile3.PNG)
+
 #### 8.3.3.5 Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+En esta etapa se implementaron mejoras significativas en la arquitectura backend de la aplicación, específicamente en el controlador encargado de devolver la información de los locales. Se refactorizó su lógica para optimizar el rendimiento de las consultas, priorizando la entrega de locales recién agregados y permitiendo una respuesta más eficiente y ordenada desde la API. Además, se integró un sistema de recolección de métricas que permite monitorear el uso de los endpoints en tiempo real, facilitando el análisis del comportamiento de los usuarios y la identificación de posibles cuellos de botella o necesidades de mejora a nivel de infraestructura.
+
+![New Restful API Evidence](Resources/ToBeImplementation/newbackend.PNG)
 
 #### 8.3.3.6 Team Collaboration Insights
 
