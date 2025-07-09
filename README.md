@@ -6528,12 +6528,12 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>Hernán busca alquilar espacios de forma rápida y segura para sus eventos frecuentes, valorando la transparencia, disponibilidad inmediata y flexibilidad horaria.
+    <td>Hernán busca espacios que se adapten a diferentes tipos de eventos sociales y profesionales. Le motiva encontrar locales con buenas reseñas, opciones visuales completas (como fotos y recorridos virtuales), y la posibilidad de gestionar todo el proceso desde su celular sin complicaciones.
 </td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>Se frustra con la falta de información clara, políticas de cancelación injustas y la poca flexibilidad de horarios en los locales. También le incomoda no tener herramientas que generen confianza al alquilar.
+    <td>Le frustra encontrar locales sin disponibilidad actualizada, con procesos de reserva lentos o que requieran llamadas. También le desanima no poder comparar fácilmente entre opciones o tener que repetir información en cada contacto con arrendadores.
 </td>
   </tr>
   <tr>
@@ -6550,7 +6550,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="./Resources/Validation%20Interviews/Entrevista_hernan.png" alt="Entrevista a Hernan"></div></td>
+    <td><div align="center"><img src="./Resources/Interviews/hernanArrendatariov2.png" alt="Entrevista a Hernan"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -6563,6 +6563,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+	    Hernán Morales, un arrendatario de 25 años del distrito de Santiago de Surco, destacó que las recientes mejoras en la app AlquilaFácil cumplieron con sus expectativas, especialmente la opción de ver múltiples imágenes por local, lo que le permitió tomar decisiones más informadas. También valoró positivamente el nuevo botón para cambiar entre modo claro y oscuro, la mejora en la visibilidad de los textos desde su móvil, y la claridad en los botones “Buscar” y “Publicar”. Afirmó que los mensajes de confirmación tras enviar formularios le generaron confianza, que el soporte fue accesible y útil, y que la nueva organización visual de la app le resultó más intuitiva. En conjunto, consideró que todas las actualizaciones mejoraron notablemente su experiencia de uso.
     </td>
   </tr>
 </tbody>
