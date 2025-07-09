@@ -6733,6 +6733,77 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #4<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Stefano</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Valenzuela</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Borja</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Desea apreciar las mejoreas que se han realizado a la aplicacion AlquilaEz</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>Espera que todo los puntos hayan sido cumplidos y no decepcionarse.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Windows, Excel</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Angello Sosa</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="./Resources/To-Be Validation Interviews/entrevista_stefano.jpeg" alt="Entrevista a Stefano Valenzuela"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/Ebz5JgPIpwhLlIEzkwi3NQ4Blh7yzYK7OnHGA495iWyzuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ka7Lyl" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>49:06 min - 1:01:54 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">En la entrevista con Ariana, nuestra entrevistada valoró de forma muy positiva los cambios implementados en la aplicación. Comentó que ver más de una imagen por local le permitió observar detalles que antes pasaban desapercibidos, lo cual influyó favorablemente en su decisión de alquiler. La función de modo claro y oscuro fue calificada como útil, adaptándose a distintos entornos de uso. Señaló una mejora notoria en la legibilidad de los textos desde su celular, lo que le permitió navegar con mayor comodidad. Indicó que los botones “Buscar” y “Publicar” están mucho mejor diferenciados en esta versión. Confirmó haber recibido mensajes de éxito tras realizar acciones, lo que le generó tranquilidad. Además, valoró poder acceder al soporte directamente desde la app, sin complicaciones. Finalmente, consideró que la nueva organización del footer y los íconos de navegación hacen que la app se sienta más ordenada y fácil de usar, destacando como mejoras más relevantes la visualización de imágenes, la implementación del modo oscuro y la claridad en la navegación.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+
 </div>
 
 ## 8.4 Experiment Aftermath & Analysis
