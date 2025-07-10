@@ -6957,6 +6957,8 @@ El siguiente video tiene como objetivo presentar AlquilaFácil, una plataforma d
 
 * La plataforma consolida su propuesta de valor al integrar funcionalidades de soporte accesible y herramientas de comunicación que fomentan la confianza y el respaldo entre arrendadores y arrendatarios. Al potenciar la experiencia del usuario con un enfoque integral que combina diseño moderno, usabilidad y atención eficiente, AlquilaFácil crea un ecosistema confiable y profesional que impulsa la fidelización, mejora la percepción de calidad y prepara el terreno para su crecimiento sostenido en el mercado local y potencial expansión internacional.
 
+* La aplicación del marco XPDP fue clave para el desarrollo de AlquilaFácil, ya que permitió adoptar una metodología ágil centrada en la mejora continua, la colaboración constante y la entrega incremental de valor. Gracias a sus prácticas —como la integración continua, la retroalimentación frecuente y la participación activa del cliente— se logró un desarrollo adaptativo y eficiente, alineado con las necesidades reales del usuario. Este enfoque fortaleció tanto la calidad técnica del producto como la cohesión del equipo, asegurando que cada iteración sumara funcionalidad significativa y mantuviera altos estándares de mantenibilidad y satisfacción del cliente.
+
 
 * Finalmente, AlquilaFácil no solo apunta a consolidarse en el mercado local, sino que tiene una visión ambiciosa de posicionarse como líder global en el sector de alquiler de espacios para eventos. Su compromiso con la innovación, la optimización de procesos y la excelencia en la experiencia de usuario sienta las bases para una expansión sostenida, diferenciándose como un referente en eficiencia, confiabilidad y servicio en la industria.
 
