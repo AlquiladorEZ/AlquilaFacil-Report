@@ -45,7 +45,7 @@
 </div>
 <br>
 <p align="center">
-    <strong>JUNIO 2025 </strong>
+    <strong>JULIO 2025 </strong>
 </p>
 
 ## Registro de Versiones 
@@ -6366,6 +6366,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">
+    El entrevistado Carlos Casimiro, estuvo ampliamente contento con la nueva versión de la aplicación. Asimismo rescata el cambio del color del tema, ya que el es sensible a luces muy claras, y con esta nueva version puede ver mejor el contenido que posee la aplicación.
     </td>
   </tr>
 </tbody>
@@ -6436,7 +6437,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">El entrevistado Carlos Casimiro, estuvo ampliamente contento con la nueva version de la aplicacion, asi mismo rescata el cambio del color del tema, ya que el es sensible a luces muy claras, y con esta nueva version puede ver mejor el contenido que posee la aplicación.</td>
+    <td style="text-align: justify;">Nuestro entrevistado Omar Morales quedó muy contento con la versión final de la aplicación. Nos comentó que se siente orgulloso por cómo ha evolucionado esta idea desde las entrevistas de validación, agregando su preferencia por el tema oscuro y el contacto con soporte.</td>
   </tr>
 </tbody>
 </table>
