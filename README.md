@@ -45,7 +45,7 @@
 </div>
 <br>
 <p align="center">
-    <strong>MAYO 2025 </strong>
+    <strong>JUNIO 2025 </strong>
 </p>
 
 ## Registro de Versiones 
@@ -246,6 +246,7 @@
 | [8.6. To-Be Software Platform Pre-launch](#86-to-be-software-platform-pre-launch) |
 | [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video) |
 | [Conclusiones](#conclusiones) |
+| [Video About-The-Team](#video-about-the-team) |
 | [Bibliografia](#bibliografia) |
 | [Anexos](#anexos) |
 
@@ -6960,6 +6961,13 @@ El siguiente video tiene como objetivo presentar AlquilaFácil, una plataforma d
 
 </div>
 
+# Video About-The-Team
+
+![Artefacto creado en Youtube](Resources/team.PNG)
+
+**Enlace del video:** 
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EQcBrDMjYlJNghlbNnnR278BXw2glOybAu5_LQTPpgTSEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Tbg6Cf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EQcBrDMjYlJNghlbNnnR278BXw2glOybAu5_LQTPpgTSEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Tbg6Cf)
 
 # Bibliografía
 
