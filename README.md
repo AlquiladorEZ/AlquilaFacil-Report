@@ -6808,7 +6808,9 @@ En conclusión, las métricas establecidas para las historias de usuario UA01, U
 
 Como parte de la evaluación cualitativa del sistema, se diseñó y distribuyó una encuesta de satisfacción a los usuarios registrados utilizando Google Forms. Esta encuesta buscó recoger impresiones sobre la experiencia general con la aplicación AlquilaFácil, así como específicamente con la funcionalidad de contacto con soporte técnico y el diseño visual de la interfaz. La muestra incluyó usuarios activos tras la implementación de las mejoras asociadas a las historias UA03 y UA04.
 
-Enlace: https://docs.google.com/forms/d/e/1FAIpQLScgnRXgq33JL7Gv2OW5rhCj8sdWGcMrq3Ob6dLo1Ek65ZDYZg/viewform?usp=header
+Enlace: 
+
+[https://docs.google.com/forms/d/e/1FAIpQLScgnRXgq33JL7Gv2OW5rhCj8sdWGcMrq3Ob6dLo1Ek65ZDYZg/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLScgnRXgq33JL7Gv2OW5rhCj8sdWGcMrq3Ob6dLo1Ek65ZDYZg/viewform?usp=header)
 
 Para UA03, se formuló la pregunta: "¿Cuál fue tu experiencia con el contacto a soporte técnico?", con opciones de respuesta que iban desde "Insatisfactoria" hasta "Satisfactoria". Esta pregunta permitió evaluar la percepción de disponibilidad, claridad y efectividad del canal de soporte. Los resultados mostraron una tendencia positiva, con una mayoría de respuestas en las categorías de "Buena" y "Satisfactoria", lo que sugiere que los usuarios valoran la inclusión de este canal como respaldo ante problemas o dudas.
 
