@@ -6436,7 +6436,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">El entrevistado Carlos Casimiro, estuvo ampliamente contento con la nueva version de la aplicacion, asi mismo rescata el cambio del color del tema, ya que el es sensible a luces muy claras, y con esta nueva version puede ver mejor el contenido que posee la aplicación.</td>
   </tr>
 </tbody>
 </table>
@@ -6724,7 +6724,7 @@ Estas preguntas buscan obtener una visión precisa sobre el impacto de las recie
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">En la entrevista con Ariana, nuestra entrevistada valoró de forma muy positiva los cambios implementados en la aplicación. Comentó que ver más de una imagen por local le permitió observar detalles que antes pasaban desapercibidos, lo cual influyó favorablemente en su decisión de alquiler. La función de modo claro y oscuro fue calificada como útil, adaptándose a distintos entornos de uso. Señaló una mejora notoria en la legibilidad de los textos desde su celular, lo que le permitió navegar con mayor comodidad. Indicó que los botones “Buscar” y “Publicar” están mucho mejor diferenciados en esta versión. Confirmó haber recibido mensajes de éxito tras realizar acciones, lo que le generó tranquilidad. Además, valoró poder acceder al soporte directamente desde la app, sin complicaciones. Finalmente, consideró que la nueva organización del footer y los íconos de navegación hacen que la app se sienta más ordenada y fácil de usar, destacando como mejoras más relevantes la visualización de imágenes, la implementación del modo oscuro y la claridad en la navegación.
+    <td style="text-align: justify;">En la entrevista con Stefano Valenzuela, se pudo dar a notar las mejoras que se aplicaron en esta nueva version de nuestra aplicacion. El se mostro conforme con todos los cambios y destaco que umplimos con todos los puntos de mejora anteriores.
     </td>
   </tr>
 </tbody>
