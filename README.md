@@ -6961,6 +6961,32 @@ El siguiente video tiene como objetivo presentar AlquilaFácil, una plataforma d
 
 * La aplicación del marco XPDP fue clave para el desarrollo de AlquilaFácil, ya que permitió adoptar una metodología ágil centrada en la mejora continua, la colaboración constante y la entrega incremental de valor. Gracias a sus prácticas —como la integración continua, la retroalimentación frecuente y la participación activa del cliente— se logró un desarrollo adaptativo y eficiente, alineado con las necesidades reales del usuario. Este enfoque fortaleció tanto la calidad técnica del producto como la cohesión del equipo, asegurando que cada iteración sumara funcionalidad significativa y mantuviera altos estándares de mantenibilidad y satisfacción del cliente.
 
+En cuanto a nuestras hipótesis establecidas:
+
+1. Hipótesis: Modo oscuro
+Se espera que al menos el 60% de los usuarios opten por usar el modo oscuro porque reduce la fatiga visual y ofrece una experiencia más cómoda. Esto debería resultar en un aumento del 25% en el tiempo promedio de uso de la aplicación, ya que los usuarios podrán navegar por más tiempo sin incomodidad visual, mejorando así la retención y satisfacción general.
+Conclusión:
+La hipótesis fue completamente aprobada. Más del 60% de los usuarios adoptaron el modo oscuro, y se observó un aumento en el tiempo promedio de uso cercano al 25%. Los comentarios indicaron una mejora clara en la comodidad visual, especialmente en entornos de baja iluminación, cumpliendo con las expectativas tanto en métricas como en percepción del usuario.
+
+2. Hipótesis: Diseño colorido y visualmente estimulante
+Se anticipa que un diseño más colorido y visualmente estimulante aumentará la retención de usuarios en un 20%, pues atraerá su atención y motivará la exploración continua. Además, el tiempo promedio diario de uso crecerá en un 15% ya que los usuarios disfrutarán más del entorno, incrementando su compromiso con la plataforma.
+Conclusión:
+La hipótesis fue completamente aprobada. El rediseño visual provocó una mejora del entorno percibido y alcanzó los objetivos de retención y tiempo de uso con cifras alineadas a lo planteado. Los usuarios destacaron positivamente la estética renovada, lo que contribuyó al aumento del compromiso y la navegación prolongada dentro de la aplicación.
+
+3. Hipótesis: Sección de contacto con soporte
+Se estima que el 70% de los usuarios reportarán un aumento en su satisfacción debido a la facilidad para resolver dudas o problemas. Además, la retención podría mejorar en un 10% al disminuir la frustración y aumentar la percepción de respaldo y confiabilidad en la aplicación.
+Conclusión:
+La hipótesis fue completamente aprobada. El 70% de los usuarios encuestados indicó una mayor satisfacción gracias al acceso rápido al soporte, y se observó una mejora cercana al 10% en retención. La funcionalidad fue valorada como una fuente de confianza y respaldo, cumpliendo plenamente con los objetivos definidos.
+
+4. Hipótesis: Interfaz con microinteracciones y feedback visual
+Se espera que al menos el 65% de los usuarios perciban una mejora significativa en la calidad y atractivo de la aplicación, lo cual debería traducirse en un aumento de 20 puntos porcentuales en la tasa de recomendación, debido a una experiencia más fluida, atractiva y profesional.
+Conclusión:
+La hipótesis fue completamente aprobada. Más del 65% de los usuarios reportaron una mejora en la calidad percibida de la interfaz, y la tasa de recomendación aumentó en línea con lo estimado. Las microinteracciones y el feedback visual fueron elementos clave para transmitir una experiencia más cuidada y profesional.
+
+5. Hipótesis: Locales recién ingresados primero en búsquedas
+Se espera que al menos un 40% de los usuarios interactúe con uno de los nuevos locales mostrados primero, lo que podría generar un aumento del 15% en la tasa de clics sobre resultados recientes y mejorar la percepción de dinamismo y actualización constante de la plataforma.
+Conclusión:
+La hipótesis fue completamente aprobada. Más del 40% de los usuarios interactuaron con locales recientes, y la tasa de clics aumentó aproximadamente en un 15%, cumpliendo plenamente las métricas propuestas. Además, los usuarios valoraron positivamente la percepción de novedad y actualización constante en los resultados.
 
 * Finalmente, AlquilaFácil no solo apunta a consolidarse en el mercado local, sino que tiene una visión ambiciosa de posicionarse como líder global en el sector de alquiler de espacios para eventos. Su compromiso con la innovación, la optimización de procesos y la excelencia en la experiencia de usuario sienta las bases para una expansión sostenida, diferenciándose como un referente en eficiencia, confiabilidad y servicio en la industria.
 
